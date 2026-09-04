@@ -1,0 +1,58 @@
+﻿Name,Mode,CDS level,Coverage,Relative path,Rater Defined?,Type,Default,Label hx
+application_date,input,cds,,/risk_info/application_date,Y,date,,Application Date
+underwriter,input,cds/standard_fields,,/underwriter,N,str,,Underwriter
+status,output,cds/layers,,/status,N,str,,Deal Status
+insured_name,input,cds/standard_fields,,/insured_name,N,str,,Binder Name
+new_insured,input,cds,,/risk_info/new_insured,Y,str,,New/Replacement
+policy_reference,input,cds/standard_fields,,/policy_reference,N,str,,Master Binder Reference
+policy_reference2,input,cds,,/risk_info/policy_reference2,Y,str,,Binder Reference 2
+policy_reference3,input,cds,,/risk_info/policy_reference3,Y,str,,Binder Reference 3
+policy_reference4,input,cds,,/risk_info/policy_reference4,Y,str,,Binder Reference 4
+policy_reference5,input,cds,,/risk_info/policy_reference5,Y,str,,Binder Reference 5
+policy_reference6,input,cds,,/risk_info/policy_reference6,Y,str,,Binder Reference 6
+policy_reference7,input,cds,,/risk_info/policy_reference7,Y,str,,Binder Reference 7
+quoted_premium_100pct,input,cds/layers,,/quoted_premium_100pct,Y,float,,EPI (GG 100%)
+quoted_premium,output,cds/layers,,/quoted_premium,N,float,,"AFB EPI (Net of Aqn, Gross of PC)"
+inception_date,input,cds/standard_fields,,/inception_date,N,date,,Inception Date
+expiry_date,input,cds/standard_fields,,/expiry_date,N,date,,Expiry Date
+afb_signed_line,input,cds/layers,,/afb_signed_line,Y,float,,AFB Signed Line (%)
+source_currency,input,cds/currencies,,/source_currency,N,str,USD,Settlement Currency
+is_renewal,input,cds/standard_fields,,/is_renewal,N,str,,Renewal
+department,input,cds,,/risk_info/department,Y,str,,Department
+trifocus,input,cds/standard_fields,,/trifocus,N,str,,Tri-Focus
+proxy_trifocus,input,cds,,/risk_info/proxy_trifocus,Y,str,,Proxy Tri-Focus
+benchmark_class,output,cds/standard_fields,,/benchmark_class,N,str,,Benchmark Name
+business_plan_mi_group,output,cds,,/risk_info/business_plan_mi_group,Y,str,,BPMI Name
+ibnr_group,output,cds,,/risk_info/ibnr_group,Y,str,,IBNR Group
+trifocus_previous,input,cds,,/risk_info/trifocus_previous,Y,str,,Tri-Focus Previous
+ibnr_group_previous,input,cds,,/risk_info/ibnr_group_previous,Y,str,,IBNR Group Previous
+commission,input,cds/layers,,/commission,Y,float,,Flat Commission (%)
+brokerage,input,cds/layers,,/brokerage,N,float,,Brokerage (%)
+ipt,input,cds/layers,,/ipt,Y,float,,IPT (%)
+total_deductions,input,cds/layers,,/total_deductions,Y,float,,Total Deductions (%)
+profit_commission_share,input,cds,,/risk_info/profit_commission_share,Y,float,,PC (%)
+profit_commission_expenses,input,cds,,/risk_info/profit_commission_expenses,Y,float,,UW Expense (%)
+profit_commission_basis,input,cds,,/risk_info/profit_commission_basis,Y,str,Gross,UW Expense % of Premium Basis
+profit_commission_deficit,input,cds,,/risk_info/profit_commission_deficit,Y,float,,Deficit
+profit_commission_additionalfeaturesindicator,input,cds,,/risk_info/profit_commission_additionalfeaturesindicator,Y,str,No,Additional Structure Type
+profit_commission_threshold_bonus_share,input,cds,,/risk_info/profit_commission_threshold_bonus_share,Y,float,,PC Payable Below Threshold (%)
+profit_commission_threshold_lr_cutoff,input,cds,,/risk_info/profit_commission_threshold_lr_cutoff,Y,float,,Net LR Threshold (%)
+profit_commission_slidingscale_bonus_lr,input,cds,,/risk_info/profit_commission_slidingscale_bonus_lr,Y,float,,For each % below Net LR Threshold (%)
+profit_commission_slidingscale_bonus_scale,input,cds,,/risk_info/profit_commission_slidingscale_bonus_scale,Y,float,,Profit Comm. Increases by (%)
+profit_commission_slidingscale_bonus_maxtotalpc,input,cds,,/risk_info/profit_commission_slidingscale_bonus_maxtotalpc,Y,float,,to Max Profit Comm (%)
+profit_commission_slidingscale_clawback_lr,input,cds,,/risk_info/profit_commission_slidingscale_clawback_lr,Y,float,,For each % above Net LR Threshold (%)
+profit_commission_slidingscale_clawback_scale,input,cds,,/risk_info/profit_commission_slidingscale_clawback_scale,Y,float,,Profit Comm. Decreases by (%)
+profit_commission_slidingscale_clawback_mintotalpc,input,cds,,/risk_info/profit_commission_slidingscale_clawback_mintotalpc,Y,float,,to Min Profit Comm (%)
+new_to_market,input,cds,,/risk_info/new_to_market,Y,str,No,New to Market
+rms_modelling_available,input,cds,,/risk_info/rms_modelling_available,Y,str,No,RMS
+pc_modelling_required,output,cds,,/risk_info/pc_modelling_required,Y,str,,PC Data
+bic_data_available,output,cds,,/risk_info/bic_data_available,Y,str,,BIC Data
+srcc_coverage_given_indicator,input,cds,,/risk_info/srcc_coverage_given_indicator,Y,str,No,"Is Riots, Strikes and Civil Commotion Coverage given?"
+srcc_fully_excluded_indicator,input,cds,,/risk_info/srcc_fully_excluded_indicator,Y,str,No,Is it fully excluded?
+srcc_sublimit_indicator,input,cds,,/risk_info/srcc_sublimit_indicator,Y,str,No,Is there a sub-limit?
+srcc_sublimit,input,cds,,/risk_info/srcc_sublimit,Y,float,,"Riots, Strikes and Civil Commotion sub -limit"
+rms_data_asat,input,cds,,/risk_info/rms_data_asat,Y,date,,RMS Data As At
+broker,input,cds/standard_fields,,/broker,N,str,,Broker Name
+broker_contact,input,cds,,/risk_info/broker_contact,Y,str,,Broker Contact
+triangle_data_asat,input,cds,,/risk_info/triangle_data_asat,Y,date,,Triangle Data As At
+BIC_data_asat,input,cds,,/risk_info/BIC_data_asat,Y,date,,BIC Data As At

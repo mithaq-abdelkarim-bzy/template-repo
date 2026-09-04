@@ -1,0 +1,1977 @@
+﻿Version,Benchmark Class,Item,Value
+13,Aviation Liab,Gross Net Att ULR,0.312130969
+13,Aviation Liab,Gross Net Cat ULR,0.4571
+13,Aviation Liab,Total ULR,0.769230969
+13,Aviation Liab,BP GN Premium,24849932.85
+13,Aviation Liab,BP NN Premium,24849932.85
+13,Aviation Liab,Net Premium,22391779.9
+13,Aviation Liab,Net Expense/ GN Premium,0.226077818
+13,Aviation Liab,Investment Income /GN Premium,7.66E-02
+13,Aviation Liab,RI Premium/GN Premium,9.89E-02
+13,Aviation Liab,RI Recoveries/ GN Premium,8.11E-02
+13,Aviation Liab,Capital Required / GN Premium,0.801872625
+13,Aviation Liab,Att LR,0.119100264
+13,Aviation Liab,Large LR,0.14294745
+13,Aviation Liab,Cat LR,0.25454691
+13,Aviation Liab,Att COV,0.64639543
+13,Aviation Liab,Large COV,0.975236298
+13,Aviation Liab,Cat COV,1.098529248
+13,Aviation Liab,Large Loss Threshold,1000000
+13,Aviation Liab,Decay Factor,0.9
+13,Aviation Liab,Target NLR,0.7
+13,Aviation Liab,NML,0.025
+13,Aviation Liab,LAE,0
+13,Aviation Liab,RoC,0.15
+13,Aviation Liab,Variable Expense,0
+13,Aviation Liab,Fixed Expense,0
+13,Aviation Liab,Climate Load,0
+13,Aviation PD,Gross Net Att ULR,0.504829325
+13,Aviation PD,Gross Net Cat ULR,0.196428804
+13,Aviation PD,Total ULR,0.701258129
+13,Aviation PD,BP GN Premium,37274899.27
+13,Aviation PD,BP NN Premium,37274899.27
+13,Aviation PD,Net Premium,33587669.86
+13,Aviation PD,Net Expense/ GN Premium,0.207335208
+13,Aviation PD,Investment Income /GN Premium,7.66E-02
+13,Aviation PD,RI Premium/GN Premium,9.89E-02
+13,Aviation PD,RI Recoveries/ GN Premium,8.11E-02
+13,Aviation PD,Capital Required / GN Premium,0.801872625
+13,Aviation PD,Att LR,0.2273161
+13,Aviation PD,Large LR,0.272831106
+13,Aviation PD,Cat LR,0.485831086
+13,Aviation PD,Att COV,0.64639543
+13,Aviation PD,Large COV,0.975236298
+13,Aviation PD,Cat COV,1.098529248
+13,Aviation PD,Large Loss Threshold,1000000
+13,Aviation PD,Decay Factor,0.9
+13,Aviation PD,Target NLR,0.7
+13,Aviation PD,NML,0.025
+13,Aviation PD,LAE,0
+13,Aviation PD,RoC,0.15
+13,Aviation PD,Variable Expense,0
+13,Aviation PD,Fixed Expense,0
+13,Aviation PD,Climate Load,0.006
+13,US Marine,Gross Net Att ULR,0.515902132
+13,US Marine,Gross Net Cat ULR,0.187283095
+13,US Marine,Total ULR,0.703185227
+13,US Marine,BP GN Premium,26250000
+13,US Marine,BP NN Premium,26250000
+13,US Marine,Net Premium,25342874.94
+13,US Marine,Net Expense/ GN Premium,0.188634062
+13,US Marine,Investment Income /GN Premium,8.21E-02
+13,US Marine,RI Premium/GN Premium,3.46E-02
+13,US Marine,RI Recoveries/ GN Premium,2.45E-02
+13,US Marine,Capital Required / GN Premium,0.719027491
+13,US Marine,Att LR,0.259432004
+13,US Marine,Large LR,0.204040019
+13,US Marine,Cat LR,0.266395194
+13,US Marine,Att COV,0.192490541
+13,US Marine,Large COV,0.434496779
+13,US Marine,Cat COV,1.52231805
+13,US Marine,Large Loss Threshold,1000000
+13,US Marine,Decay Factor,0.9
+13,US Marine,Target NLR,0.7
+13,US Marine,NML,0.025
+13,US Marine,LAE,0
+13,US Marine,RoC,0.15
+13,US Marine,Variable Expense,0
+13,US Marine,Fixed Expense,0
+13,US Marine,Climate Load,0.006
+13,Cargo,Gross Net Att ULR,0.451720931
+13,Cargo,Gross Net Cat ULR,0.084697
+13,Cargo,Total ULR,0.536417931
+13,Cargo,BP GN Premium,110839403.7
+13,Cargo,BP NN Premium,110839403.7
+13,Cargo,Net Premium,103386731.9
+13,Cargo,Net Expense/ GN Premium,0.139823457
+13,Cargo,Investment Income /GN Premium,7.92E-02
+13,Cargo,RI Premium/GN Premium,6.72E-02
+13,Cargo,RI Recoveries/ GN Premium,4.77E-02
+13,Cargo,Capital Required / GN Premium,0.504517271
+13,Cargo,Att LR,0.731353779
+13,Cargo,Large LR,8.03E-02
+13,Cargo,Cat LR,3.30E-02
+13,Cargo,Att COV,0.383787303
+13,Cargo,Large COV,1.101304557
+13,Cargo,Cat COV,1.768597529
+13,Cargo,Large Loss Threshold,1000000
+13,Cargo,Decay Factor,0.9
+13,Cargo,Target NLR,0.7
+13,Cargo,NML,0.025
+13,Cargo,LAE,0
+13,Cargo,RoC,0.15
+13,Cargo,Variable Expense,0
+13,Cargo,Fixed Expense,0
+13,Cargo,Climate Load,0.006
+13,Downhole,Gross Net Att ULR,0.632710031
+13,Downhole,Gross Net Cat ULR,0.043
+13,Downhole,Total ULR,0.675710031
+13,Downhole,BP GN Premium,4853116.391
+13,Downhole,BP NN Premium,4853116.391
+13,Downhole,Net Premium,4853116.391
+13,Downhole,Net Expense/ GN Premium,0.156948973
+13,Downhole,Investment Income /GN Premium,8.51E-02
+13,Downhole,RI Premium/GN Premium,0
+13,Downhole,RI Recoveries/ GN Premium,0
+13,Downhole,Capital Required / GN Premium,0.54088559
+13,Downhole,Att LR,0.140259723
+13,Downhole,Large LR,0.215113497
+13,Downhole,Cat LR,0.302248557
+13,Downhole,Att COV,0.13610699
+13,Downhole,Large COV,0.274485343
+13,Downhole,Cat COV,1.552831084
+13,Downhole,Large Loss Threshold,1000000
+13,Downhole,Decay Factor,0.9
+13,Downhole,Target NLR,0.7
+13,Downhole,NML,0.025
+13,Downhole,LAE,0
+13,Downhole,RoC,0.15
+13,Downhole,Variable Expense,0
+13,Downhole,Fixed Expense,0
+13,Downhole,Climate Load,0
+13,Energy Liab and Cas,Gross Net Att ULR,0.32516696
+13,Energy Liab and Cas,Gross Net Cat ULR,0.48548231
+13,Energy Liab and Cas,Total ULR,0.81064927
+13,Energy Liab and Cas,BP GN Premium,2222572.091
+13,Energy Liab and Cas,BP NN Premium,2222572.091
+13,Energy Liab and Cas,Net Premium,1902315.414
+13,Energy Liab and Cas,Net Expense/ GN Premium,0.193169633
+13,Energy Liab and Cas,Investment Income /GN Premium,7.28E-02
+13,Energy Liab and Cas,RI Premium/GN Premium,0.144092818
+13,Energy Liab and Cas,RI Recoveries/ GN Premium,0.102686269
+13,Energy Liab and Cas,Capital Required / GN Premium,0.709736919
+13,Energy Liab and Cas,Att LR,0.339991561
+13,Energy Liab and Cas,Large LR,0.277165359
+13,Energy Liab and Cas,Cat LR,0.213938788
+13,Energy Liab and Cas,Att COV,0.384945473
+13,Energy Liab and Cas,Large COV,0.634107969
+13,Energy Liab and Cas,Cat COV,1.624485825
+13,Energy Liab and Cas,Large Loss Threshold,1000000
+13,Energy Liab and Cas,Decay Factor,0.9
+13,Energy Liab and Cas,Target NLR,0.7
+13,Energy Liab and Cas,NML,0.025
+13,Energy Liab and Cas,LAE,0
+13,Energy Liab and Cas,RoC,0.15
+13,Energy Liab and Cas,Variable Expense,0
+13,Energy Liab and Cas,Fixed Expense,0
+13,Energy Liab and Cas,Climate Load,0
+13,Energy PD,Gross Net Att ULR,0.574504647
+13,Energy PD,Gross Net Cat ULR,0.185812225
+13,Energy PD,Total ULR,0.760316872
+13,Energy PD,BP GN Premium,69463209.12
+13,Energy PD,BP NN Premium,69463209.12
+13,Energy PD,Net Premium,56748141.17
+13,Energy PD,Net Expense/ GN Premium,0.182347122
+13,Energy PD,Investment Income /GN Premium,6.80E-02
+13,Energy PD,RI Premium/GN Premium,0.183047517
+13,Energy PD,RI Recoveries/ GN Premium,0.135275247
+13,Energy PD,Capital Required / GN Premium,0.677434833
+13,Energy PD,Att LR,0.339991561
+13,Energy PD,Large LR,0.277165359
+13,Energy PD,Cat LR,0.213938788
+13,Energy PD,Att COV,0.384945473
+13,Energy PD,Large COV,0.634107969
+13,Energy PD,Cat COV,1.624485825
+13,Energy PD,Large Loss Threshold,1000000
+13,Energy PD,Decay Factor,0.9
+13,Energy PD,Target NLR,0.7
+13,Energy PD,NML,0.025
+13,Energy PD,LAE,0
+13,Energy PD,RoC,0.15
+13,Energy PD,Variable Expense,0
+13,Energy PD,Fixed Expense,0
+13,Energy PD,Climate Load,0.006
+13,Hull,Gross Net Att ULR,0.502171577
+13,Hull,Gross Net Cat ULR,0.101425
+13,Hull,Total ULR,0.603596577
+13,Hull,BP GN Premium,90183712.76
+13,Hull,BP NN Premium,90183712.76
+13,Hull,Net Premium,82766402.27
+13,Hull,Net Expense/ GN Premium,0.189795984
+13,Hull,Investment Income /GN Premium,7.78E-02
+13,Hull,RI Premium/GN Premium,8.22E-02
+13,Hull,RI Recoveries/ GN Premium,0.058327804
+13,Hull,Capital Required / GN Premium,0.496399549
+13,Hull,Att LR,0.140259723
+13,Hull,Large LR,0.215113497
+13,Hull,Cat LR,0.302248557
+13,Hull,Att COV,0.13610699
+13,Hull,Large COV,0.274485343
+13,Hull,Cat COV,1.552831084
+13,Hull,Large Loss Threshold,1000000
+13,Hull,Decay Factor,0.9
+13,Hull,Target NLR,0.7
+13,Hull,NML,0.025
+13,Hull,LAE,0
+13,Hull,RoC,0.15
+13,Hull,Variable Expense,0
+13,Hull,Fixed Expense,0
+13,Hull,Climate Load,0.006
+13,Marine Libs,Gross Net Att ULR,0.523373169
+13,Marine Libs,Gross Net Cat ULR,0.234
+13,Marine Libs,Total ULR,0.757373169
+13,Marine Libs,BP GN Premium,45880237.75
+13,Marine Libs,BP NN Premium,45880237.75
+13,Marine Libs,Net Premium,40770485.45
+13,Marine Libs,Net Expense/ GN Premium,0.18800184
+13,Marine Libs,Investment Income /GN Premium,7.56E-02
+13,Marine Libs,RI Premium/GN Premium,0.11137153
+13,Marine Libs,RI Recoveries/ GN Premium,8.04E-02
+13,Marine Libs,Capital Required / GN Premium,0.761268412
+13,Marine Libs,Att LR,0.30970781
+13,Marine Libs,Large LR,0.199368395
+13,Marine Libs,Cat LR,0.251269556
+13,Marine Libs,Att COV,0.216277351
+13,Marine Libs,Large COV,0.502001604
+13,Marine Libs,Cat COV,1.509445364
+13,Marine Libs,Large Loss Threshold,1000000
+13,Marine Libs,Decay Factor,0.9
+13,Marine Libs,Target NLR,0.7
+13,Marine Libs,NML,0.025
+13,Marine Libs,LAE,0
+13,Marine Libs,RoC,0.15
+13,Marine Libs,Variable Expense,0
+13,Marine Libs,Fixed Expense,0
+13,Marine Libs,Climate Load,0
+13,Marine Misc,Gross Net Att ULR,0.403843411
+13,Marine Misc,Gross Net Cat ULR,0.043
+13,Marine Misc,Total ULR,0.446843411
+13,Marine Misc,BP GN Premium,2132101.51
+13,Marine Misc,BP NN Premium,2132101.51
+13,Marine Misc,Net Premium,2132101.51
+13,Marine Misc,Net Expense/ GN Premium,0.140194881
+13,Marine Misc,Investment Income /GN Premium,8.51E-02
+13,Marine Misc,RI Premium/GN Premium,0
+13,Marine Misc,RI Recoveries/ GN Premium,0
+13,Marine Misc,Capital Required / GN Premium,0.54088559
+13,Marine Misc,Att LR,0.140259723
+13,Marine Misc,Large LR,0.215113497
+13,Marine Misc,Cat LR,0.302248557
+13,Marine Misc,Att COV,0.13610699
+13,Marine Misc,Large COV,0.274485343
+13,Marine Misc,Cat COV,1.552831084
+13,Marine Misc,Large Loss Threshold,1000000
+13,Marine Misc,Decay Factor,0.9
+13,Marine Misc,Target NLR,0.7
+13,Marine Misc,NML,0.025
+13,Marine Misc,LAE,0
+13,Marine Misc,RoC,0.15
+13,Marine Misc,Variable Expense,0
+13,Marine Misc,Fixed Expense,0
+13,Marine Misc,Climate Load,0
+13,Satellite,Gross Net Att ULR,0.681579592
+13,Satellite,Gross Net Cat ULR,0.077781102
+13,Satellite,Total ULR,0.759360694
+13,Satellite,BP GN Premium,24183233.45
+13,Satellite,BP NN Premium,24183233.45
+13,Satellite,Net Premium,23151910.78
+13,Satellite,Net Expense/ GN Premium,0.227065373
+13,Satellite,Investment Income /GN Premium,8.14E-02
+13,Satellite,RI Premium/GN Premium,4.26E-02
+13,Satellite,RI Recoveries/ GN Premium,3.32E-02
+13,Satellite,Capital Required / GN Premium,0.851950696
+13,Satellite,Att LR,0.133594469
+13,Satellite,Large LR,0.160343797
+13,Satellite,Cat LR,0.285524633
+13,Satellite,Att COV,0.64639543
+13,Satellite,Large COV,0.975236298
+13,Satellite,Cat COV,1.098529248
+13,Satellite,Large Loss Threshold,1000000
+13,Satellite,Decay Factor,0.9
+13,Satellite,Target NLR,0.7
+13,Satellite,NML,0.025
+13,Satellite,LAE,0
+13,Satellite,RoC,0.15
+13,Satellite,Variable Expense,0
+13,Satellite,Fixed Expense,0
+13,Satellite,Climate Load,0
+13,War,Gross Net Att ULR,0.267109421
+13,War,Gross Net Cat ULR,0.232890579
+13,War,Total ULR,0.5
+13,War,BP GN Premium,56508530.22
+13,War,BP NN Premium,56508530.22
+13,War,Net Premium,48792358.79
+13,War,Net Expense/ GN Premium,8.99E-02
+13,War,Investment Income /GN Premium,7.34E-02
+13,War,RI Premium/GN Premium,0.13654879
+13,War,RI Recoveries/ GN Premium,6.44E-02
+13,War,Capital Required / GN Premium,1.082852165
+13,War,Att LR,6.51E-02
+13,War,Large LR,9.64E-02
+13,War,Cat LR,0.250132399
+13,War,Att COV,0.702422471
+13,War,Large COV,1.66902431
+13,War,Cat COV,3.316483897
+13,War,Large Loss Threshold,1000000
+13,War,Decay Factor,0.9
+13,War,Target NLR,0.7
+13,War,NML,0.025
+13,War,LAE,0
+13,War,RoC,0.15
+13,War,Variable Expense,0
+13,War,Fixed Expense,0
+13,War,Climate Load,0
+13,Contingency,Gross Net Att ULR,0.43238863
+13,Contingency,Gross Net Cat ULR,0.11625
+13,Contingency,Total ULR,0.54863863
+13,Contingency,BP GN Premium,66593972.62
+13,Contingency,BP NN Premium,66593972.62
+13,Contingency,Net Premium,60036675.4
+13,Contingency,Net Expense/ GN Premium,0.235592216
+13,Contingency,Investment Income /GN Premium,7.43E-02
+13,Contingency,RI Premium/GN Premium,9.85E-02
+13,Contingency,RI Recoveries/ GN Premium,4.57E-02
+13,Contingency,Capital Required / GN Premium,0.805977359
+13,Contingency,Att LR,0.380888177
+13,Contingency,Large LR,0.13577868
+13,Contingency,Cat LR,0.130575806
+13,Contingency,Att COV,0.574933253
+13,Contingency,Large COV,0.894777904
+13,Contingency,Cat COV,3.243759836
+13,Contingency,Large Loss Threshold,1000000
+13,Contingency,Decay Factor,0.9
+13,Contingency,Target NLR,0.7
+13,Contingency,NML,0.025
+13,Contingency,LAE,0
+13,Contingency,RoC,0.15
+13,Contingency,Variable Expense,0
+13,Contingency,Fixed Expense,0
+13,Contingency,Climate Load,0
+13,Political,Gross Net Att ULR,0.431649778
+13,Political,Gross Net Cat ULR,0.269151355
+13,Political,Total ULR,0.700801133
+13,Political,BP GN Premium,78444960.06
+13,Political,BP NN Premium,78444960.06
+13,Political,Net Premium,56702232.52
+13,Political,Net Expense/ GN Premium,0.191813915
+13,Political,Investment Income /GN Premium,9.93E-02
+13,Political,RI Premium/GN Premium,0.277171759
+13,Political,RI Recoveries/ GN Premium,0.174246974
+13,Political,Capital Required / GN Premium,0.574203679
+13,Political,Att LR,0.29094916
+13,Political,Large LR,0.107366276
+13,Political,Cat LR,0.238216412
+13,Political,Att COV,2.000094035
+13,Political,Large COV,2.524444448
+13,Political,Cat COV,2.947311306
+13,Political,Large Loss Threshold,1000000
+13,Political,Decay Factor,0.9
+13,Political,Target NLR,0.7
+13,Political,NML,0.025
+13,Political,LAE,0
+13,Political,RoC,0.15
+13,Political,Variable Expense,0
+13,Political,Fixed Expense,0
+13,Political,Climate Load,0
+13,Terrorism,Gross Net Att ULR,0.147290645
+13,Terrorism,Gross Net Cat ULR,0.46475
+13,Terrorism,Total ULR,0.612040645
+13,Terrorism,BP GN Premium,47351613.71
+13,Terrorism,BP NN Premium,47351613.71
+13,Terrorism,Net Premium,36793804.49
+13,Terrorism,Net Expense/ GN Premium,0.254880088
+13,Terrorism,Investment Income /GN Premium,6.61E-02
+13,Terrorism,RI Premium/GN Premium,0.222966197
+13,Terrorism,RI Recoveries/ GN Premium,0.127090732
+13,Terrorism,Capital Required / GN Premium,1.000184608
+13,Terrorism,Att LR,0.121318789
+13,Terrorism,Large LR,9.29E-02
+13,Terrorism,Cat LR,0.282375892
+13,Terrorism,Att COV,0.448934778
+13,Terrorism,Large COV,1.494604703
+13,Terrorism,Cat COV,2.251040164
+13,Terrorism,Large Loss Threshold,1000000
+13,Terrorism,Decay Factor,0.9
+13,Terrorism,Target NLR,0.7
+13,Terrorism,NML,0.025
+13,Terrorism,LAE,0
+13,Terrorism,RoC,0.15
+13,Terrorism,Variable Expense,0
+13,Terrorism,Fixed Expense,0
+13,Terrorism,Climate Load,0
+13,BICI A&H PA,Gross Net Att ULR,0
+13,BICI A&H PA,Gross Net Cat ULR,0
+13,BICI A&H PA,Total ULR,0
+13,BICI A&H PA,BP GN Premium,25000000
+13,BICI A&H PA,BP NN Premium,25000000
+13,BICI A&H PA,Net Premium,0
+13,BICI A&H PA,Net Expense/ GN Premium,0
+13,BICI A&H PA,Investment Income /GN Premium,0
+13,BICI A&H PA,RI Premium/GN Premium,1
+13,BICI A&H PA,RI Recoveries/ GN Premium,0
+13,BICI A&H PA,Capital Required / GN Premium,0
+13,BICI A&H PA,Att LR,0.412915167
+13,BICI A&H PA,Large LR,0.120541697
+13,BICI A&H PA,Cat LR,9.39E-02
+13,BICI A&H PA,Att COV,0.467079531
+13,BICI A&H PA,Large COV,1.287220916
+13,BICI A&H PA,Cat COV,1.854328489
+13,BICI A&H PA,Large Loss Threshold,1000000
+13,BICI A&H PA,Decay Factor,0.9
+13,BICI A&H PA,Target NLR,0.7
+13,BICI A&H PA,NML,0.025
+13,BICI A&H PA,LAE,0
+13,BICI A&H PA,RoC,0.15
+13,BICI A&H PA,Variable Expense,0
+13,BICI A&H PA,Fixed Expense,0
+13,BICI A&H PA,Climate Load,0
+13,Life Direct,Gross Net Att ULR,0.757447883
+13,Life Direct,Gross Net Cat ULR,0.024
+13,Life Direct,Total ULR,0.781447883
+13,Life Direct,BP GN Premium,33432484.28
+13,Life Direct,BP NN Premium,33432484.28
+13,Life Direct,Net Premium,25035709.2
+13,Life Direct,Net Expense/ GN Premium,0.169425919
+13,Life Direct,Investment Income /GN Premium,6.37E-02
+13,Life Direct,RI Premium/GN Premium,0.251156181
+13,Life Direct,RI Recoveries/ GN Premium,0.200600822
+13,Life Direct,Capital Required / GN Premium,0.444783285
+13,Life Direct,Att LR,0.567737499
+13,Life Direct,Large LR,6.83E-02
+13,Life Direct,Cat LR,8.13E-02
+13,Life Direct,Att COV,0.467079531
+13,Life Direct,Large COV,1.287220916
+13,Life Direct,Cat COV,1.854328489
+13,Life Direct,Large Loss Threshold,1000000
+13,Life Direct,Decay Factor,0.9
+13,Life Direct,Target NLR,0.7
+13,Life Direct,NML,0.025
+13,Life Direct,LAE,0
+13,Life Direct,RoC,0.15
+13,Life Direct,Variable Expense,0
+13,Life Direct,Fixed Expense,0
+13,Life Direct,Climate Load,0
+13,Life Reinsurance,Gross Net Att ULR,0.517251439
+13,Life Reinsurance,Gross Net Cat ULR,0.024
+13,Life Reinsurance,Total ULR,0.541251439
+13,Life Reinsurance,BP GN Premium,4111047.602
+13,Life Reinsurance,BP NN Premium,4111047.602
+13,Life Reinsurance,Net Premium,3985790.283
+13,Life Reinsurance,Net Expense/ GN Premium,0.208073774
+13,Life Reinsurance,Investment Income /GN Premium,8.25E-02
+13,Life Reinsurance,RI Premium/GN Premium,3.05E-02
+13,Life Reinsurance,RI Recoveries/ GN Premium,1.22E-02
+13,Life Reinsurance,Capital Required / GN Premium,0.575862963
+13,Life Reinsurance,Att LR,0.567737499
+13,Life Reinsurance,Large LR,6.83E-02
+13,Life Reinsurance,Cat LR,8.13E-02
+13,Life Reinsurance,Att COV,0.467079531
+13,Life Reinsurance,Large COV,1.287220916
+13,Life Reinsurance,Cat COV,1.854328489
+13,Life Reinsurance,Large Loss Threshold,1000000
+13,Life Reinsurance,Decay Factor,0.9
+13,Life Reinsurance,Target NLR,0.7
+13,Life Reinsurance,NML,0.025
+13,Life Reinsurance,LAE,0
+13,Life Reinsurance,RoC,0.15
+13,Life Reinsurance,Variable Expense,0
+13,Life Reinsurance,Fixed Expense,0
+13,Life Reinsurance,Climate Load,0
+13,PA Direct,Gross Net Att ULR,0.705377551
+13,PA Direct,Gross Net Cat ULR,0.024
+13,PA Direct,Total ULR,0.729377551
+13,PA Direct,BP GN Premium,42627079.94
+13,PA Direct,BP NN Premium,42627079.94
+13,PA Direct,Net Premium,37171519.35
+13,PA Direct,Net Expense/ GN Premium,0.175900504
+13,PA Direct,Investment Income /GN Premium,7.42E-02
+13,PA Direct,RI Premium/GN Premium,0.127983446
+13,PA Direct,RI Recoveries/ GN Premium,8.71E-02
+13,PA Direct,Capital Required / GN Premium,0.489067203
+13,PA Direct,Att LR,0.412915167
+13,PA Direct,Large LR,0.120541697
+13,PA Direct,Cat LR,9.39E-02
+13,PA Direct,Att COV,0.467079531
+13,PA Direct,Large COV,1.287220916
+13,PA Direct,Cat COV,1.854328489
+13,PA Direct,Large Loss Threshold,1000000
+13,PA Direct,Decay Factor,0.9
+13,PA Direct,Target NLR,0.7
+13,PA Direct,NML,0.025
+13,PA Direct,LAE,0
+13,PA Direct,RoC,0.15
+13,PA Direct,Variable Expense,0
+13,PA Direct,Fixed Expense,0
+13,PA Direct,Climate Load,0
+13,PA reinsurance,Gross Net Att ULR,0.309572332
+13,PA reinsurance,Gross Net Cat ULR,0.103262025
+13,PA reinsurance,Total ULR,0.412834357
+13,PA reinsurance,BP GN Premium,25577260.93
+13,PA reinsurance,BP NN Premium,25577260.93
+13,PA reinsurance,Net Premium,22660036.25
+13,PA reinsurance,Net Expense/ GN Premium,0.208073774
+13,PA reinsurance,Investment Income /GN Premium,7.54E-02
+13,PA reinsurance,RI Premium/GN Premium,0.114055398
+13,PA reinsurance,RI Recoveries/ GN Premium,4.67E-02
+13,PA reinsurance,Capital Required / GN Premium,0.496878697
+13,PA reinsurance,Att LR,0.412915167
+13,PA reinsurance,Large LR,0.120541697
+13,PA reinsurance,Cat LR,9.39E-02
+13,PA reinsurance,Att COV,0.467079531
+13,PA reinsurance,Large COV,1.287220916
+13,PA reinsurance,Cat COV,1.854328489
+13,PA reinsurance,Large Loss Threshold,1000000
+13,PA reinsurance,Decay Factor,0.9
+13,PA reinsurance,Target NLR,0.7
+13,PA reinsurance,NML,0.025
+13,PA reinsurance,LAE,0
+13,PA reinsurance,RoC,0.15
+13,PA reinsurance,Variable Expense,0
+13,PA reinsurance,Fixed Expense,0
+13,PA reinsurance,Climate Load,0
+13,Sports,Gross Net Att ULR,0.68800149
+13,Sports,Gross Net Cat ULR,0.024
+13,Sports,Total ULR,0.71200149
+13,Sports,BP GN Premium,8247905.334
+13,Sports,BP NN Premium,8247905.334
+13,Sports,Net Premium,7173657.591
+13,Sports,Net Expense/ GN Premium,0.187266397
+13,Sports,Investment Income /GN Premium,7.40E-02
+13,Sports,RI Premium/GN Premium,0.130244917
+13,Sports,RI Recoveries/ GN Premium,0.0520713
+13,Sports,Capital Required / GN Premium,0.487798866
+13,Sports,Att LR,0.412915167
+13,Sports,Large LR,0.120541697
+13,Sports,Cat LR,9.39E-02
+13,Sports,Att COV,0.467079531
+13,Sports,Large COV,1.287220916
+13,Sports,Cat COV,1.854328489
+13,Sports,Large Loss Threshold,1000000
+13,Sports,Decay Factor,0.9
+13,Sports,Target NLR,0.7
+13,Sports,NML,0.025
+13,Sports,LAE,0
+13,Sports,RoC,0.15
+13,Sports,Variable Expense,0
+13,Sports,Fixed Expense,0
+13,Sports,Climate Load,0
+13,Open Market,Gross Net Att ULR,0.37
+13,Open Market,Gross Net Cat ULR,0.274243403
+13,Open Market,Total ULR,0.644243403
+13,Open Market,BP GN Premium,352778594.4
+13,Open Market,BP NN Premium,352778594.4
+13,Open Market,Net Premium,295591770.2
+13,Open Market,Net Expense/ GN Premium,0.133391838
+13,Open Market,Investment Income /GN Premium,7.25E-02
+13,Open Market,RI Premium/GN Premium,0.162104008
+13,Open Market,RI Recoveries/ GN Premium,8.67E-02
+13,Open Market,Capital Required / GN Premium,0.558722501
+13,Open Market,Att LR,0.226950504
+13,Open Market,Large LR,0.135923334
+13,Open Market,Cat LR,0.190559465
+13,Open Market,Att COV,0.632633176
+13,Open Market,Large COV,1.083054644
+13,Open Market,Cat COV,3.052692664
+13,Open Market,Large Loss Threshold,250000
+13,Open Market,Decay Factor,0.9
+13,Open Market,Target NLR,0.7
+13,Open Market,NML,0.045
+13,Open Market,LAE,0.075
+13,Open Market,RoC,0.15
+13,Open Market,Variable Expense,0
+13,Open Market,Fixed Expense,0
+13,Open Market,Climate Load,0.006
+13,E&S Property,Gross Net Att ULR,0.385903802
+13,E&S Property,Gross Net Cat ULR,0.223339525
+13,E&S Property,Total ULR,0.609243327
+13,E&S Property,BP GN Premium,553600000
+13,E&S Property,BP NN Premium,553600000
+13,E&S Property,Net Premium,451159294.8
+13,E&S Property,Net Expense/ GN Premium,0.133084381
+13,E&S Property,Investment Income /GN Premium,7.05E-02
+13,E&S Property,RI Premium/GN Premium,0.185044627
+13,E&S Property,RI Recoveries/ GN Premium,9.52E-02
+13,E&S Property,Capital Required / GN Premium,0.539913472
+13,E&S Property,Att LR,0.233447802
+13,E&S Property,Large LR,0.149610695
+13,E&S Property,Cat LR,0.125065533
+13,E&S Property,Att COV,1.409889154
+13,E&S Property,Large COV,1.539605887
+13,E&S Property,Cat COV,2.659600004
+13,E&S Property,Large Loss Threshold,250000
+13,E&S Property,Decay Factor,0.9
+13,E&S Property,Target NLR,0.7
+13,E&S Property,NML,0.045
+13,E&S Property,LAE,0.075
+13,E&S Property,RoC,0.15
+13,E&S Property,Variable Expense,0
+13,E&S Property,Fixed Expense,0
+13,E&S Property,Climate Load,0.006
+13,E&S Homeowners,Gross Net Att ULR,0.443
+13,E&S Homeowners,Gross Net Cat ULR,0.22021225
+13,E&S Homeowners,Total ULR,0.66321225
+13,E&S Homeowners,BP GN Premium,123550000
+13,E&S Homeowners,BP NN Premium,123550000
+13,E&S Homeowners,Net Premium,102714000
+13,E&S Homeowners,Net Expense/ GN Premium,9.85E-02
+13,E&S Homeowners,Investment Income /GN Premium,0.074177636
+13,E&S Homeowners,RI Premium/GN Premium,0.168644274
+13,E&S Homeowners,RI Recoveries/ GN Premium,0.077171671
+13,E&S Homeowners,Capital Required / GN Premium,0.573449462
+13,E&S Homeowners,Att LR,0.233447802
+13,E&S Homeowners,Large LR,0.149610695
+13,E&S Homeowners,Cat LR,0.125065533
+13,E&S Homeowners,Att COV,1.409889154
+13,E&S Homeowners,Large COV,1.539605887
+13,E&S Homeowners,Cat COV,2.659600004
+13,E&S Homeowners,Large Loss Threshold,250000
+13,E&S Homeowners,Decay Factor,0.9
+13,E&S Homeowners,Target NLR,0.7
+13,E&S Homeowners,NML,0.045
+13,E&S Homeowners,LAE,0.075
+13,E&S Homeowners,RoC,0.15
+13,E&S Homeowners,Variable Expense,0
+13,E&S Homeowners,Fixed Expense,0
+13,E&S Homeowners,Climate Load,0.006
+13,Covers,Gross Net Att ULR,0.438715974
+13,Covers,Gross Net Cat ULR,0.226307303
+13,Covers,Total ULR,0.665023277
+13,Covers,BP GN Premium,146285104.2
+13,Covers,BP NN Premium,146285104.2
+13,Covers,Net Premium,118864464.8
+13,Covers,Net Expense/ GN Premium,0.124844265
+13,Covers,Investment Income /GN Premium,7.03E-02
+13,Covers,RI Premium/GN Premium,0.187446559
+13,Covers,RI Recoveries/ GN Premium,8.63E-02
+13,Covers,Capital Required / GN Premium,0.516310479
+13,Covers,Att LR,0.373903031
+13,Covers,Large LR,8.70E-02
+13,Covers,Cat LR,0.17477431
+13,Covers,Att COV,0.209965459
+13,Covers,Large COV,0.4118254
+13,Covers,Cat COV,1.810134798
+13,Covers,Large Loss Threshold,250000
+13,Covers,Decay Factor,0.9
+13,Covers,Target NLR,0.7
+13,Covers,NML,0.045
+13,Covers,LAE,0.075
+13,Covers,RoC,0.15
+13,Covers,Variable Expense,0
+13,Covers,Fixed Expense,0
+13,Covers,Climate Load,0.006
+13,Specie,Gross Net Att ULR,0.503
+13,Specie,Gross Net Cat ULR,0.07525
+13,Specie,Total ULR,0.57825
+13,Specie,BP GN Premium,34274389.88
+13,Specie,BP NN Premium,34274389.88
+13,Specie,Net Premium,28926654.54
+13,Specie,Net Expense/ GN Premium,0.184912321
+13,Specie,Investment Income /GN Premium,7.31E-02
+13,Specie,RI Premium/GN Premium,0.156027149
+13,Specie,RI Recoveries/ GN Premium,6.48E-02
+13,Specie,Capital Required / GN Premium,0.448620212
+13,Specie,Att LR,0.31560448
+13,Specie,Large LR,0.193918348
+13,Specie,Cat LR,0.01
+13,Specie,Att COV,0.512891264
+13,Specie,Large COV,1.153408097
+13,Specie,Cat COV,2.038990087
+13,Specie,Large Loss Threshold,250000
+13,Specie,Decay Factor,0.9
+13,Specie,Target NLR,0.7
+13,Specie,NML,0.045
+13,Specie,LAE,0.075
+13,Specie,RoC,0.15
+13,Specie,Variable Expense,0
+13,Specie,Fixed Expense,0
+13,Specie,Climate Load,0
+13,Swiss,Gross Net Att ULR,0.664722298
+13,Swiss,Gross Net Cat ULR,0.1101
+13,Swiss,Total ULR,0.774822298
+13,Swiss,BP GN Premium,45294815
+13,Swiss,BP NN Premium,45294815
+13,Swiss,Net Premium,45294815
+13,Swiss,Net Expense/ GN Premium,0.156464271
+13,Swiss,Investment Income /GN Premium,8.65E-02
+13,Swiss,RI Premium/GN Premium,0
+13,Swiss,RI Recoveries/ GN Premium,0
+13,Swiss,Capital Required / GN Premium,0.531557634
+13,Swiss,Att LR,0.436732195
+13,Swiss,Large LR,0.182236861
+13,Swiss,Cat LR,0.01
+13,Swiss,Att COV,0.512891264
+13,Swiss,Large COV,1.153408097
+13,Swiss,Cat COV,2.038990087
+13,Swiss,Large Loss Threshold,250000
+13,Swiss,Decay Factor,0.9
+13,Swiss,Target NLR,0.7
+13,Swiss,NML,0.045
+13,Swiss,LAE,0.075
+13,Swiss,RoC,0.15
+13,Swiss,Variable Expense,0
+13,Swiss,Fixed Expense,0
+13,Swiss,Climate Load,0
+13,Jewellers,Gross Net Att ULR,0.647142229
+13,Jewellers,Gross Net Cat ULR,0.0445
+13,Jewellers,Total ULR,0.691642229
+13,Jewellers,BP GN Premium,41934598.21
+13,Jewellers,BP NN Premium,41934598.21
+13,Jewellers,Net Premium,41473641.16
+13,Jewellers,Net Expense/ GN Premium,0.184912321
+13,Jewellers,Investment Income /GN Premium,8.56E-02
+13,Jewellers,RI Premium/GN Premium,1.10E-02
+13,Jewellers,RI Recoveries/ GN Premium,4.40E-03
+13,Jewellers,Capital Required / GN Premium,0.525714601
+13,Jewellers,Att LR,0.372365481
+13,Jewellers,Large LR,0.237531791
+13,Jewellers,Cat LR,0.01
+13,Jewellers,Att COV,0.512891264
+13,Jewellers,Large COV,1.153408097
+13,Jewellers,Cat COV,2.038990087
+13,Jewellers,Large Loss Threshold,250000
+13,Jewellers,Decay Factor,0.9
+13,Jewellers,Target NLR,0.7
+13,Jewellers,NML,0.045
+13,Jewellers,LAE,0.075
+13,Jewellers,RoC,0.15
+13,Jewellers,Variable Expense,0
+13,Jewellers,Fixed Expense,0
+13,Jewellers,Climate Load,0
+13,Motor,Gross Net Att ULR,0.438715974
+13,Motor,Gross Net Cat ULR,0.226307303
+13,Motor,Total ULR,0.665023277
+13,Motor,BP GN Premium,5119331.742
+13,Motor,BP NN Premium,5119331.742
+13,Motor,Net Premium,5119331.742
+13,Motor,Net Expense/ GN Premium,0.124844265
+13,Motor,Investment Income /GN Premium,8.65E-02
+13,Motor,RI Premium/GN Premium,0
+13,Motor,RI Recoveries/ GN Premium,0
+13,Motor,Capital Required / GN Premium,0.635417258
+13,Motor,Att LR,0.373903031
+13,Motor,Large LR,8.70E-02
+13,Motor,Cat LR,0.17477431
+13,Motor,Att COV,0.209965459
+13,Motor,Large COV,0.4118254
+13,Motor,Cat COV,1.810134798
+13,Motor,Large Loss Threshold,250000
+13,Motor,Decay Factor,0.9
+13,Motor,Target NLR,0.7
+13,Motor,NML,0.045
+13,Motor,LAE,0.075
+13,Motor,RoC,0.15
+13,Motor,Variable Expense,0
+13,Motor,Fixed Expense,0
+13,Motor,Climate Load,0.006
+13,Package,Gross Net Att ULR,0.836831309
+13,Package,Gross Net Cat ULR,0.024
+13,Package,Total ULR,0.860831309
+13,Package,BP GN Premium,38579416.61
+13,Package,BP NN Premium,38579416.61
+13,Package,Net Premium,19090264.61
+13,Package,Net Expense/ GN Premium,0.107173989
+13,Package,Investment Income /GN Premium,4.28E-02
+13,Package,RI Premium/GN Premium,0.505169692
+13,Package,RI Recoveries/ GN Premium,0.434865887
+13,Package,Capital Required / GN Premium,0.31818437
+13,Package,Att LR,0.542
+13,Package,Large LR,0.261
+13,Package,Cat LR,0
+13,Package,Att COV,1.409889154
+13,Package,Large COV,1.539605887
+13,Package,Cat COV,2.659600004
+13,Package,Large Loss Threshold,250000
+13,Package,Decay Factor,0.9
+13,Package,Target NLR,0.7
+13,Package,NML,0.045
+13,Package,LAE,0.075
+13,Package,RoC,0.15
+13,Package,Variable Expense,0
+13,Package,Fixed Expense,0
+13,Package,Climate Load,0
+13,BPS - BBR,Gross Net Att ULR,0.604568266
+13,BPS - BBR,Gross Net Cat ULR,0.165335318
+13,BPS - BBR,Total ULR,0.769903584
+13,BPS - BBR,BP GN Premium,34942764.85
+13,BPS - BBR,BP NN Premium,34942764.85
+13,BPS - BBR,Net Premium,34749084.89
+13,BPS - BBR,Net Expense/ GN Premium,0.203848615
+13,BPS - BBR,Investment Income /GN Premium,0.113169625
+13,BPS - BBR,RI Premium/GN Premium,5.54E-03
+13,BPS - BBR,RI Recoveries/ GN Premium,3.76E-03
+13,BPS - BBR,Capital Required / GN Premium,1.03125214
+13,BPS - BBR,Att LR,0.249677532
+13,BPS - BBR,Large LR,0.26669592
+13,BPS - BBR,Cat LR,0.131797038
+13,BPS - BBR,Att COV,0.762546609
+13,BPS - BBR,Large COV,2.501528827
+13,BPS - BBR,Cat COV,3.517523424
+13,BPS - BBR,Large Loss Threshold,500000
+13,BPS - BBR,Decay Factor,0.9
+13,BPS - BBR,Target NLR,0.7
+13,BPS - BBR,NML,0.025
+13,BPS - BBR,LAE,0
+13,BPS - BBR,RoC,0.15
+13,BPS - BBR,Variable Expense,0
+13,BPS - BBR,Fixed Expense,0
+13,BPS - BBR,Climate Load,0
+13,eTrading BBR,Gross Net Att ULR,0.447214866
+13,eTrading BBR,Gross Net Cat ULR,0.2536
+13,eTrading BBR,Total ULR,0.700814866
+13,eTrading BBR,BP GN Premium,81600000
+13,eTrading BBR,BP NN Premium,81600000
+13,eTrading BBR,Net Premium,68710428.28
+13,eTrading BBR,Net Expense/ GN Premium,0.247863404
+13,eTrading BBR,Investment Income /GN Premium,0.115998716
+13,eTrading BBR,RI Premium/GN Premium,0.157960438
+13,eTrading BBR,RI Recoveries/ GN Premium,0.085919812
+13,eTrading BBR,Capital Required / GN Premium,0.742687228
+13,eTrading BBR,Att LR,0.123358937
+13,eTrading BBR,Large LR,0.200336689
+13,eTrading BBR,Cat LR,0.166417895
+13,eTrading BBR,Att COV,0.762546609
+13,eTrading BBR,Large COV,2.501528827
+13,eTrading BBR,Cat COV,3.517523424
+13,eTrading BBR,Large Loss Threshold,500000
+13,eTrading BBR,Decay Factor,0.9
+13,eTrading BBR,Target NLR,0.7
+13,eTrading BBR,NML,0.025
+13,eTrading BBR,LAE,0
+13,eTrading BBR,RoC,0.15
+13,eTrading BBR,Variable Expense,0
+13,eTrading BBR,Fixed Expense,0
+13,eTrading BBR,Climate Load,0
+13,US PE London BBR,Gross Net Att ULR,0.447214866
+13,US PE London BBR,Gross Net Cat ULR,0.2536
+13,US PE London BBR,Total ULR,0.700814866
+13,US PE London BBR,BP GN Premium,81600000
+13,US PE London BBR,BP NN Premium,81600000
+13,US PE London BBR,Net Premium,68710428.28
+13,US PE London BBR,Net Expense/ GN Premium,0.247863404
+13,US PE London BBR,Investment Income /GN Premium,0.115998716
+13,US PE London BBR,RI Premium/GN Premium,0.157960438
+13,US PE London BBR,RI Recoveries/ GN Premium,0.085919812
+13,US PE London BBR,Capital Required / GN Premium,0.742687228
+13,US PE London BBR,Att LR,0.123358937
+13,US PE London BBR,Large LR,0.200336689
+13,US PE London BBR,Cat LR,0.166417895
+13,US PE London BBR,Att COV,0.762546609
+13,US PE London BBR,Large COV,2.501528827
+13,US PE London BBR,Cat COV,3.517523424
+13,US PE London BBR,Large Loss Threshold,500000
+13,US PE London BBR,Decay Factor,0.9
+13,US PE London BBR,Target NLR,0.7
+13,US PE London BBR,NML,0.025
+13,US PE London BBR,LAE,0
+13,US PE London BBR,RoC,0.15
+13,US PE London BBR,Variable Expense,0
+13,US PE London BBR,Fixed Expense,0
+13,US PE London BBR,Climate Load,0
+13,US - A&E MM,Gross Net Att ULR,0.696857489
+13,US - A&E MM,Gross Net Cat ULR,0.074
+13,US - A&E MM,Total ULR,0.770857489
+13,US - A&E MM,BP GN Premium,62140000
+13,US - A&E MM,BP NN Premium,62140000
+13,US - A&E MM,Net Premium,53859137.92
+13,US - A&E MM,Net Expense/ GN Premium,0.188104603
+13,US - A&E MM,Investment Income /GN Premium,0.119089887
+13,US - A&E MM,RI Premium/GN Premium,0.133261379
+13,US - A&E MM,RI Recoveries/ GN Premium,0.10054278
+13,US - A&E MM,Capital Required / GN Premium,0.89880795
+13,US - A&E MM,Att LR,0.141842046
+13,US - A&E MM,Large LR,0.313614479
+13,US - A&E MM,Cat LR,0.20421248
+13,US - A&E MM,Att COV,0.762546609
+13,US - A&E MM,Large COV,2.501528827
+13,US - A&E MM,Cat COV,3.517523424
+13,US - A&E MM,Large Loss Threshold,500000
+13,US - A&E MM,Decay Factor,0.9
+13,US - A&E MM,Target NLR,0.7
+13,US - A&E MM,NML,0.025
+13,US - A&E MM,LAE,0
+13,US - A&E MM,RoC,0.15
+13,US - A&E MM,Variable Expense,0
+13,US - A&E MM,Fixed Expense,0
+13,US - A&E MM,Climate Load,0
+13,Digital US Cyber,Gross Net Att ULR,0.447214866
+13,Digital US Cyber,Gross Net Cat ULR,0.2536
+13,Digital US Cyber,Total ULR,0.700814866
+13,Digital US Cyber,BP GN Premium,81600000
+13,Digital US Cyber,BP NN Premium,81600000
+13,Digital US Cyber,Net Premium,68710428.28
+13,Digital US Cyber,Net Expense/ GN Premium,0.247863404
+13,Digital US Cyber,Investment Income /GN Premium,0.115998716
+13,Digital US Cyber,RI Premium/GN Premium,0.157960438
+13,Digital US Cyber,RI Recoveries/ GN Premium,0.085919812
+13,Digital US Cyber,Capital Required / GN Premium,0.742687228
+13,Digital US Cyber,Att LR,0.123358937
+13,Digital US Cyber,Large LR,0.200336689
+13,Digital US Cyber,Cat LR,0.166417895
+13,Digital US Cyber,Att COV,0.762546609
+13,Digital US Cyber,Large COV,2.501528827
+13,Digital US Cyber,Cat COV,3.517523424
+13,Digital US Cyber,Large Loss Threshold,500000
+13,Digital US Cyber,Decay Factor,0.9
+13,Digital US Cyber,Target NLR,0.7
+13,Digital US Cyber,NML,0.025
+13,Digital US Cyber,LAE,0
+13,Digital US Cyber,RoC,0.15
+13,Digital US Cyber,Variable Expense,0
+13,Digital US Cyber,Fixed Expense,0
+13,Digital US Cyber,Climate Load,0
+13,Healthcare Misc,Gross Net Att ULR,0.799026955
+13,Healthcare Misc,Gross Net Cat ULR,0.024
+13,Healthcare Misc,Total ULR,0.823026955
+13,Healthcare Misc,BP GN Premium,44932000
+13,Healthcare Misc,BP NN Premium,44932000
+13,Healthcare Misc,Net Premium,39845169.87
+13,Healthcare Misc,Net Expense/ GN Premium,0.179181006
+13,Healthcare Misc,Investment Income /GN Premium,0.121844706
+13,Healthcare Misc,RI Premium/GN Premium,0.113211745
+13,Healthcare Misc,RI Recoveries/ GN Premium,9.15E-02
+13,Healthcare Misc,Capital Required / GN Premium,0.91959942
+13,Healthcare Misc,Att LR,0.125725934
+13,Healthcare Misc,Large LR,0.325882359
+13,Healthcare Misc,Cat LR,0.12940543
+13,Healthcare Misc,Att COV,1.760570915
+13,Healthcare Misc,Large COV,3.739538982
+13,Healthcare Misc,Cat COV,5.941104906
+13,Healthcare Misc,Large Loss Threshold,500000
+13,Healthcare Misc,Decay Factor,0.9
+13,Healthcare Misc,Target NLR,0.7
+13,Healthcare Misc,NML,0.025
+13,Healthcare Misc,LAE,0
+13,Healthcare Misc,RoC,0.15
+13,Healthcare Misc,Variable Expense,0
+13,Healthcare Misc,Fixed Expense,0
+13,Healthcare Misc,Climate Load,0
+13,Environmental,Gross Net Att ULR,0.605432131
+13,Environmental,Gross Net Cat ULR,0.024
+13,Environmental,Total ULR,0.629432131
+13,Environmental,BP GN Premium,155000053.8
+13,Environmental,BP NN Premium,155000053.8
+13,Environmental,Net Premium,111909011.7
+13,Environmental,Net Expense/ GN Premium,0.175512654
+13,Environmental,Investment Income /GN Premium,7.03E-02
+13,Environmental,RI Premium/GN Premium,0.278006627
+13,Environmental,RI Recoveries/ GN Premium,0.175203017
+13,Environmental,Capital Required / GN Premium,0.929205471
+13,Environmental,Att LR,0.206080414
+13,Environmental,Large LR,0.248299844
+13,Environmental,Cat LR,0.202810862
+13,Environmental,Att COV,0.762546609
+13,Environmental,Large COV,2.501528827
+13,Environmental,Cat COV,3.517523424
+13,Environmental,Large Loss Threshold,500000
+13,Environmental,Decay Factor,0.9
+13,Environmental,Target NLR,0.7
+13,Environmental,NML,0.025
+13,Environmental,LAE,0
+13,Environmental,RoC,0.15
+13,Environmental,Variable Expense,0
+13,Environmental,Fixed Expense,0
+13,Environmental,Climate Load,0
+13,Healthcare ML,Gross Net Att ULR,0.727355414
+13,Healthcare ML,Gross Net Cat ULR,6.92E-02
+13,Healthcare ML,Total ULR,0.796587264
+13,Healthcare ML,BP GN Premium,68832000
+13,Healthcare ML,BP NN Premium,68832000
+13,Healthcare ML,Net Premium,61300774.72
+13,Healthcare ML,Net Expense/ GN Premium,0.175866107
+13,Healthcare ML,Investment Income /GN Premium,0.122366435
+13,Healthcare ML,RI Premium/GN Premium,0.109414593
+13,Healthcare ML,RI Recoveries/ GN Premium,8.66E-02
+13,Healthcare ML,Capital Required / GN Premium,1.146183419
+13,Healthcare ML,Att LR,0.125725934
+13,Healthcare ML,Large LR,0.325882359
+13,Healthcare ML,Cat LR,0.12940543
+13,Healthcare ML,Att COV,1.760570915
+13,Healthcare ML,Large COV,3.739538982
+13,Healthcare ML,Cat COV,5.941104906
+13,Healthcare ML,Large Loss Threshold,500000
+13,Healthcare ML,Decay Factor,0.9
+13,Healthcare ML,Target NLR,0.7
+13,Healthcare ML,NML,0.025
+13,Healthcare ML,LAE,0
+13,Healthcare ML,RoC,0.15
+13,Healthcare ML,Variable Expense,0
+13,Healthcare ML,Fixed Expense,0
+13,Healthcare ML,Climate Load,0
+13,Lawyers,Gross Net Att ULR,0.699489478
+13,Lawyers,Gross Net Cat ULR,0.227152082
+13,Lawyers,Total ULR,0.92664156
+13,Lawyers,BP GN Premium,34252084.4
+13,Lawyers,BP NN Premium,34252084.4
+13,Lawyers,Net Premium,30019642.42
+13,Lawyers,Net Expense/ GN Premium,0.168746726
+13,Lawyers,Investment Income /GN Premium,0.120421835
+13,Lawyers,RI Premium/GN Premium,0.123567428
+13,Lawyers,RI Recoveries/ GN Premium,9.74E-02
+13,Lawyers,Capital Required / GN Premium,0.908860577
+13,Lawyers,Att LR,0.207312472
+13,Lawyers,Large LR,0.232680763
+13,Lawyers,Cat LR,0.332264568
+13,Lawyers,Att COV,0.309328113
+13,Lawyers,Large COV,0.60242778
+13,Lawyers,Cat COV,0.410306303
+13,Lawyers,Large Loss Threshold,500000
+13,Lawyers,Decay Factor,0.9
+13,Lawyers,Target NLR,0.7
+13,Lawyers,NML,0.025
+13,Lawyers,LAE,0
+13,Lawyers,RoC,0.15
+13,Lawyers,Variable Expense,0
+13,Lawyers,Fixed Expense,0
+13,Lawyers,Climate Load,0
+13,Misc Med PE,Gross Net Att ULR,0.65096382
+13,Misc Med PE,Gross Net Cat ULR,0.024
+13,Misc Med PE,Total ULR,0.67496382
+13,Misc Med PE,BP GN Premium,30081101.51
+13,Misc Med PE,BP NN Premium,30081101.51
+13,Misc Med PE,Net Premium,28917230.37
+13,Misc Med PE,Net Expense/ GN Premium,0.193288574
+13,Misc Med PE,Investment Income /GN Premium,0.132083842
+13,Misc Med PE,RI Premium/GN Premium,3.87E-02
+13,Misc Med PE,RI Recoveries/ GN Premium,2.61E-02
+13,Misc Med PE,Capital Required / GN Premium,0.996877321
+13,Misc Med PE,Att LR,0.558329648
+13,Misc Med PE,Large LR,0.229195865
+13,Misc Med PE,Cat LR,4.87E-02
+13,Misc Med PE,Att COV,0.524274365
+13,Misc Med PE,Large COV,0.948276484
+13,Misc Med PE,Cat COV,4.692432365
+13,Misc Med PE,Large Loss Threshold,500000
+13,Misc Med PE,Decay Factor,0.9
+13,Misc Med PE,Target NLR,0.7
+13,Misc Med PE,NML,0.025
+13,Misc Med PE,LAE,0
+13,Misc Med PE,RoC,0.15
+13,Misc Med PE,Variable Expense,0
+13,Misc Med PE,Fixed Expense,0
+13,Misc Med PE,Climate Load,0
+13,BPS,Gross Net Att ULR,0.604568266
+13,BPS,Gross Net Cat ULR,0.165335318
+13,BPS,Total ULR,0.769903584
+13,BPS,BP GN Premium,51749682.24
+13,BPS,BP NN Premium,51749682.24
+13,BPS,Net Premium,51462163.8
+13,BPS,Net Expense/ GN Premium,0.203848615
+13,BPS,Investment Income /GN Premium,8.17E-02
+13,BPS,RI Premium/GN Premium,5.56E-03
+13,BPS,RI Recoveries/ GN Premium,3.77E-03
+13,BPS,Capital Required / GN Premium,1.031238484
+13,BPS,Att LR,0.249677532
+13,BPS,Large LR,0.26669592
+13,BPS,Cat LR,0.131797038
+13,BPS,Att COV,0.762546609
+13,BPS,Large COV,2.501528827
+13,BPS,Cat COV,3.517523424
+13,BPS,Large Loss Threshold,500000
+13,BPS,Decay Factor,0.9
+13,BPS,Target NLR,0.7
+13,BPS,NML,0.025
+13,BPS,LAE,0
+13,BPS,RoC,0.15
+13,BPS,Variable Expense,0
+13,BPS,Fixed Expense,0
+13,BPS,Climate Load,0
+13,Surety,Gross Net Att ULR,0.825880426
+13,Surety,Gross Net Cat ULR,0.024
+13,Surety,Total ULR,0.849880426
+13,Surety,BP GN Premium,58295945.69
+13,Surety,BP NN Premium,58295945.69
+13,Surety,Net Premium,57936479.31
+13,Surety,Net Expense/ GN Premium,0.204044601
+13,Surety,Investment Income /GN Premium,0.130469381
+13,Surety,RI Premium/GN Premium,6.17E-03
+13,Surety,RI Recoveries/ GN Premium,4.18E-03
+13,Surety,Capital Required / GN Premium,1.030605617
+13,Surety,Att LR,0.249677532
+13,Surety,Large LR,0.26669592
+13,Surety,Cat LR,0.131797038
+13,Surety,Att COV,0.762546609
+13,Surety,Large COV,2.501528827
+13,Surety,Cat COV,3.517523424
+13,Surety,Large Loss Threshold,500000
+13,Surety,Decay Factor,0.9
+13,Surety,Target NLR,0.7
+13,Surety,NML,0.025
+13,Surety,LAE,0
+13,Surety,RoC,0.15
+13,Surety,Variable Expense,0
+13,Surety,Fixed Expense,0
+13,Surety,Climate Load,0
+13,Digital US Tech,Gross Net Att ULR,0.438260442
+13,Digital US Tech,Gross Net Cat ULR,0.0486
+13,Digital US Tech,Total ULR,0.486860442
+13,Digital US Tech,BP GN Premium,63600000
+13,Digital US Tech,BP NN Premium,63600000
+13,Digital US Tech,Net Premium,61663993.75
+13,Digital US Tech,Net Expense/ GN Premium,0.239875802
+13,Digital US Tech,Investment Income /GN Premium,0.133620529
+13,Digital US Tech,RI Premium/GN Premium,0.03044035
+13,Digital US Tech,RI Recoveries/ GN Premium,1.22E-02
+13,Digital US Tech,Capital Required / GN Premium,0.855161208
+13,Digital US Tech,Att LR,0.558329648
+13,Digital US Tech,Large LR,0.229195865
+13,Digital US Tech,Cat LR,0.048703106
+13,Digital US Tech,Att COV,0.524274365
+13,Digital US Tech,Large COV,0.948276484
+13,Digital US Tech,Cat COV,4.692432365
+13,Digital US Tech,Large Loss Threshold,500000
+13,Digital US Tech,Decay Factor,0.9
+13,Digital US Tech,Target NLR,0.7
+13,Digital US Tech,NML,0.025
+13,Digital US Tech,LAE,0
+13,Digital US Tech,RoC,0.15
+13,Digital US Tech,Variable Expense,0
+13,Digital US Tech,Fixed Expense,0
+13,Digital US Tech,Climate Load,0
+13,US Programmes,Gross Net Att ULR,0.65096382
+13,US Programmes,Gross Net Cat ULR,0.024
+13,US Programmes,Total ULR,0.67496382
+13,US Programmes,BP GN Premium,30081101.51
+13,US Programmes,BP NN Premium,30081101.51
+13,US Programmes,Net Premium,28917230.37
+13,US Programmes,Net Expense/ GN Premium,0.193288574
+13,US Programmes,Investment Income /GN Premium,0.132083842
+13,US Programmes,RI Premium/GN Premium,3.87E-02
+13,US Programmes,RI Recoveries/ GN Premium,2.61E-02
+13,US Programmes,Capital Required / GN Premium,0.996877321
+13,US Programmes,Att LR,0.558329648
+13,US Programmes,Large LR,0.229195865
+13,US Programmes,Cat LR,4.87E-02
+13,US Programmes,Att COV,0.524274365
+13,US Programmes,Large COV,0.948276484
+13,US Programmes,Cat COV,4.692432365
+13,US Programmes,Large Loss Threshold,500000
+13,US Programmes,Decay Factor,0.9
+13,US Programmes,Target NLR,0.7
+13,US Programmes,NML,0.025
+13,US Programmes,LAE,0
+13,US Programmes,RoC,0.15
+13,US Programmes,Variable Expense,0
+13,US Programmes,Fixed Expense,0
+13,US Programmes,Climate Load,0
+13,Media,Gross Net Att ULR,0.70503168
+13,Media,Gross Net Cat ULR,0.024
+13,Media,Total ULR,0.72903168
+13,Media,BP GN Premium,20108713.09
+13,Media,BP NN Premium,20108713.09
+13,Media,Net Premium,19106772.91
+13,Media,Net Expense/ GN Premium,0.213965033
+13,Media,Investment Income /GN Premium,0.130553884
+13,Media,RI Premium/GN Premium,4.98E-02
+13,Media,RI Recoveries/ GN Premium,3.60E-02
+13,Media,Capital Required / GN Premium,0.98533026
+13,Media,Att LR,0.558329648
+13,Media,Large LR,0.229195865
+13,Media,Cat LR,4.87E-02
+13,Media,Att COV,0.524274365
+13,Media,Large COV,0.948276484
+13,Media,Cat COV,4.692432365
+13,Media,Large Loss Threshold,500000
+13,Media,Decay Factor,0.9
+13,Media,Target NLR,0.7
+13,Media,NML,0.025
+13,Media,LAE,0
+13,Media,RoC,0.15
+13,Media,Variable Expense,0
+13,Media,Fixed Expense,0
+13,Media,Climate Load,0
+13,Recall US,Gross Net Att ULR,0.667440957
+13,Recall US,Gross Net Cat ULR,0.024
+13,Recall US,Total ULR,0.691440957
+13,Recall US,BP GN Premium,36320420.82
+13,Recall US,BP NN Premium,36320420.82
+13,Recall US,Net Premium,34411397.81
+13,Recall US,Net Expense/ GN Premium,0.213846427
+13,Recall US,Investment Income /GN Premium,7.97E-02
+13,Recall US,RI Premium/GN Premium,5.26E-02
+13,Recall US,RI Recoveries/ GN Premium,2.60E-02
+13,Recall US,Capital Required / GN Premium,0.982494661
+13,Recall US,Att LR,0.558329648
+13,Recall US,Large LR,0.229195865
+13,Recall US,Cat LR,4.87E-02
+13,Recall US,Att COV,0.524274365
+13,Recall US,Large COV,0.948276484
+13,Recall US,Cat COV,4.692432365
+13,Recall US,Large Loss Threshold,500000
+13,Recall US,Decay Factor,0.9
+13,Recall US,Target NLR,0.7
+13,Recall US,NML,0.025
+13,Recall US,LAE,0
+13,Recall US,RoC,0.15
+13,Recall US,Variable Expense,0
+13,Recall US,Fixed Expense,0
+13,Recall US,Climate Load,0
+13,DIN US Lawyers,Gross Net Att ULR,0.552016739
+13,DIN US Lawyers,Gross Net Cat ULR,0.024
+13,DIN US Lawyers,Total ULR,0.576016739
+13,DIN US Lawyers,BP GN Premium,5258000
+13,DIN US Lawyers,BP NN Premium,5258000
+13,DIN US Lawyers,Net Premium,5016487.094
+13,DIN US Lawyers,Net Expense/ GN Premium,0.215972029
+13,DIN US Lawyers,Investment Income /GN Premium,0.131088879
+13,DIN US Lawyers,RI Premium/GN Premium,4.59E-02
+13,DIN US Lawyers,RI Recoveries/ GN Premium,2.94E-02
+13,DIN US Lawyers,Capital Required / GN Premium,0.989368033
+13,DIN US Lawyers,Att LR,0.207312472
+13,DIN US Lawyers,Large LR,0.232680763
+13,DIN US Lawyers,Cat LR,0.332264568
+13,DIN US Lawyers,Att COV,0.309328113
+13,DIN US Lawyers,Large COV,0.60242778
+13,DIN US Lawyers,Cat COV,0.410306303
+13,DIN US Lawyers,Large Loss Threshold,500000
+13,DIN US Lawyers,Decay Factor,0.9
+13,DIN US Lawyers,Target NLR,0.7
+13,DIN US Lawyers,NML,0.025
+13,DIN US Lawyers,LAE,0
+13,DIN US Lawyers,RoC,0.15
+13,DIN US Lawyers,Variable Expense,0
+13,DIN US Lawyers,Fixed Expense,0
+13,DIN US Lawyers,Climate Load,0
+13,Financial Institutions,Gross Net Att ULR,0.428118854
+13,Financial Institutions,Gross Net Cat ULR,0.293375
+13,Financial Institutions,Total ULR,0.721493854
+13,Financial Institutions,BP GN Premium,120088446.2
+13,Financial Institutions,BP NN Premium,120088446.2
+13,Financial Institutions,Net Premium,103702569.5
+13,Financial Institutions,Net Expense/ GN Premium,0.183630817
+13,Financial Institutions,Investment Income /GN Premium,0.118651989
+13,Financial Institutions,RI Premium/GN Premium,0.136448403
+13,Financial Institutions,RI Recoveries/ GN Premium,9.89E-02
+13,Financial Institutions,Capital Required / GN Premium,1.327278804
+13,Financial Institutions,Att LR,0.267525533
+13,Financial Institutions,Large LR,0.251761547
+13,Financial Institutions,Cat LR,0.142
+13,Financial Institutions,Att COV,0.762546609
+13,Financial Institutions,Large COV,2.501528827
+13,Financial Institutions,Cat COV,3.517523424
+13,Financial Institutions,Large Loss Threshold,500000
+13,Financial Institutions,Decay Factor,0.9
+13,Financial Institutions,Target NLR,0.7
+13,Financial Institutions,NML,0.025
+13,Financial Institutions,LAE,0
+13,Financial Institutions,RoC,0.15
+13,Financial Institutions,Variable Expense,0
+13,Financial Institutions,Fixed Expense,0
+13,Financial Institutions,Climate Load,0
+13,Hospitals,Gross Net Att ULR,0.829525943
+13,Hospitals,Gross Net Cat ULR,6.73E-02
+13,Hospitals,Total ULR,0.896826757
+13,Hospitals,BP GN Premium,26098800
+13,Hospitals,BP NN Premium,26098800
+13,Hospitals,Net Premium,10810123.79
+13,Hospitals,Net Expense/ GN Premium,0.131594833
+13,Hospitals,Investment Income /GN Premium,5.69E-02
+13,Hospitals,RI Premium/GN Premium,0.585799968
+13,Hospitals,RI Recoveries/ GN Premium,0.524438085
+13,Hospitals,Capital Required / GN Premium,0.533075441
+13,Hospitals,Att LR,0.125725934
+13,Hospitals,Large LR,0.325882359
+13,Hospitals,Cat LR,0.12940543
+13,Hospitals,Att COV,1.760570915
+13,Hospitals,Large COV,3.739538982
+13,Hospitals,Cat COV,5.941104906
+13,Hospitals,Large Loss Threshold,500000
+13,Hospitals,Decay Factor,0.9
+13,Hospitals,Target NLR,0.7
+13,Hospitals,NML,0.025
+13,Hospitals,LAE,0
+13,Hospitals,RoC,0.15
+13,Hospitals,Variable Expense,0
+13,Hospitals,Fixed Expense,0
+13,Hospitals,Climate Load,0
+13,Large Risk International Healthcare,Gross Net Att ULR,0.829525943
+13,Large Risk International Healthcare,Gross Net Cat ULR,6.73E-02
+13,Large Risk International Healthcare,Total ULR,0.896826757
+13,Large Risk International Healthcare,BP GN Premium,6524700
+13,Large Risk International Healthcare,BP NN Premium,6524700
+13,Large Risk International Healthcare,Net Premium,2440774.812
+13,Large Risk International Healthcare,Net Expense/ GN Premium,0.126129021
+13,Large Risk International Healthcare,Investment Income /GN Premium,5.14E-02
+13,Large Risk International Healthcare,RI Premium/GN Premium,0.625917696
+13,Large Risk International Healthcare,RI Recoveries/ GN Premium,0.560126972
+13,Large Risk International Healthcare,Capital Required / GN Premium,0.481443926
+13,Large Risk International Healthcare,Att LR,0.125725934
+13,Large Risk International Healthcare,Large LR,0.325882359
+13,Large Risk International Healthcare,Cat LR,0.12940543
+13,Large Risk International Healthcare,Att COV,1.760570915
+13,Large Risk International Healthcare,Large COV,3.739538982
+13,Large Risk International Healthcare,Cat COV,5.941104906
+13,Large Risk International Healthcare,Large Loss Threshold,500000
+13,Large Risk International Healthcare,Decay Factor,0.9
+13,Large Risk International Healthcare,Target NLR,0.7
+13,Large Risk International Healthcare,NML,0.025
+13,Large Risk International Healthcare,LAE,0
+13,Large Risk International Healthcare,RoC,0.15
+13,Large Risk International Healthcare,Variable Expense,0
+13,Large Risk International Healthcare,Fixed Expense,0
+13,Large Risk International Healthcare,Climate Load,0
+13,PE Delegated Authority,Gross Net Att ULR,0.66166441
+13,PE Delegated Authority,Gross Net Cat ULR,0.024
+13,PE Delegated Authority,Total ULR,0.68566441
+13,PE Delegated Authority,BP GN Premium,57176708.59
+13,PE Delegated Authority,BP NN Premium,57176708.59
+13,PE Delegated Authority,Net Premium,53974350.97
+13,PE Delegated Authority,Net Expense/ GN Premium,0.18860913
+13,PE Delegated Authority,Investment Income /GN Premium,0.129347606
+13,PE Delegated Authority,RI Premium/GN Premium,5.60E-02
+13,PE Delegated Authority,RI Recoveries/ GN Premium,3.84E-02
+13,PE Delegated Authority,Capital Required / GN Premium,0.978919622
+13,PE Delegated Authority,Att LR,0.558329648
+13,PE Delegated Authority,Large LR,0.229195865
+13,PE Delegated Authority,Cat LR,4.87E-02
+13,PE Delegated Authority,Att COV,0.524274365
+13,PE Delegated Authority,Large COV,0.948276484
+13,PE Delegated Authority,Cat COV,4.692432365
+13,PE Delegated Authority,Large Loss Threshold,500000
+13,PE Delegated Authority,Decay Factor,0.9
+13,PE Delegated Authority,Target NLR,0.7
+13,PE Delegated Authority,NML,0.025
+13,PE Delegated Authority,LAE,0
+13,PE Delegated Authority,RoC,0.15
+13,PE Delegated Authority,Variable Expense,0
+13,PE Delegated Authority,Fixed Expense,0
+13,PE Delegated Authority,Climate Load,0
+13,International ML,Gross Net Att ULR,0.612592592
+13,International ML,Gross Net Cat ULR,0.213625
+13,International ML,Total ULR,0.826217592
+13,International ML,BP GN Premium,128176372.4
+13,International ML,BP NN Premium,128176372.4
+13,International ML,Net Premium,111955396.2
+13,International ML,Net Expense/ GN Premium,0.186619947
+13,International ML,Investment Income /GN Premium,0.120011755
+13,International ML,RI Premium/GN Premium,0.126552
+13,International ML,RI Recoveries/ GN Premium,0.103651202
+13,International ML,Capital Required / GN Premium,1.342489576
+13,International ML,Att LR,0.267525533
+13,International ML,Large LR,0.251761547
+13,International ML,Cat LR,0.142
+13,International ML,Att COV,0.762546609
+13,International ML,Large COV,2.501528827
+13,International ML,Cat COV,3.517523424
+13,International ML,Large Loss Threshold,500000
+13,International ML,Decay Factor,0.9
+13,International ML,Target NLR,0.7
+13,International ML,NML,0.025
+13,International ML,LAE,0
+13,International ML,RoC,0.15
+13,International ML,Variable Expense,0
+13,International ML,Fixed Expense,0
+13,International ML,Climate Load,0
+13,London - A&E,Gross Net Att ULR,0.699489478
+13,London - A&E,Gross Net Cat ULR,0.227152082
+13,London - A&E,Total ULR,0.92664156
+13,London - A&E,BP GN Premium,6511556.585
+13,London - A&E,BP NN Premium,6511556.585
+13,London - A&E,Net Premium,6197756.144
+13,London - A&E,Net Expense/ GN Premium,0.180214461
+13,London - A&E,Investment Income /GN Premium,0.130778514
+13,London - A&E,RI Premium/GN Premium,4.82E-02
+13,London - A&E,RI Recoveries/ GN Premium,4.13E-02
+13,London - A&E,Capital Required / GN Premium,0.987025612
+13,London - A&E,Att LR,0.141842046
+13,London - A&E,Large LR,0.313614479
+13,London - A&E,Cat LR,0.20421248
+13,London - A&E,Att COV,0.762546609
+13,London - A&E,Large COV,2.501528827
+13,London - A&E,Cat COV,3.517523424
+13,London - A&E,Large Loss Threshold,500000
+13,London - A&E,Decay Factor,0.9
+13,London - A&E,Target NLR,0.7
+13,London - A&E,NML,0.025
+13,London - A&E,LAE,0
+13,London - A&E,RoC,0.15
+13,London - A&E,Variable Expense,0
+13,London - A&E,Fixed Expense,0
+13,London - A&E,Climate Load,0
+13,eTrading,Gross Net Att ULR,0.597343191
+13,eTrading,Gross Net Cat ULR,0.024
+13,eTrading,Total ULR,0.621343191
+13,eTrading,BP GN Premium,66340036.5
+13,eTrading,BP NN Premium,66340036.5
+13,eTrading,Net Premium,66340036.5
+13,eTrading,Net Expense/ GN Premium,0.184468665
+13,eTrading,Investment Income /GN Premium,0.1374
+13,eTrading,RI Premium/GN Premium,0
+13,eTrading,RI Recoveries/ GN Premium,0
+13,eTrading,Capital Required / GN Premium,1.037
+13,eTrading,Att LR,0.558329648
+13,eTrading,Large LR,0.229195865
+13,eTrading,Cat LR,4.87E-02
+13,eTrading,Att COV,0.524274365
+13,eTrading,Large COV,0.948276484
+13,eTrading,Cat COV,4.692432365
+13,eTrading,Large Loss Threshold,500000
+13,eTrading,Decay Factor,0.9
+13,eTrading,Target NLR,0.7
+13,eTrading,NML,0.025
+13,eTrading,LAE,0
+13,eTrading,RoC,0.15
+13,eTrading,Variable Expense,0
+13,eTrading,Fixed Expense,0
+13,eTrading,Climate Load,0
+13,Specialty (PT),Gross Net Att ULR,0.597343191
+13,Specialty (PT),Gross Net Cat ULR,0.024
+13,Specialty (PT),Total ULR,0.621343191
+13,Specialty (PT),BP GN Premium,66340036.5
+13,Specialty (PT),BP NN Premium,66340036.5
+13,Specialty (PT),Net Premium,66340036.5
+13,Specialty (PT),Net Expense/ GN Premium,0.184468665
+13,Specialty (PT),Investment Income /GN Premium,0.1374
+13,Specialty (PT),RI Premium/GN Premium,0
+13,Specialty (PT),RI Recoveries/ GN Premium,0
+13,Specialty (PT),Capital Required / GN Premium,1.037
+13,Specialty (PT),Att LR,0.249677532
+13,Specialty (PT),Large LR,0.26669592
+13,Specialty (PT),Cat LR,0.131797038
+13,Specialty (PT),Att COV,0.762546609
+13,Specialty (PT),Large COV,2.501528827
+13,Specialty (PT),Cat COV,3.517523424
+13,Specialty (PT),Large Loss Threshold,500000
+13,Specialty (PT),Decay Factor,0.9
+13,Specialty (PT),Target NLR,0.7
+13,Specialty (PT),NML,0.025
+13,Specialty (PT),LAE,0
+13,Specialty (PT),RoC,0.15
+13,Specialty (PT),Variable Expense,0
+13,Specialty (PT),Fixed Expense,0
+13,Specialty (PT),Climate Load,0
+13,US PE London,Gross Net Att ULR,0.690019954
+13,US PE London,Gross Net Cat ULR,0.024
+13,US PE London,Total ULR,0.714019954
+13,US PE London,BP GN Premium,124249005.5
+13,US PE London,BP NN Premium,124249005.5
+13,US PE London,Net Premium,119253516.3
+13,US PE London,Net Expense/ GN Premium,0.175126918
+13,US PE London,Investment Income /GN Premium,0.131875769
+13,US PE London,RI Premium/GN Premium,4.02E-02
+13,US PE London,RI Recoveries/ GN Premium,2.86E-02
+13,US PE London,Capital Required / GN Premium,0.995306931
+13,US PE London,Att LR,0.558329648
+13,US PE London,Large LR,0.229195865
+13,US PE London,Cat LR,4.87E-02
+13,US PE London,Att COV,0.524274365
+13,US PE London,Large COV,0.948276484
+13,US PE London,Cat COV,4.692432365
+13,US PE London,Large Loss Threshold,500000
+13,US PE London,Decay Factor,0.9
+13,US PE London,Target NLR,0.7
+13,US PE London,NML,0.025
+13,US PE London,LAE,0
+13,US PE London,RoC,0.15
+13,US PE London,Variable Expense,0
+13,US PE London,Fixed Expense,0
+13,US PE London,Climate Load,0
+13,PE International Healthcare,Gross Net Att ULR,0.66166441
+13,PE International Healthcare,Gross Net Cat ULR,0.024
+13,PE International Healthcare,Total ULR,0.68566441
+13,PE International Healthcare,BP GN Premium,57176708.59
+13,PE International Healthcare,BP NN Premium,57176708.59
+13,PE International Healthcare,Net Premium,53974350.97
+13,PE International Healthcare,Net Expense/ GN Premium,0.18860913
+13,PE International Healthcare,Investment Income /GN Premium,0.129347606
+13,PE International Healthcare,RI Premium/GN Premium,5.60E-02
+13,PE International Healthcare,RI Recoveries/ GN Premium,3.84E-02
+13,PE International Healthcare,Capital Required / GN Premium,0.978919622
+13,PE International Healthcare,Att LR,0.558329648
+13,PE International Healthcare,Large LR,0.229195865
+13,PE International Healthcare,Cat LR,4.87E-02
+13,PE International Healthcare,Att COV,0.524274365
+13,PE International Healthcare,Large COV,0.948276484
+13,PE International Healthcare,Cat COV,4.692432365
+13,PE International Healthcare,Large Loss Threshold,500000
+13,PE International Healthcare,Decay Factor,0.9
+13,PE International Healthcare,Target NLR,0.7
+13,PE International Healthcare,NML,0.025
+13,PE International Healthcare,LAE,0
+13,PE International Healthcare,RoC,0.15
+13,PE International Healthcare,Variable Expense,0
+13,PE International Healthcare,Fixed Expense,0
+13,PE International Healthcare,Climate Load,0
+13,Digital Int Package,Gross Net Att ULR,0.657034853
+13,Digital Int Package,Gross Net Cat ULR,0.0486
+13,Digital Int Package,Total ULR,0.705634853
+13,Digital Int Package,BP GN Premium,42887730.45
+13,Digital Int Package,BP NN Premium,42887730.45
+13,Digital Int Package,Net Premium,41089881.37
+13,Digital Int Package,Net Expense/ GN Premium,0.297292301
+13,Digital Int Package,Investment Income /GN Premium,0.131670688
+13,Digital Int Package,RI Premium/GN Premium,0.041919893
+13,Digital Int Package,RI Recoveries/ GN Premium,2.60E-02
+13,Digital Int Package,Capital Required / GN Premium,0.695602099
+13,Digital Int Package,Att LR,0.558329648
+13,Digital Int Package,Large LR,0.229195865
+13,Digital Int Package,Cat LR,4.87E-02
+13,Digital Int Package,Att COV,0.524274365
+13,Digital Int Package,Large COV,0.948276484
+13,Digital Int Package,Cat COV,4.692432365
+13,Digital Int Package,Large Loss Threshold,500000
+13,Digital Int Package,Decay Factor,0.9
+13,Digital Int Package,Target NLR,0.7
+13,Digital Int Package,NML,0.025
+13,Digital Int Package,LAE,0
+13,Digital Int Package,RoC,0.15
+13,Digital Int Package,Variable Expense,0
+13,Digital Int Package,Fixed Expense,0
+13,Digital Int Package,Climate Load,0
+13,BBR Services MM,Gross Net Att ULR,0.446679709
+13,BBR Services MM,Gross Net Cat ULR,0.229
+13,BBR Services MM,Total ULR,0.675679709
+13,BBR Services MM,BP GN Premium,303604750.3
+13,BBR Services MM,BP NN Premium,303604750.3
+13,BBR Services MM,Net Premium,248979816.4
+13,BBR Services MM,Net Expense/ GN Premium,0.101578477
+13,BBR Services MM,Investment Income /GN Premium,5.79E-02
+13,BBR Services MM,RI Premium/GN Premium,0.17992121
+13,BBR Services MM,RI Recoveries/ GN Premium,0.121700943
+13,BBR Services MM,Capital Required / GN Premium,0.863053634
+13,BBR Services MM,Att LR,0.146828263
+13,BBR Services MM,Large LR,0.228175491
+13,BBR Services MM,Cat LR,0.258828106
+13,BBR Services MM,Att COV,0.355722469
+13,BBR Services MM,Large COV,1.108661162
+13,BBR Services MM,Cat COV,1.222861158
+13,BBR Services MM,Large Loss Threshold,750000
+13,BBR Services MM,Decay Factor,0.9
+13,BBR Services MM,Target NLR,0.7
+13,BBR Services MM,NML,0.025
+13,BBR Services MM,LAE,0
+13,BBR Services MM,RoC,0.15
+13,BBR Services MM,Variable Expense,0
+13,BBR Services MM,Fixed Expense,0
+13,BBR Services MM,Climate Load,0
+13,Large Risk International TMB Info Sec,Gross Net Att ULR,0.439047895
+13,Large Risk International TMB Info Sec,Gross Net Cat ULR,0.229
+13,Large Risk International TMB Info Sec,Total ULR,0.668047895
+13,Large Risk International TMB Info Sec,BP GN Premium,384611086
+13,Large Risk International TMB Info Sec,BP NN Premium,384611086
+13,Large Risk International TMB Info Sec,Net Premium,315874905.6
+13,Large Risk International TMB Info Sec,Net Expense/ GN Premium,0.104782183
+13,Large Risk International TMB Info Sec,Investment Income /GN Premium,4.73E-02
+13,Large Risk International TMB Info Sec,RI Premium/GN Premium,0.178716067
+13,Large Risk International TMB Info Sec,RI Recoveries/ GN Premium,0.119844061
+13,Large Risk International TMB Info Sec,Capital Required / GN Premium,0.86432193
+13,Large Risk International TMB Info Sec,Att LR,0.146828263
+13,Large Risk International TMB Info Sec,Large LR,0.228175491
+13,Large Risk International TMB Info Sec,Cat LR,0.258828106
+13,Large Risk International TMB Info Sec,Att COV,0.355722469
+13,Large Risk International TMB Info Sec,Large COV,1.108661162
+13,Large Risk International TMB Info Sec,Cat COV,1.222861158
+13,Large Risk International TMB Info Sec,Large Loss Threshold,750000
+13,Large Risk International TMB Info Sec,Decay Factor,0.9
+13,Large Risk International TMB Info Sec,Target NLR,0.7
+13,Large Risk International TMB Info Sec,NML,0.025
+13,Large Risk International TMB Info Sec,LAE,0
+13,Large Risk International TMB Info Sec,RoC,0.15
+13,Large Risk International TMB Info Sec,Variable Expense,0
+13,Large Risk International TMB Info Sec,Fixed Expense,0
+13,Large Risk International TMB Info Sec,Climate Load,0
+13,Commercial Crime,Gross Net Att ULR,0.443187166
+13,Commercial Crime,Gross Net Cat ULR,0.024
+13,Commercial Crime,Total ULR,0.467187166
+13,Commercial Crime,BP GN Premium,45659326.63
+13,Commercial Crime,BP NN Premium,45659326.63
+13,Commercial Crime,Net Premium,41590239.13
+13,Commercial Crime,Net Expense/ GN Premium,0.187036151
+13,Commercial Crime,Investment Income /GN Premium,0.125155128
+13,Commercial Crime,RI Premium/GN Premium,0.08911843
+13,Commercial Crime,RI Recoveries/ GN Premium,4.57E-02
+13,Commercial Crime,Capital Required / GN Premium,0.944584188
+13,Commercial Crime,Att LR,0.057221744
+13,Commercial Crime,Large LR,0.325399552
+13,Commercial Crime,Cat LR,0.185617575
+13,Commercial Crime,Att COV,0.355722469
+13,Commercial Crime,Large COV,1.108661162
+13,Commercial Crime,Cat COV,1.222861158
+13,Commercial Crime,Large Loss Threshold,750000
+13,Commercial Crime,Decay Factor,0.9
+13,Commercial Crime,Target NLR,0.7
+13,Commercial Crime,NML,0.025
+13,Commercial Crime,LAE,0
+13,Commercial Crime,RoC,0.15
+13,Commercial Crime,Variable Expense,0
+13,Commercial Crime,Fixed Expense,0
+13,Commercial Crime,Climate Load,0
+13,D&O MM,Gross Net Att ULR,0.59716443
+13,D&O MM,Gross Net Cat ULR,0.213625
+13,D&O MM,Total ULR,0.81078943
+13,D&O MM,BP GN Premium,83650000
+13,D&O MM,BP NN Premium,83650000
+13,D&O MM,Net Premium,73855299.84
+13,D&O MM,Net Expense/ GN Premium,0.199712805
+13,D&O MM,Investment Income /GN Premium,0.121311634
+13,D&O MM,RI Premium/GN Premium,0.117091454
+13,D&O MM,RI Recoveries/ GN Premium,9.42E-02
+13,D&O MM,Capital Required / GN Premium,1.357030435
+13,D&O MM,Att LR,7.06E-02
+13,D&O MM,Large LR,0.287591813
+13,D&O MM,Cat LR,0.242562332
+13,D&O MM,Att COV,0.355722469
+13,D&O MM,Large COV,1.108661162
+13,D&O MM,Cat COV,1.222861158
+13,D&O MM,Large Loss Threshold,750000
+13,D&O MM,Decay Factor,0.9
+13,D&O MM,Target NLR,0.7
+13,D&O MM,NML,0.025
+13,D&O MM,LAE,0
+13,D&O MM,RoC,0.15
+13,D&O MM,Variable Expense,0
+13,D&O MM,Fixed Expense,0
+13,D&O MM,Climate Load,0
+13,EPL MM,Gross Net Att ULR,0.585222603
+13,EPL MM,Gross Net Cat ULR,0.178913977
+13,EPL MM,Total ULR,0.76413658
+13,EPL MM,BP GN Premium,45888000
+13,EPL MM,BP NN Premium,45888000
+13,EPL MM,Net Premium,43339205.17
+13,EPL MM,Net Expense/ GN Premium,0.212897355
+13,EPL MM,Investment Income /GN Premium,0.129768279
+13,EPL MM,RI Premium/GN Premium,5.55E-02
+13,EPL MM,RI Recoveries/ GN Premium,4.23E-02
+13,EPL MM,Capital Required / GN Premium,0.979401058
+13,EPL MM,Att LR,0.278428509
+13,EPL MM,Large LR,0.239250657
+13,EPL MM,Cat LR,0.261377669
+13,EPL MM,Att COV,0.355722469
+13,EPL MM,Large COV,1.108661162
+13,EPL MM,Cat COV,1.222861158
+13,EPL MM,Large Loss Threshold,750000
+13,EPL MM,Decay Factor,0.9
+13,EPL MM,Target NLR,0.7
+13,EPL MM,NML,0.025
+13,EPL MM,LAE,0
+13,EPL MM,RoC,0.15
+13,EPL MM,Variable Expense,0
+13,EPL MM,Fixed Expense,0
+13,EPL MM,Climate Load,0
+13,EPL,Gross Net Att ULR,0.614508296
+13,EPL,Gross Net Cat ULR,0.104064792
+13,EPL,Total ULR,0.718573089
+13,EPL,BP GN Premium,49712515.52
+13,EPL,BP NN Premium,49712515.52
+13,EPL,Net Premium,46679104.53
+13,EPL,Net Expense/ GN Premium,0.169580742
+13,EPL,Investment Income /GN Premium,0.129015981
+13,EPL,RI Premium/GN Premium,6.10E-02
+13,EPL,RI Recoveries/ GN Premium,0.044373692
+13,EPL,Capital Required / GN Premium,0.973723234
+13,EPL,Att LR,0.278428509
+13,EPL,Large LR,0.239250657
+13,EPL,Cat LR,0.261377669
+13,EPL,Att COV,0.355722469
+13,EPL,Large COV,1.108661162
+13,EPL,Cat COV,1.222861158
+13,EPL,Large Loss Threshold,750000
+13,EPL,Decay Factor,0.9
+13,EPL,Target NLR,0.7
+13,EPL,NML,0.025
+13,EPL,LAE,0
+13,EPL,RoC,0.15
+13,EPL,Variable Expense,0
+13,EPL,Fixed Expense,0
+13,EPL,Climate Load,0
+13,Financial Crime,Gross Net Att ULR,0.443187166
+13,Financial Crime,Gross Net Cat ULR,0.024
+13,Financial Crime,Total ULR,0.467187166
+13,Financial Crime,BP GN Premium,12656673.37
+13,Financial Crime,BP NN Premium,12656673.37
+13,Financial Crime,Net Premium,10747614.29
+13,Financial Crime,Net Expense/ GN Premium,0.178361856
+13,Financial Crime,Investment Income /GN Premium,0.116675382
+13,Financial Crime,RI Premium/GN Premium,0.15083419
+13,Financial Crime,RI Recoveries/ GN Premium,7.44E-02
+13,Financial Crime,Capital Required / GN Premium,0.880584945
+13,Financial Crime,Att LR,0.057221744
+13,Financial Crime,Large LR,0.325399552
+13,Financial Crime,Cat LR,0.185617575
+13,Financial Crime,Att COV,0.355722469
+13,Financial Crime,Large COV,1.108661162
+13,Financial Crime,Cat COV,1.222861158
+13,Financial Crime,Large Loss Threshold,750000
+13,Financial Crime,Decay Factor,0.9
+13,Financial Crime,Target NLR,0.7
+13,Financial Crime,NML,0.025
+13,Financial Crime,LAE,0
+13,Financial Crime,RoC,0.15
+13,Financial Crime,Variable Expense,0
+13,Financial Crime,Fixed Expense,0
+13,Financial Crime,Climate Load,0
+13,TMB MM,Gross Net Att ULR,0.596314792
+13,TMB MM,Gross Net Cat ULR,0.024
+13,TMB MM,Total ULR,0.620314792
+13,TMB MM,BP GN Premium,115078489.6
+13,TMB MM,BP NN Premium,115078489.6
+13,TMB MM,Net Premium,95097977.35
+13,TMB MM,Net Expense/ GN Premium,0.126394314
+13,TMB MM,Investment Income /GN Premium,8.33E-02
+13,TMB MM,RI Premium/GN Premium,0.173625083
+13,TMB MM,RI Recoveries/ GN Premium,0.110264014
+13,TMB MM,Capital Required / GN Premium,0.823528445
+13,TMB MM,Att LR,0.057221744
+13,TMB MM,Large LR,0.325399552
+13,TMB MM,Cat LR,0.185617575
+13,TMB MM,Att COV,0.355722469
+13,TMB MM,Large COV,1.108661162
+13,TMB MM,Cat COV,1.222861158
+13,TMB MM,Large Loss Threshold,750000
+13,TMB MM,Decay Factor,0.9
+13,TMB MM,Target NLR,0.7
+13,TMB MM,NML,0.025
+13,TMB MM,LAE,0
+13,TMB MM,RoC,0.15
+13,TMB MM,Variable Expense,0
+13,TMB MM,Fixed Expense,0
+13,TMB MM,Climate Load,0
+13,TMB MM InfoSec,Gross Net Att ULR,0.446679709
+13,TMB MM InfoSec,Gross Net Cat ULR,0.229
+13,TMB MM InfoSec,Total ULR,0.675679709
+13,TMB MM InfoSec,BP GN Premium,220495502.1
+13,TMB MM InfoSec,BP NN Premium,220495502.1
+13,TMB MM InfoSec,Net Premium,182220673.9
+13,TMB MM InfoSec,Net Expense/ GN Premium,0.103419532
+13,TMB MM InfoSec,Investment Income /GN Premium,5.83E-02
+13,TMB MM InfoSec,RI Premium/GN Premium,0.173585528
+13,TMB MM InfoSec,RI Recoveries/ GN Premium,0.117409794
+13,TMB MM InfoSec,Capital Required / GN Premium,0.869721326
+13,TMB MM InfoSec,Att LR,0.146828263
+13,TMB MM InfoSec,Large LR,0.228175491
+13,TMB MM InfoSec,Cat LR,0.258828106
+13,TMB MM InfoSec,Att COV,0.355722469
+13,TMB MM InfoSec,Large COV,1.108661162
+13,TMB MM InfoSec,Cat COV,1.222861158
+13,TMB MM InfoSec,Large Loss Threshold,750000
+13,TMB MM InfoSec,Decay Factor,0.9
+13,TMB MM InfoSec,Target NLR,0.7
+13,TMB MM InfoSec,NML,0.025
+13,TMB MM InfoSec,LAE,0
+13,TMB MM InfoSec,RoC,0.15
+13,TMB MM InfoSec,Variable Expense,0
+13,TMB MM InfoSec,Fixed Expense,0
+13,TMB MM InfoSec,Climate Load,0
+13,US Large Risk Cyber,Gross Net Att ULR,0.267202471
+13,US Large Risk Cyber,Gross Net Cat ULR,0.229
+13,US Large Risk Cyber,Total ULR,0.496202471
+13,US Large Risk Cyber,BP GN Premium,31601182.12
+13,US Large Risk Cyber,BP NN Premium,31601182.12
+13,US Large Risk Cyber,Net Premium,18820276.92
+13,US Large Risk Cyber,Net Expense/ GN Premium,9.75E-02
+13,US Large Risk Cyber,Investment Income /GN Premium,3.99E-02
+13,US Large Risk Cyber,RI Premium/GN Premium,0.404443895
+13,US Large Risk Cyber,RI Recoveries/ GN Premium,0.210728933
+13,US Large Risk Cyber,Capital Required / GN Premium,0.626765216
+13,US Large Risk Cyber,Att LR,0.146828263
+13,US Large Risk Cyber,Large LR,0
+13,US Large Risk Cyber,Cat LR,0.258828106
+13,US Large Risk Cyber,Att COV,0.355722469
+13,US Large Risk Cyber,Large COV,1.108661162
+13,US Large Risk Cyber,Cat COV,1.222861158
+13,US Large Risk Cyber,Large Loss Threshold,750000
+13,US Large Risk Cyber,Decay Factor,0.9
+13,US Large Risk Cyber,Target NLR,0.7
+13,US Large Risk Cyber,NML,0.025
+13,US Large Risk Cyber,LAE,0
+13,US Large Risk Cyber,RoC,0.15
+13,US Large Risk Cyber,Variable Expense,0
+13,US Large Risk Cyber,Fixed Expense,0
+13,US Large Risk Cyber,Climate Load,0
+13,US M&A,Gross Net Att ULR,0.671561696
+13,US M&A,Gross Net Cat ULR,0.024
+13,US M&A,Total ULR,0.695561696
+13,US M&A,BP GN Premium,40327442.51
+13,US M&A,BP NN Premium,40327442.51
+13,US M&A,Net Premium,24839761.82
+13,US M&A,Net Expense/ GN Premium,0.160427903
+13,US M&A,Investment Income /GN Premium,0.052906534
+13,US M&A,RI Premium/GN Premium,0.384048175
+13,US M&A,RI Recoveries/ GN Premium,0.267065076
+13,US M&A,Capital Required / GN Premium,0.946717955
+13,US M&A,Att LR,0.149064677
+13,US M&A,Large LR,0.333906138
+13,US M&A,Cat LR,8.93E-02
+13,US M&A,Att COV,0.355722469
+13,US M&A,Large COV,1.108661162
+13,US M&A,Cat COV,1.222861158
+13,US M&A,Large Loss Threshold,750000
+13,US M&A,Decay Factor,0.9
+13,US M&A,Target NLR,0.7
+13,US M&A,NML,0.025
+13,US M&A,LAE,0
+13,US M&A,RoC,0.15
+13,US M&A,Variable Expense,0
+13,US M&A,Fixed Expense,0
+13,US M&A,Climate Load,0
+13,D&O,Gross Net Att ULR,0.530635875
+13,D&O,Gross Net Cat ULR,0.21276695
+13,D&O,Total ULR,0.743402825
+13,D&O,BP GN Premium,109941072.6
+13,D&O,BP NN Premium,109941072.6
+13,D&O,Net Premium,96219475.66
+13,D&O,Net Expense/ GN Premium,0.171199336
+13,D&O,Investment Income /GN Premium,0.11972846
+13,D&O,RI Premium/GN Premium,0.12480865
+13,D&O,RI Recoveries/ GN Premium,9.30E-02
+13,D&O,Capital Required / GN Premium,1.345169104
+13,D&O,Att LR,7.06E-02
+13,D&O,Large LR,0.287591813
+13,D&O,Cat LR,0.242562332
+13,D&O,Att COV,0.355722469
+13,D&O,Large COV,1.108661162
+13,D&O,Cat COV,1.222861158
+13,D&O,Large Loss Threshold,750000
+13,D&O,Decay Factor,0.9
+13,D&O,Target NLR,0.7
+13,D&O,NML,0.025
+13,D&O,LAE,0
+13,D&O,RoC,0.15
+13,D&O,Variable Expense,0
+13,D&O,Fixed Expense,0
+13,D&O,Climate Load,0
+13,Intl M&A,Gross Net Att ULR,0.671561696
+13,Intl M&A,Gross Net Cat ULR,0.024
+13,Intl M&A,Total ULR,0.695561696
+13,Intl M&A,BP GN Premium,58012187.58
+13,Intl M&A,BP NN Premium,58012187.58
+13,Intl M&A,Net Premium,42258453.23
+13,Intl M&A,Net Expense/ GN Premium,0.179561526
+13,Intl M&A,Investment Income /GN Premium,0.100087787
+13,Intl M&A,RI Premium/GN Premium,0.271559047
+13,Intl M&A,RI Recoveries/ GN Premium,0.188820871
+13,Intl M&A,Capital Required / GN Premium,1.119613745
+13,Intl M&A,Att LR,0.149064677
+13,Intl M&A,Large LR,0.333906138
+13,Intl M&A,Cat LR,8.93E-02
+13,Intl M&A,Att COV,0.355722469
+13,Intl M&A,Large COV,1.108661162
+13,Intl M&A,Cat COV,1.222861158
+13,Intl M&A,Large Loss Threshold,750000
+13,Intl M&A,Decay Factor,0.9
+13,Intl M&A,Target NLR,0.7
+13,Intl M&A,NML,0.025
+13,Intl M&A,LAE,0
+13,Intl M&A,RoC,0.15
+13,Intl M&A,Variable Expense,0
+13,Intl M&A,Fixed Expense,0
+13,Intl M&A,Climate Load,0
+13,Safeguard,Gross Net Att ULR,0.639303012
+13,Safeguard,Gross Net Cat ULR,7.01E-02
+13,Safeguard,Total ULR,0.709403808
+13,Safeguard,BP GN Premium,64152170.27
+13,Safeguard,BP NN Premium,64152170.27
+13,Safeguard,Net Premium,60723398.92
+13,Safeguard,Net Expense/ GN Premium,0.170622465
+13,Safeguard,Investment Income /GN Premium,0.130056317
+13,Safeguard,RI Premium/GN Premium,5.34E-02
+13,Safeguard,RI Recoveries/ GN Premium,3.89E-02
+13,Safeguard,Capital Required / GN Premium,0.981574971
+13,Safeguard,Att LR,0.278428509
+13,Safeguard,Large LR,0.239250657
+13,Safeguard,Cat LR,0.261377669
+13,Safeguard,Att COV,0.355722469
+13,Safeguard,Large COV,1.108661162
+13,Safeguard,Cat COV,1.222861158
+13,Safeguard,Large Loss Threshold,750000
+13,Safeguard,Decay Factor,0.9
+13,Safeguard,Target NLR,0.7
+13,Safeguard,NML,0.025
+13,Safeguard,LAE,0
+13,Safeguard,RoC,0.15
+13,Safeguard,Variable Expense,0
+13,Safeguard,Fixed Expense,0
+13,Safeguard,Climate Load,0
+13,Large Risk International TMB E&O,Gross Net Att ULR,0.600829787
+13,Large Risk International TMB E&O,Gross Net Cat ULR,0.024
+13,Large Risk International TMB E&O,Total ULR,0.624829787
+13,Large Risk International TMB E&O,BP GN Premium,48305841.77
+13,Large Risk International TMB E&O,BP NN Premium,48305841.77
+13,Large Risk International TMB E&O,Net Premium,36244424.09
+13,Large Risk International TMB E&O,Net Expense/ GN Premium,0.121871456
+13,Large Risk International TMB E&O,Investment Income /GN Premium,7.65E-02
+13,Large Risk International TMB E&O,RI Premium/GN Premium,0.249688593
+13,Large Risk International TMB E&O,RI Recoveries/ GN Premium,0.128468262
+13,Large Risk International TMB E&O,Capital Required / GN Premium,0.747726938
+13,Large Risk International TMB E&O,Att LR,0.057221744
+13,Large Risk International TMB E&O,Large LR,0.325399552
+13,Large Risk International TMB E&O,Cat LR,0.185617575
+13,Large Risk International TMB E&O,Att COV,0.355722469
+13,Large Risk International TMB E&O,Large COV,1.108661162
+13,Large Risk International TMB E&O,Cat COV,1.222861158
+13,Large Risk International TMB E&O,Large Loss Threshold,750000
+13,Large Risk International TMB E&O,Decay Factor,0.9
+13,Large Risk International TMB E&O,Target NLR,0.7
+13,Large Risk International TMB E&O,NML,0.025
+13,Large Risk International TMB E&O,LAE,0
+13,Large Risk International TMB E&O,RoC,0.15
+13,Large Risk International TMB E&O,Variable Expense,0
+13,Large Risk International TMB E&O,Fixed Expense,0
+13,Large Risk International TMB E&O,Climate Load,0
+13,TMB Info Sec,Gross Net Att ULR,0.518507865
+13,TMB Info Sec,Gross Net Cat ULR,0.229
+13,TMB Info Sec,Total ULR,0.747507865
+13,TMB Info Sec,BP GN Premium,173162311
+13,TMB Info Sec,BP NN Premium,173162311
+13,TMB Info Sec,Net Premium,137389192
+13,TMB Info Sec,Net Expense/ GN Premium,9.51E-02
+13,TMB Info Sec,Investment Income /GN Premium,5.65E-02
+13,TMB Info Sec,RI Premium/GN Premium,0.206587212
+13,TMB Info Sec,RI Recoveries/ GN Premium,0.151714037
+13,TMB Info Sec,Capital Required / GN Premium,0.834990245
+13,TMB Info Sec,Att LR,0.146828263
+13,TMB Info Sec,Large LR,0.228175491
+13,TMB Info Sec,Cat LR,0.258828106
+13,TMB Info Sec,Att COV,0.355722469
+13,TMB Info Sec,Large COV,1.108661162
+13,TMB Info Sec,Cat COV,1.222861158
+13,TMB Info Sec,Large Loss Threshold,750000
+13,TMB Info Sec,Decay Factor,0.9
+13,TMB Info Sec,Target NLR,0.7
+13,TMB Info Sec,NML,0.025
+13,TMB Info Sec,LAE,0
+13,TMB Info Sec,RoC,0.15
+13,TMB Info Sec,Variable Expense,0
+13,TMB Info Sec,Fixed Expense,0
+13,TMB Info Sec,Climate Load,0
+13,TMB E&O,Gross Net Att ULR,0.52275641
+13,TMB E&O,Gross Net Cat ULR,0.024
+13,TMB E&O,Total ULR,0.54675641
+13,TMB E&O,BP GN Premium,68176369.37
+13,TMB E&O,BP NN Premium,68176369.37
+13,TMB E&O,Net Premium,51624571.57
+13,TMB E&O,Net Expense/ GN Premium,0.11935273
+13,TMB E&O,Investment Income /GN Premium,7.72E-02
+13,TMB E&O,RI Premium/GN Premium,0.242779103
+13,TMB E&O,RI Recoveries/ GN Premium,0.134271041
+13,TMB E&O,Capital Required / GN Premium,0.754612628
+13,TMB E&O,Att LR,0.057221744
+13,TMB E&O,Large LR,0.325399552
+13,TMB E&O,Cat LR,0.185617575
+13,TMB E&O,Att COV,0.355722469
+13,TMB E&O,Large COV,1.108661162
+13,TMB E&O,Cat COV,1.222861158
+13,TMB E&O,Large Loss Threshold,750000
+13,TMB E&O,Decay Factor,0.9
+13,TMB E&O,Target NLR,0.7
+13,TMB E&O,NML,0.025
+13,TMB E&O,LAE,0
+13,TMB E&O,RoC,0.15
+13,TMB E&O,Variable Expense,0
+13,TMB E&O,Fixed Expense,0
+13,TMB E&O,Climate Load,0
+13,Covers International,Gross Net Att ULR,0.438715974
+13,Covers International,Gross Net Cat ULR,0.226307303
+13,Covers International,Total ULR,0.665023277
+13,Covers International,BP GN Premium,62101175.02
+13,Covers International,BP NN Premium,62101175.02
+13,Covers International,Net Premium,59762663.84
+13,Covers International,Net Expense/ GN Premium,0.124844265
+13,Covers International,Investment Income /GN Premium,0.083279728
+13,Covers International,RI Premium/GN Premium,0
+13,Covers International,RI Recoveries/ GN Premium,0
+13,Covers International,Capital Required / GN Premium,0.305910708
+13,Covers International,Att LR,0.473426022
+13,Covers International,Large LR,0.118
+13,Covers International,Cat LR,0.069
+13,Covers International,Att COV,0.209965459
+13,Covers International,Large COV,0.4118254
+13,Covers International,Cat COV,1.810134798
+13,Covers International,Large Loss Threshold,250000
+13,Covers International,Decay Factor,0.9
+13,Covers International,Target NLR,0.7
+13,Covers International,NML,0.045
+13,Covers International,LAE,0.075
+13,Covers International,RoC,0.15
+13,Covers International,Variable Expense,0
+13,Covers International,Fixed Expense,0
+13,Covers International,Climate Load,0.006

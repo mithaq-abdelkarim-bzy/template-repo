@@ -1,0 +1,225 @@
+Division,Department,Trifocus,Benchmark Class,Business Plan MI Group,Business Plan Class,Reserving Class,ST/LT
+Cyber Risks,Specialty Lines,BBR Services (exc PE),BBR Services MM,TMB Cyber,TMB Info Sec,BBR Services MM,ST
+Cyber Risks,Specialty Lines,BBR Services Int (exc PE),Large Risk International TMB Info Sec,TMB Cyber,Large Risk International TMB Info Sec,BBR Services MM,ST
+Cyber Risks,Specialty Lines,BICI BBR Services MM,BBR Services MM,TMB Cyber,TMB MM InfoSec,US BBR Services MM,ST
+Cyber Risks,Specialty Lines,BICI MM Large Risk Cyber,US Large Risk Cyber,TMB Large Risk Cyber,US Large Risk Cyber,US MM Large Risk Cyber,ST
+Cyber Risks,Specialty Lines,BICI MM TMB Services Net,TMB MM InfoSec,TMB Cyber,TMB MM InfoSec,US TMB US Info Sec,ST
+Cyber Risks,Specialty Lines,BICI TMB US E&O,TMB MM,TMB E&O,TMB MM,US TMB US E&O,ST
+Cyber Risks,Specialty Lines,BICI TMB US Info Sec,TMB MM InfoSec,TMB Cyber,TMB MM InfoSec,US TMB US Info Sec,ST
+Cyber Risks,Specialty Lines,BICI US InfoSec MM BBR,TMB MM InfoSec,TMB Cyber,TMB MM InfoSec,US TMB US Info Sec,ST
+Cyber Risks,Specialty Lines,BUSA BBR Services MM,BBR Services MM,TMB Cyber,TMB MM InfoSec,US BBR Services MM,ST
+Cyber Risks,Specialty Lines,BUSA MM Large Risk Cyber,US Large Risk Cyber,TMB Large Risk Cyber,US Large Risk Cyber,US MM Large Risk Cyber,ST
+Cyber Risks,Specialty Lines,BUSA MM TMB Services Net,TMB MM InfoSec,TMB Cyber,TMB MM InfoSec,US TMB US Info Sec,ST
+Cyber Risks,Specialty Lines,BUSA TMB US E&O,TMB MM,TMB E&O,TMB MM,US TMB US E&O,ST
+Cyber Risks,Specialty Lines,BUSA TMB US Info Sec,TMB MM InfoSec,TMB Cyber,TMB MM InfoSec,US TMB US Info Sec,ST
+Cyber Risks,Specialty Lines,BUSA US InfoSec MM BBR,TMB MM InfoSec,TMB Cyber,TMB MM InfoSec,US TMB US Info Sec,ST
+Cyber Risks,Specialty Lines,TMB INT InfoSec MM BBR,Large Risk International TMB Info Sec,TMB Cyber,Large Risk International TMB Info Sec,TMB Int Info Sec,ST
+Cyber Risks,Specialty Lines,TMB INT Large Risk Cyber,US Large Risk Cyber,TMB Large Risk Cyber,US Large Risk Cyber,Large Risk Cyber Int,ST
+Cyber Risks,Specialty Lines,TMB Large Risk Cyber,US Large Risk Cyber,TMB Large Risk Cyber,US Large Risk Cyber,Large Risk Cyber,ST
+Cyber Risks,Specialty Lines,TMB Large Risk Int,Large Risk International TMB E&O,TMB E&O,Large Risk International TMB E&O,TMB Large Risk Int,ST
+Cyber Risks,Specialty Lines,TMB LargeRisk Int InfoSec,Large Risk International TMB Info Sec,TMB Cyber,Large Risk International TMB Info Sec,TMB Int Info Sec,ST
+Cyber Risks,Specialty Lines,TMB MM,TMB MM,TMB E&O,TMB MM,TMB UK Tech,ST
+Cyber Risks,Specialty Lines,TMB MM InfoSec,TMB MM InfoSec,TMB Cyber,TMB MM InfoSec,Unknown,ST
+Cyber Risks,Specialty Lines,TMB UK Info Sec,TMB Info Sec,TMB Cyber,TMB Info Sec,TMB Info Sec,ST
+Cyber Risks,Specialty Lines,TMB UK InfoSec MM BBR,TMB Info Sec,TMB Cyber,TMB Info Sec,TMB Info Sec,ST
+Cyber Risks,Specialty Lines,TMB UK Tech,TMB E&O,TMB E&O,TMB E&O,TMB UK Tech,ST
+Digital,Beazley Digital,BBR Services Int PE,eTrading BBR,Global PE BBR,eTrading BBR,BBR Services PE,LT
+Digital,Beazley Digital,BBR Services PE,US PE London BBR,Global PE BBR,US PE London BBR,BBR Services PE,LT
+Digital,Beazley Digital,BICI BBR Services PE,Digital US Cyber,Digital Cyber,US BBR PE,US BBR Services PE,ST
+Digital,Beazley Digital,BICI TMB PE,Digital US Tech,Digital Casualty,TMB PE,US TMB PE,ST
+Digital,Beazley Digital,BICI TMB PE US Info Sec,Digital US Cyber,Digital Cyber,US PE Cyber,US TMB PE US Info Sec,ST
+Digital,Beazley Digital,BUSA BBR Services PE,Digital US Cyber,Digital Cyber,US BBR PE,US BBR Services PE,ST
+Digital,Beazley Digital,BUSA TMB PE,Digital US Tech,Digital Casualty,TMB PE,US TMB PE,ST
+Digital,Beazley Digital,BUSA TMB PE US Info Sec,Digital US Cyber,Digital Cyber,US PE Cyber,US TMB PE US Info Sec,ST
+Digital,Beazley Digital,Intl US PE London BBR Srv,US PE London BBR,Global PE BBR,US PE London BBR,BBR Services PE,LT
+Digital,Beazley Digital,TMB PE Int,Digital Int Package,Digital Casualty,eTrading,TMB PE Int,ST
+MAP Risks,Marine,Aviation Liab,Aviation Liab,Aviation,Aviation Liab,Aviation Liab,ST
+MAP Risks,Marine,Aviation PD,Aviation PD,Aviation,Aviation PD,Aviation PD,ST
+MAP Risks,Marine,BICI Cargo,Cargo,Cargo,Cargo,BICI Cargo,ST
+MAP Risks,Marine,BICI Falvey,Cargo,Cargo,Cargo,BICI Falvey,ST
+MAP Risks,Marine,BICI Hull,US Marine,Hull,Hull,BICI Hull,ST
+MAP Risks,Marine,BICI Inland Marine,US Marine,Marine Libs,Marine Libs,BICI Inland Marine,ST
+MAP Risks,Marine,BICI Marine,US Marine,Marine Libs,Marine Libs,BICI Marine,ST
+MAP Risks,Marine,BICI Marine Liab,US Marine,Marine Libs,Marine Libs,BICI Marine Liab,ST
+MAP Risks,Marine,BSOL Pleasure Craft,Hull,Hull,BSOL Pleasure Craft,Cargo,ST
+MAP Risks,Marine,BUSA Cargo,Cargo,Cargo,Cargo,BUSA Cargo,ST
+MAP Risks,Marine,BUSA Hull,Hull,Hull,Hull,BUSA Hull,ST
+MAP Risks,Marine,BUSA Marine Liab,Marine Libs,Marine Libs,Marine Libs,BUSA Marine Liab,ST
+MAP Risks,Marine,Cargo,Cargo,Cargo,Cargo,Cargo,ST
+MAP Risks,Marine,Downhole,Downhole,Hull,Downhole,Downhole,ST
+MAP Risks,Marine,Energy Liab and CAS,Energy Liab and Cas,Energy,Energy Liab and Cas,Energy Liab and Cas,ST
+MAP Risks,Marine,Energy PD,Energy PD,Energy,Energy PD,Energy PD,ST
+MAP Risks,Marine,Hull,Hull,Hull,Hull,Hull,ST
+MAP Risks,Marine,Marine Libs,Marine Libs,Marine Libs,Marine Libs,Marine Libs,ST
+MAP Risks,Marine,Marine Misc,Marine Misc,Hull,Marine Misc,Marine Misc,ST
+MAP Risks,Marine,Satellite,Satellite,Aviation,Satellite,Satellite,ST
+MAP Risks,Marine,Trucking Liab,Marine Libs,Marine Libs,Marine Libs,Trucking Liab,ST
+MAP Risks,Marine,UK Marine,Hull,Hull,Hull,UK Marine,ST
+MAP Risks,Marine,War,War,War,War,War,ST
+MAP Risks,"Life, Accident & Health",AIP,BICI A&H PA,Accident,BICI A&H PA,BICI A&H PA,ST
+MAP Risks,"Life, Accident & Health",BICI A&H PA,BICI A&H PA,Accident,BICI A&H PA,BICI A&H PA,ST
+MAP Risks,PCG,BICI Contingency,Contingency,Contingency,Contingency,Contingency Total,ST
+MAP Risks,PCG,BICI Political,Political,Political,Political,Political Total,ST
+MAP Risks,PCG,BUSA Contingency,Contingency,Contingency,Contingency,Contingency Total,ST
+MAP Risks,PCG,BUSA Political,Political,Political,Political,Political Total,ST
+MAP Risks,PCG,BUSA Terrorism,Terrorism,Terrorism,Terrorism,Terrorism Total,ST
+MAP Risks,PCG,Contingency,Contingency,Contingency,Contingency,Contingency Total,ST
+MAP Risks,PCG,Contingency Consortium,Contingency,Contingency,Contingency,Contingency Total,ST
+MAP Risks,"Life, Accident & Health",Income Protection,BICI A&H PA,Accident,BICI A&H PA,Income Protection,ST
+MAP Risks,PAC,Kidnap & Ransom,Terrorism,Terrorism,Terrorism,Kidnap & Ransom,ST
+MAP Risks,"Life, Accident & Health",Life Direct,Life Direct,Life,Life Direct,Life,ST
+MAP Risks,"Life, Accident & Health",Life Reinsurance,Life Reinsurance,Life,Life Reinsurance,Life,ST
+MAP Risks,"Life, Accident & Health",PA Direct,PA Direct,Accident,PA Direct,PA Direct Cat,ST
+MAP Risks,"Life, Accident & Health",PA Direct Australia,PA Direct,Accident,PA Direct,PA Direct Australia,ST
+MAP Risks,"Life, Accident & Health",PA Direct London,PA Direct,Accident,PA Direct,PA Direct London,ST
+MAP Risks,"Life, Accident & Health",PA Reinsurance,PA reinsurance,Accident,PA Reinsurance,PA RI London,ST
+MAP Risks,"Life, Accident & Health",PA RI Cat,PA reinsurance,Accident,PA Reinsurance,PA RI Cat,ST
+MAP Risks,"Life, Accident & Health",PA RI Prop and CH,PA reinsurance,Accident,PA Reinsurance,PA RI Prop and CH,ST
+MAP Risks,PCG,PCG Kidnap & Ransom,Terrorism,Terrorism,Terrorism,Terrorism Total,ST
+MAP Risks,PCG,Political,Political,Political,Political,Political Total,ST
+MAP Risks,"Life, Accident & Health",Sports,Sports,Accident,Sports,PA Direct London,ST
+MAP Risks,PCG,Stand Alone Terrorism,Terrorism,Terrorism,Terrorism,Terrorism Total,ST
+Property Risks,Property,BICI Engineering,Open Market,Commercial Property,Open Market,BICI Engineering,ST
+Property Risks,Property,BICI Property,E&S Property,US E&S Property,E&S Property,BICI Property,ST
+Property Risks,Property,BICI SE BOP Property,Package,US E&S Property,Package,BICI SE BOP Property,ST
+Property Risks,Property,BICI SE General Liab,Package,US E&S Property,Package,BICI SE General Liab,ST
+Property Risks,Property,BUSA Commercial,E&S Property,US E&S Property,E&S Property,BUSA Commercial,ST
+Property Risks,Property,BUSA E&S CP,E&S Property,US E&S Property,E&S Property,BUSA E&S MM,ST
+Property Risks,Property,BUSA E&S MM,E&S Property,US E&S Property,E&S Property,BUSA E&S MM,ST
+Property Risks,Property,BUSA E&S Small,E&S Property,US E&S Property,E&S Property,BUSA E&S Small,ST
+Property Risks,Property,BUSA Engineering,Open Market,Commercial Property,Open Market,BUSA Engineering,ST
+Property Risks,Property,BUSA Homeowners,E&S Homeowners,US E&S Property,E&S Homeowners,BUSA Homeowners,ST
+Property Risks,Property,BUSA OM LCP,Open Market,Commercial Property,Open Market,BUSA OM LCP,ST
+Property Risks,Property,BUSA SE BOP Gen Liab,Package,US E&S Property,Package,BUSA SE BOP Gen Liab,ST
+Property Risks,Property,BUSA SE BOP Property,Package,US E&S Property,Package,BUSA SE BOP Property,ST
+Property Risks,Property,BUSA SE General Liab,Package,US E&S Property,Package,BUSA SE General Liab,ST
+Property Risks,Property,Covers,Covers,Covers,Covers,Covers,ST
+Property Risks,Property,Covers International,Covers International,Covers International,Covers International,Covers International,ST
+Property Risks,Property,Covers US,Covers,Covers,Covers,Covers,ST
+Property Risks,Property,Engineering,Open Market,Commercial Property,Open Market,Engineering,ST
+Property Risks,Property,Fine Art and Specie,Specie,JFAS,Specie,Fine Art and Specie,ST
+Property Risks,Property,FS Core - Atlanta,E&S Property,US E&S Property,E&S Property,BUSA E&S MM,ST
+Property Risks,Property,FS Core - Boston,E&S Property,US E&S Property,E&S Property,BUSA E&S MM,ST
+Property Risks,Property,FS Core - Chicago,E&S Property,US E&S Property,E&S Property,BUSA E&S MM,ST
+Property Risks,Property,FS Core - New York,E&S Property,US E&S Property,E&S Property,BUSA E&S MM,ST
+Property Risks,Property,FS Core - San Francisco,E&S Property,US E&S Property,E&S Property,BUSA E&S MM,ST
+Property Risks,Property,Homeowners,Swiss,JFAS,Swiss,Homeowners,ST
+Property Risks,Property,Jewellers,Jewellers,JFAS,Jewellers,Jewellers,ST
+Property Risks,Property,Motor,Motor,Covers,Covers,Motor,ST
+Property Risks,Property,Open Market,Open Market,Commercial Property,Open Market,Open Market,ST
+Property Risks,Property,Package,Package,US E&S Property,Package,Package,ST
+Property Risks,Property,SBC,Open Market,Commercial Property,Open Market,SBC,ST
+Property Risks,Property,Private Clients,Swiss,JFAS,Swiss,Swiss,ST
+Property Risks,Property,Swiss,Swiss,JFAS,Swiss,Swiss,ST
+Specialty Risks,Specialty Lines,BICI CommercialCrime,Commercial Crime,TMB E&O,Commercial Crime,US Crime,ST
+Specialty Risks,Specialty Lines,BICI D&O MM,D&O MM,Management Liability - D&O,D&O MM,US D&O MM,LT
+Specialty Risks,Specialty Lines,BICI EPL MM,EPL MM,Management Liability - EPL,EPL MM,US EPL MM,LT
+Specialty Risks,Specialty Lines,BICI EPL PE,EPL,Management Liability - EPL,EPL,US EPL PE,LT
+Specialty Risks,Specialty Lines,BICI Financial Crime,Financial Crime,TMB E&O,Financial Crime,US Crime,ST
+Specialty Risks,CyEx,BUSA BPS EPL,BPS,Treaty (Specialty),BPS,US Specialty Embedded,ST
+Specialty Risks,Specialty Lines,BUSA CommercialCrime,Commercial Crime,TMB E&O,Commercial Crime,US Crime,ST
+Specialty Risks,Specialty Lines,BUSA D&O MM,D&O MM,Management Liability - D&O,D&O MM,US D&O MM,LT
+Specialty Risks,Specialty Lines,BUSA EPL MM,EPL MM,Management Liability - EPL,EPL MM,US EPL MM,LT
+Specialty Risks,Specialty Lines,BUSA EPL PE,EPL,Management Liability - EPL,EPL,US EPL PE,LT
+Specialty Risks,Specialty Lines,BUSA Financial Crime,Financial Crime,TMB E&O,Financial Crime,US Crime,ST
+Specialty Risks,Specialty Lines,BUSA Safeguard,EPL MM,Management Liability - D&O,EPL,US EPL MM,LT
+Specialty Risks,Specialty Lines,BUSA Transaction Liab,US M&A,M&A,US M&A,US Transaction Liability,LT
+Specialty Risks,Specialty Lines,Crime,Commercial Crime,TMB E&O,Commercial Crime,Crime Total,ST
+Specialty Risks,Specialty Lines,D&O,D&O,Management Liability - D&O,D&O,D&O,LT
+Specialty Risks,Specialty Lines,D&O Large Risk Int,D&O,Management Liability - D&O,D&O,D&O,LT
+Specialty Risks,Specialty Lines,EPL,EPL,Management Liability - EPL,EPL,EPL,LT
+Specialty Risks,Specialty Lines,Intl Crime,Financial Crime,TMB E&O,Financial Crime,Crime Total,ST
+Specialty Risks,Specialty Lines,Intl R&W,Intl M&A,M&A,Intl M&A,Transaction Liability,LT
+Specialty Risks,Specialty Lines,Rep Risk,D&O,Management Liability - D&O,D&O,D&O,LT
+Specialty Risks,Specialty Lines,Rep Risk Int,D&O,Management Liability - D&O,D&O,International ML,LT
+Specialty Risks,Specialty Lines,REPS & WARRANTIES,US M&A,M&A,US M&A,Transaction Liability,LT
+Specialty Risks,Specialty Lines,Safeguard,Safeguard,Management Liability - EPL,Safeguard,EPL,LT
+Specialty Risks,Specialty Lines,Safeguard UK,Safeguard,Management Liability - EPL,EPL,EPL,LT
+Specialty Risks,Specialty Lines,BBR Services Embedded,BPS - BBR,Treaty (Specialty),BPS - BBR,BBR Services Embedded,LT
+Specialty Risks,Specialty Lines,BBR Services Int Embedded,BPS - BBR,Treaty (Specialty),BPS - BBR,BBR Services Embedded,LT
+Specialty Risks,Specialty Lines,BICI A&E MM,US - A&E MM,Professions - A&E,US - A&E MM,US A&E Total,LT
+Specialty Risks,Specialty Lines,BICI A&E PE,US - A&E MM,Professions - A&E,US - A&E MM,US A&E Total,LT
+Specialty Risks,Specialty Lines,BICI BEAZLEY HEALTHCARE,Healthcare Misc,Healthcare,Healthcare Misc,US LTC MM,LT
+Specialty Risks,Specialty Lines,BICI Environmental CM,Environmental,Environmental,Environmental Claims Made,US Environmental,LT
+Specialty Risks,Specialty Lines,BICI Environmental FS,Environmental,Environmental,Environmental Fixed Site,US Environmental,LT
+Specialty Risks,Specialty Lines,BICI Environmental Occ,Environmental,Environmental,Environmental Occurrence,US Environmental,LT
+Specialty Risks,Specialty Lines,BICI Healthcare ML,Healthcare ML,Healthcare,Healthcare ML,US Healthcare ML,LT
+Specialty Risks,Specialty Lines,BICI HEALTHCARE MM,Healthcare Misc,Healthcare,Healthcare Misc,US Med Misc MM,LT
+Specialty Risks,Specialty Lines,BICI Lawyers MM,Lawyers,Professions - Lawyers,Lawyers,US Lawyers MM,LT
+Specialty Risks,Specialty Lines,BICI Misc Med PE,Misc Med PE,Global PE E&O,Misc Med PE,US Med Misc PE,LT
+Specialty Risks,Specialty Lines,BICI MM Health Occurrence,Healthcare Misc,Healthcare,Healthcare Misc,US Med Misc MM,LT
+Specialty Risks,Specialty Lines,BICI Specialty Embedded,BPS,Treaty (Specialty),BPS,US Specialty Embedded,LT
+Specialty Risks,Specialty Lines,BICI Specialty Surety,Surety,Treaty (Specialty),Surety,US Specialty Surety,LT
+Specialty Risks,Specialty Lines,BICI US PROGRAMMES,US Programmes,Global PE E&O,US Programmes,US US Programmes,LT
+Specialty Risks,Specialty Lines,BUSA A&E MM,US - A&E MM,Professions - A&E,US - A&E MM,US A&E Total,LT
+Specialty Risks,Specialty Lines,BUSA A&E OPPI,US - A&E MM,Professions – A&E,US - A&E MM,US OPPI,LT
+Specialty Risks,Specialty Lines,BUSA A&E PE,US - A&E MM,Professions - A&E,US - A&E MM,US A&E Total,LT
+Specialty Risks,Specialty Lines,BUSA Beazley Healthcare,Healthcare Misc,Healthcare,Healthcare Misc,US LTC MM,LT
+Specialty Risks,Specialty Lines,BUSA BPS BBR,BPS - BBR,Treaty (Specialty),BPS - BBR,US Specialty Embedded,LT
+Specialty Risks,Specialty Lines,BUSA BPS Enviro,BPS,Treaty (Specialty),BPS,US Specialty Embedded,LT
+Specialty Risks,Specialty Lines,BUSA Environmental,Environmental,Environmental,Environmental Claims Made,US Environmental,LT
+Specialty Risks,Specialty Lines,BUSA Environmental CM,Environmental,Environmental,Environmental Claims Made,US Environmental,LT
+Specialty Risks,Specialty Lines,BUSA Environmental FS,Environmental,Environmental,Environmental Fixed Site,US Environmental,LT
+Specialty Risks,Specialty Lines,BUSA Environmental Occ,Environmental,Environmental,Environmental Occurrence,US Environmental,LT
+Specialty Risks,Specialty Lines,BUSA Healthcare ML,Healthcare ML,Healthcare,Healthcare ML,US Healthcare ML,LT
+Specialty Risks,Specialty Lines,BUSA Healthcare MM,Healthcare Misc,Healthcare,Healthcare Misc,US Med Misc MM,LT
+Specialty Risks,Specialty Lines,BUSA Lawyers MM,Lawyers,Professions - Lawyers,Lawyers,US Lawyers MM,LT
+Specialty Risks,Specialty Lines,BUSA Life Sciences,Healthcare Misc,Healthcare,Healthcare Misc,Life Sciences,LT
+Specialty Risks,Specialty Lines,BUSA Life Sciences Occ,Healthcare Misc,Healthcare,Healthcare Misc,Life Sciences,LT
+Specialty Risks,Specialty Lines,BUSA Misc Med PE,Misc Med PE,Global PE E&O,Misc Med PE,US Med Misc PE,LT
+Specialty Risks,Specialty Lines,BUSA MM Health Occurrence,Healthcare Misc,Healthcare,Healthcare Misc,US Med Misc MM,LT
+Specialty Risks,Specialty Lines,BUSA PE Media,Media,Global PE E&O,Media,US PE Media,LT
+Specialty Risks,Specialty Lines,BUSA Recall,Recall US,Global PE E&O,Recall,US Recall,LT
+Specialty Risks,Specialty Lines,BUSA Specialty Surety,Surety,Treaty (Specialty),Surety,US Specialty Surety,LT
+Specialty Risks,Specialty Lines,BUSA US Programmes,US Programmes,Global PE E&O,US Programmes,US US Programmes,LT
+Specialty Risks,Specialty Lines,Chicago Healthcare,Healthcare Misc,Healthcare,Healthcare Misc,Healthcare Misc Med,LT
+Specialty Risks,Specialty Lines,Construction (Prof Liab),London - A&E,Professions - A&E,London - A&E,PI A&E Large,LT
+Specialty Risks,Specialty Lines,DIN US Lawyers,DIN US Lawyers,Professions - Lawyers,DIN US Lawyers,DIN US Lawyers,LT
+Specialty Risks,Specialty Lines,Environmental Claims Made,Environmental,Environmental,Environmental Claims Made,Environmental Total,LT
+Specialty Risks,Specialty Lines,Environmental Fixed Site,Environmental,Environmental,Environmental Fixed Site,Environmental Total,LT
+Specialty Risks,Specialty Lines,Environmental Occurrence,Environmental,Environmental,Environmental Occurrence,Environmental Total,LT
+Specialty Risks,Specialty Lines,Financial Institutions,Financial Institutions,Financial Lines,Financial Institutions,Financial Institutions,LT
+Specialty Risks,Specialty Lines,Healthcare,Hospitals,Healthcare,Hospitals,Healthcare Hospitals,LT
+Specialty Risks,Specialty Lines,Healthcare Large Risk Int,Large Risk International Healthcare,Healthcare,Large Risk International Healthcare,Healthcare Large Risk Int,LT
+Specialty Risks,Specialty Lines,Healthcare-Hospitals,Hospitals,Healthcare,Hospitals,Healthcare Hospitals,LT
+Specialty Risks,Specialty Lines,Healthcare-Misc Med,Healthcare Misc,Healthcare,Healthcare Misc,Healthcare Misc Med,LT
+Specialty Risks,Specialty Lines,HML UK,Healthcare ML,Healthcare,Healthcare ML,HML UK,LT
+Specialty Risks,Specialty Lines,International,PE Delegated Authority,Global PE E&O,PE Delegated Authority,UK & International,LT
+Specialty Risks,Specialty Lines,International ML,International ML,Financial Lines,International ML,International ML,LT
+Specialty Risks,Specialty Lines,Intl A&E Large,London - A&E,Professions - A&E,London - A&E,PI A&E Large,LT
+Specialty Risks,Specialty Lines,Intl Construction,London - A&E,Professions - A&E,London - A&E,PI A&E Large,LT
+Specialty Risks,Specialty Lines,Intl Environmental CM,Environmental,Environmental,Environmental Claims Made,Environmental Total,LT
+Specialty Risks,Specialty Lines,Intl Environmental FS,Environmental,Environmental,Environmental Fixed Site,Environmental Total,LT
+Specialty Risks,Specialty Lines,Intl Environmental Occ,Environmental,Environmental,Environmental Occurrence,Environmental Total,LT
+Specialty Risks,Specialty Lines,Intl Lawyers,Lawyers,Professions - Lawyers,Lawyers,Lawyers MM,LT
+Specialty Risks,Specialty Lines,Intl Life Sciences,Large Risk International Healthcare,Healthcare,Large Risk International Healthcare,Healthcare Large Risk Int,LT
+Specialty Risks,Specialty Lines,Intl Life Sciences OCC,Large Risk International Healthcare,Healthcare,Large Risk International Healthcare,Healthcare Large Risk Int,LT
+Specialty Risks,Specialty Lines,Intl PE Regions,eTrading,Global PE E&O,eTrading,TMB PE Int,LT
+Specialty Risks,Specialty Lines,Intl PI A&E Small,London - A&E,Professions - A&E,London - A&E,PI A&E MM,LT
+Specialty Risks,Specialty Lines,Intl Specialty (PT),Specialty (PT),Treaty (Specialty),Specialty (PT),Specialty PT,LT
+Specialty Risks,Specialty Lines,Intl Specialty Embedded,BPS - BBR,Treaty (Specialty),BPS - BBR,Specialty Embedded,LT
+Specialty Risks,Specialty Lines,Intl Specialty Surety,Surety,Treaty (Specialty),Surety,Specialty Surety,LT
+Specialty Risks,Specialty Lines,Intl US PE London,US PE London,Global PE E&O,US PE London,US PE London,LT
+Specialty Risks,Specialty Lines,Legacy,Healthcare Misc,Healthcare,Healthcare Misc,Legacy,LT
+Specialty Risks,Specialty Lines,Life Sciences Occ,Healthcare Misc,Healthcare,Healthcare Misc,Healthcare Misc Med,LT
+Specialty Risks,Specialty Lines,Medical,PA Direct,Accident,PA Direct,PA,LT
+Specialty Risks,Specialty Lines,Mid Market Lawyers,Lawyers,Professions - Lawyers,Lawyers,Lawyers MM,LT
+Specialty Risks,Specialty Lines,PE Intl Healthcare,PE International Healthcare,Global PE E&O,PE International Healthcare,PE Intl Healthcare,LT
+Specialty Risks,Specialty Lines,PE Media Intl,Media,Global PE E&O,Media,PE Media,LT
+Specialty Risks,Specialty Lines,PE Media US,Media,Global PE E&O,Media,PE Media,LT
+Specialty Risks,Specialty Lines,PI A&E Small,London - A&E,Professions - A&E,London - A&E,PI A&E MM,LT
+Specialty Risks,Specialty Lines,PI-A&E exBLPT,London - A&E,Professions - A&E,London - A&E,PI A&E Large,LT
+Specialty Risks,Specialty Lines,PI-BI exBLPT,PE Delegated Authority,Global PE E&O,PE Delegated Authority,Legacy PE,LT
+Specialty Risks,Specialty Lines,PI-Ins Brokers exBLPT,Lawyers,Professions - Lawyers,Lawyers,PI Ins Brokers exBLPT,LT
+Specialty Risks,Specialty Lines,PI-Lawyers exBLPT,Lawyers,Professions - Lawyers,Lawyers,PI Lawyers exBLPT,LT
+Specialty Risks,Specialty Lines,PI-Other exBLPT,Lawyers,Professions - Lawyers,Lawyers,PI Ins Brokers exBLPT,LT
+Specialty Risks,Specialty Lines,Recall,Recall US,Global PE E&O,Recall,Recall,LT
+Specialty Risks,Specialty Lines,Recall US,Recall US,Global PE E&O,Recall US,US Recall,LT
+Specialty Risks,Specialty Lines,Specialty (PT),Specialty (PT),Treaty (Specialty),Specialty (PT),Specialty PT,LT
+Specialty Risks,Specialty Lines,Specialty Embedded,BPS,Treaty (Specialty),BPS,Specialty Embedded,LT
+Specialty Risks,Specialty Lines,Specialty exPT,US Programmes,Global PE E&O,US Programmes,Legacy PE,LT
+Specialty Risks,Specialty Lines,Specialty Surety,Surety,Treaty (Specialty),Surety,Specialty Surety,LT
+Specialty Risks,Specialty Lines,UK,PE Delegated Authority,Global PE E&O,PE Delegated Authority,UK & International,LT
+Specialty Risks,Specialty Lines,US Life Sciences,Healthcare Misc,Healthcare,Healthcare Misc,Healthcare Misc Med,LT
+Specialty Risks,Specialty Lines,US PE London,US PE London,Global PE E&O,US PE London,US PE London,LT
+Specialty Risks,Specialty Lines,US Programmes,US Programmes,Global PE E&O,US Programmes,Legacy PE,LT

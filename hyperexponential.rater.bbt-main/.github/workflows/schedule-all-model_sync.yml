@@ -1,0 +1,53 @@
+name: Scheduled - All - Model Sync
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+ 
+on:
+  schedule:
+    #Every 60 minutes, between 08:00 AM and 09:59 PM, Monday through Friday
+    - cron: '*/60 8-21 * * MON-FRI'
+
+jobs:
+
+  refresh-source-files:
+    strategy:
+      matrix:
+        environment: ["us-dev", "us-tst", "us-prd"]
+      fail-fast: false
+    name: refresh-source-files - ${{ matrix.environment }}
+    uses: beazley/hyperexponential.rater.shared_workflows/.github/workflows/reusable-all-get_model_source_files.yml@main
+    with:
+      ENVIRONMENT: ${{ matrix.environment }}
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}
+
+  dev-model-movement-checks:
+    if: ${{ needs.refresh-source-files.outputs.dev_newly_marked_for_testing == 'True' }}
+    needs: refresh-source-files
+    uses: beazley/hyperexponential.rater.shared_workflows/.github/workflows/reusable-dev-model-movement-checks.yml@main
+    with:
+      BRANCH_DEV: "us-dev"
+      BRANCH_TST: "us-tst"
+      BRANCH_PREPROD: "us-pre-prod"
+    secrets:
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}
+      READ_GITHUB_PACKAGE_PAT:  ${{ secrets.READ_GITHUB_PACKAGE_PAT }}
+      HX_MODEL_MOVEMENT_AZURE_AD_USERNAME: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_USERNAME }}
+      HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD }}
+      EMAIL_AZURE_AD_CLIENTSECRET: ${{ secrets.EMAIL_AZURE_AD_CLIENTSECRET }}
+
+  get-pending-model-releases:
+    if: ${{ needs.refresh-source-files.outputs.prod_pending_changes == 'True' }}
+    needs: refresh-source-files
+    uses: beazley/hyperexponential.rater.shared_workflows/.github/workflows/reusable-prod-get_pending_model_releases.yml@main
+    with:
+      ENVIRONMENT: "us-prd"
+      BRANCH_PROD: "us-prd"
+      BRANCH_PREPROD: "us-pre-prod"
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}

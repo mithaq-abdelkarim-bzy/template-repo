@@ -1,0 +1,38 @@
+{
+    "tb_rule_pattern_weight": {
+        "Version": "int",
+        "tail": "str",
+        "average_total_claims": "int",
+        "num_yr_data": "int",
+        "wgt_experience": "float",
+        "wgt_benchmark": "float"
+    },
+    "tb_rule_tail_factor": {
+        "Version": "int",
+        "tail": "str",
+        "tail_df": "float",
+        "num_yr_developed": "int",
+        "amount": "float"
+    },
+    "tb_rule_large_method_weight": {
+        "Version": "int",
+        "tail": "str",
+        "written_premium": "int",
+        "num_yr_data": "int",
+        "wgt_experience": "float",
+        "wgt_benchmark": "float"
+    },
+    "tb_rule_attn_method_weight": {
+        "Version": "int",
+        "tail": "str",
+        "percent_developed": "float",
+        "wgt_ielr": "int",
+        "wgt_bf": "int",
+        "wgt_cl": "int"
+    },
+    "tb_rule_dev_method_expl": {
+        "Version": "int",
+        "method": "str",
+        "description": "str"
+    }
+}

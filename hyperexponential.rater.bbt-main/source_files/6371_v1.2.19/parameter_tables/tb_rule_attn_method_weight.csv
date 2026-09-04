@@ -1,0 +1,21 @@
+Version,tail,percent_developed,wgt_ielr,wgt_bf,wgt_cl
+11,Short Tailed,0.1,1,0,0
+11,Short Tailed,0.2,1,0,0
+11,Short Tailed,0.30000000000000004,1,0,0
+11,Short Tailed,0.4,0,1,0
+11,Short Tailed,0.5,0,1,0
+11,Short Tailed,0.6,0,1,0
+11,Short Tailed,0.7,0,0,1
+11,Short Tailed,0.7999999999999999,0,0,1
+11,Short Tailed,0.8999999999999999,0,0,1
+11,Short Tailed,0.9999999999999999,0,0,1
+11,Long Tailed,0.1,1,0,0
+11,Long Tailed,0.2,1,0,0
+11,Long Tailed,0.30000000000000004,1,0,0
+11,Long Tailed,0.4,0,1,0
+11,Long Tailed,0.5,0,1,0
+11,Long Tailed,0.6,0,1,0
+11,Long Tailed,0.7,0,0,1
+11,Long Tailed,0.7999999999999999,0,0,1
+11,Long Tailed,0.8999999999999999,0,0,1
+11,Long Tailed,0.9999999999999999,0,0,1

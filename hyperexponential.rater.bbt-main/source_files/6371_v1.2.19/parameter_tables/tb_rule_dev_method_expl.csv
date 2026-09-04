@@ -1,0 +1,7 @@
+Version,method,description
+11,General,"The below details the standard actuarial methods to develop claims.
+In general where a year has little claims experience (i.e. more recent years) then benchmarks are relied upon.
+As more experience is available then relying purely on experience is more appropriate."
+11,IELR,True exposure rating method. Assumes the year will develop according to a benchmark loss ratio (e.g. if the benchmark loss ratio for attritional claims is 40% and the premium is $1m then the estimate of claims is $0.4m)
+11,BF,Exposure/experience rating method. Weights between the chain ladder and IELR. The weight is the % developed the year is assumed to be. For example if a year is 50% developed then 50% weight is placed towards the chain ladder and 50% to the IELR method.
+11,CL,True experience rating method. Assumes the year will develop according to a development pattern of claims. For example if a year has $0.5m of incurred claims and is assumed to be 80% developed then the estimate of ultimate claims is $0.5m/0.8 = $0.625m
