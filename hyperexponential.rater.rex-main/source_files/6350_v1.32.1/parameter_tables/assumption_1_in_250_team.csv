@@ -1,0 +1,13 @@
+﻿Field,NACP,Open Market,Renewables,European Commercial Property
+Corresponding Capital Required,0.007993238,0.008263805,0.677434833,0.008263805
+LAE %,0.048749198,0.041417084,0.009559386,0.041417084
+CoV,5,3,0,3
+Standard Deviation,0.05,0.1,0,0.1
+Max Loss Ratio,0.75,0.75,1,0.75
+Target Loss Ratio,0.7,0.7,0.7,0.7
+Indirect Expenses Per Policy,2578.630437,3870.77798,2089.717709,3870.77798
+Direct Expenses Per Premium,0.112494431,0.112494431,0.163831272,0.112494431
+Investment Income Per Premium,0.063711476,0.059828578,0.068011122,0.059828578
+Minimum Premium,15000,0,0,0
+NMP Load,0,0,0,0
+CAT Uplift,0.058201,0.046931,0.046931,0.046931

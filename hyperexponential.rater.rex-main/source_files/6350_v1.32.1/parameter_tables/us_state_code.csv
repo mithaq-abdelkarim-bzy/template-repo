@@ -1,0 +1,52 @@
+US States,US State Code,WF Tier
+Alaska,AK,2
+Alabama,AL,3
+Arkansas,AR,3
+Arizona,AZ,2
+California,CA,1
+Colorado,CO,2
+Connecticut,CT,3
+District of Columbia,DC,3
+Delaware,DE,3
+Florida,FL,2
+Georgia,GA,3
+Hawaii,HI,3
+Iowa,IA,3
+Idaho,ID,2
+Illinois,IL,3
+Indiana,IN,3
+Kansas,KS,3
+Kentucky,KY,3
+Louisiana,LA,3
+Massachusetts,MA,3
+Maryland,MD,3
+Maine,ME,3
+Michigan,MI,3
+Minnesota,MN,3
+Missouri,MO,3
+Mississippi,MS,3
+Montana,MT,2
+North Carolina,NC,3
+North Dakota,ND,3
+Nebraska,NE,3
+New Hampshire,NH,3
+New Jersey,NJ,3
+New Mexico,NM,2
+Nevada,NV,1
+New York,NY,3
+Ohio,OH,3
+Oklahoma,OK,2
+Oregon,OR,1
+Pennsylvania,PA,3
+Rhode Island,RI,3
+South Carolina,SC,3
+South Dakota,SD,3
+Tennessee,TN,3
+Texas,TX,2
+Utah,UT,2
+Virginia,VA,3
+Vermont,VT,3
+Washington,WA,1
+Wisconsin,WI,3
+West Virginia,WV,3
+Wyoming,WY,2

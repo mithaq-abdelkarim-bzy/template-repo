@@ -1,0 +1,12 @@
+﻿Score,Category,Load
+0,Unknown,0.000
+10,Low,-0.950
+20,Low,-0.950
+30,Low,-0.900
+40,Low,-0.750
+50,Medium,-0.500
+60,Medium,0.000
+70,High,0.250
+80,High,0.750
+90,High,1.500
+100,Extreme,3.000

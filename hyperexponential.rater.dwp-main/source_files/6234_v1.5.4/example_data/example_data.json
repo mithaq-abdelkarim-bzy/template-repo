@@ -1,0 +1,181 @@
+[
+  {
+    "hx_core": {
+      "inception_date": "2024-11-25",
+      "expiry_date": "2025-11-25"
+    },
+    "cds": {
+      "standard_fields": {
+        "policy_reference": "LQP06E21ANSV",
+        "is_renewal": true,
+        "insured_name": "test insured"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "is_overridden": true,
+          "override": 185726
+        }
+      },
+      "rating_factors": {
+        "extensions_covered": 0.05,
+        "liability_covered": true,
+        "bi_and_ee_cover": false,
+        "risk_preparedness": "Average",
+        "security": "Average",
+        "crisis_management": "Average"
+      },
+      "layers": [
+        {
+          "limit": 3e6,
+          "aggregate_limit": 6e6,
+          "deductible": 10e3,
+          "quoted_premium": 2e4,
+          "written_line": 1,
+          "brokerage": 0.2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "exposure": {
+        "granular": {
+          "education": [
+            {
+              "institution_name": "Example Academy",
+              "num_schools": 1,
+              "country": "US",
+              "state_code": "TX",
+              "city_risk": "High",
+              "location": "City",
+              "school_grade": "College",
+              "school_type": "Private",
+              "boarding_day": "Day",
+              "num_students": 2500,
+              "num_employees": 500,
+              "sex_of_school": "Male"
+            },
+            {
+              "institution_name": "Test Academy",
+              "num_schools": 1,
+              "country": "US",
+              "state_code": "TX",
+              "city_risk": "High",
+              "location": "City",
+              "school_grade": "College",
+              "school_type": "Private",
+              "boarding_day": "Day",
+              "num_students": 5000,
+              "num_employees": 400,
+              "sex_of_school": "Male"
+            },
+            {
+              "institution_name": "High School",
+              "num_schools": 3,
+              "country": "Chad",
+              "city_risk": "High",
+              "location": "City",
+              "school_grade": "College",
+              "school_type": "Private",
+              "boarding_day": "Day",
+              "sex_of_school": "Male"
+            }
+          ],
+          "non_education": [
+            {
+              "establishment_name": "Est 1",
+              "sector": {
+                "sector": "Events",
+                "sub_sector": "Theme Parks"
+              },
+              "num_of_est": 200,
+              "country": "US",
+              "state_code": "TX",
+              "city_risk": "High",
+              "location": "City",
+              "num_of_staff_per_est": 500,
+              "footfall_measure_per_est": 5000,
+              "east_of_access": "Moderate",
+              "enclosed_space": "Open",
+              "num_of_days": 100
+            },
+            {
+              "establishment_name": "Est 2",
+              "sector": {
+                "sector": "Industrial",
+                "sub_sector": "Warehouse"
+              },
+              "num_of_est": 200,
+              "country": "US",
+              "state_code": "TX",
+              "city_risk": "High",
+              "location": "City",
+              "num_of_staff_per_est": 500,
+              "footfall_measure_per_est": 100,
+              "east_of_access": "Moderate",
+              "enclosed_space": "Open",
+              "num_of_days": 100
+            },
+            {
+              "establishment_name": "Est 3",
+              "sector": {
+                "sector": "Motels",
+                "sub_sector": "2 Stars"
+              },
+              "num_of_est": 200,
+              "country": "Chad",
+              "city_risk": "High",
+              "location": "City",
+              "num_of_staff_per_est": 500,
+              "footfall_measure_per_est": 100,
+              "east_of_access": "Moderate",
+              "enclosed_space": "Open",
+              "num_of_days": 100
+            }
+          ]
+        }
+      },
+      "experience_rating": {
+        "er_calcs": [
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          },
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          },
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          },
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          },
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          },
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          },
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          },
+          {
+            "exp_non_ed": 500,
+            "exp_ed": 500
+          }
+        ],
+        "curr_yr": {
+          "exp_non_ed": 500,
+          "exp_ed": 500
+        }
+      }
+    }
+  }
+]

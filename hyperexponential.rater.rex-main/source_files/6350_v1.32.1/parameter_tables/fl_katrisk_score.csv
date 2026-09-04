@@ -1,0 +1,13 @@
+﻿KatRisk Score,KatRisk Category,Load
+missing,Missing,0.000
+0,Minimal,-0.820
+1,None,-0.820
+2,Low,-0.700
+3,Low,0.000
+4,Low,0.700
+5,Medium,1.400
+6,Medium,2.100
+7,Medium,2.800
+8,High,3.500
+9,High,4.200
+10,High,4.900

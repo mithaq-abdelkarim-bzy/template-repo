@@ -1,0 +1,66 @@
+﻿Region,State,Tier
+All,,
+State,AK,
+State,AL,
+State,AR,
+State,AZ,
+State,CA,
+State,CO,
+State,CT,
+State,DC,
+State,DE,
+State,FL,
+State,GA,
+State,HI,
+State,IA,
+State,ID,
+State,IL,
+State,IN,
+State,KS,
+State,KY,
+State,LA,
+State,MA,
+State,MD,
+State,ME,
+State,MI,
+State,MN,
+State,MO,
+State,MS,
+State,MT,
+State,NC,
+State,ND,
+State,NE,
+State,NH,
+State,NJ,
+State,NM,
+State,NV,
+State,NY,
+State,OH,
+State,OK,
+State,OR,
+State,PA,
+State,RI,
+State,SC,
+State,SD,
+State,TN,
+State,TX,
+State,UT,
+State,VA,
+State,VT,
+State,WA,
+State,WI,
+State,WV,
+State,WY,
+Tier,,
+Tier,,FL
+Tier,,FL Tri County and Keys Only
+Tier,,FL Tri County Only
+Tier,,Tier 1: FL
+Tier,,Tier 1: NorthEast
+Tier,,Tier 1: TX - ME
+Tier,,Tier 1: TX - NC (Exc Harris)
+Tier,,Tier 1: TX - NC (Inc Harris)
+Tier,,Tier 1: TX - VA (Exc Harris)
+Tier,,Tier 1: TX - VA (Inc Harris)
+Tier,,Tier 2: FL
+Tier,,Tier 2: TX - VA

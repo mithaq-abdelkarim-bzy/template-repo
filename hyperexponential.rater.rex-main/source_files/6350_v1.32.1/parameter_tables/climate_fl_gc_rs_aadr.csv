@@ -1,0 +1,8 @@
+risk_score,risk_level,aadr
+0,Negligible,0
+1,Very Low,0.0000025
+2,Low,0.0000275
+3,Moderate,0.000275
+4,High,0.00075
+5,Very High,0.0015
+6,Extreme,0.003

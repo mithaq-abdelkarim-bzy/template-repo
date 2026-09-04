@@ -1,0 +1,221 @@
+{
+  "lst_insured_names": {
+    "insured_name": "str"
+  },
+  "lst_state_lookup": {
+    "State Name": "str",
+    "State Code": "str"
+  },
+  "sector_rates": {
+    "Sector": "str",
+    "Rate": "float"
+  },
+  "sector_subsector_rates": {
+    "Lookup": "str",
+    "Sector": "str",
+    "SubSector": "str",
+    "Low": "float",
+    "Medium": "float",
+    "High": "float",
+    "Counselling Est Measure": "str",
+    "TP Per Employee": "float",
+    "TP Per Unit": "float",
+    "Measure": "str",
+    "Minimum Premium": "float",
+    "Relativity": "float",
+    "Spread Discount Group": "str"
+  },
+  "country_rates": {
+    "Country": "str",
+    "Rate": "float"
+  },
+  "state_rates": {
+    "State": "str",
+    "Rate": "float"
+  },
+  "school_grade_factor": {
+    "Field": "str",
+    "Relativity": "float"
+  },
+  "school_type_factor": {
+    "Field": "str",
+    "Relativity": "float"
+  },
+  "boarding_day_factor": {
+    "Field": "str",
+    "Relativity": "float"
+  },
+  "school_sex_factor": {
+    "Field": "str",
+    "Relativity": "float"
+  },
+  "location_factor": {
+    "Field": "str",
+    "Relativity": "float"
+  },
+  "city_risk_factor": {
+    "City Risk": "str",
+    "Rate": "float"
+  },
+  "spread_discount_factors": {
+    "Num Est": "int",
+    "Very Low": "float",
+    "Low": "float",
+    "Medium Low": "float",
+    "Medium": "float",
+    "High": "float"
+  },
+  "spread_discount_events": {
+    "Spread Multiplier Group": "str",
+    "Num events per school": "float"
+  },
+  "scalar_parameters": {
+    "Field": "str",
+    "Parameter": "float"
+  },
+  "inflation": {
+    "YOA": "int",
+    "Base Inflation": "float",
+    "Social Inflation": "float"
+  },
+  "dfm_terrorism": {
+    "Dev Qtr": "int",
+    "DFM": "float"
+  },
+  "ielr_terrorism": {
+    "YOA": "int",
+    "ILR": "float"
+  },
+  "bp_cat_ulr": {
+    "YOA": "int",
+    "BP Cat LR": "float"
+  },
+  "exp_rating_large_credibility": {
+    "Years": "int",
+    "Weight": "float"
+  },
+  "lst_aggregate_limits": {
+    "Aggregate Limit": "float"
+  },
+  "lst_underwriters": {
+    "Underwriters": "str"
+  },
+  "preparedness_factor": {
+    "Level": "str",
+    "Risk Preparedness": "float",
+    "Security": "float",
+    "Crisis Management": "float"
+  },
+  "ed_court_award": {
+    "Type": "str",
+    "Total": "float",
+    "Economic": "float",
+    "Non-economic": "float"
+  },
+  "non_ed_court_award": {
+    "Type": "str",
+    "Total": "float",
+    "Economic": "float",
+    "Non-economic": "float"
+  },
+  "state_liability_total_cap": {
+    "state_code": "str",
+    "claimant_cap": "float"
+  },
+  "state_liability_non_econ_cap": {
+    "state_code": "str",
+    "claimant_cap": "float"
+  },
+  "severity": {
+    "Component": "str",
+    "Cost of typical event": "float"
+  },
+  "sub_limit": {
+    "Endorsement": "str",
+    "Incident": "float",
+    "Aggregate": "float"
+  },
+  "agg_limit_factors": {
+    "AggLimitRatio": "float",
+    "LimitLocation": "float",
+    "1": "float",
+    "10": "float",
+    "100": "float",
+    "500": "float",
+    "1000": "float",
+    "5000": "float",
+    "10000": "float",
+    "20000": "float"
+  },
+  "bi_tiv": {
+    "BI TIV as a % of limit ": "str",
+    "(BI TIV) / Limit": "float",
+    "Combined limits": "float",
+    "Separate limits": "float"
+  },
+  "city_rates_display": {
+    "State": "str",
+    "City": "str",
+    "Population": "float",
+    "ViolentCrime": "float",
+    "VCRate": "float",
+    "Relativity": "float",
+    "CityRisk": "str"
+  },
+  "ease_of_access": {
+    "Ease of Access": "str",
+    "Rate": "float"
+  },
+  "footfall_factor": {
+    "Footfall": "str",
+    "Rate": "float"
+  },
+  "enclosed_space_factor": {
+    "Enclosed Space": "str",
+    "Rate": "float"
+  },
+  "events_min_el": {
+    "Events Footfall": "str",
+    "Events Min EL": "float"
+  },
+  "events_avg_days": {
+    "Event": "str",
+    "Average Days": "float"
+  },
+  "experience_rating_credibility_non_education": {
+    "years_of_data": "int",
+    "0": "float",
+    "25": "float",
+    "50": "float",
+    "100": "float",
+    "500": "float"
+  },
+  "experience_rating_credibility_education": {
+    "years_of_data": "int",
+    "0": "float",
+    "10": "float",
+    "25": "float",
+    "50": "float",
+    "250": "float"
+  },
+  "preparedness_factor_high_profile_event": {
+    "High Profile Event": "str",
+    "Factor": "float"
+  },
+  "preparedness_factor_social_media": {
+    "Social Media": "str",
+    "Factor": "float"
+  },
+  "liability_coverage_factor": {
+    "Liability Coverage": "str",
+    "Factor": "float"
+  },
+  "ilf_market": {
+    "Limit": "float",
+    "ILF": "float"
+  },
+  "ilf_pricing": {
+    "Limit": "float",
+    "ILF": "float"
+  }
+}

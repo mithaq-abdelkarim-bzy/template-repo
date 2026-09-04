@@ -1,0 +1,19 @@
+﻿eq_gate,eq_zone
+California (A1),California SF EQ
+California (A2),California SF EQ
+California (A3+),California SF EQ
+California (B1),California LA EQ
+California (B3+),California LA EQ
+California (C),California LA EQ
+California (D),California LA EQ
+California (E),California LA EQ
+California (F),California LA EQ
+California (G),California SF EQ
+California (H),California SF EQ
+Pacific North West,Pacific NW EQ
+New Madrid (inner),New Madrid EQ
+New Madrid (outer),New Madrid EQ
+Hawaii Quake,Non-Crit EQ
+Alaksa Quake,Non-Crit EQ
+Non Critical US Quake,Non-Crit EQ
+International,International EQ

@@ -1,0 +1,115 @@
+industry,occupancy,industry_live,occupancy_live
+Agriculture/Farming,Beef Cattle Ranching and Farming,Agriculture/Farming,Livestock Farming
+Agriculture/Farming,Broilers and Other Meat Type Chicken Production,Agriculture/Farming,Livestock Farming
+Agriculture/Farming,Farming,Agriculture/Farming,Livestock Farming
+Agriculture/Farming,Hog and Pig Farming,Agriculture/Farming,Livestock Farming
+Communications,Telecoms - Aerial and Transmission,Communications,Telecoms - Transmission Towers
+Communications,Telecoms - Cable,Communications,Telecoms - Cable - Above
+Communications,Telecoms - Mobile,Communications,Tv and Radio Stations
+Education,Miscellaneous Schools,Education,Schools
+Food,Food Manufacturing,Food,Processed Food Manufacturing - Non-Frozen
+Govermental/Municipal,Governmental Services - Other,Govermental/Municipal,Governmental Office & Administration
+Govermental/Municipal,Municipal/County/State Authority,Govermental/Municipal,Governmental Office & Administration
+Govermental/Municipal,Public Institutions,Govermental/Municipal,Governmental Office & Administration
+Habitational,Apartments,Habitational,Mid Rise Apartments - 5-9 stories
+Habitational,Condominiums,Habitational,Mid Rise Condos - 5-9 stories
+Habitational,Inns/Bed and Breakfasts,Hotels/Casino/Entertainment,Inns/Bed and Breakfasts
+Habitational,Student Housing,Habitational,Mid Rise Student Housing - 5-9 stories
+Habitational,Vacant,Habitational,Mid Rise Apartments - 5-9 stories
+Health Services,Health Care Service,Health Services,Home Health Care Service
+Health Services,Vacant,Health Services,Outpatient Care Centers
+Heavy Industry,Aluminum Die-Casting Foundries,Heavy Industry,Aluminum Foundries (Except Die-Casting)
+Heavy Industry,Battery Manufacturing,Heavy Industry,Battery Manufacturing (Lithium)
+Heavy Industry,Chemicals Miscellaneous Manufacturing,Heavy Industry,Inorganic Chemical Manufacturing
+Heavy Industry,Engineered Wood Manufacturing,Heavy Industry,Wood Products Manufacturing
+Heavy Industry,Paint and Coating Manufacturing,Heavy Industry,Paint and Coating Manufacturing Oil-Based
+Heavy Industry,Paper Mill,Heavy Industry,Paper Mill - With Black L Recovery Boiler
+Heavy Industry,Plastic Extruded Products Manufacturing,Heavy Industry,Plastics Product Manufacturing
+Heavy Industry,Plastics Bottle Manufacturing,Heavy Industry,Plastics Product Manufacturing
+Heavy Industry,Pulp and Paper,Heavy Industry,Paper Mill - With Black L Recovery Boiler
+Heavy Industry,Rubber Product Manufacturing,Heavy Industry,Synthetic Rubber Manufacturing
+Heavy Industry,Rubber Product Manufacturing For Mechanical Use,Heavy Industry,Synthetic Rubber Manufacturing
+Heavy Industry,Steel Foundries (Except Investment),Heavy Industry,Steel Foundries
+Hotels/Casino/Entertainment,Casino Hotel,Hotels/Casino/Entertainment,Casino
+Hotels/Casino/Entertainment,Conference Hotel,Hotels/Casino/Entertainment,Full-Service Hotel
+Hotels/Casino/Entertainment,Health Spas and Gyms,Hotels/Casino/Entertainment,Fitness and Recreational Sports Centers
+Hotels/Casino/Entertainment,Hotel - No Casino,Hotels/Casino/Entertainment,Full-Service Hotel
+Hotels/Casino/Entertainment,Racetracks,Hotels/Casino/Entertainment,Non-Motor Racetracks w/o garages
+Hotels/Casino/Entertainment,Rv Parks,Hotels/Casino/Entertainment,Temporary Camps and Campgrounds
+Hotels/Casino/Entertainment,Vacant,Hotels/Casino/Entertainment,Lodges and Clubs
+Light Industry,Clothing Accessories Manufacturing,Light Industry,Clothing Manufacturing
+Light Industry,General Purpose Machinery Manufacturing,Light Industry,Machinery Manufacturing
+Light Industry,Industrial Machinery Product Manufacturing,Light Industry,Machinery Manufacturing
+Light Industry,Manufacturing Miscellaneous,Light Industry,Machinery Manufacturing
+Light Industry,Motor Vehicle Parts Manufacturing,Light Industry,Metal Product Manufacturing
+Light Industry,Other Metalworking Machinery Manufacturing,Light Industry,Metal Product Manufacturing
+Light Industry,Publishers,Light Industry,Printing (Commercial)
+Light Industry,Railroad Rolling Stock Manufacturing,Heavy Industry,Railroad Rolling Stock Manufacturing
+Light Industry,Semiconductor and Wafer Manufacturing,Heavy Industry,Semiconductor and Wafer Manufacturing
+Light Industry,Textile Product Manufacturing,Light Industry,Textiles - Nonwoven
+Light Industry,Transportation Equipment Manufacturing,Light Industry,Machinery Manufacturing
+Light Industry,Travel Trailer and Camper Manufacturing,Light Industry,Mobile Home/Chalet Manufacturing
+Light Industry,Vacant,Light Industry,Machinery Manufacturing
+Mining,Chemical and Fertilizer Mineral Mining,Mining,Non-Metal Below
+Mining,Coal and Lignite Surface Mining,Mining,Coal Above
+Mining,Coal Underground Mining,Mining,Coal Below
+Mining,Continuous Miner,Mining,Coal Below
+Mining,Gold Ore Mining,Mining,Coal Below
+Mining,Industrial Sand Mining,Mining,Non-Metal Below
+Mining,Iron Ore Mining,Mining,Metal Below
+Mining,Longwall Miner,Mining,Coal Below
+Mining,Metal Ore Mining (Non Precious),Mining,Metal Below
+Mining,Mining Business Interruption (Below Ground),Mining,Non-Metal Below
+Mining,Mining Business Interruption (Surface),Mining,Non-Metal Above
+Mining,Nonmetallic Mineral Mining,Mining,Non-Metal Below
+Mining,"Potash, Soda, and Borate Mineral Mining",Mining,Non-Metal Below
+Mining,Salt Mining,Mining,Non-Metal Below
+Mining,Silver Ore Mining,Mining,Metal Below
+Mining,Underground Equipment,Mining,Non-Metal Below
+Offices,Financial Institutions,Offices,Offices
+Oil/Petro/Gas,Industrial Gas Manufacturing,Oil/Petro/Gas,Other
+Oil/Petro/Gas,Natural Gas Liquid Extraction,Oil/Petro/Gas,Other
+Oil/Petro/Gas,Oil and Gas Processing and Distribution,Oil/Petro/Gas,Other
+Oil/Petro/Gas,Petroleum and Coal Products,Oil/Petro/Gas,Other
+Retail,All Other Motor Vehicle Dealers,Retail,Auto Dealers
+Retail,Auto Dealers - New,Retail,Auto Dealers
+Retail,Auto Dealers - Used,Retail,Auto Dealers
+Retail,"Automotive Body, Paint, and Interior Repair and Maintenance",Retail,Auto Repair Shop Garage
+Retail,Bars and Taverns,Retail,"Lounges, Night Clubs, Discos"
+Retail,Fuel Dealers,Retail,Gas Petrol Stations
+Retail,Gas Stations (and With Convenience Stores),Retail,Gas Petrol Stations
+Retail,Laundry - Drycleaning,Retail,Laundry
+Retail,Laundry - No Dry Cleaning,Retail,Laundry
+Retail,Mobile Home Dealers,Retail,Auto Dealers
+Retail,Specialty Food Stores,Retail,Supermarkets and Grocery
+Retail,Stadium,Hotels/Casino/Entertainment,Large Stadium & Arenas
+Retail,Vacant,Retail,Miscellaneous Retailers
+Storage and Wholesale Trade,Beer and Ale Merchant Wholesalers,Storage and Wholesale Trade,Alcohol Merchant Wholesalers
+Storage and Wholesale Trade,Condos - Commercial,Habitational,Mid Rise Condos - 5-9 stories
+Storage and Wholesale Trade,General Line Grocery Merchant Wholesalers,Storage and Wholesale Trade,Grocery Merchant Wholesalers
+Storage and Wholesale Trade,General Warehousing and Storage,Storage and Wholesale Trade,General Warehousing and Storage - Non-Hazardous
+Storage and Wholesale Trade,Other Grocery and Related Products Merchant Wholesalers,Storage and Wholesale Trade,Grocery Merchant Wholesalers
+Storage and Wholesale Trade,Other Miscellaneous Nondurable Goods Merchant Wholesalers,Storage and Wholesale Trade,General Warehousing and Storage - Non-Hazardous
+Storage and Wholesale Trade,Vacant,Storage and Wholesale Trade,General Warehousing and Storage - Multi Tenant
+Storage and Wholesale Trade,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,Storage and Wholesale Trade,Alcohol Merchant Wholesalers
+Transportation,Airport,Transportation,Airport Terminals
+Transportation,Airport Authority,Transportation,Airport Terminals
+Transportation,All Other Transit and Ground Passenger Transport,Transportation,Bus Transport Terminal
+Transportation,Bus Transport,Transportation,Bus Transport Terminal
+Transportation,Other Support Activities For Air Transportation,Transportation,Other Support Facilities For Air Transportation
+Transportation,Railroad,Transportation,Heavy Rail
+Transportation,School and Employee Bus Transportation,Transportation,Bus Transport Terminal
+Transportation,Taxi,Transportation,Taxi Terminal
+Utilities,Construction Contractors,Light Industry,Construction Contractors
+Utilities,Electric Power Distribution,Utilities,T&D
+Utilities,"Highway, Street, and Bridge Construction",Light Industry,"Highway, Street, and Bridge Construction"
+Utilities,Miscellaneous Waste Management,Heavy Industry,Miscellaneous Waste Management
+Utilities,Parking Garages,Light Industry,Parking Garages
+Utilities,Recycling - All Other,Heavy Industry,Recycling - All Other
+Utilities,Recycling - Metal,Heavy Industry,Recycling - Metal
+Utilities,Recycling - Paper or Plastic,Heavy Industry,Recycling - Paper or Plastic
+Utilities,Services - All Other,Utilities,Other Electric Power Generation
+Utilities,Sewage Treatment Facilities,Utilities,Water & Sewage Treatment Facilities
+Utilities,Solar Power Generation,Utilities,Solar Power PV
+Utilities,Water and Sewer Line and Related Structures Construction,Utilities,Water Supply and Irrigation Systems
+Utilities,Water Works,Utilities,Water Supply and Irrigation Systems

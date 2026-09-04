@@ -1,0 +1,10 @@
+sk_ws_catnet_level,rater_ws_catnet_level
+Extreme (>70 m/s),>70
+Very High (60-70 m/s),60-70
+High (50-60 m/s),50-60
+Significant (40-50 m/s),40-50
+Moderate (35-40 m/s),35-40
+Moderate (30-35 m/s),30-35
+Low (25-30 m/s),25-30
+Low (20-25 m/s),20-25
+Very Low (<20 m/s),<20

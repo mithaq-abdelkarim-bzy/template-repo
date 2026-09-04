@@ -1,0 +1,20 @@
+industry,ind_map
+Agriculture/Farming,Ind
+Communications,Com
+Education,Com
+Food,Ind
+Govermental/Municipal,Com
+Habitational,Res
+Health Services,Com
+Heavy Industry,Ind
+Hotels/Casino/Entertainment,Com
+Light Industry,Ind
+Mining,Ind
+Offices,Com
+Oil/Petro/Gas,Ind
+Religious/Churches,Com
+Retail,Com
+Storage and Wholesale Trade,Com
+Transportation,Com
+Unknown,Com
+Utilities,Ind
