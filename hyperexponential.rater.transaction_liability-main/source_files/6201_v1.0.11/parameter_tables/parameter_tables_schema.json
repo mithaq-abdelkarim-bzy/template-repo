@@ -1,0 +1,56 @@
+{
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_currency": {
+    "currency": "str",
+    "exchange_rate": "float"
+  },
+  "lst_insureds": {
+    "insured": "str"
+  },
+  "lst_underwriters": {
+    "underwriter": "str"
+  },
+  "table_country_factor": {
+    "location": "str",
+    "factor": "float"
+  },
+  "table_modifiers": {
+    "coverage": "str",
+    "min": "float",
+    "max": "float",
+    "default weights": "float"
+  },
+  "table_volatility": {
+    "volatility": "str",
+    "pct": "float"
+  },
+  "table_severity_parameters": {
+    "severity": "str",
+    "g": "float",
+    "b": "float"
+  },
+  "table_industry": {
+    "industry list": "str",
+    "target hazard class": "int",
+    "target relativity": "float",
+    "buyer hazard class": "int",
+    "buyer relativity": "float"
+  },
+  "table_excess_load": {
+    "excess": "int",
+    "factor": "float"
+  },
+  "table_scaling_factors": {
+    "region": "str",
+    "Primary": "float",
+    "Excess": "float"
+  },
+  "table_status": {
+    "Status": "str"
+  }
+}

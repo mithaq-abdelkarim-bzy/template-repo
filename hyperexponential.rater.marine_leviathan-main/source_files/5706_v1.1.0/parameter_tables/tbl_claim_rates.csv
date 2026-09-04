@@ -1,0 +1,8 @@
+Category,Expected Cost (Rate of SI)
+ROV,0.004
+AUV,0.0275
+Seismic - Towed,0.013
+Seismic - Ocean Bottom,0.013
+Diving & Oceanographic,0.008
+Submersibles,0.01
+Other,0.004

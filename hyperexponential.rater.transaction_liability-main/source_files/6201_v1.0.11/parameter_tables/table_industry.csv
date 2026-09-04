@@ -1,0 +1,40 @@
+industry list,target hazard class,target relativity,buyer hazard class,buyer relativity
+Agriculture,2,1,2,1
+Bespoke Software,3,1.08,3,1.08
+Broadcasting,3,1.08,3,1.08
+Communications,2,1,2,1
+Computer related services,2,1,2,1
+Construction,4,1.15,4,1.15
+Consulting/Advisory,2,1,2,1
+Credit institutions,4,1.15,4,1.15
+Distribution,2,1,2,1
+Education,2,1,2,1
+Finance,3,1.08,3,1.08
+Fintech,3,1.08,3,1.08
+Franchises,4,1.15,4,1.15
+Gambling/Gaming,4,1.15,4,1.15
+Healthcare,4,1.15,4,1.15
+Infrastructure,1,0.9,1,0.9
+Insurance (all types including insurance brokers and MGAs),4,1.15,4,1.15
+Logistics,2,1,2,1
+Manufacturing,2,1,2,1
+Media/advertising/marketing,2,1,2,1
+Medical devices,4,1.15,4,1.15
+Mining,4,1.15,4,1.15
+Natural resources,4,1.15,4,1.15
+Non classifiable establishments,2,1,2,1
+Pharmaceuticals,4,1.15,4,1.15
+Pre-packaged software and SaaS,2,1,2,1
+Private equity,3,1.08,1,0.9
+Public Administration,2,1,2,1
+Public Utilities,1,0.9,1,0.9
+Real estate,1,0.9,1,0.9
+REITs,1,0.9,1,0.9
+Renewable energy,1,0.9,1,0.9
+Retail,2,1,2,1
+Retail services,2,1,2,1
+Semiconductors,4,1.15,4,1.15
+Transportation,2,1,2,1
+Various services,2,1,2,1
+Waste & sewage services,3,1.08,3,1.08
+Wholesale,2,1,2,1

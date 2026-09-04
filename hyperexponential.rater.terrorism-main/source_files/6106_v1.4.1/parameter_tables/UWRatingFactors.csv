@@ -1,0 +1,4 @@
+Category,Weight,Min,Max,Default,Security Risk,Industry Risk,Policy Risk
+Low Risk,1,14,20,17,Security and risk mitigation are above industry standard.,Industry low risk and has a good track record.,"English Law and jurisdiction (or equivalent), high quality info provided, tight wordings, terms and conditions."
+Default,1,7,13,10,Security and risk mitigation are at industry standard.,Industry thought not to be at high risk and does not have a track record of activity.,"English Law and jurisdiction (or equivalent), standard wordings, terms and conditions."
+High Risk,1,0,6,3,Security and risk mitigation measures are below industry standard.,Industry has a poor track record and is at elevated risk of attacks.,"Non-English Law and jurisdiction, low quality info provided or terms and conditions non-standard."

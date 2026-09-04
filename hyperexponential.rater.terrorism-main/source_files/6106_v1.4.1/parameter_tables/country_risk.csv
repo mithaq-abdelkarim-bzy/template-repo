@@ -1,0 +1,5 @@
+Liability,Attr Risk,Attr Multiplier,Geog Risk,Geog Multiplier,Cat Risk,Cat Multiplier
+Super high,Super high,2.0,High,2.0,Super high,5.0
+High,High,1.75,Medium,1.5,High,1.6
+Elevated,Elevated,1.5,Default,1.0,Default,1.0
+Default,Default,1.0,Low,0.5,Low,0.5
