@@ -1,5 +1,0 @@
-BI TIV as a % of limit ,(BI TIV) / Limit,Combined limits,Separate limits
-Less than 100%,0.0,1.15,1.95
-Between 100% and 250% ,1.00000001,1.2,2.0
-Between 250% and 500% ,2.50000001,1.25,2.25
-Greater than 500%,5.00000001,1.3,2.5

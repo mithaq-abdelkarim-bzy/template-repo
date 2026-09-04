@@ -1,8 +1,0 @@
-{
-  "_comment": "Model level recipients lists are overrides. If null, lists will come from shared repo.",
-  "EMAIL_RECIPIENTS_BA_TEAM": null,
-  "EMAIL_RECIPIENTS_PROJECT_TEST_TEAM": null,
-  "EMAIL_RECIPIENTS_RATING_SUPPORT_AND_ENHANCEMENTS_TEAM": null,
-  "EMAIL_RECIPIENTS_IT_TEAM": null,
-  "EMAIL_RECIPIENTS_STAKEHOLDERS": null
-}
