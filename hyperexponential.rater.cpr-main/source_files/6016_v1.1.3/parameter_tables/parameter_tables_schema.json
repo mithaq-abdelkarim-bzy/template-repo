@@ -1,0 +1,121 @@
+{
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "lst_insured_names": {
+    "insured_name": "str"
+  },
+  "lst_product": {
+    "Product": "str"
+  },
+  "lst_industry_group": {
+    "Industry Group": "str"
+  },
+  "lst_credit_rating": {
+    "Rating": "str"
+  },
+  "lst_credit_rating_source": {
+    "Source Of Rating": "str"
+  },
+  "lst_yn": {
+    "YesNo": "str"
+  },
+  "lst_amount_at_risk": {
+    "Amount at Risk": "str"
+  },
+  "lst_brokers": {
+    "Broker Name": "str"
+  },
+  "tbl_ihs_country": {
+    "IHS Country": "str",
+    "Two Digit Codes": "str"
+  },
+  "tbl_industry": {
+    "Industry": "str",
+    "Industry Group": "str"
+  },
+  "tbl_ihsscore_rate": {
+    "ihs_score": "float",
+    "rate": "float"
+  },
+  "tbl_exposure_curves": {
+    "Curve": "str",
+    "b": "float",
+    "g": "float"
+  },
+  "tbl_economic_banding": {
+    "economic_band": "str",
+    "lower_band": "float",
+    "upper_band": "float"
+  },
+  "tbl_year_plan_assump": {
+    "year": "int",
+    "plan_gnlr_att_cat": "float",
+    "cat_uplift": "float",
+    "inflation_uplift": "float"
+  },
+  "tbl_grade_economic_band": {
+    "Rating": "str",
+    "Score": "int",
+    "Fair Economic Environment": "float",
+    "Slowing Economic Environment": "float",
+    "Recessionary Economic Environment": "float"
+  },
+  "tbl_grade_pod": {
+    "Grade": "str",
+    "Score": "int",
+    "Value": "float"
+  },
+  "tbl_grade_tenor_load": {
+    "Grade": "str",
+    "Score": "int",
+    "Tenor": "int",
+    "Value": "float"
+  },
+  "tbl_product_assump": {
+    "Product": "str",
+    "Assumption Group": "str",
+    "Value": "float"
+  },
+  "tbl_ihs_name_group": {
+    "ihs_name": "str",
+    "crcf_group": "str",
+    "pre_shipment_weight": "float",
+    "pr_group_1": "str",
+    "pr_group_2": "str",
+    "pr_group_2_weight": "float"
+  },
+  "tbl_ihs_static_data": {
+    "country": "str",
+    "risk_name": "str",
+    "historic_updated_value": "float",
+    "historic_updated_date": "date"
+  },
+  "tbl_legacy_tp_parameters": {
+    "business_plan_class": "str",
+    "year": "int",
+    "che": "float",
+    "var_exp": "float",
+    "fixed_exp": "float",
+    "cost_of_ri": "float",
+    "ri_rec": "float",
+    "inv_inc": "float",
+    "capital_req": "float",
+    "roc": "float",
+    "nmp_load": "float"
+  },
+  "tbl_country_rating": {
+    "Country": "str",
+    "IHS Country": "str",
+    "Credit score": "int",
+    "Rating": "str"
+  },
+  "tbl_bi_country_remap": {
+    "ihs_country": "str",
+    "bi_country": "str"
+  }
+}

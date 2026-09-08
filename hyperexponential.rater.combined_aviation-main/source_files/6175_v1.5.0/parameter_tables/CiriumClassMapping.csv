@@ -1,0 +1,15 @@
+Cirium Aircraft Class,Mapped Rater Class,Class Split by Number of Engines
+Turboprops (Western Built),Turboprops,Y
+Jets (Western built),BusinessJet,Y
+Business Jets,BusinessJet,Y
+Business Turboprops,BusinessJet,Y
+Jets (Eastern Built),BusinessJet,Y
+Turboprops (Eastern Built),Turboprops,Y
+Piston Helicopters (Western Built),PistonHeli,Y
+Turbine Helicopters (Western Built),TurbineHeli,Y
+Turbine Helicopters (Eastern Built),TurbineHeli,Y
+Piston Helicopters (Eastern Built),PistonHeli,Y
+Business Pistons,BusinessJet,Y
+Military Fixed Wing,empty,N
+Business Electric,BusinessJet,Y
+Advanced Air Mobility,empty,N

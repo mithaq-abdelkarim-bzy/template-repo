@@ -1,0 +1,54 @@
+﻿Orig Scheme,Original Description,Orig Code,Mapped ATC,BI Group,SCL Occupancy
+ATC,Unknown,0,Unknown,Mercantile And Non-Manufacturing,Unknown
+ATC,Permanent Dwelling (single family housing),1,Permanent Dwelling (single family housing),Rental Properties,Res Apts And Condos
+ATC,Permanent Dwelling (multi family housing),2,Permanent Dwelling (multi family housing),Rental Properties,Res Apts And Condos
+ATC,Temporary Lodging,3,Temporary Lodging,Rental Properties,Motels And Hotels
+ATC,Group Institutional Housing,4,Group Institutional Housing,Mercantile And Non-Manufacturing,Institutional - High
+ATC,Retail Trade,5,Retail Trade,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,Wholesale Trade,6,Wholesale Trade,Mercantile And Non-Manufacturing,Mercantile - Medium
+ATC,Personal and Repair Services,7,Personal and Repair Services,Mercantile And Non-Manufacturing,Service - High
+ATC,"Professional, Technical and Business Services",8,"Professional, Technical and Business Services",Mercantile And Non-Manufacturing,Offices
+ATC,Health Care Service,9,Health Care Service,Mercantile And Non-Manufacturing,Service - High
+ATC,Entertainment and Recreation,10,Entertainment and Recreation,Mercantile And Non-Manufacturing,Service - High
+ATC,Parking,11,Unknown,Mercantile And Non-Manufacturing,Unknown
+ATC,Heavy Fabrication and Assembly,12,Heavy Fabrication and Assembly,Manufacturing and Mining,Indust-Proc - High
+ATC,Light Fabrication and Assembly,13,Light Fabrication and Assembly,Manufacturing and Mining,Indust-Proc - Low
+ATC,Food and Drugs Processing,14,Food and Drugs Processing,Manufacturing and Mining,Indust-Proc - Low
+ATC,Chemicals Processing,15,Food and Drugs Processing,Manufacturing and Mining,Indust-Proc - Low
+ATC,Metal and Minerals Processing,16,Heavy Fabrication and Assembly,Manufacturing and Mining,Indust-Proc - High
+ATC,High Technology ,17,Light Fabrication and Assembly,Manufacturing and Mining,Indust-Proc - Low
+ATC,Construction,18,Construction,Mercantile And Non-Manufacturing,Buildings
+ATC,Petroleum,19,Petroleum,Manufacturing and Mining,Indust-Proc - High
+ATC,Agriculture,20,Agriculture,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,Mining,21,Unknown,Manufacturing and Mining,Indust-Proc - High
+ATC,Religion and Nonprofit,22,Religion and Nonprofit,Mercantile And Non-Manufacturing,Service - High
+ATC,General Services,23,General Services,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,Emergency Response Services ,24,Emergency Response Services ,Mercantile And Non-Manufacturing,Service - High
+ATC,Education,25,Education,Mercantile And Non-Manufacturing,Service - High
+ATC,Highway,26,Highway,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,Railroad,27,Unknown,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,Air,28,Air,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,Sea/Water,29,Unknown,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,Electrical ,30,Unknown,Manufacturing and Mining,Indust-Proc - High
+ATC,Water ,31,Unknown,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,Sanitary Sewer,32,Sanitary Sewer,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,Natural Gas,33,Unknown,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,Telephone & Telegraph,34,Retail Trade,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,Communication (Radio and TV),35,Retail Trade,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,fl Control,36,Unknown,Mercantile And Non-Manufacturing,Indust-Proc - High
+ATC,General Commercial,37,Retail Trade,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,General Industrial,38,Unknown,Manufacturing and Mining,Indust-Proc - Low
+ATC,Miscellaneous,39,Unknown,Mercantile And Non-Manufacturing,Unknown
+ATC,Dwelling,40,Permanent Dwelling (single family housing),Rental Properties,Res Apts And Condos
+ATC,Homeowner,41,Permanent Dwelling (single family housing),Rental Properties,Res Apts And Condos
+ATC,Multi-Family Dwelling- Homeowners Association,42,Permanent Dwelling (multi family housing),Rental Properties,Res Apts And Condos
+ATC,Multi-Family Dwelling- Condominium Unit Owner,43,Permanent Dwelling (multi family housing),Rental Properties,Res Apts And Condos
+ATC,Gasoline Service Station,44,Gasoline Service Stations ,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,Restaurants,47,Restaurants,Mercantile And Non-Manufacturing,Service - High
+ATC,Casinos,48,Casinos,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,Acute Care Services Hospitals,49,Health Care Service,Mercantile And Non-Manufacturing,Service - High
+ATC,OSHPD Acute Care Services Hospitals (California Only),50,Health Care Service,Mercantile And Non-Manufacturing,Service - High
+ATC,Hotels-Large,51,Temporary Lodging,Rental Properties,Motels And Hotels
+ATC,Hotels Small and Medium,52,Temporary Lodging,Rental Properties,Motels And Hotels
+ATC,Rental - General Commercial,53,Retail Trade,Mercantile And Non-Manufacturing,Mercantile - Low
+ATC,Universities and Colleges,54,Education,Mercantile And Non-Manufacturing,Service - High

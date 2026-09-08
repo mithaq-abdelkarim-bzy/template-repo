@@ -1,0 +1,601 @@
+{
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_basic_experience_rating": {
+    "Clean Years": "str",
+    "Adjustment": "float"
+  },
+  "table_claims_inflation": {
+    "year": "int",
+    "claims_inflation": "float"
+  },
+  "table_currency": {
+    "currency": "str",
+    "exchange_rate": "float"
+  },
+  "table_development_method": {
+    "development": "float",
+    "method": "str"
+  },
+  "table_development_patterns": {
+    "years": "int",
+    "development": "float"
+  },
+  "table_exposure_inflation": {
+    "year": "int",
+    "exposure_inflation": "float"
+  },
+  "table_premium_rate_change": {
+    "year": "int",
+    "rate_change": "float"
+  },
+  "insured_names": {
+    "insured_name": "str"
+  },
+  "table_freight_conditions": {
+    "freight_conditions": "str",
+    "lower_bound": "float",
+    "upper_bound": "float",
+    "default": "float"
+  },
+  "table_vessel_quality": {
+    "vessel_quality": "str",
+    "lower_bound": "float",
+    "upper_bound": "float",
+    "default": "float"
+  },
+  "table_area_of_operation": {
+    "area_of_operation": "str",
+    "lower_bound": "float",
+    "upper_bound": "float",
+    "default": "float"
+  },
+  "table_fleet_casualty_history": {
+    "fleet_casualty_history": "str",
+    "lower_bound": "float",
+    "upper_bound": "float",
+    "default": "float"
+  },
+  "table_owner_quality": {
+    "owner_quality": "str",
+    "lower_bound": "float",
+    "upper_bound": "float",
+    "default": "float"
+  },
+  "table_coverage_factor": {
+    "coverage": "str",
+    "factor": "float"
+  },
+  "table_vessel_types": {
+    "vessel_type": "str",
+    "factor": "float",
+    "vessel_type_group": "str"
+  },
+  "table_flags": {
+    "vessel_flag": "str",
+    "factor": "float",
+    "model_mapping": "str"
+  },
+  "table_vessel_classifications": {
+    "classification_society": "str",
+    "factor": "float"
+  },
+  "table_hull_base_frequency": {
+    "type": "str",
+    "freq": "float"
+  },
+  "table_static_build_year_parameters": {
+    "date_built_band": "str",
+    "parameter": "float",
+    "lower_band": "int"
+  },
+  "table_behavioural_build_year_parameters": {
+    "date_built_band": "str",
+    "parameter": "float",
+    "lower_band": "int"
+  },
+  "table_static_freq_flag": {
+    "flag": "str",
+    "factor": "float"
+  },
+  "table_behavioural_freq_flag": {
+    "flag": "str",
+    "factor": "float"
+  },
+  "table_behavioural_freq_vessel_type": {
+    "vessel_type": "str",
+    "parameter": "float"
+  },
+  "table_static_freq_vessel_type": {
+    "vessel_type": "str",
+    "parameter": "float"
+  },
+  "table_sev_vessel_type": {
+    "vessel_type": "str",
+    "parameter": "float"
+  },
+  "table_behavioural_freq_dwt": {
+    "lower_bound": "int",
+    "upper_bound": "int",
+    "lower_bound_factor": "float",
+    "upper_bound_factor": "float"
+  },
+  "table_static_freq_dwt": {
+    "lower_bound": "int",
+    "upper_bound": "int",
+    "lower_bound_factor": "float",
+    "upper_bound_factor": "float"
+  },
+  "table_sev_dwt": {
+    "lower_bound": "int",
+    "upper_bound": "int",
+    "lower_bound_factor": "float",
+    "upper_bound_factor": "float"
+  },
+  "table_large_vessel_relativity": {
+    "vessel_type": "str",
+    "relativity": "float",
+    "vessel_type_long": "str"
+  },
+  "table_large_load_build_year_relativity": {
+    "build_year_band": "str",
+    "relativity": "float",
+    "lower_band": "int"
+  },
+  "table_age_factor": {
+    "age": "int",
+    "factor": "float"
+  },
+  "table_dwt_factor": {
+    "lower_bound": "int",
+    "upper_bound": "int",
+    "factor": "float"
+  },
+  "table_loh_base_rate": {
+    "cover": "str",
+    "xs_days": "int",
+    "rate": "float"
+  },
+  "table_loh_daily_rate": {
+    "cover": "str",
+    "xs_days": "int",
+    "rate": "float"
+  },
+  "ship_building_base_rate": {
+    "stage": "str",
+    "rate": "float"
+  },
+  "ship_building_countries": {
+    "country": "str",
+    "cat_load": "float",
+    "shipyard_and_typhoon_plans_sophistication": "float"
+  },
+  "ship_building_hull_development_pattern": {
+    "months": "int",
+    "dev_percent": "float"
+  },
+  "ship_building_vessels_discount": {
+    "number_of_vessels": "int",
+    "discount": "float"
+  },
+  "ship_building_survey_grade": {
+    "grade": "str",
+    "factor": "float"
+  },
+  "ship_building_vessel_types": {
+    "vessel_type": "str",
+    "factor": "float"
+  },
+  "ship_building_weight_exposure": {
+    "number_of_vessels": "int",
+    "weight_factor": "float"
+  },
+  "table_avg_achieved_rate_type_age_dwt": {
+    "vessel_type": "str",
+    "age_lower_bound": "int",
+    "age_upper_bound": "int",
+    "dwt_lower_bound": "int",
+    "dwt_upper_bound": "int",
+    "net_achieved_prem_adj_to_full_coverage": "float",
+    "sum_of_agreed_value": "float",
+    "count_of_identifier": "int",
+    "achieved_rate": "float"
+  },
+  "table_avg_achieved_rate_type_age": {
+    "vessel_type": "str",
+    "age_lower_bound": "int",
+    "age_upper_bound": "int",
+    "net_achieved_prem_adj_to_full_coverage": "float",
+    "sum_of_agreed_value": "float",
+    "count_of_identifier": "int",
+    "achieved_rate": "float"
+  },
+  "table_avg_achieved_rate_type": {
+    "vessel_type": "str",
+    "net_achieved_prem_adj_to_full_coverage": "float",
+    "sum_of_agreed_value": "float",
+    "count_of_identifier": "int",
+    "achieved_rate": "float"
+  },
+  "table_war_bplr": {
+    "year": "int",
+    "factor": "float"
+  },
+  "table_vessel_percentile_type": {
+    "vessel_type": "str",
+    "0.01": "float",
+    "0.02": "float",
+    "0.03": "float",
+    "0.04": "float",
+    "0.05": "float",
+    "0.06": "float",
+    "0.07": "float",
+    "0.08": "float",
+    "0.09": "float",
+    "0.1": "float",
+    "0.11": "float",
+    "0.12": "float",
+    "0.13": "float",
+    "0.14": "float",
+    "0.15": "float",
+    "0.16": "float",
+    "0.17": "float",
+    "0.18": "float",
+    "0.19": "float",
+    "0.2": "float",
+    "0.21": "float",
+    "0.22": "float",
+    "0.23": "float",
+    "0.24": "float",
+    "0.25": "float",
+    "0.26": "float",
+    "0.27": "float",
+    "0.28": "float",
+    "0.29": "float",
+    "0.3": "float",
+    "0.31": "float",
+    "0.32": "float",
+    "0.33": "float",
+    "0.34": "float",
+    "0.35": "float",
+    "0.36": "float",
+    "0.37": "float",
+    "0.38": "float",
+    "0.39": "float",
+    "0.4": "float",
+    "0.41": "float",
+    "0.42": "float",
+    "0.43": "float",
+    "0.44": "float",
+    "0.45": "float",
+    "0.46": "float",
+    "0.47": "float",
+    "0.48": "float",
+    "0.49": "float",
+    "0.5": "float",
+    "0.51": "float",
+    "0.52": "float",
+    "0.53": "float",
+    "0.54": "float",
+    "0.55": "float",
+    "0.56": "float",
+    "0.57": "float",
+    "0.58": "float",
+    "0.59": "float",
+    "0.6": "float",
+    "0.61": "float",
+    "0.62": "float",
+    "0.63": "float",
+    "0.64": "float",
+    "0.65": "float",
+    "0.66": "float",
+    "0.67": "float",
+    "0.68": "float",
+    "0.69": "float",
+    "0.7": "float",
+    "0.71": "float",
+    "0.72": "float",
+    "0.73": "float",
+    "0.74": "float",
+    "0.75": "float",
+    "0.76": "float",
+    "0.77": "float",
+    "0.78": "float",
+    "0.79": "float",
+    "0.8": "float",
+    "0.81": "float",
+    "0.82": "float",
+    "0.83": "float",
+    "0.84": "float",
+    "0.85": "float",
+    "0.86": "float",
+    "0.87": "float",
+    "0.88": "float",
+    "0.89": "float",
+    "0.9": "float",
+    "0.91": "float",
+    "0.92": "float",
+    "0.93": "float",
+    "0.94": "float",
+    "0.95": "float",
+    "0.96": "float",
+    "0.97": "float",
+    "0.98": "float",
+    "0.99": "float",
+    "1": "float",
+    "count": "int"
+  },
+  "table_vessel_percentile_type_age": {
+    "vessel_type": "str",
+    "0.01": "float",
+    "0.02": "float",
+    "0.03": "float",
+    "0.04": "float",
+    "0.05": "float",
+    "0.06": "float",
+    "0.07": "float",
+    "0.08": "float",
+    "0.09": "float",
+    "0.1": "float",
+    "0.11": "float",
+    "0.12": "float",
+    "0.13": "float",
+    "0.14": "float",
+    "0.15": "float",
+    "0.16": "float",
+    "0.17": "float",
+    "0.18": "float",
+    "0.19": "float",
+    "0.2": "float",
+    "0.21": "float",
+    "0.22": "float",
+    "0.23": "float",
+    "0.24": "float",
+    "0.25": "float",
+    "0.26": "float",
+    "0.27": "float",
+    "0.28": "float",
+    "0.29": "float",
+    "0.3": "float",
+    "0.31": "float",
+    "0.32": "float",
+    "0.33": "float",
+    "0.34": "float",
+    "0.35": "float",
+    "0.36": "float",
+    "0.37": "float",
+    "0.38": "float",
+    "0.39": "float",
+    "0.4": "float",
+    "0.41": "float",
+    "0.42": "float",
+    "0.43": "float",
+    "0.44": "float",
+    "0.45": "float",
+    "0.46": "float",
+    "0.47": "float",
+    "0.48": "float",
+    "0.49": "float",
+    "0.5": "float",
+    "0.51": "float",
+    "0.52": "float",
+    "0.53": "float",
+    "0.54": "float",
+    "0.55": "float",
+    "0.56": "float",
+    "0.57": "float",
+    "0.58": "float",
+    "0.59": "float",
+    "0.6": "float",
+    "0.61": "float",
+    "0.62": "float",
+    "0.63": "float",
+    "0.64": "float",
+    "0.65": "float",
+    "0.66": "float",
+    "0.67": "float",
+    "0.68": "float",
+    "0.69": "float",
+    "0.7": "float",
+    "0.71": "float",
+    "0.72": "float",
+    "0.73": "float",
+    "0.74": "float",
+    "0.75": "float",
+    "0.76": "float",
+    "0.77": "float",
+    "0.78": "float",
+    "0.79": "float",
+    "0.8": "float",
+    "0.81": "float",
+    "0.82": "float",
+    "0.83": "float",
+    "0.84": "float",
+    "0.85": "float",
+    "0.86": "float",
+    "0.87": "float",
+    "0.88": "float",
+    "0.89": "float",
+    "0.9": "float",
+    "0.91": "float",
+    "0.92": "float",
+    "0.93": "float",
+    "0.94": "float",
+    "0.95": "float",
+    "0.96": "float",
+    "0.97": "float",
+    "0.98": "float",
+    "0.99": "float",
+    "1": "float",
+    "count": "int"
+  },
+  "table_vessel_percentile_type_age_dwt": {
+    "vessel_type": "str",
+    "0.01": "float",
+    "0.02": "float",
+    "0.03": "float",
+    "0.04": "float",
+    "0.05": "float",
+    "0.06": "float",
+    "0.07": "float",
+    "0.08": "float",
+    "0.09": "float",
+    "0.1": "float",
+    "0.11": "float",
+    "0.12": "float",
+    "0.13": "float",
+    "0.14": "float",
+    "0.15": "float",
+    "0.16": "float",
+    "0.17": "float",
+    "0.18": "float",
+    "0.19": "float",
+    "0.2": "float",
+    "0.21": "float",
+    "0.22": "float",
+    "0.23": "float",
+    "0.24": "float",
+    "0.25": "float",
+    "0.26": "float",
+    "0.27": "float",
+    "0.28": "float",
+    "0.29": "float",
+    "0.3": "float",
+    "0.31": "float",
+    "0.32": "float",
+    "0.33": "float",
+    "0.34": "float",
+    "0.35": "float",
+    "0.36": "float",
+    "0.37": "float",
+    "0.38": "float",
+    "0.39": "float",
+    "0.4": "float",
+    "0.41": "float",
+    "0.42": "float",
+    "0.43": "float",
+    "0.44": "float",
+    "0.45": "float",
+    "0.46": "float",
+    "0.47": "float",
+    "0.48": "float",
+    "0.49": "float",
+    "0.5": "float",
+    "0.51": "float",
+    "0.52": "float",
+    "0.53": "float",
+    "0.54": "float",
+    "0.55": "float",
+    "0.56": "float",
+    "0.57": "float",
+    "0.58": "float",
+    "0.59": "float",
+    "0.6": "float",
+    "0.61": "float",
+    "0.62": "float",
+    "0.63": "float",
+    "0.64": "float",
+    "0.65": "float",
+    "0.66": "float",
+    "0.67": "float",
+    "0.68": "float",
+    "0.69": "float",
+    "0.7": "float",
+    "0.71": "float",
+    "0.72": "float",
+    "0.73": "float",
+    "0.74": "float",
+    "0.75": "float",
+    "0.76": "float",
+    "0.77": "float",
+    "0.78": "float",
+    "0.79": "float",
+    "0.8": "float",
+    "0.81": "float",
+    "0.82": "float",
+    "0.83": "float",
+    "0.84": "float",
+    "0.85": "float",
+    "0.86": "float",
+    "0.87": "float",
+    "0.88": "float",
+    "0.89": "float",
+    "0.9": "float",
+    "0.91": "float",
+    "0.92": "float",
+    "0.93": "float",
+    "0.94": "float",
+    "0.95": "float",
+    "0.96": "float",
+    "0.97": "float",
+    "0.98": "float",
+    "0.99": "float",
+    "1": "float",
+    "count": "int"
+  },
+  "table_age_bands": {
+    "lower_age_band": "int",
+    "upper_age_band": "int"
+  },
+  "table_dwt_bands": {
+    "lower_dwt_band": "int",
+    "upper_dwt_band": "int"
+  },
+  "table_hull_development_pattern": {
+    "months": "int",
+    "dev": "float"
+  },
+  "table_ulr_projection": {
+    "parameter": "str",
+    "value": "float"
+  },
+  "table_vessels_experience_weighting": {
+    "number_of_vessels": "int",
+    "weight": "float"
+  },
+  "table_modelling_parameters": {
+    "parameter": "str",
+    "value": "float"
+  },
+  "table_sample_bi_data": {
+    "policy_reference": "str",
+    "written_or_estimated_premium": "float",
+    "total_incurred_shared_line": "float",
+    "rate_change": "float",
+    "acquisition_cost": "float",
+    "signed_line": "float"
+  },
+  "table_rate_change_history": {
+    "year": "int",
+    "rate": "float"
+  },
+  "table_original_rater_params": {
+    "year": "int",
+    "business_plan_class": "str",
+    "che": "float",
+    "var_exp": "float",
+    "fixed_exp": "float",
+    "cost_of_ri": "float",
+    "ri_rec": "float",
+    "inv_inc": "float",
+    "capital_req": "float",
+    "roc": "float",
+    "nmp_load": "float"
+  },
+  "table_static_fleet_size": {
+    "fleet_size": "int",
+    "smoothed_factor": "float"
+  },
+  "table_behavioural_fleet_size": {
+    "fleet_size": "int",
+    "smoothed_factor": "float"
+  }
+}

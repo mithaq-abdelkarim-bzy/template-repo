@@ -1,0 +1,50 @@
+﻿AircraftUsage,AircraftUsageMapped
+Air Launch Platform,Other
+Airborne Mine Countermeasures (AMCM),Other
+ASW / MPA / Surveillance / Recce / Patrol,High Risk
+Attack - Dedicated Attack,Other
+Attack - Light Armed,Other
+AWACS / AEW&C / AEW / CAEW,Other
+Business - Air Taxi/Air Charter,Industrial Aid
+Business - Private Company Use,Industrial Aid
+Business / Corporate / Executive,Industrial Aid
+Close Air Support,Other
+Combi / Mixed (Passenger/Cargo),Passenger
+Company Demonstrator,Other
+Crop Dusting / Agricultural Spraying / Seeding,Other
+CSAR - Combat Search & Rescue,Other
+EW / ELINT / SIGINT / ECM / ISR / Recce & Surv.,Other
+Experimental / R&D / Prototype / Mfr-Design Bureau,Other
+Fire Fighting (Utility Role),Other
+Freight / Cargo,Cargo
+Heavy-Lift Ops / Under Slung Loads / Logging,Cargo
+Instructional Airframe,Other
+Liaison & Communications / Light Transport,Other
+Medevac / Air Ambulance / EMS / Airborne Hospital,Other
+Military Multi-Role (Utility Transport),Other
+Military Observation/Scout/LUH,Other
+Navaid / Calibrator / Flight Inspection,Other
+News Media / Camera Equipped,Other
+Off-Shore / Oil & Gas Support,Other
+Passenger,Passenger
+Police Air Support / Law Enforcement / Border Pat,Other
+Private Use,Industrial Aid
+Quick-Change/Convertible (Passenger/Cargo),Passenger
+Reconnaissance,Other
+Search & Rescue / Coast Guard,High Risk
+Sightseeing / Tourist,Other
+Skydiving / Parachuting,Other
+Space Programs / Satellite Tracker,Other
+Special Role / Operations / Mission,Other
+Surveying / Mapping & Geo Survey,High Risk
+Surveying / Mapping & Power/Pipeline Inspection,High Risk
+Tanker / Tanker - Transport,High Risk
+Trainer - Military,Other
+Trainer / Training School Aircraft,Other
+UAV / UAS,Other
+Utility (Civil Multi-Role),Cargo
+Utility Transport (Military Multi-Role),Cargo
+VIP / Head of State / Government operated,Industrial Aid
+Water-Bomber / Chemical Spray,High Risk
+Weather / Atmospheric / Environmental Research,Other
+Weather / Atmospheric / Geo & Environmental,Other

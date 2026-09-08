@@ -1,0 +1,255 @@
+vessel_flag,factor,model_mapping
+Unknown - UNK,1.05,OTHER
+Aruba - ABW,1,OTHER
+Afghanistan - AFG,1,OTHER
+Angola - AGO,1,LOW CLAIMS LOW IMOS
+Anguilla - AIA,1,OTHER
+Albania - ALB,1,OTHER
+Aland Islands - ALD,1,OTHER
+Andorra - AND,1,OTHER
+Netherlands Antilles - ANT,1,OTHER
+United Arab Emirates - ARE,1,LOW CLAIMS LOW IMOS
+Argentina - ARG,1,LOW CLAIMS LOW IMOS
+Republic of Armenia - ARM,1,OTHER
+American Samoa - ASM,1,OTHER
+Antarctica - ATA,1,OTHER
+French Southern Territories - ATF,1,OTHER
+Antigua & Barbuda - ATG,1,ABB
+Australia - AUS,1,LOW CLAIMS LOW IMOS
+Austria - AUT,1,OTHER
+Republic of Azerbaijan - AZE,1,LOW CLAIMS LOW IMOS
+Azores - AZO,1,OTHER
+Burundi - BDI,1,OTHER
+Belgium - BEL,1,BLG
+Republic of Benin - BEN,1,OTHER
+Burkina Faso - BFA,1,OTHER
+Bangladesh - BGD,1,BNG
+Bulgaria - BGR,1,OTHER
+Kingdom of Bahrain - BHR,1,OTHER
+Bahamas - BHS,1,BAH
+Bosnia Hercegovina - BIH,1,OTHER
+Belarus - BLR,1,OTHER
+Belize - BLZ,1,LOW EXPERIENCE
+Bermuda - BMU,1,LOW EXPERIENCE
+Bolivia - BOL,1,LOW CLAIMS LOW IMOS
+Brazil - BRA,1,LOW EXPERIENCE
+Barbados - BRB,1,LOW EXPERIENCE
+Brunei Darussalam - BRN,1,LOW EXPERIENCE
+Bhutan - BTN,1,OTHER
+Bouvet Island - BVT,1,OTHER
+Botswana - BWA,1,OTHER
+Central African Republic - CAF,1,OTHER
+Canada - CAN,1,CAN
+Cocos (Keeling) Islands - CCK,1,OTHER
+Switzerland - CHE,1,OTHER
+Chile - CHL,1,LOW EXPERIENCE
+People's Republic of China - CHN,1,OTHER
+Ivory Coast - CIV,1,OTHER
+Cameroon - CMR,1,OTHER
+Canary Islands - CNI,1,OTHER
+Democratic Republic of Congo - COD,1,OTHER
+The Congo - COG,1,OTHER
+Cook Islands - COK,1,LOW CLAIMS LOW IMOS
+Colombia - COL,1,LOW CLAIMS LOW IMOS
+Comoros - COM,1,LOW CLAIMS LOW IMOS
+Republic of Cape Verde - CPV,1,OTHER
+Costa Rica - CRI,1,OTHER
+Czechoslovakia - CSK,1,OTHER
+Cuba - CUB,1,LOW CLAIMS LOW IMOS
+Christmas Island - CXR,1,OTHER
+Cayman Islands - CYM,1,LOW CLAIMS LOW IMOS
+Cyprus - CYP,1,LOW EXPERIENCE
+Czech Republic - CZE,1,OTHER
+German Democratic Republic - DDR,1,OTHER
+Germany - DEU,1,GEU
+Danish International Register - DIS,1,OTHER
+Republic of Djibouti - DJI,1,LOW CLAIMS LOW IMOS
+Dominica - DMA,1,LOW CLAIMS LOW IMOS
+Denmark - DNK,1,LOW CLAIMS LOW IMOS
+Dominican Republic - DOM,1,OTHER
+Algeria - DZA,1,OTHER
+Ecuador - ECU,1,LOW CLAIMS LOW IMOS
+Arab Republic of Egypt - EGY,1,LOW CLAIMS LOW IMOS
+Eritrea - ERI,1,OTHER
+Western Sahara - ESH,1,OTHER
+Spain - ESP,1,LOW CLAIMS LOW IMOS
+Republic of Estonia - EST,1,OTHER
+Ethiopia - ETH,1,OTHER
+Finland - FIN,1,LOW CLAIMS LOW IMOS
+Fiji - FJI,1,LOW CLAIMS LOW IMOS
+Falkland Islands - FLK,1,OTHER
+France - FRA,1,LOW CLAIMS LOW IMOS
+Faroe Islands - FRO,1,LOW CLAIMS LOW IMOS
+Federated States of Micronesia - FSM,1,OTHER
+Gabon - GAB,1,OTHER
+United Kingdom - GBR,1,GBI
+Republic of Georgia - GEO,1,OTHER
+Ghana - GHA,1,LOW CLAIMS LOW IMOS
+Gibraltar - GIB,1,LOW CLAIMS LOW IMOS
+Guinea - GIN,1,OTHER
+Guadeloupe - GLP,1,OTHER
+The Gambia - GMB,1,OTHER
+Guinea-Bissau - GNB,1,OTHER
+Equatorial Guinea - GNQ,1,OTHER
+Greece - GRC,1,GRC
+Grenada - GRD,1,OTHER
+Greenland - GRL,1,OTHER
+Guatemala - GTM,1,OTHER
+French Guiana - GUF,1,OTHER
+Guam - GUM,1,OTHER
+Guyana - GUY,1,OTHER
+Hong Kong - HKG,1,HKG
+Heard & McDonald Islands - HMD,1,OTHER
+Honduras - HND,1,LOW CLAIMS LOW IMOS
+Republic of Croatia - HRV,1,LOW CLAIMS LOW IMOS
+Haiti - HTI,1,OTHER
+Hungary - HUN,1,OTHER
+Indonesia - IDN,1,IDA
+India - IND,1,OTHER
+Isle of Man - IOM,1,LOW CLAIMS LOW IMOS
+British Indian Ocean Territory - IOT,1,OTHER
+Republic of Ireland - IRL,1,OTHER
+Iran - IRN,1,OTHER
+Iraq - IRQ,1,OTHER
+Iceland - ISL,1,OTHER
+Israel - ISR,1,LOW CLAIMS LOW IMOS
+Italy - ITA,1,ITL
+Jamaica - JAM,1,OTHER
+Jordan - JOR,1,LOW CLAIMS LOW IMOS
+Japan - JPN,1,LOW CLAIMS LOW IMOS
+Republic of Kazakhstan - KAZ,1,LOW CLAIMS LOW IMOS
+Kenya - KEN,1,OTHER
+Republic of Kyrgyzstan - KGZ,1,OTHER
+Cambodia - KHM,1,OTHER
+Kiribati - KIR,1,LOW CLAIMS LOW IMOS
+St. Kitts-Nevis - KNA,1,LOW CLAIMS LOW IMOS
+Republic of Korea - KOR,1,LOW EXPERIENCE
+Kuwait - KWT,1,OTHER
+Laos - LAO,1,OTHER
+Lebanon - LBN,1,OTHER
+Liberia - LBR,1,LIB
+Socialist People's Libyan Arab Jamahirayah - LBY,1,OTHER
+St. Lucia - LCA,1,OTHER
+Liechtenstein - LIE,1,OTHER
+Sri Lanka - LKA,1,LOW CLAIMS LOW IMOS
+Lesotho - LSO,1,OTHER
+Republic of Lithuania - LTU,1,LOW CLAIMS LOW IMOS
+Luxembourg - LUX,1,LOW CLAIMS LOW IMOS
+Republic of Latvia - LVA,1,OTHER
+Macau - MAC,1,OTHER
+Morocco - MAR,1,OTHER
+Monaco - MCO,1,OTHER
+Republic of Moldova - MDA,1,OTHER
+Madagascar - MDG,1,OTHER
+Republic of Maldives - MDV,1,OTHER
+Mexico - MEX,1,MEX
+Marshall Islands - MHL,1,MAI
+Republic of Macedonia - MKD,1,OTHER
+Mali - MLI,1,OTHER
+Malta - MLT,1,MTA
+Union of Myanmar - MMR,1,OTHER
+Mongolia - MNG,1,OTHER
+Northern Marianas - MNP,1,OTHER
+Mozambique - MOZ,1,OTHER
+Mauritania - MRT,1,OTHER
+Montserrat - MSR,1,OTHER
+Montenegro - MTG,1,LOW CLAIMS LOW IMOS
+Martinique - MTQ,1,OTHER
+Mauritius - MUS,1,LOW CLAIMS LOW IMOS
+Malawi - MWI,1,OTHER
+Malaysia - MYS,1,MAL
+Mayotte - MYT,1,OTHER
+Republic of Namibia - NAM,1,OTHER
+New Caledonia - NCL,1,OTHER
+Republic of the Niger - NER,1,OTHER
+Norfolk Island - NFK,1,OTHER
+Nigeria - NGA,1,LOW CLAIMS LOW IMOS
+Nicaragua - NIC,1,OTHER
+Norwegian International Register - NIS,1,OTHER
+Niue Island - NIU,1,LOW CLAIMS LOW IMOS
+Netherlands - NLD,1,NTH
+Norway - NOR,1,NIS
+Nepal - NPL,1,OTHER
+Nauru - NRU,1,OTHER
+Neutral Zone (between Saudi Arabia & Iraq) - NTZ,1,OTHER
+New Zealand - NZL,1,LOW CLAIMS LOW IMOS
+Sultanate of Oman - OMN,1,OTHER
+Pakistan - PAK,1,OTHER
+Panama - PAN,1,PAN
+Pitcairn Islands - PCN,1,OTHER
+Peru - PER,1,LOW EXPERIENCE
+Philippines - PHL,1,LOW EXPERIENCE
+Republic of Palau - PLW,1,LOW CLAIMS LOW IMOS
+Madeira - PMD,1,OTHER
+Papua New Guinea - PNG,1,OTHER
+Poland - POL,1,OTHER
+Puerto Rico - PRI,1,OTHER
+Democratic People's Republic of Korea - PRK,1,OTHER
+Portugal - PRT,1,MAR
+Paraguay - PRY,1,OTHER
+French Polynesia - PYF,1,OTHER
+State of Qatar - QAT,1,LOW CLAIMS LOW IMOS
+Reunion - REU,1,OTHER
+French International Register - RIF,1,OTHER
+Romania - ROM,1,OTHER
+Russian Federation - RUS,1,LOW EXPERIENCE
+Rwanda - RWA,1,OTHER
+Saudi Arabia - SAU,1,OTHER
+Serbia - SCG,1,OTHER
+Sudan - SDN,1,OTHER
+Senegal - SEN,1,OTHER
+Republic of Singapore - SGP,1,SNG
+St. Helena - SHN,1,OTHER
+Svalbard & Jan Mayen Islands - SJM,1,OTHER
+Solomon Islands - SLB,1,LOW CLAIMS LOW IMOS
+Sierra Leone - SLE,1,LOW CLAIMS LOW IMOS
+El Salvador - SLV,1,OTHER
+San Marino - SMR,1,OTHER
+Somali Democratic Republic - SOM,1,OTHER
+St. Pierre & Miquelon - SPM,1,OTHER
+Sao Tome & Principe - STP,1,OTHER
+U.S.S.R. - SUN,1,LOW CLAIMS LOW IMOS
+Suriname - SUR,1,OTHER
+Slovakia - SVK,1,OTHER
+Republic of Slovenia - SVN,1,OTHER
+Sweden - SWE,1,LOW CLAIMS LOW IMOS
+Swaziland - SWZ,1,OTHER
+Seychelles - SYC,1,OTHER
+Syria - SYR,1,OTHER
+Tahiti - TAH,1,OTHER
+Turks & Caicos Islands - TCA,1,OTHER
+Chad - TCD,1,OTHER
+Togo - TGO,1,LOW CLAIMS LOW IMOS
+Thailand - THA,1,LOW EXPERIENCE
+Republic of Tajikistan - TJK,1,OTHER
+Tokelau Islands - TKL,1,OTHER
+Republic of Turkmenistan - TKM,1,OTHER
+East Timor - TLS,1,OTHER
+Tonga - TON,1,LOW CLAIMS LOW IMOS
+Trinidad & Tobago - TTO,1,OTHER
+Tunisia - TUN,1,LOW CLAIMS LOW IMOS
+Turkey - TUR,1,LOW EXPERIENCE
+Tuvalu - TUV,1,LOW CLAIMS LOW IMOS
+Taiwan - TWN,1,LOW EXPERIENCE
+Tanzania - TZA,1,OTHER
+Uganda - UGA,1,OTHER
+Ukraine - UKR,1,OTHER
+American Pacific Territories - UMI,1,OTHER
+Uruguay - URY,1,OTHER
+United States of America - USA,1,USA
+Uzbekistan - UZB,1,OTHER
+Vatican City - VAT,1,OTHER
+St. Vincent & Grenadines - VCT,1,LOW CLAIMS LOW IMOS
+Venezuela - VEN,1,LOW CLAIMS LOW IMOS
+British Virgin Islands - VGB,1,OTHER
+American Virgin Islands - VIR,1,OTHER
+Vietnam - VNM,1,LOW CLAIMS LOW IMOS
+Vanuatu - VUT,1,VAN
+Wallis & Futuna - WLF,1,OTHER
+Independent State of Samoa - WSM,1,OTHER
+Yemeni Republic - YEM,1,OTHER
+Yugoslavia - YUG,1,OTHER
+South Africa - ZAF,1,LOW EXPERIENCE
+Republic of Zaire - ZAR,1,OTHER
+Zambia - ZMB,1,OTHER
+Zimbabwe - ZWE,1,OTHER

@@ -1,0 +1,18 @@
+﻿Region,Current Region mapping,Profit ceded per $ AAL
+Florida SE WS,USWS,0.2752
+Florida non SE WS,USWS,0.1825
+NE WS,USWS,0.2289
+Texas WS,USWS,0.2529
+Louisiana WS,USWS,0.1782
+Carolinas WS,USWS,0.2427
+Mid Atlantic,USWS,0.1457
+Caribbean,USWS,0.1193
+California LA EQ,USEQ,0.5646
+California SF EQ,USEQ,0.5523
+Pacific NW EQ,USEQ,0.6972
+New Madrid EQ,USEQ,0.2817
+Florida SE - Jacksonville,USWS,0.2882
+Florida SE - South Tip,USWS,0.3654
+Florida SE - All Other,USWS,0.3096
+USWS,USWS,0.2486
+USEQ,USEQ,0.6215

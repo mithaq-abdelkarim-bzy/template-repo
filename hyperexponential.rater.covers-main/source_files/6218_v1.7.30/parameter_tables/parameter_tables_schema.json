@@ -1,0 +1,790 @@
+{
+  "table_address": {
+    "Country": "str",
+    "State": "str",
+    "County": "str",
+    "City": "str"
+  },
+  "table_bhi_modifier": {
+    "Binder Name": "str",
+    "TN": "float",
+    "HA": "float"
+  },
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "lst_yn": {
+    "YesNo": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_basic_experience_rating": {
+    "Clean Years": "str",
+    "Adjustment": "float"
+  },
+  "table_claims_inflation": {
+    "year": "int",
+    "claims_inflation": "float"
+  },
+  "table_currency": {
+    "currency": "str",
+    "exchange_rate": "float"
+  },
+  "table_development_method": {
+    "development": "float",
+    "method": "str"
+  },
+  "table_development_patterns": {
+    "years": "int",
+    "development": "float"
+  },
+  "table_exposure_inflation": {
+    "year": "int",
+    "exposure_inflation": "float"
+  },
+  "table_floors": {
+    "No. Floors": "int",
+    "Weight": "float"
+  },
+  "table_floor_area_load": {
+    "State Code": "str",
+    "0": "float",
+    "1": "float",
+    "11": "float",
+    "1507": "float",
+    "2508": "float",
+    "5006": "float",
+    "10011": "float"
+  },
+  "table_premium_rate_change": {
+    "year": "int",
+    "rate_change": "float"
+  },
+  "table_insured_name": {
+    "SectionReference": "str",
+    "InsuredParty": "str"
+  },
+  "table_atc_mapping": {
+    "Orig Scheme": "str",
+    "Original Description": "str",
+    "Orig Code": "int",
+    "Mapped ATC": "str",
+    "BI Group": "str",
+    "SCL Occupancy": "str"
+  },
+  "table_iso_construction_mapping": {
+    "Scheme Code": "str",
+    "ISO Class": "str"
+  },
+  "table_country": {
+    "Country": "str",
+    "Country Code": "str",
+    "Start Pos1": "int",
+    "End Pos1": "int",
+    "TIV sum": "int",
+    "Start Pos2": "int",
+    "End Pos2": "int",
+    "Loc sum": "int"
+  },
+  "table_rms_proxy_rate": {
+    "Zip Code": "str",
+    "Index": "int",
+    "WS Gate": "str",
+    "EQ Gate": "str",
+    "Country": "str",
+    "State Code": "str",
+    "County": "str",
+    "Cresta Zone": "str",
+    "WS Base Rate": "float",
+    "EQ Base Rate": "float",
+    "TRIA Rate": "float"
+  },
+  "table_worth": {
+    "TIV_Band": "float",
+    "Construction_Code": "str",
+    "Fire": "str",
+    "FL": "str",
+    "TN": "str",
+    "HA": "str",
+    "WF": "str",
+    "EQ": "str",
+    "WS": "str",
+    "WTS": "str"
+  },
+  "table_worth_entry_exit": {
+    "tiv_perc": "float",
+    "a": "float",
+    "b": "float",
+    "d": "float",
+    "n": "float",
+    "A1": "float",
+    "B1": "float",
+    "WS1": "float",
+    "WS2": "float",
+    "WS3": "float",
+    "WS4": "float",
+    "WS5": "float",
+    "EQ1": "float",
+    "Y1": "float",
+    "Y2": "float",
+    "Y3": "float",
+    "Y4": "float",
+    "Y5": "float",
+    "VL1": "float",
+    "L2": "float",
+    "M3": "float",
+    "MH4": "float",
+    "VH5": "float"
+  },
+  "table_us_spatial_key": {
+    "StateCounty": "str",
+    "FL": "float",
+    "WF": "float",
+    "TN": "float",
+    "HA": "float"
+  },
+  "table_intl_spatial_key": {
+    "State": "str",
+    "FL": "float",
+    "WF": "float",
+    "TN": "float",
+    "HA": "float"
+  },
+  "table_iso_construction_modifier": {
+    "ISO": "str",
+    "Construction": "str",
+    "Fire": "float",
+    "FL": "float",
+    "HA": "float",
+    "WF": "float",
+    "int_EQ": "float",
+    "int_WS": "float"
+  },
+  "table_atc_occupancy_modifier": {
+    "Row Labels": "str",
+    "ATC_Code": "int",
+    "-0.25": "float",
+    "0": "float",
+    "0.25": "float",
+    "1": "float",
+    "Grand Total": "float",
+    "Mean": "float",
+    "Mode": "float"
+  },
+  "table_ppc_modifier": {
+    "PPC": "str",
+    "Fire": "float",
+    "WF": "float"
+  },
+  "table_size_discount_tn_ha_wts_buildings_rescale_bg2": {
+    "TIV": "float",
+    "Florida": "float",
+    "Non-Southeast": "float",
+    "Southeast": "float"
+  },
+  "table_size_discount_tn_ha_wts_contents_rescale_bg2": {
+    "TIV": "float",
+    "Florida": "float",
+    "Non-Southeast": "float",
+    "Southeast": "float"
+  },
+  "table_size_discount_wf_fl_buildings_rescale_bg1": {
+    "TIV": "float",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_size_discount_wf_fl_contents_rescale_bg1": {
+    "TIV": "float",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_us_base_rates": {
+    "StateCounty": "str",
+    "TN Buildings": "float",
+    "TN Contents": "float",
+    "TN BI": "float",
+    "HA Buildings": "float",
+    "HA Contents": "float",
+    "HA BI": "float",
+    "WTS Buildings": "float",
+    "WTS Contents": "float",
+    "WTS BI": "float",
+    "FL Buildings": "float",
+    "FL Contents": "float",
+    "FL BI": "float",
+    "WF Buildings": "float",
+    "WF Contents": "float",
+    "WF BI": "float"
+  },
+  "table_intl_base_rates": {
+    "State": "str",
+    "TN Buildings": "float",
+    "TN Contents": "float",
+    "TN BI": "float",
+    "HA Buildings": "float",
+    "HA Contents": "float",
+    "HA BI": "float",
+    "WTS Buildings": "float",
+    "WTS Contents": "float",
+    "WTS BI": "float",
+    "FL Buildings": "float",
+    "FL Contents": "float",
+    "FL BI": "float",
+    "WF Buildings": "float",
+    "WF Contents": "float",
+    "WF BI": "float"
+  },
+  "table_int_weather_modifier": {
+    "State": "str",
+    "CA_TN Buildings": "float",
+    "CA_TN Contents": "float",
+    "CA_TN BI": "float",
+    "CA_HA Buildings": "float",
+    "CA_HA Contents": "float",
+    "CA_HA BI": "float",
+    "CA_WS Rate All": "float",
+    "CA_FL Rate": "float",
+    "CA_WF Rate": "float",
+    "CA_FL Rel": "float",
+    "CA_WF Rel": "float",
+    "CA_TN Rel": "float",
+    "CA_HA Rel": "float"
+  },
+  "table_secondary_mapping": {
+    "State Code": "str",
+    "State": "str",
+    "County": "str",
+    "Unique Identifier": "str",
+    "Gate": "str",
+    "Zip Code": "str",
+    "Gate Name": "str",
+    "RI Name": "str",
+    "Peril": "str",
+    "Region": "str"
+  },
+  "table_bg_mapping": {
+    "Zip Code": "str",
+    "City": "str",
+    "State Abbreviation": "str",
+    "State Name": "str",
+    "County": "str",
+    "BG1 Terr": "str",
+    "BG2 Terr": "str"
+  },
+  "table_iso_bg1_buildings_base_rates": {
+    "Index": "str",
+    "ISO STATE NUM": "str",
+    "STATE": "str",
+    "ISO TERRITORY BG1": "str",
+    "ISO TERR NUM": "str",
+    "ATC CLASS": "str",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_iso_bg1_contents_base_rates": {
+    "Index": "str",
+    "ISO STATE NUM": "str",
+    "STATE": "str",
+    "ISO TERRITORY BG1": "str",
+    "ISO TERR NUM": "str",
+    "ATC CLASS": "str",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_bg_scl_peril_selection": {
+    "Peril": "str",
+    "Basic": "bool",
+    "HO1": "bool",
+    "HO2": "bool",
+    "HO3": "bool",
+    "HO5": "bool",
+    "DP3": "bool"
+  },
+  "table_bg1_prop_covered_rates": {
+    "Peril": "str",
+    "Buildings": "float",
+    "Contents": "float",
+    "BI": "float"
+  },
+  "table_size_discount_bg1_buildings": {
+    "TIV": "float",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_size_discount_bg1_contents": {
+    "TIV": "float",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_fire_ppc": {
+    "Protection Class": "str",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_limit_factors": {
+    "Limit as proportion of TIV": "float",
+    "WS1": "float",
+    "EQ1": "float"
+  },
+  "table_ded_credit": {
+    "Deductible Bands": "float",
+    "Peril": "str",
+    "0": "float",
+    "51000": "float",
+    "101000": "float",
+    "251000": "float",
+    "501000": "float",
+    "1001000": "float",
+    "3501000": "float",
+    "5001000": "float",
+    "10001000": "float"
+  },
+  "table_bg2_base_rates": {
+    "Index": "str",
+    "Buildings": "float",
+    "Contents": "float"
+  },
+  "table_bg_scl_prop_covered": {
+    "Peril": "str",
+    "Risk": "str",
+    "Buildings": "float",
+    "Contents": "float",
+    "BI": "float",
+    "BuildingsSoutheast": "float",
+    "BuildingsNon-Southeast": "float",
+    "ContentsSoutheast": "float",
+    "ContentsNon-Southeast": "float",
+    "BISoutheast": "float",
+    "BINon-Southeast": "float",
+    "BuildingsSEW": "float",
+    "BuildingsNNE": "float",
+    "BuildingsMW": "float",
+    "ContentsSEW": "float",
+    "ContentsNNE": "float",
+    "ContentsMW": "float",
+    "BISEW": "float",
+    "BINNE": "float",
+    "BIMW": "float"
+  },
+  "table_bg2_scl_regions": {
+    "State": "str",
+    "BG2 Region": "str",
+    "SCL Region": "str"
+  },
+  "table_size_discount_bg2_buildings": {
+    "TIV": "float",
+    "Florida": "float",
+    "Non-Southeast": "float",
+    "Southeast": "float"
+  },
+  "table_size_discount_bg2_contents": {
+    "TIV": "float",
+    "Florida": "float",
+    "Non-Southeast": "float",
+    "Southeast": "float"
+  },
+  "table_scl_base_rates": {
+    "Index": "str",
+    "OccupancyGroup": "float",
+    "BUILDING": "float",
+    "CONTENTS": "float"
+  },
+  "table_year_built_load": {
+    "Year Built": "int",
+    "HA": "float"
+  },
+  "table_year_built_tn_load": {
+    "StateCounty": "str",
+    "1900": "float",
+    "1981": "float",
+    "2002": "float"
+  },
+  "table_us_ha_occupancy_load": {
+    "State Code": "str",
+    "0": "float",
+    "1": "float",
+    "2": "float",
+    "3": "float",
+    "4": "float",
+    "5": "float",
+    "6": "float",
+    "7": "float",
+    "8": "float",
+    "9": "float",
+    "10": "float",
+    "11": "float",
+    "12": "float",
+    "13": "float",
+    "14": "float",
+    "15": "float",
+    "16": "float",
+    "17": "float",
+    "18": "float",
+    "19": "float",
+    "20": "float",
+    "21": "float",
+    "22": "float",
+    "23": "float",
+    "24": "float",
+    "25": "float",
+    "26": "float",
+    "27": "float",
+    "28": "float",
+    "29": "float",
+    "30": "float",
+    "31": "float",
+    "32": "float",
+    "33": "float",
+    "34": "float",
+    "35": "float",
+    "36": "float",
+    "37": "float",
+    "38": "float",
+    "39": "float",
+    "40": "float",
+    "41": "float",
+    "42": "float",
+    "43": "float",
+    "44": "float",
+    "47": "float",
+    "48": "float",
+    "49": "float",
+    "50": "float",
+    "51": "float",
+    "52": "float",
+    "53": "float",
+    "54": "float"
+  },
+  "table_size_discount_scl_buildings": {
+    "TIV": "float",
+    "Factors": "float"
+  },
+  "table_size_discount_scl_contents": {
+    "TIV": "float",
+    "Factors": "float"
+  },
+  "table_scl_bi_rates": {
+    "Index": "str",
+    "Business Income Without Extra Expense": "float",
+    "Business Income and Extra Expense": "float"
+  },
+  "table_bg_bi_multiplier": {
+    "BI Occupancy": "str",
+    "Business Income and Extra Expense": "float",
+    "Business Income Without Extra Expense": "float"
+  },
+  "table_bg_bi_rates": {
+    "StateName": "str",
+    "BG1": "float",
+    "BG2": "float",
+    "Average": "float"
+  },
+  "table_tp_assumptions": {
+    "Target NLR": "float",
+    "Return on Capital": "float",
+    "LAE %": "float",
+    "CoV": "float",
+    "Standard Deviation": "float",
+    "Max Loss Ratio": "float",
+    "Indirect Expenses Per Binder": "float",
+    "Direct Expenses Per Premium": "float",
+    "Investment Income Load": "float",
+    "Indirect Expenses Per Binder Follow": "float",
+    "Gross Group Cat Risk": "float",
+    "Held Capital": "float",
+    "Additional Group Cat Risk": "float",
+    "Corresponding Capital Required": "float",
+    "Fire + AOP + Int Capital Allocation": "float"
+  },
+  "table_tn_occupancy_modifier": {
+    "StateCounty": "str",
+    "Occ.0": "float",
+    "Occ.1": "float",
+    "Occ.2": "float",
+    "Occ.3": "float",
+    "Occ.4": "float",
+    "Occ.5": "float",
+    "Occ.6": "float",
+    "Occ.7": "float",
+    "Occ.8": "float",
+    "Occ.9": "float",
+    "Occ.10": "float",
+    "Occ.11": "float",
+    "Occ.12": "float",
+    "Occ.13": "float",
+    "Occ.14": "float",
+    "Occ.15": "float",
+    "Occ.16": "float",
+    "Occ.17": "float",
+    "Occ.18": "float",
+    "Occ.19": "float",
+    "Occ.20": "float",
+    "Occ.21": "float",
+    "Occ.22": "float",
+    "Occ.23": "float",
+    "Occ.24": "float",
+    "Occ.25": "float",
+    "Occ.26": "float",
+    "Occ.27": "float",
+    "Occ.28": "float",
+    "Occ.29": "float",
+    "Occ.30": "float",
+    "Occ.31": "float",
+    "Occ.32": "float",
+    "Occ.33": "float",
+    "Occ.34": "float",
+    "Occ.35": "float",
+    "Occ.36": "float",
+    "Occ.37": "float",
+    "Occ.38": "float",
+    "Occ.39": "float",
+    "Occ.40": "float",
+    "Occ.41": "float",
+    "Occ.42": "float",
+    "Occ.43": "float",
+    "Occ.44": "float",
+    "Occ.47": "float",
+    "Occ.48": "float",
+    "Occ.49": "float",
+    "Occ.50": "float",
+    "Occ.51": "float",
+    "Occ.52": "float",
+    "Occ.53": "float",
+    "Occ.54": "float"
+  },
+  "table_tn_construction_load": {
+    "StateCounty": "str",
+    "ISO.1": "float",
+    "ISO.2": "float",
+    "ISO.3": "float",
+    "ISO.4": "float",
+    "ISO.5": "float",
+    "ISO.6": "float"
+  },
+  "table_ha_occupancy_modifier": {
+    "State Code": "str",
+    "Occ.0": "float",
+    "Occ.1": "float",
+    "Occ.2": "float",
+    "Occ.3": "float",
+    "Occ.4": "float",
+    "Occ.5": "float",
+    "Occ.6": "float",
+    "Occ.7": "float",
+    "Occ.8": "float",
+    "Occ.9": "float",
+    "Occ.10": "float",
+    "Occ.11": "float",
+    "Occ.12": "float",
+    "Occ.13": "float",
+    "Occ.14": "float",
+    "Occ.15": "float",
+    "Occ.16": "float",
+    "Occ.17": "float",
+    "Occ.18": "float",
+    "Occ.19": "float",
+    "Occ.20": "float",
+    "Occ.21": "float",
+    "Occ.22": "float",
+    "Occ.23": "float",
+    "Occ.24": "float",
+    "Occ.25": "float",
+    "Occ.26": "float",
+    "Occ.27": "float",
+    "Occ.28": "float",
+    "Occ.29": "float",
+    "Occ.30": "float",
+    "Occ.31": "float",
+    "Occ.32": "float",
+    "Occ.33": "float",
+    "Occ.34": "float",
+    "Occ.35": "float",
+    "Occ.36": "float",
+    "Occ.37": "float",
+    "Occ.38": "float",
+    "Occ.39": "float",
+    "Occ.40": "float",
+    "Occ.41": "float",
+    "Occ.42": "float",
+    "Occ.43": "float",
+    "Occ.44": "float",
+    "Occ.47": "float",
+    "Occ.48": "float",
+    "Occ.49": "float",
+    "Occ.50": "float",
+    "Occ.51": "float",
+    "Occ.52": "float",
+    "Occ.53": "float",
+    "Occ.54": "float"
+  },
+  "table_profit_ceded_aal": {
+    "Region": "str",
+    "Current Region mapping": "str",
+    "Profit ceded per $ AAL": "float"
+  },
+  "table_uplift": {
+    "peril": "str",
+    "rms_ws_uplift": "float",
+    "rms_eq_uplift": "float",
+    "nmp_el_uplift": "float"
+  },
+  "table_tfgmappings": {
+    "Division": "str",
+    "Department": "str",
+    "Trifocus": "str",
+    "Benchmark Class": "str",
+    "Business Plan MI Group": "str",
+    "Business Plan Class": "str",
+    "Reserving Class": "str",
+    "ST/LT": "str"
+  },
+  "lst_insurednames": {
+    "Description": "str"
+  },
+  "lst_benchgroup_using_eurobase": {
+    "BenchmarkGroup": "str"
+  },
+  "table_currencyratebicurrent": {
+    "Version": "int",
+    "Currency": "str",
+    "ExchangeRate": "float"
+  },
+  "table_benchmarkclassparameters": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "Item": "str",
+    "Value": "float"
+  },
+  "table_inflationchange": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "Year": "int",
+    "Value": "float"
+  },
+  "lst_benchmarknames": {
+    "Benchmark Class": "str"
+  },
+  "table_afbdevelopmentpatternsoc": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "qtr": "int",
+    "value": "float"
+  },
+  "table_afbdevelopmentpatterns": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "qtr": "int",
+    "value": "float"
+  },
+  "table_rule_tail_factor": {
+    "Version": "int",
+    "tail_desc": "str",
+    "tail_code": "str",
+    "basis": "str",
+    "tail_df": "float",
+    "num_yr_developed": "str",
+    "percent_develop": "float",
+    "incurred_dev_factor": "float"
+  },
+  "table_rule_pattern_weight": {
+    "Version": "int",
+    "tail_desc": "str",
+    "tail_code": "str",
+    "average_total_claims": "int",
+    "num_yr_data": "int",
+    "wgt_experience": "float",
+    "wgt_benchmark": "float"
+  },
+  "table_currencyrates": {
+    "Version": "int",
+    "Currency": "str",
+    "Rate": "float",
+    "RMS Rate": "float"
+  },
+  "table_portfoliochange": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "Year": "int",
+    "Value": "int"
+  },
+  "table_ratechange": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "Year": "int",
+    "Value": "float"
+  },
+  "table_attritionalcredibility": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "Percent Ultimate": "float",
+    "Value": "str"
+  },
+  "table_singlevalues": {
+    "Field": "str",
+    "Value": "float"
+  },
+  "table_largecredibility": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "written_premium": "int",
+    "num_yr_data": "int",
+    "Value": "float"
+  },
+  "table_catcredibility": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "written_premium": "int",
+    "num_yr_data": "int",
+    "Value": "float"
+  },
+  "table_rms_uplift": {
+    "Benchmark Class": "str",
+    "RMS Uplift Hurricane": "float",
+    "RMS Uplift Earthquake": "float",
+    "RMS Overall Uplift": "float"
+  },
+  "table_experience_exposure_weights": {
+    "Years": "float",
+    "0": "float",
+    "1000000": "float",
+    "2000000": "float",
+    "3000000": "float",
+    "4000000": "float",
+    "5000000": "float",
+    "10000000": "float",
+    "100000000": "float"
+  }
+}

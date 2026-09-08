@@ -1,0 +1,1005 @@
+SIC Code 2ch,SIC Code 4ch,Industry Description 2ch,Industry Description 4ch,Industry Group,Industry
+01,0111,Agricultural Production - Crops,Wheat,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0112,Agricultural Production - Crops,Rice,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0115,Agricultural Production - Crops,Corn,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0116,Agricultural Production - Crops,Soybeans,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0119,Agricultural Production - Crops,"Cash Grains, NEC",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0131,Agricultural Production - Crops,Cotton,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0132,Agricultural Production - Crops,Tobacco,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0133,Agricultural Production - Crops,Sugarcane and Sugar Beets,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0134,Agricultural Production - Crops,Irish Potatoes,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0139,Agricultural Production - Crops,"Field Crops, Except Cash Grain",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0161,Agricultural Production - Crops,Vegetables and Melons,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0171,Agricultural Production - Crops,Berry Crops,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0172,Agricultural Production - Crops,Grapes,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0173,Agricultural Production - Crops,Tree Nuts,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0174,Agricultural Production - Crops,Citrus Fruits,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0175,Agricultural Production - Crops,Deciduous Tree Fruits,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0179,Agricultural Production - Crops,"Fruits and Tree Nuts, NEC",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0181,Agricultural Production - Crops,Ornamental Nursery Products,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0182,Agricultural Production - Crops,Food Crops Grown Under Cover,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+01,0191,Agricultural Production - Crops,"General Farms, Primarily Crop",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0211,Agricultural Production - Livestock and Animal Specialties,Beef Cattle Feedlots,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0212,Agricultural Production - Livestock and Animal Specialties,"Beef Cattle, Except Feedlots",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0213,Agricultural Production - Livestock and Animal Specialties,Hogs,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0214,Agricultural Production - Livestock and Animal Specialties,Sheep and Goats,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0219,Agricultural Production - Livestock and Animal Specialties,"General Livestock, NEC",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0241,Agricultural Production - Livestock and Animal Specialties,Dairy Farms,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0251,Agricultural Production - Livestock and Animal Specialties,"Broiler, Fryer, and Roaster Chickens",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0252,Agricultural Production - Livestock and Animal Specialties,Chicken Eggs,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0253,Agricultural Production - Livestock and Animal Specialties,Turkeys and Turkey Eggs,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0254,Agricultural Production - Livestock and Animal Specialties,Poultry Hatcheries,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0259,Agricultural Production - Livestock and Animal Specialties,"Poultry and Eggs, NEC",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0271,Agricultural Production - Livestock and Animal Specialties,Fur-bearing Animals and Rabbits,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0272,Agricultural Production - Livestock and Animal Specialties,Horses and Other Equines,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0273,Agricultural Production - Livestock and Animal Specialties,Animal Aquaculture,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0279,Agricultural Production - Livestock and Animal Specialties,"Animal Specialties, NEC",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+02,0291,Agricultural Production - Livestock and Animal Specialties,"General Farms, Primarily animals",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0711,Agricultural Services,Soil Preparation Services,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0721,Agricultural Services,Crop Planting and Protection,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0722,Agricultural Services,Crop Harvesting,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0723,Agricultural Services,Crop Preparation Services For Market,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0724,Agricultural Services,Cotton Ginning,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0741,Agricultural Services,Veterinary Services For Livestock,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0742,Agricultural Services,"Veterinary Services, Specialties",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0751,Agricultural Services,"Livestock Services, Except Veterinary",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0752,Agricultural Services,Animal Specialty Services,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0761,Agricultural Services,Farm Labor Contractors,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0762,Agricultural Services,Farm Management Services,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0781,Agricultural Services,Landscape Counseling and Planning,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0782,Agricultural Services,Lawn and Garden Services,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+07,0783,Agricultural Services,Ornamental Shrub and Tree Services,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+08,0811,Forestry,Timber Tracts,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+08,0831,Forestry,Forest Products,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+08,0851,Forestry,Forestry Services,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+09,0912,"Fishing, Hunting and Trapping",Finfish,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+09,0913,"Fishing, Hunting and Trapping",Shellfish,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+09,0919,"Fishing, Hunting and Trapping",Miscellaneous Marine Products,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+09,0921,"Fishing, Hunting and Trapping",Fish Hatcheries and Preserves,In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+09,0971,"Fishing, Hunting and Trapping","Hunting and Trapping, and Game Propagation",In-Person Industries,"Agriculture, Forestry & Hunting/Fishing"
+10,1011,Metal Mining,Iron Ores,In-Person Industries,Mining & Fuel Extraction
+10,1021,Metal Mining,Copper Ores,In-Person Industries,Mining & Fuel Extraction
+10,1031,Metal Mining,Lead and Zinc Ores,In-Person Industries,Mining & Fuel Extraction
+10,1041,Metal Mining,Gold Ores,In-Person Industries,Mining & Fuel Extraction
+10,1044,Metal Mining,Silver Ores,In-Person Industries,Mining & Fuel Extraction
+10,1061,Metal Mining,"Ferroalloy Ores, Except Vanadium",In-Person Industries,Mining & Fuel Extraction
+10,1081,Metal Mining,Metal Mining Services,In-Person Industries,Mining & Fuel Extraction
+10,1094,Metal Mining,Uranium-radium-vanadium Ores,In-Person Industries,Mining & Fuel Extraction
+10,1099,Metal Mining,"Metal Ores, NEC",In-Person Industries,Mining & Fuel Extraction
+12,1221,Coal Mining,Bituminous Coal and Lignite-surface Mining,In-Person Industries,Mining & Fuel Extraction
+12,1222,Coal Mining,Bituminous Coal-underground Mining,In-Person Industries,Mining & Fuel Extraction
+12,1231,Coal Mining,Anthracite Mining,In-Person Industries,Mining & Fuel Extraction
+12,1241,Coal Mining,Coal Mining Services,In-Person Industries,Mining & Fuel Extraction
+13,1311,Oil and Gas Extraction,Crude Petroleum and Natural Gas,In-Person Industries,Mining & Fuel Extraction
+13,1321,Oil and Gas Extraction,Natural Gas Liquids,In-Person Industries,Mining & Fuel Extraction
+13,1381,Oil and Gas Extraction,Drilling Oil and Gas Wells,In-Person Industries,Mining & Fuel Extraction
+13,1382,Oil and Gas Extraction,Oil and Gas Exploration Services,In-Person Industries,Mining & Fuel Extraction
+13,1389,Oil and Gas Extraction,"Oil and Gas Field Services, NEC",In-Person Industries,Mining & Fuel Extraction
+14,1411,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels",Dimension Stone,In-Person Industries,Mining & Fuel Extraction
+14,1422,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels",Crushed and Broken Limestone,In-Person Industries,Mining & Fuel Extraction
+14,1423,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels",Crushed and Broken Granite,In-Person Industries,Mining & Fuel Extraction
+14,1429,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels","Crushed and Broken Stone, NEC",In-Person Industries,Mining & Fuel Extraction
+14,1442,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels",Construction Sand and Gravel,In-Person Industries,Mining & Fuel Extraction
+14,1446,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels",Industrial Sand,In-Person Industries,Mining & Fuel Extraction
+14,1455,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels",Kaolin and Ball Clay,In-Person Industries,Mining & Fuel Extraction
+14,1459,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels","Clay, Ceramic, and Refractory Minerals, NEC",In-Person Industries,Mining & Fuel Extraction
+14,1474,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels","Potash, Soda, and Borate Minerals",In-Person Industries,Mining & Fuel Extraction
+14,1475,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels",Phosphate Rock,In-Person Industries,Mining & Fuel Extraction
+14,1479,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels","Chemical and Fertilizer Mineral Mining, NEC",In-Person Industries,Mining & Fuel Extraction
+14,1481,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels","Nonmetallic Minerals Services, Except Fuels",In-Person Industries,Mining & Fuel Extraction
+14,1499,"Mining and Quarrying of Nonmetallic Minerals, Except Fuels","Miscellaneous Nonmetallic Minerals, Except Fuels",In-Person Industries,Mining & Fuel Extraction
+15,1521,Building Cnstrctn - General Contractors & Operative Builders,Single-family Housing Construction,In-Person Industries,Construction
+15,1522,Building Cnstrctn - General Contractors & Operative Builders,"Residential Construction, NEC",In-Person Industries,Construction
+15,1531,Building Cnstrctn - General Contractors & Operative Builders,Operative Builders,In-Person Industries,Construction
+15,1541,Building Cnstrctn - General Contractors & Operative Builders,Industrial Buildings and Warehouses,In-Person Industries,Construction
+15,1542,Building Cnstrctn - General Contractors & Operative Builders,"Nonresidential Construction, NEC",In-Person Industries,Construction
+16,1611,"Heavy Cnstrctn, Except Building Construction - Contractors",Highway and Street Construction,In-Person Industries,Construction
+16,1622,"Heavy Cnstrctn, Except Building Construction - Contractors","Bridge, Tunnel, and Elevated Highway",In-Person Industries,Construction
+16,1623,"Heavy Cnstrctn, Except Building Construction - Contractors","Water, Sewer, and Utility Lines",In-Person Industries,Construction
+16,1629,"Heavy Cnstrctn, Except Building Construction - Contractors","Heavy Construction, NEC",In-Person Industries,Construction
+17,1711,Construction - Special Trade Contractors,"Plumbing, Heating and Air-Conditioning",In-Person Industries,Construction
+17,1721,Construction - Special Trade Contractors,Painting and Paper Hanging,In-Person Industries,Construction
+17,1731,Construction - Special Trade Contractors,Electrical Work,In-Person Industries,Construction
+17,1741,Construction - Special Trade Contractors,"Masonry, Stone Setting, and Other Stone Work",In-Person Industries,Construction
+17,1742,Construction - Special Trade Contractors,"Plastering, Drywall, Acoustical, and Insulation Work",In-Person Industries,Construction
+17,1743,Construction - Special Trade Contractors,"Terrazzo, Tile, Marble, and Mosaic Work",In-Person Industries,Construction
+17,1751,Construction - Special Trade Contractors,Carpentry Work,In-Person Industries,Construction
+17,1752,Construction - Special Trade Contractors,"Floor Laying and Other Floor Work, NEC",In-Person Industries,Construction
+17,1761,Construction - Special Trade Contractors,"Roofing, Siding, and Sheet Metal Work",In-Person Industries,Construction
+17,1771,Construction - Special Trade Contractors,Concrete Work,In-Person Industries,Construction
+17,1781,Construction - Special Trade Contractors,Water Well Drilling,In-Person Industries,Construction
+17,1791,Construction - Special Trade Contractors,Structural Steel Erection,In-Person Industries,Construction
+17,1793,Construction - Special Trade Contractors,Glass and Glazing Work,In-Person Industries,Construction
+17,1794,Construction - Special Trade Contractors,Excavation Work,In-Person Industries,Construction
+17,1795,Construction - Special Trade Contractors,Wrecking and Demolition Work,In-Person Industries,Construction
+17,1796,Construction - Special Trade Contractors,"Installation or Erection of Building Equipment, Not Elsewhere",In-Person Industries,Construction
+17,1799,Construction - Special Trade Contractors,"Special Trade Contractors, NEC",In-Person Industries,Construction
+20,2011,Food and Kindred Products,Meat Packing Plants,Manufacturing,Consumable Goods: Food & Perishable
+20,2013,Food and Kindred Products,Sausages and Other Prepared Meats,Manufacturing,Consumable Goods: Food & Perishable
+20,2015,Food and Kindred Products,Poultry Slaughtering and Processing,Manufacturing,Consumable Goods: Food & Perishable
+20,2021,Food and Kindred Products,Creamery Butter,Manufacturing,Consumable Goods: Food & Perishable
+20,2022,Food and Kindred Products,Cheese; Natural and Processed,Manufacturing,Consumable Goods: Food & Perishable
+20,2023,Food and Kindred Products,"Dry, Condensed, Evaporated Products",Manufacturing,Consumable Goods: Food & Perishable
+20,2024,Food and Kindred Products,Ice Cream and Frozen Desserts,Manufacturing,Consumable Goods: Food & Perishable
+20,2026,Food and Kindred Products,Fluid Milk,Manufacturing,Consumable Goods: Food & Perishable
+20,2032,Food and Kindred Products,Canned Specialties,Manufacturing,Consumable Goods: Food & Perishable
+20,2033,Food and Kindred Products,Canned Fruits and Specialties,Manufacturing,Consumable Goods: Food & Perishable
+20,2034,Food and Kindred Products,"Dehydrated Fruits, Vegetables, Soups",Manufacturing,Consumable Goods: Food & Perishable
+20,2035,Food and Kindred Products,"Pickles, Sauces, and Salad Dressings",Manufacturing,Consumable Goods: Food & Perishable
+20,2037,Food and Kindred Products,Frozen Fruits and Vegetables,Manufacturing,Consumable Goods: Food & Perishable
+20,2038,Food and Kindred Products,"Frozen Specialties, NEC",Manufacturing,Consumable Goods: Food & Perishable
+20,2041,Food and Kindred Products,Flour and Other Grain Mill Products,Manufacturing,Consumable Goods: Food & Perishable
+20,2043,Food and Kindred Products,Cereal Breakfast Foods,Manufacturing,Consumable Goods: Food & Perishable
+20,2044,Food and Kindred Products,Rice Milling,Manufacturing,Consumable Goods: Food & Perishable
+20,2045,Food and Kindred Products,Prepared Flour Mixes and Doughs,Manufacturing,Consumable Goods: Food & Perishable
+20,2046,Food and Kindred Products,Wet Corn Milling,Manufacturing,Consumable Goods: Food & Perishable
+20,2047,Food and Kindred Products,Dog and Cat Food,Manufacturing,Consumable Goods: Food & Perishable
+20,2048,Food and Kindred Products,"Prepared Feeds, NEC",Manufacturing,Consumable Goods: Food & Perishable
+20,2051,Food and Kindred Products,"Bread, Cake, and Related Products",Manufacturing,Consumable Goods: Food & Perishable
+20,2052,Food and Kindred Products,Cookies and Crackers,Manufacturing,Consumable Goods: Food & Perishable
+20,2053,Food and Kindred Products,"Frozen Bakery Products, Except Bread",Manufacturing,Consumable Goods: Food & Perishable
+20,2061,Food and Kindred Products,Raw Cane Sugar,Manufacturing,Consumable Goods: Food & Perishable
+20,2062,Food and Kindred Products,Cane Sugar Refining,Manufacturing,Consumable Goods: Food & Perishable
+20,2063,Food and Kindred Products,Beet Sugar,Manufacturing,Consumable Goods: Food & Perishable
+20,2064,Food and Kindred Products,Candy and Other Confectionery Products,Manufacturing,Consumable Goods: Food & Perishable
+20,2066,Food and Kindred Products,Chocolate and Cocoa Products,Manufacturing,Consumable Goods: Food & Perishable
+20,2067,Food and Kindred Products,Chewing Gum,Manufacturing,Consumable Goods: Food & Perishable
+20,2068,Food and Kindred Products,Salted and Roasted Nuts and Seeds,Manufacturing,Consumable Goods: Food & Perishable
+20,2074,Food and Kindred Products,Cottonseed Oil Mills,Manufacturing,Consumable Goods: Food & Perishable
+20,2075,Food and Kindred Products,Soybean Oil Mills,Manufacturing,Consumable Goods: Food & Perishable
+20,2076,Food and Kindred Products,"Vegetable Oil Mills, NEC",Manufacturing,Consumable Goods: Food & Perishable
+20,2077,Food and Kindred Products,Animal and Marine Fats and Oils,Manufacturing,Consumable Goods: Food & Perishable
+20,2079,Food and Kindred Products,Edible Fats and Oils,Manufacturing,Consumable Goods: Food & Perishable
+20,2082,Food and Kindred Products,Malt Beverages,Manufacturing,Consumable Goods: Alcohol & Tobacco
+20,2083,Food and Kindred Products,Malt,Manufacturing,Consumable Goods: Alcohol & Tobacco
+20,2084,Food and Kindred Products,"Wines, Brandy, and Brandy Spirits",Manufacturing,Consumable Goods: Alcohol & Tobacco
+20,2085,Food and Kindred Products,Distilled and Blended Liquors,Manufacturing,Consumable Goods: Alcohol & Tobacco
+20,2086,Food and Kindred Products,Bottled and Canned Soft Drinks,Manufacturing,Consumable Goods: Food & Perishable
+20,2087,Food and Kindred Products,"Flavoring Extracts and Syrups, NEC",Manufacturing,Consumable Goods: Food & Perishable
+20,2091,Food and Kindred Products,Canned and Cured Fish and Seafoods,Manufacturing,Consumable Goods: Food & Perishable
+20,2092,Food and Kindred Products,Fresh or Frozen Packaged Fish,Manufacturing,Consumable Goods: Food & Perishable
+20,2095,Food and Kindred Products,Roasted Coffee,Manufacturing,Consumable Goods: Food & Perishable
+20,2096,Food and Kindred Products,Potato Chips and Similar Snacks,Manufacturing,Consumable Goods: Food & Perishable
+20,2097,Food and Kindred Products,Manufactured Ice,Manufacturing,Consumable Goods: Food & Perishable
+20,2098,Food and Kindred Products,Macaroni and Spaghetti,Manufacturing,Consumable Goods: Food & Perishable
+20,2099,Food and Kindred Products,"Food Preparations, NEC",Manufacturing,Consumable Goods: Food & Perishable
+21,2111,Tobacco Products,Cigarettes,Manufacturing,Consumable Goods: Alcohol & Tobacco
+21,2121,Tobacco Products,Cigars,Manufacturing,Consumable Goods: Alcohol & Tobacco
+21,2131,Tobacco Products,Chewing and Smoking Tobacco,Manufacturing,Consumable Goods: Alcohol & Tobacco
+21,2141,Tobacco Products,Tobacco Stemming and Redrying,Manufacturing,Consumable Goods: Alcohol & Tobacco
+22,2211,Textile Mill Products,"Broadwoven Fabric Mills, Cotton",Manufacturing,Textile Mill Products
+22,2221,Textile Mill Products,"Broadwoven Fabric Mills, Manmade",Manufacturing,Textile Mill Products
+22,2231,Textile Mill Products,"Broadwoven Fabric Mills, Wool",Manufacturing,Textile Mill Products
+22,2241,Textile Mill Products,Narrow Fabric Mills,Manufacturing,Textile Mill Products
+22,2251,Textile Mill Products,"Women's Hosiery, Except Socks",Manufacturing,Finished Goods: Apparel & Accessories
+22,2252,Textile Mill Products,"Hosiery, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+22,2253,Textile Mill Products,Knit Outerwear Mills,Manufacturing,Finished Goods: Apparel & Accessories
+22,2254,Textile Mill Products,Knit Underwear Mills,Manufacturing,Finished Goods: Apparel & Accessories
+22,2257,Textile Mill Products,Weft Knit Fabric Mills,Manufacturing,Textile Mill Products
+22,2258,Textile Mill Products,Lace and Warp Knit Fabric Mills,Manufacturing,Textile Mill Products
+22,2259,Textile Mill Products,"Knitting Mills, NEC",Manufacturing,Textile Mill Products
+22,2261,Textile Mill Products,"Finishing Plants, Cotton",Manufacturing,Textile Mill Products
+22,2262,Textile Mill Products,"Finishing Plants, Manmade",Manufacturing,Textile Mill Products
+22,2269,Textile Mill Products,"Finishing Plants, NEC",Manufacturing,Textile Mill Products
+22,2273,Textile Mill Products,Carpets and Rugs,Manufacturing,Textile Mill Products
+22,2281,Textile Mill Products,Yarn Spinning Mills,Manufacturing,Textile Mill Products
+22,2282,Textile Mill Products,Throwing and Winding Mills,Manufacturing,Textile Mill Products
+22,2284,Textile Mill Products,Thread Mills,Manufacturing,Textile Mill Products
+22,2295,Textile Mill Products,"Coated Fabrics, Not Rubberized",Manufacturing,Textile Mill Products
+22,2296,Textile Mill Products,Tire Cord and Fabrics,Manufacturing,Textile Mill Products
+22,2297,Textile Mill Products,Nonwoven Fabrics,Manufacturing,Textile Mill Products
+22,2298,Textile Mill Products,Cordage and Twine,Manufacturing,Textile Mill Products
+22,2299,Textile Mill Products,"Textile Goods, NEC",Manufacturing,Textile Mill Products
+23,2311,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Men's and Boy's Suits and Coats,Manufacturing,Finished Goods: Apparel & Accessories
+23,2321,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Men's and Boy's Furnishings,Manufacturing,Finished Goods: Apparel & Accessories
+23,2322,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Men's and Boy's Underwear and Nightwear,Manufacturing,Finished Goods: Apparel & Accessories
+23,2323,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Men's and Boy's Neckwear,Manufacturing,Finished Goods: Apparel & Accessories
+23,2325,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Men's and Boy's Trousers and Slacks,Manufacturing,Finished Goods: Apparel & Accessories
+23,2326,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Men's and Boy's Work Clothing,Manufacturing,Finished Goods: Apparel & Accessories
+23,2329,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Men's and Boy's Clothing, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+23,2331,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Women's and Misses' Blouses and Shirts,Manufacturing,Finished Goods: Apparel & Accessories
+23,2335,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Women's, Junior's, and Misses' Dresses",Manufacturing,Finished Goods: Apparel & Accessories
+23,2337,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Women's and Misses' Suits and Coats,Manufacturing,Finished Goods: Apparel & Accessories
+23,2339,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Women's and Misses' Outerwear, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+23,2341,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Women's and Children's Underwear,Manufacturing,Finished Goods: Apparel & Accessories
+23,2342,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Bras, Girdles, and Allied Garments",Manufacturing,Finished Goods: Apparel & Accessories
+23,2353,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Hats, Caps, and Millinery",Manufacturing,Finished Goods: Apparel & Accessories
+23,2361,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Girl's and Children's Dresses, Blouses",Manufacturing,Finished Goods: Apparel & Accessories
+23,2369,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Girl's and Children's Outerwear, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+23,2371,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Fur Goods,Manufacturing,Finished Goods: Apparel & Accessories
+23,2381,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Fabric Dress and Work Gloves,Manufacturing,Finished Goods: Apparel & Accessories
+23,2384,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Robes and Dressing Gowns,Manufacturing,Finished Goods: Apparel & Accessories
+23,2385,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Waterproof Outerwear,Manufacturing,Finished Goods: Apparel & Accessories
+23,2386,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Leather and Sheep-lined Clothing,Manufacturing,Finished Goods: Apparel & Accessories
+23,2387,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Apparel Belts,Manufacturing,Finished Goods: Apparel & Accessories
+23,2389,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Apparel and Accessories, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+23,2391,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Curtains and Draperies,Manufacturing,Finished Goods: Apparel & Accessories
+23,2392,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Household Furnishings, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+23,2393,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Textile Bags,Manufacturing,Finished Goods: Apparel & Accessories
+23,2394,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Canvas and Related Products,Manufacturing,Finished Goods: Apparel & Accessories
+23,2395,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Pleating and Stitching,Manufacturing,Finished Goods: Apparel & Accessories
+23,2396,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Automotive and Apparel Trimmings,Manufacturing,Finished Goods: Apparel & Accessories
+23,2397,"Apparel, Finished Prdcts from Fabrics & Similar Materials",Schiffli Machine Embroideries,Manufacturing,Finished Goods: Apparel & Accessories
+23,2399,"Apparel, Finished Prdcts from Fabrics & Similar Materials","Fabricated Textile Products, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+24,2411,"Lumber and Wood Products, Except Furniture",Logging,Manufacturing,Construction Materials
+24,2421,"Lumber and Wood Products, Except Furniture","Sawmills and Planing Mills, General",Manufacturing,Construction Materials
+24,2426,"Lumber and Wood Products, Except Furniture",Hardwood Dimension and Flooring Mills,Manufacturing,Construction Materials
+24,2429,"Lumber and Wood Products, Except Furniture","Special Product Sawmills, NEC",Manufacturing,Construction Materials
+24,2431,"Lumber and Wood Products, Except Furniture",Millwork,Manufacturing,Construction Materials
+24,2434,"Lumber and Wood Products, Except Furniture",Wood Kitchen Cabinets,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+24,2435,"Lumber and Wood Products, Except Furniture",Hardwood Veneer and Plywood,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+24,2436,"Lumber and Wood Products, Except Furniture",Softwood Veneer and Plywood,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+24,2439,"Lumber and Wood Products, Except Furniture","Structural Wood Members, NEC",Manufacturing,Construction Materials
+24,2441,"Lumber and Wood Products, Except Furniture",Nailed Wood Boxes and Shook,Manufacturing,Construction Materials
+24,2448,"Lumber and Wood Products, Except Furniture",Wood Pallets and Skids,Manufacturing,Construction Materials
+24,2449,"Lumber and Wood Products, Except Furniture","Wood Containers, NEC",Manufacturing,Construction Materials
+24,2451,"Lumber and Wood Products, Except Furniture",Mobile Homes,Manufacturing,Construction Materials
+24,2452,"Lumber and Wood Products, Except Furniture",Prefabricated Wood Buildings,Manufacturing,Construction Materials
+24,2491,"Lumber and Wood Products, Except Furniture",Wood Preserving,Manufacturing,Construction Materials
+24,2493,"Lumber and Wood Products, Except Furniture",Reconstituted Wood Products,Manufacturing,Construction Materials
+24,2499,"Lumber and Wood Products, Except Furniture","Wood Products, NEC",Manufacturing,Construction Materials
+25,2511,Furniture and Fixtures,Wood Household Furniture,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2512,Furniture and Fixtures,Upholstered Household Furniture,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2514,Furniture and Fixtures,Metal Household Furniture,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2515,Furniture and Fixtures,Mattresses and Bedsprings,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2517,Furniture and Fixtures,Wood Television and Radio Cabinets,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2519,Furniture and Fixtures,"Household Furniture, NEC",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2521,Furniture and Fixtures,Wood Office Furniture,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2522,Furniture and Fixtures,"Office Furniture, Except Wood",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2531,Furniture and Fixtures,Public Building and Related Furniture,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2541,Furniture and Fixtures,Wood Partitions and Fixtures,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2542,Furniture and Fixtures,"Partitions and Fixtures, Except Wood",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2591,Furniture and Fixtures,Drapery Hardware and Blinds and Shades,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+25,2599,Furniture and Fixtures,"Furniture and Fixtures, NEC",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+26,2611,Paper and Allied Products,Pulp Mills,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2621,Paper and Allied Products,Paper Mills,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2631,Paper and Allied Products,Paperboard Mills,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2652,Paper and Allied Products,Setup Paperboard Boxes,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2653,Paper and Allied Products,Corrugated and Solid Fiber Boxes,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2655,Paper and Allied Products,"Fiber Cans, Drums, and Similar Products",Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2656,Paper and Allied Products,Sanitary Food Containers,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2657,Paper and Allied Products,Folding Paperboard Boxes,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2671,Paper and Allied Products,Paper; Coated and Laminated Packaging,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2672,Paper and Allied Products,"Paper; Coated and Laminated, NEC",Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2673,Paper and Allied Products,"Bags: Plastic, Laminated, and Coated",Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2674,Paper and Allied Products,Bags: Uncoated Paper and Multiwall,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2675,Paper and Allied Products,Die-cut Paper and Board,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2676,Paper and Allied Products,Sanitary Paper Products,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2677,Paper and Allied Products,Envelopes,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2678,Paper and Allied Products,Stationery Products,Manufacturing,"Print Material, Paper/Stationery & Associated"
+26,2679,Paper and Allied Products,"Converted Paper Products, NEC",Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2711,"Printing, Publishing and Allied Industries",Newspapers,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2721,"Printing, Publishing and Allied Industries",Periodicals,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2731,"Printing, Publishing and Allied Industries",Book Publishing,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2732,"Printing, Publishing and Allied Industries",Book Printing,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2741,"Printing, Publishing and Allied Industries",Miscellaneous Publishing,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2752,"Printing, Publishing and Allied Industries","Commercial Printing, Lithographic",Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2754,"Printing, Publishing and Allied Industries","Commercial Printing, Gravure",Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2759,"Printing, Publishing and Allied Industries","Commercial Printing, NEC",Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2761,"Printing, Publishing and Allied Industries",Manifold Business Forms,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2771,"Printing, Publishing and Allied Industries",Greeting Cards,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2782,"Printing, Publishing and Allied Industries",Blankbooks and Looseleaf Binders,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2789,"Printing, Publishing and Allied Industries",Bookbinding and Related Work,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2791,"Printing, Publishing and Allied Industries",Typesetting,Manufacturing,"Print Material, Paper/Stationery & Associated"
+27,2796,"Printing, Publishing and Allied Industries",Platemaking Services,Manufacturing,"Print Material, Paper/Stationery & Associated"
+28,2812,Chemicals and Allied Products,Alkalies and Chlorine,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2813,Chemicals and Allied Products,Industrial Gases,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2816,Chemicals and Allied Products,Inorganic Pigments,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2819,Chemicals and Allied Products,"Industrial Inorganic Chemicals, NEC",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2821,Chemicals and Allied Products,Plastics Materials and Resins,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2822,Chemicals and Allied Products,Synthetic Rubber,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2823,Chemicals and Allied Products,Cellulosic Manmade Fibers,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2824,Chemicals and Allied Products,"Organic Fibers, Noncellulosic",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2833,Chemicals and Allied Products,Medicinals and Botanicals,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2834,Chemicals and Allied Products,Pharmaceutical Preparations,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2835,Chemicals and Allied Products,Diagnostic Substances,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2836,Chemicals and Allied Products,"Biological Products, Except Diagnostic",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2841,Chemicals and Allied Products,Soap and Other Detergents,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2842,Chemicals and Allied Products,Polishes and Sanitation Goods,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2843,Chemicals and Allied Products,Surface Active Agents,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2844,Chemicals and Allied Products,Toilet Preparations,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2851,Chemicals and Allied Products,Paints and Allied Products,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2861,Chemicals and Allied Products,Gum and Wood Chemicals,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2865,Chemicals and Allied Products,Cyclic Crudes and Intermediates,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2869,Chemicals and Allied Products,"Industrial Organic Chemicals, NEC",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2873,Chemicals and Allied Products,Nitrogenous Fertilizers,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2874,Chemicals and Allied Products,Phosphatic Fertilizers,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2875,Chemicals and Allied Products,"Fertilizers, Mixing Only",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2879,Chemicals and Allied Products,"Agricultural Chemicals, NEC",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2891,Chemicals and Allied Products,Adhesives and Sealants,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2892,Chemicals and Allied Products,Explosives,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2893,Chemicals and Allied Products,Printing Ink,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2895,Chemicals and Allied Products,Carbon Black,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+28,2899,Chemicals and Allied Products,"Chemical Preparations, NEC",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+29,2911,Petroleum Refining and Related Industries,Petroleum Refining,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+29,2951,Petroleum Refining and Related Industries,Asphalt Paving Mixtures and Blocks,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+29,2952,Petroleum Refining and Related Industries,Asphalt Felts and Coatings,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+29,2992,Petroleum Refining and Related Industries,Lubricating Oils and Greases,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+29,2999,Petroleum Refining and Related Industries,"Petroleum and Coal Products, NEC",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3011,Rubber and Miscellaneous Plastic Products,Tires and Inner Tubes,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3021,Rubber and Miscellaneous Plastic Products,Rubber and Plastics Footwear,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3052,Rubber and Miscellaneous Plastic Products,Rubber and Plastics Hose and Beltings,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3053,Rubber and Miscellaneous Plastic Products,Gaskets; Packing and Sealing Devices,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3061,Rubber and Miscellaneous Plastic Products,Mechanical Rubber Goods,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3069,Rubber and Miscellaneous Plastic Products,"Fabricated Rubber Products, NEC",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3081,Rubber and Miscellaneous Plastic Products,Unsupported Plastics Film and Sheet,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3082,Rubber and Miscellaneous Plastic Products,Unsupported Plastics Profile Shapes,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3083,Rubber and Miscellaneous Plastic Products,Laminated Plastics Plate and Sheet,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3084,Rubber and Miscellaneous Plastic Products,Plastics Pipe,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3085,Rubber and Miscellaneous Plastic Products,Plastics Bottles,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3086,Rubber and Miscellaneous Plastic Products,Plastics Foam Products,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3087,Rubber and Miscellaneous Plastic Products,Custom Compound Purchased Resins,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3088,Rubber and Miscellaneous Plastic Products,Plastics Plumbing Fixtures,Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+30,3089,Rubber and Miscellaneous Plastic Products,"Plastics Products, NEC",Manufacturing,Chemical/Pharma/Petrochem & Allied Products
+31,3111,Leather and Leather Products,Leather Tanning and Finishing,Manufacturing,Finished Goods: Apparel & Accessories
+31,3131,Leather and Leather Products,Footwear Cut Stock,Manufacturing,Finished Goods: Apparel & Accessories
+31,3142,Leather and Leather Products,House Slippers,Manufacturing,Finished Goods: Apparel & Accessories
+31,3143,Leather and Leather Products,"Men's Footwear, Except athletic",Manufacturing,Finished Goods: Apparel & Accessories
+31,3144,Leather and Leather Products,"Women's Footwear, Except athletic",Manufacturing,Finished Goods: Apparel & Accessories
+31,3149,Leather and Leather Products,"Footwear, Except Rubber, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+31,3151,Leather and Leather Products,Leather Gloves and Mittens,Manufacturing,Finished Goods: Apparel & Accessories
+31,3161,Leather and Leather Products,Luggage,Manufacturing,Finished Goods: Apparel & Accessories
+31,3171,Leather and Leather Products,Women's Handbags and Purses,Manufacturing,Finished Goods: Apparel & Accessories
+31,3172,Leather and Leather Products,"Personal Leather Goods, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+31,3199,Leather and Leather Products,"Leather Goods, NEC",Manufacturing,Finished Goods: Apparel & Accessories
+32,3211,"Stone, Clay, Glass, and Concrete Products",Flat Glass,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+32,3221,"Stone, Clay, Glass, and Concrete Products",Glass Containers,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+32,3229,"Stone, Clay, Glass, and Concrete Products","Pressed and Blown Glass, NEC",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+32,3231,"Stone, Clay, Glass, and Concrete Products",Products of Purchased Glass,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+32,3241,"Stone, Clay, Glass, and Concrete Products","Cement, Hydraulic",Manufacturing,Construction Materials
+32,3251,"Stone, Clay, Glass, and Concrete Products",Brick and Structural Clay Tile,Manufacturing,Construction Materials
+32,3253,"Stone, Clay, Glass, and Concrete Products",Ceramic Wall and Floor Tile,Manufacturing,Construction Materials
+32,3255,"Stone, Clay, Glass, and Concrete Products",Clay Refractories,Manufacturing,Construction Materials
+32,3259,"Stone, Clay, Glass, and Concrete Products","Structural Clay Products, NEC",Manufacturing,Construction Materials
+32,3261,"Stone, Clay, Glass, and Concrete Products",Vitreous Plumbing Fixtures,Manufacturing,Construction Materials
+32,3262,"Stone, Clay, Glass, and Concrete Products",Vitreous China Table and Kitchenware,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+32,3263,"Stone, Clay, Glass, and Concrete Products",Semivitreous Table and Kitchenware,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+32,3264,"Stone, Clay, Glass, and Concrete Products",Porcelain Electrical Supplies,Manufacturing,Construction Materials
+32,3269,"Stone, Clay, Glass, and Concrete Products","Pottery Products, NEC",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+32,3271,"Stone, Clay, Glass, and Concrete Products",Concrete Block and Brick,Manufacturing,Construction Materials
+32,3272,"Stone, Clay, Glass, and Concrete Products","Concrete Products, NEC",Manufacturing,Construction Materials
+32,3273,"Stone, Clay, Glass, and Concrete Products",Ready-mixed Concrete,Manufacturing,Construction Materials
+32,3274,"Stone, Clay, Glass, and Concrete Products",Lime,Manufacturing,Construction Materials
+32,3275,"Stone, Clay, Glass, and Concrete Products",Gypsum Products,Manufacturing,Construction Materials
+32,3281,"Stone, Clay, Glass, and Concrete Products",Cut Stone and Stone Products,Manufacturing,Construction Materials
+32,3291,"Stone, Clay, Glass, and Concrete Products",Abrasive Products,Manufacturing,Construction Materials
+32,3292,"Stone, Clay, Glass, and Concrete Products",Asbestos Products,Manufacturing,Construction Materials
+32,3295,"Stone, Clay, Glass, and Concrete Products","Minerals, Ground or Treated",Manufacturing,Construction Materials
+32,3296,"Stone, Clay, Glass, and Concrete Products",Mineral Wool,Manufacturing,Construction Materials
+32,3297,"Stone, Clay, Glass, and Concrete Products",Nonclay Refractories,Manufacturing,Construction Materials
+32,3299,"Stone, Clay, Glass, and Concrete Products","Nonmetallic Mineral Products,",Manufacturing,Construction Materials
+33,3312,Primary Metal Industries,Blast Furnaces and Steel Mills,Manufacturing,Raw Materials & Fuels
+33,3313,Primary Metal Industries,Electrometallurgical Products,Manufacturing,Raw Materials & Fuels
+33,3315,Primary Metal Industries,Steel Wire and Related Products,Manufacturing,Raw Materials & Fuels
+33,3316,Primary Metal Industries,Cold Finishing of Steel Shapes,Manufacturing,Raw Materials & Fuels
+33,3317,Primary Metal Industries,Steel Pipe and Tubes,Manufacturing,Raw Materials & Fuels
+33,3321,Primary Metal Industries,Gray and Ductile Iron Foundries,Manufacturing,Raw Materials & Fuels
+33,3322,Primary Metal Industries,Malleable Iron Foundries,Manufacturing,Raw Materials & Fuels
+33,3324,Primary Metal Industries,Steel Investment Foundries,Manufacturing,Raw Materials & Fuels
+33,3325,Primary Metal Industries,"Steel Foundries, NEC",Manufacturing,Raw Materials & Fuels
+33,3331,Primary Metal Industries,Primary Copper,Manufacturing,Raw Materials & Fuels
+33,3334,Primary Metal Industries,Primary Aluminum,Manufacturing,Raw Materials & Fuels
+33,3339,Primary Metal Industries,"Primary Nonferrous Metals, NEC",Manufacturing,Raw Materials & Fuels
+33,3341,Primary Metal Industries,Secondary Nonferrous Metals,Manufacturing,Raw Materials & Fuels
+33,3351,Primary Metal Industries,Copper Rolling and Drawing,Manufacturing,Raw Materials & Fuels
+33,3353,Primary Metal Industries,"Aluminum Sheet, Plate, and Foil",Manufacturing,Raw Materials & Fuels
+33,3354,Primary Metal Industries,Aluminum Extruded Products,Manufacturing,Raw Materials & Fuels
+33,3355,Primary Metal Industries,"Aluminum Rolling and Drawing, NEC",Manufacturing,Raw Materials & Fuels
+33,3356,Primary Metal Industries,"Nonferrous Rolling and Drawing, NEC",Manufacturing,Raw Materials & Fuels
+33,3357,Primary Metal Industries,Nonferrous Wiredrawing and Insulating,Manufacturing,Raw Materials & Fuels
+33,3363,Primary Metal Industries,Aluminum Die-castings,Manufacturing,Raw Materials & Fuels
+33,3364,Primary Metal Industries,Nonferrous Die-castings Except Aluminum,Manufacturing,Raw Materials & Fuels
+33,3365,Primary Metal Industries,Aluminum Foundries,Manufacturing,Raw Materials & Fuels
+33,3366,Primary Metal Industries,Copper Foundries,Manufacturing,Raw Materials & Fuels
+33,3369,Primary Metal Industries,"Nonferrous Foundries, NEC",Manufacturing,Raw Materials & Fuels
+33,3398,Primary Metal Industries,Metal Heat Treating,Manufacturing,Raw Materials & Fuels
+33,3399,Primary Metal Industries,Primary Metal Products,Manufacturing,Raw Materials & Fuels
+34,3411,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Metal Cans,Manufacturing,Construction Materials
+34,3412,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Metal Barrels, Drums, and Pails",Manufacturing,Construction Materials
+34,3421,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Cutlery,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+34,3423,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Hand and Edge Tools, NEC",Manufacturing,Construction Materials
+34,3425,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Saw Blades and Handsaws,Manufacturing,Construction Materials
+34,3429,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Hardware, NEC",Manufacturing,Construction Materials
+34,3431,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Metal Sanitary Ware,Manufacturing,Construction Materials
+34,3432,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Plumbing Fixture Fittings and Trim,Manufacturing,Construction Materials
+34,3433,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Heating Equipment, Except Electric",Manufacturing,Construction Materials
+34,3441,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Fabricated Structural Metal,Manufacturing,Construction Materials
+34,3442,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Metal Doors, Sash, and Trim",Manufacturing,Construction Materials
+34,3443,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Fabricated Plate Work (boiler Shop),Manufacturing,Construction Materials
+34,3444,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Sheet Metalwork,Manufacturing,Construction Materials
+34,3446,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Architectural Metalwork,Manufacturing,Construction Materials
+34,3448,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Prefabricated Metal Buildings,Manufacturing,Construction Materials
+34,3449,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Miscellaneous Metalwork,Manufacturing,Construction Materials
+34,3451,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Screw Machine Products,Manufacturing,Construction Materials
+34,3452,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Bolts, Nuts, Rivets, and Washers",Manufacturing,Construction Materials
+34,3462,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Iron and Steel Forgings,Manufacturing,Construction Materials
+34,3463,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Nonferrous Forgings,Manufacturing,Construction Materials
+34,3465,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Automotive Stampings,Manufacturing,Construction Materials
+34,3466,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Crowns and Closures,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+34,3469,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Metal Stampings, NEC",Manufacturing,Construction Materials
+34,3471,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Plating and Polishing,Manufacturing,Construction Materials
+34,3479,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Metal Coating and Allied Services,Manufacturing,Construction Materials
+34,3482,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Small Arms Ammunition,Manufacturing,Weapons & Ammunition
+34,3483,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Ammunition, Except For Small Arms, NEC",Manufacturing,Weapons & Ammunition
+34,3484,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Small Arms,Manufacturing,Weapons & Ammunition
+34,3489,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Ordnance and Accessories, NEC",Manufacturing,Weapons & Ammunition
+34,3491,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Industrial Valves,Manufacturing,Construction Materials
+34,3492,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Fluid Power Valves and Hose Fittings,Manufacturing,Construction Materials
+34,3493,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Steel Springs, Except Wire",Manufacturing,Construction Materials
+34,3494,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Valves and Pipe Fittings, NEC",Manufacturing,Construction Materials
+34,3495,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Wire Springs,Manufacturing,Construction Materials
+34,3496,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Miscellaneous Fabricated Wire Products,Manufacturing,Construction Materials
+34,3497,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Metal Foil and Leaf,Manufacturing,Construction Materials
+34,3498,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt",Fabricated Pipe and Fittings,Manufacturing,Construction Materials
+34,3499,"Fabricated Metal Prdcts, Except Machinery & Transport Eqpmnt","Fabricated Metal Products, NEC",Manufacturing,Construction Materials
+35,3511,Industrial and Commercial Machinery and Computer Equipment,Turbines and Turbine Generator Sets,Manufacturing,Finished Goods: Heavy Equipment
+35,3519,Industrial and Commercial Machinery and Computer Equipment,"Internal Combustion Engines, NEC",Manufacturing,Finished Goods: Heavy Equipment
+35,3523,Industrial and Commercial Machinery and Computer Equipment,Farm Machinery and Equipment,Manufacturing,Finished Goods: Heavy Equipment
+35,3524,Industrial and Commercial Machinery and Computer Equipment,Lawn and Garden Equipment,Manufacturing,Finished Goods: Heavy Equipment
+35,3531,Industrial and Commercial Machinery and Computer Equipment,Construction Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3532,Industrial and Commercial Machinery and Computer Equipment,Mining Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3533,Industrial and Commercial Machinery and Computer Equipment,Oil and Gas Field Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3534,Industrial and Commercial Machinery and Computer Equipment,Elevators and Moving Stairways,Manufacturing,Finished Goods: Heavy Equipment
+35,3535,Industrial and Commercial Machinery and Computer Equipment,Conveyors and Conveying Equipment,Manufacturing,Finished Goods: Heavy Equipment
+35,3536,Industrial and Commercial Machinery and Computer Equipment,"Hoists, Cranes, and Monorails",Manufacturing,Finished Goods: Heavy Equipment
+35,3537,Industrial and Commercial Machinery and Computer Equipment,Industrial Trucks and Tractors,Manufacturing,Finished Goods: Heavy Equipment
+35,3541,Industrial and Commercial Machinery and Computer Equipment,"Machine Tools, Metal Cutting Type",Manufacturing,Finished Goods: Heavy Equipment
+35,3542,Industrial and Commercial Machinery and Computer Equipment,"Machine Tools, Metal Forming Type",Manufacturing,Finished Goods: Heavy Equipment
+35,3543,Industrial and Commercial Machinery and Computer Equipment,Industrial Patterns,Manufacturing,Finished Goods: Heavy Equipment
+35,3544,Industrial and Commercial Machinery and Computer Equipment,"Special Dies, Tools, Jigs, and Fixtures",Manufacturing,Finished Goods: Heavy Equipment
+35,3545,Industrial and Commercial Machinery and Computer Equipment,Machine Tool Accessories,Manufacturing,Finished Goods: Heavy Equipment
+35,3546,Industrial and Commercial Machinery and Computer Equipment,Power-driven Handtools,Manufacturing,Finished Goods: Heavy Equipment
+35,3547,Industrial and Commercial Machinery and Computer Equipment,Rolling Mill Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3548,Industrial and Commercial Machinery and Computer Equipment,Welding Apparatus,Manufacturing,Finished Goods: Heavy Equipment
+35,3549,Industrial and Commercial Machinery and Computer Equipment,"Metalworking Machinery, NEC",Manufacturing,Finished Goods: Heavy Equipment
+35,3552,Industrial and Commercial Machinery and Computer Equipment,Textile Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3553,Industrial and Commercial Machinery and Computer Equipment,Woodworking Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3554,Industrial and Commercial Machinery and Computer Equipment,Paper Industries Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3555,Industrial and Commercial Machinery and Computer Equipment,Printing Trades Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3556,Industrial and Commercial Machinery and Computer Equipment,Food Products Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3559,Industrial and Commercial Machinery and Computer Equipment,"Special Industry Machinery, NEC",Manufacturing,Finished Goods: Heavy Equipment
+35,3561,Industrial and Commercial Machinery and Computer Equipment,Pumps and Pumping Equipment,Manufacturing,Finished Goods: Heavy Equipment
+35,3562,Industrial and Commercial Machinery and Computer Equipment,Ball and Roller Bearings,Manufacturing,Finished Goods: Heavy Equipment
+35,3563,Industrial and Commercial Machinery and Computer Equipment,Air and Gas Compressors,Manufacturing,Finished Goods: Heavy Equipment
+35,3564,Industrial and Commercial Machinery and Computer Equipment,Blowers and Fans,Manufacturing,Finished Goods: Heavy Equipment
+35,3565,Industrial and Commercial Machinery and Computer Equipment,Packaging Machinery,Manufacturing,Finished Goods: Heavy Equipment
+35,3566,Industrial and Commercial Machinery and Computer Equipment,"Speed Changers, Drives, and Gears",Manufacturing,Finished Goods: Heavy Equipment
+35,3567,Industrial and Commercial Machinery and Computer Equipment,Industrial Furnaces and Ovens,Manufacturing,Finished Goods: Heavy Equipment
+35,3568,Industrial and Commercial Machinery and Computer Equipment,"Power Transmission Equipment, NEC",Manufacturing,Finished Goods: Heavy Equipment
+35,3569,Industrial and Commercial Machinery and Computer Equipment,"General Industrial Machinery,",Manufacturing,Finished Goods: Heavy Equipment
+35,3571,Industrial and Commercial Machinery and Computer Equipment,Electronic Computers,Manufacturing,Finished Goods: Electronics & Computing
+35,3572,Industrial and Commercial Machinery and Computer Equipment,Computer Storage Devices,Manufacturing,Finished Goods: Electronics & Computing
+35,3575,Industrial and Commercial Machinery and Computer Equipment,Computer Terminals,Manufacturing,Finished Goods: Electronics & Computing
+35,3577,Industrial and Commercial Machinery and Computer Equipment,"Computer Peripheral Equipment, NEC",Manufacturing,Finished Goods: Electronics & Computing
+35,3578,Industrial and Commercial Machinery and Computer Equipment,Calculating and Accounting Equipment,Manufacturing,Finished Goods: Electronics & Computing
+35,3579,Industrial and Commercial Machinery and Computer Equipment,"Office Machines, NEC",Manufacturing,Finished Goods: Electronics & Computing
+35,3581,Industrial and Commercial Machinery and Computer Equipment,Automatic Vending Machines,Manufacturing,Finished Goods: Heavy Equipment
+35,3582,Industrial and Commercial Machinery and Computer Equipment,Commercial Laundry Equipment,Manufacturing,Finished Goods: Heavy Equipment
+35,3585,Industrial and Commercial Machinery and Computer Equipment,Refrigeration and Heating Equipment,Manufacturing,Finished Goods: Heavy Equipment
+35,3586,Industrial and Commercial Machinery and Computer Equipment,Measuring and Dispensing Pumps,Manufacturing,Finished Goods: Heavy Equipment
+35,3589,Industrial and Commercial Machinery and Computer Equipment,"Service Industry Machinery, NEC",Manufacturing,Finished Goods: Heavy Equipment
+35,3592,Industrial and Commercial Machinery and Computer Equipment,"Carburetors, Pistons, Rings, Valves",Manufacturing,Finished Goods: Heavy Equipment
+35,3593,Industrial and Commercial Machinery and Computer Equipment,Fluid Power Cylinders and Actuators,Manufacturing,Finished Goods: Heavy Equipment
+35,3594,Industrial and Commercial Machinery and Computer Equipment,Fluid Power Pumps and Motors,Manufacturing,Finished Goods: Heavy Equipment
+35,3596,Industrial and Commercial Machinery and Computer Equipment,"Scales and Balances, Except Laboratory",Manufacturing,Finished Goods: Precision Equipment
+35,3599,Industrial and Commercial Machinery and Computer Equipment,"Industrial Machinery, NEC",Manufacturing,Finished Goods: Heavy Equipment
+36,3612,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt","Power, Distribution and Specialty Transformers",Manufacturing,Finished Goods: Electronics & Computing
+36,3613,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Switchgear and Switchboard Apparatus,Manufacturing,Finished Goods: Electronics & Computing
+36,3621,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Motors and Generators,Manufacturing,Finished Goods: Electronics & Computing
+36,3624,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Carbon and Graphite Products,Manufacturing,Finished Goods: Electronics & Computing
+36,3625,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Relays and Industrial Controls,Manufacturing,Finished Goods: Electronics & Computing
+36,3629,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electrical Industrial Apparatus,Manufacturing,Finished Goods: Electronics & Computing
+36,3631,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Household Cooking Equipment,Manufacturing,Finished Goods: Electronics & Computing
+36,3632,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Household Refrigerators and Freezers,Manufacturing,Finished Goods: Electronics & Computing
+36,3633,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Household Laundry Equipment,Manufacturing,Finished Goods: Electronics & Computing
+36,3634,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electric Housewares and Fans,Manufacturing,Finished Goods: Electronics & Computing
+36,3635,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Household Vacuum Cleaners,Manufacturing,Finished Goods: Electronics & Computing
+36,3639,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt","Household Appliances, NEC",Manufacturing,Finished Goods: Electronics & Computing
+36,3641,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electric Lamps,Manufacturing,Finished Goods: Electronics & Computing
+36,3643,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Current-carrying Wiring Devices,Manufacturing,Finished Goods: Electronics & Computing
+36,3644,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Noncurrent-carrying Wiring Devices,Manufacturing,Finished Goods: Electronics & Computing
+36,3645,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Residential Lighting Fixtures,Manufacturing,Finished Goods: Electronics & Computing
+36,3646,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Commercial Lighting Fixtures,Manufacturing,Finished Goods: Electronics & Computing
+36,3647,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Vehicular Lighting Equipment,Manufacturing,Finished Goods: Electronics & Computing
+36,3648,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt","Lighting Equipment, NEC",Manufacturing,Finished Goods: Electronics & Computing
+36,3651,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Household Audio and Video Equipment,Manufacturing,Finished Goods: Electronics & Computing
+36,3652,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Prerecorded Records and Tapes,Manufacturing,Finished Goods: Electronics & Computing
+36,3661,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Telephone and Telegraph Apparatus,Manufacturing,Finished Goods: Electronics & Computing
+36,3663,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Radio and T.v. Communications Equipment,Manufacturing,Finished Goods: Electronics & Computing
+36,3669,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt","Communications Equipment, NEC",Manufacturing,Finished Goods: Electronics & Computing
+36,3671,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electron Tubes,Manufacturing,Finished Goods: Electronics & Computing
+36,3672,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Printed Circuit Boards,Manufacturing,Finished Goods: Electronics & Computing
+36,3674,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Semiconductors and Related Devices,Manufacturing,Finished Goods: Electronics & Computing
+36,3675,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electronic Capacitors,Manufacturing,Finished Goods: Electronics & Computing
+36,3676,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electronic Resistors,Manufacturing,Finished Goods: Electronics & Computing
+36,3677,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electronic Coils and Transformers,Manufacturing,Finished Goods: Electronics & Computing
+36,3678,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Electronic Connectors,Manufacturing,Finished Goods: Electronics & Computing
+36,3679,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt","Electronic Components, NEC",Manufacturing,Finished Goods: Electronics & Computing
+36,3691,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Storage Batteries,Manufacturing,Finished Goods: Electronics & Computing
+36,3692,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt","Primary Batteries, Dry and Wet",Manufacturing,Finished Goods: Electronics & Computing
+36,3694,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Engine Electrical Equipment,Manufacturing,Finished Goods: Electronics & Computing
+36,3695,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt",Magnetic and Optical Recording Media,Manufacturing,Finished Goods: Electronics & Computing
+36,3699,"Electronic, Elctrcl Eqpmnt & Cmpnts, Excpt Computer Eqpmnt","Electrical Equipment and Supplies, NEC",Manufacturing,Finished Goods: Electronics & Computing
+37,3711,Transportation Equipment,Motor Vehicles and Car Bodies,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3713,Transportation Equipment,Truck and Bus Bodies,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3714,Transportation Equipment,Motor Vehicle Parts and Accessories,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3715,Transportation Equipment,Truck Trailers,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3716,Transportation Equipment,Motor Homes,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3721,Transportation Equipment,Aircraft,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3724,Transportation Equipment,Aircraft Engines and Engine Parts,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3728,Transportation Equipment,"Aircraft Parts and Equipment, NEC",Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3731,Transportation Equipment,Shipbuilding and Repairing,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3732,Transportation Equipment,Boatbuilding and Repairing,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3743,Transportation Equipment,Railroad Equipment,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3751,Transportation Equipment,"Motorcycles, Bicycles, and Parts",Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3761,Transportation Equipment,Guided Missiles and Space Vehicles,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3764,Transportation Equipment,Space Propulsion Units and Parts,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3769,Transportation Equipment,"Space Vehicle Equipment, NEC",Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3792,Transportation Equipment,Travel Trailers and Campers,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3795,Transportation Equipment,Tanks and Tank Components,Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+37,3799,Transportation Equipment,"Transportation Equipment, NEC",Manufacturing,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+38,3812,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Search and Navigation Equipment,Manufacturing,Finished Goods: Precision Equipment
+38,3821,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Laboratory Apparatus and Furniture,Manufacturing,Finished Goods: Precision Equipment
+38,3822,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Environmental Controls,Manufacturing,Finished Goods: Precision Equipment
+38,3823,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Process Control Instruments,Manufacturing,Finished Goods: Precision Equipment
+38,3824,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Fluid Meters and Counting Devices,Manufacturing,Finished Goods: Precision Equipment
+38,3825,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Instruments To Measure Electricity,Manufacturing,Finished Goods: Precision Equipment
+38,3826,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Analytical Instruments,Manufacturing,Finished Goods: Precision Equipment
+38,3827,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Optical Instruments and Lenses,Manufacturing,Finished Goods: Precision Equipment
+38,3829,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,"Measuring and Controlling Devices, NEC",Manufacturing,Finished Goods: Precision Equipment
+38,3841,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Surgical and Medical Instruments,Manufacturing,Finished Goods: Precision Equipment
+38,3842,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Surgical Appliances and Supplies,Manufacturing,Finished Goods: Precision Equipment
+38,3843,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Dental Equipment and Supplies,Manufacturing,Finished Goods: Precision Equipment
+38,3844,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,X-ray Apparatus and Tubes,Manufacturing,Finished Goods: Precision Equipment
+38,3845,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Electromedical Equipment,Manufacturing,Finished Goods: Precision Equipment
+38,3851,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Ophthalmic Goods,Manufacturing,Finished Goods: Precision Equipment
+38,3861,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,Photographic Equipment and Supplies,Manufacturing,Finished Goods: Precision Equipment
+38,3873,Mesr/Anlyz/Cntrl Instrmnts; Photo/Med/Opt Gds; Watchs/Clocks,"Watches, Clocks, Watchcases, and Parts",Manufacturing,Finished Goods: Luxury Goods
+39,3911,Miscellaneous Manufacturing Industries,"Jewelry, Precious Metal",Manufacturing,Finished Goods: Luxury Goods
+39,3914,Miscellaneous Manufacturing Industries,"Silverware, Plated Ware, and Stainless Steel Ware",Manufacturing,Finished Goods: Luxury Goods
+39,3915,Miscellaneous Manufacturing Industries,"Jewelers' Findings and Materials, and Lapidary Work",Manufacturing,Finished Goods: Luxury Goods
+39,3931,Miscellaneous Manufacturing Industries,Musical Instruments,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3942,Miscellaneous Manufacturing Industries,Dolls and Stuffed Toys,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3944,Miscellaneous Manufacturing Industries,"Games, Toys, and Children's Vehicles, Except Dolls and Bicycles",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3949,Miscellaneous Manufacturing Industries,"Sporting and Athletic Goods, NEC",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3951,Miscellaneous Manufacturing Industries,"Pens, Mechanical Pencils, and Parts",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3952,Miscellaneous Manufacturing Industries,"Lead Pencils, Crayons, and Artists' Materials",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3953,Miscellaneous Manufacturing Industries,Marking Devices,Manufacturing,Finished Goods: Precision Equipment
+39,3955,Miscellaneous Manufacturing Industries,Carbon Paper and Inked Ribbons,Manufacturing,Finished Goods: Precision Equipment
+39,3961,Miscellaneous Manufacturing Industries,"Costume Jewelry and Costume Novelties, Except Precious Metal",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3965,Miscellaneous Manufacturing Industries,"Fasteners, Buttons, Needles, and Pins",Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3991,Miscellaneous Manufacturing Industries,Brooms and Brushes,Manufacturing,Finished Goods: Home Goods/Decor & Recreation
+39,3993,Miscellaneous Manufacturing Industries,Signs and Advertising Specialties,Manufacturing,Other Goods
+39,3995,Miscellaneous Manufacturing Industries,Burial Caskets,Manufacturing,Other Goods
+39,3996,Miscellaneous Manufacturing Industries,"Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, NEC",Manufacturing,Construction Materials
+39,3999,Miscellaneous Manufacturing Industries,"Manufacturing Industries, NEC",Manufacturing,Other Goods
+40,4011,Railroad Transportation,"Railroads, Line-haul Operating",In-Person Industries,Transportation: Freight Transport
+40,4013,Railroad Transportation,Switching and Terminal Services,In-Person Industries,Transportation: Freight Transport
+41,4111,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport",Local and Suburban Transit,In-Person Industries,Transportation: Transit/Passenger Transport
+41,4119,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport","Local Passenger Transportation, NEC",In-Person Industries,Transportation: Transit/Passenger Transport
+41,4121,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport",Taxicabs,In-Person Industries,Transportation: Transit/Passenger Transport
+41,4131,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport",Intercity and Rural Bus Transportation,In-Person Industries,Transportation: Transit/Passenger Transport
+41,4141,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport",Local Bus Charter Service,In-Person Industries,Transportation: Transit/Passenger Transport
+41,4142,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport","Bus Charter Service, Except Local",In-Person Industries,Transportation: Transit/Passenger Transport
+41,4151,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport",School Buses,In-Person Industries,Transportation: Transit/Passenger Transport
+41,4173,"Local, Suburban Transit & Interurbn Hgwy Passenger Transport",Bus Terminal and Service Facilities,In-Person Industries,Transportation: Transit/Passenger Transport
+42,4212,Motor Freight Transportation,"Local Trucking, Without Storage",In-Person Industries,Transportation: Freight Transport
+42,4213,Motor Freight Transportation,"Trucking, Except Local",In-Person Industries,Transportation: Freight Transport
+42,4214,Motor Freight Transportation,Local Trucking With Storage,In-Person Industries,Transportation: Freight Transport
+42,4215,Motor Freight Transportation,"Courier Services, Except By Air",In-Person Industries,Transportation: Freight Transport
+42,4221,Motor Freight Transportation,Farm Product Warehousing and Storage,In-Person Industries,Transportation: Freight Transport
+42,4222,Motor Freight Transportation,Refrigerated Warehousing and Storage,In-Person Industries,Transportation: Freight Transport
+42,4225,Motor Freight Transportation,General Warehousing and Storage,In-Person Industries,Transportation: Freight Transport
+42,4226,Motor Freight Transportation,"Special Warehousing and Storage, NEC",In-Person Industries,Transportation: Freight Transport
+42,4231,Motor Freight Transportation,Trucking Terminal Facilities,In-Person Industries,Transportation: Freight Transport
+43,4311,United States Postal Service,U.S. Postal Service,In-Person Industries,Transportation: Freight Transport
+44,4412,Water Transportation,Deep Sea Foreign Transportation of Freight,In-Person Industries,Transportation: Freight Transport
+44,4424,Water Transportation,Deep Sea Domestic Transportation of Freight,In-Person Industries,Transportation: Freight Transport
+44,4432,Water Transportation,Freight Transportation On The Great Lakes,In-Person Industries,Transportation: Freight Transport
+44,4449,Water Transportation,Water Transportation of Freight,In-Person Industries,Transportation: Freight Transport
+44,4481,Water Transportation,"Deep Sea Passenger Transportation, Except Ferry",In-Person Industries,Transportation: Transit/Passenger Transport
+44,4482,Water Transportation,Ferries,In-Person Industries,Transportation: Transit/Passenger Transport
+44,4489,Water Transportation,Water Passenger Transportation,In-Person Industries,Transportation: Transit/Passenger Transport
+44,4491,Water Transportation,Marine Cargo Handling,In-Person Industries,Transportation: Freight Transport
+44,4492,Water Transportation,Towing and Tugboat Service,In-Person Industries,"Transportation: Airports, Marinas, Depots & Associated"
+44,4493,Water Transportation,Marinas,In-Person Industries,"Transportation: Airports, Marinas, Depots & Associated"
+44,4499,Water Transportation,"Water Transportation Services, NEC",In-Person Industries,"Transportation: Airports, Marinas, Depots & Associated"
+45,4512,Transportation by Air,"Air Transportation, Scheduled",In-Person Industries,Transportation: Transit/Passenger Transport
+45,4513,Transportation by Air,Air Courier Services,In-Person Industries,Transportation: Freight Transport
+45,4522,Transportation by Air,"Air Transportation, Nonscheduled",In-Person Industries,Transportation: Transit/Passenger Transport
+45,4581,Transportation by Air,"Airports, Flying Fields, and Services",In-Person Industries,"Transportation: Airports, Marinas, Depots & Associated"
+46,4612,"Pipelines, Except Natural Gas",Crude Petroleum Pipelines,In-Person Industries,Utilities/Pipelines & Communication
+46,4613,"Pipelines, Except Natural Gas",Refined Petroleum Pipelines,In-Person Industries,Utilities/Pipelines & Communication
+46,4619,"Pipelines, Except Natural Gas","Pipelines, NEC",In-Person Industries,Utilities/Pipelines & Communication
+47,4724,Transportation Services,Travel Agencies,In-Person Industries,Transportation: Transit/Passenger Transport
+47,4725,Transportation Services,Tour Operators,In-Person Industries,Transportation: Transit/Passenger Transport
+47,4729,Transportation Services,Passenger Transportation Arrangement,In-Person Industries,Transportation: Transit/Passenger Transport
+47,4731,Transportation Services,Freight Transportation Arrangement,In-Person Industries,Transportation: Freight Transport
+47,4741,Transportation Services,Rental of Railroad Cars,In-Person Industries,Transportation: Freight Transport
+47,4783,Transportation Services,Packing and Crating,In-Person Industries,Transportation: Freight Transport
+47,4785,Transportation Services,Inspection and Fixed Facilities,In-Person Industries,Transportation: Freight Transport
+47,4789,Transportation Services,"Transportation Services, NEC",In-Person Industries,Transportation: Freight Transport
+48,4812,Communications,Radiotelephone Communication,In-Person Industries,Utilities/Pipelines & Communication
+48,4813,Communications,"Telephone Communication, Except Radio",In-Person Industries,Utilities/Pipelines & Communication
+48,4822,Communications,Telegraph and Other Communications,In-Person Industries,Utilities/Pipelines & Communication
+48,4832,Communications,Radio Broadcasting Stations,In-Person Industries,Utilities/Pipelines & Communication
+48,4833,Communications,Television Broadcasting Stations,In-Person Industries,Utilities/Pipelines & Communication
+48,4841,Communications,Cable and Other Pay Television Services,In-Person Industries,Utilities/Pipelines & Communication
+48,4899,Communications,"Communication Services, NEC",In-Person Industries,Utilities/Pipelines & Communication
+49,4911,"Electric, Gas and Sanitary Services",Electric Services,In-Person Industries,Utilities/Pipelines & Communication
+49,4922,"Electric, Gas and Sanitary Services",Natural Gas Transmission,In-Person Industries,Utilities/Pipelines & Communication
+49,4923,"Electric, Gas and Sanitary Services",Natural Gas Transmission and Distribution,In-Person Industries,Utilities/Pipelines & Communication
+49,4924,"Electric, Gas and Sanitary Services",Natural Gas Distribution,In-Person Industries,Utilities/Pipelines & Communication
+49,4925,"Electric, Gas and Sanitary Services","Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or Distribution",In-Person Industries,Utilities/Pipelines & Communication
+49,4931,"Electric, Gas and Sanitary Services",Electric and Other Services Combined,In-Person Industries,Utilities/Pipelines & Communication
+49,4932,"Electric, Gas and Sanitary Services",Gas and Other Services Combined,In-Person Industries,Utilities/Pipelines & Communication
+49,4939,"Electric, Gas and Sanitary Services","Combination Utilities, NEC",In-Person Industries,Utilities/Pipelines & Communication
+49,4941,"Electric, Gas and Sanitary Services",Water Supply,In-Person Industries,Utilities/Pipelines & Communication
+49,4952,"Electric, Gas and Sanitary Services",Sewerage Systems,In-Person Industries,Utilities/Pipelines & Communication
+49,4953,"Electric, Gas and Sanitary Services",Refuse Systems,In-Person Industries,Utilities/Pipelines & Communication
+49,4959,"Electric, Gas and Sanitary Services","Sanitary Services, NEC",In-Person Industries,Utilities/Pipelines & Communication
+49,4961,"Electric, Gas and Sanitary Services",Steam and Air-Conditioning Supply,In-Person Industries,Utilities/Pipelines & Communication
+49,4971,"Electric, Gas and Sanitary Services",Irrigation Systems,In-Person Industries,Utilities/Pipelines & Communication
+50,5012,Wholesale Trade - Durable Goods,Automobiles and Other Motor Vehicles,Wholesale Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+50,5013,Wholesale Trade - Durable Goods,Motor Vehicle Supplies and New Parts,Wholesale Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+50,5014,Wholesale Trade - Durable Goods,Tires and Tubes,Wholesale Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+50,5015,Wholesale Trade - Durable Goods,"Motor Vehicle Parts, Used",Wholesale Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+50,5021,Wholesale Trade - Durable Goods,Furniture,Wholesale Trade,Finished Goods: Home Goods/Decor & Recreation
+50,5023,Wholesale Trade - Durable Goods,Homefurnishings,Wholesale Trade,Finished Goods: Home Goods/Decor & Recreation
+50,5031,Wholesale Trade - Durable Goods,"Lumber, Plywood, and Millwork",Wholesale Trade,Construction Materials
+50,5032,Wholesale Trade - Durable Goods,"Brick, Stone, and Related Material",Wholesale Trade,Construction Materials
+50,5033,Wholesale Trade - Durable Goods,"Roofing, Siding, and Insulation",Wholesale Trade,Construction Materials
+50,5039,Wholesale Trade - Durable Goods,"Construction Materials, NEC",Wholesale Trade,Construction Materials
+50,5043,Wholesale Trade - Durable Goods,Photographic Equipment and Supplies,Wholesale Trade,Finished Goods: Precision Equipment
+50,5044,Wholesale Trade - Durable Goods,Office Equipment,Wholesale Trade,Finished Goods: Electronics & Computing
+50,5045,Wholesale Trade - Durable Goods,"Computers, Peripherals, and Software",Wholesale Trade,Finished Goods: Electronics & Computing
+50,5046,Wholesale Trade - Durable Goods,"Commercial Equipment, NEC",Wholesale Trade,Finished Goods: Specialized Products
+50,5047,Wholesale Trade - Durable Goods,Medical and Hospital Equipment,Wholesale Trade,Finished Goods: Specialized Products
+50,5048,Wholesale Trade - Durable Goods,Ophthalmic Goods,Wholesale Trade,Finished Goods: Precision Equipment
+50,5049,Wholesale Trade - Durable Goods,"Professional Equipment, NEC",Wholesale Trade,Finished Goods: Specialized Products
+50,5051,Wholesale Trade - Durable Goods,Metals Service Centers and Offices,Wholesale Trade,Raw Materials & Fuels
+50,5052,Wholesale Trade - Durable Goods,Coal and Other Minerals and Ores,Wholesale Trade,Raw Materials & Fuels
+50,5063,Wholesale Trade - Durable Goods,Electrical Apparatus and Equipment,Wholesale Trade,Finished Goods: Electronics & Computing
+50,5064,Wholesale Trade - Durable Goods,"Electrical Appliances, Television and Radio",Wholesale Trade,Finished Goods: Electronics & Computing
+50,5065,Wholesale Trade - Durable Goods,"Electronic Parts and Equipment, NEC",Wholesale Trade,Finished Goods: Electronics & Computing
+50,5072,Wholesale Trade - Durable Goods,Hardware,Wholesale Trade,Construction Materials
+50,5074,Wholesale Trade - Durable Goods,Plumbing and Hydronic Heating Supplies,Wholesale Trade,Finished Goods: Specialized Products
+50,5075,Wholesale Trade - Durable Goods,Warm Air Heating and Air Conditioning,Wholesale Trade,Finished Goods: Specialized Products
+50,5078,Wholesale Trade - Durable Goods,Refrigeration Equipment and Supplies,Wholesale Trade,Finished Goods: Heavy Equipment
+50,5082,Wholesale Trade - Durable Goods,Construction and Mining Machinery,Wholesale Trade,Finished Goods: Heavy Equipment
+50,5083,Wholesale Trade - Durable Goods,Farm and Garden Machinery,Wholesale Trade,Finished Goods: Heavy Equipment
+50,5084,Wholesale Trade - Durable Goods,Industrial Machinery and Equipment,Wholesale Trade,Finished Goods: Heavy Equipment
+50,5085,Wholesale Trade - Durable Goods,Industrial Supplies,Wholesale Trade,Finished Goods: Heavy Equipment
+50,5087,Wholesale Trade - Durable Goods,Service Establishment Equipment,Wholesale Trade,Finished Goods: Heavy Equipment
+50,5088,Wholesale Trade - Durable Goods,Transportation Equipment and Supplies,Wholesale Trade,Finished Goods: Specialized Products
+50,5091,Wholesale Trade - Durable Goods,Sporting and Recreation Goods,Wholesale Trade,Finished Goods: Home Goods/Decor & Recreation
+50,5092,Wholesale Trade - Durable Goods,Toys and Hobby Goods and Supplies,Wholesale Trade,Finished Goods: Home Goods/Decor & Recreation
+50,5093,Wholesale Trade - Durable Goods,Scrap and Waste Materials,Wholesale Trade,Other Goods
+50,5094,Wholesale Trade - Durable Goods,Jewelry and Precious Stones,Wholesale Trade,Finished Goods: Luxury Goods
+50,5099,Wholesale Trade - Durable Goods,"Durable Goods, NEC",Wholesale Trade,Other Goods
+51,5111,Wholesale Trade - Nondurable Goods,Printing and Writing Paper,Wholesale Trade,"Print Material, Paper/Stationery & Associated"
+51,5112,Wholesale Trade - Nondurable Goods,Stationery and Office Supplies,Wholesale Trade,"Print Material, Paper/Stationery & Associated"
+51,5113,Wholesale Trade - Nondurable Goods,Industrial and Personal Service Paper,Wholesale Trade,"Print Material, Paper/Stationery & Associated"
+51,5122,Wholesale Trade - Nondurable Goods,"Drugs, Drug Proprietaries, and Druggists' Sundries",Wholesale Trade,Chemical/Pharma/Petrochem & Allied Products
+51,5131,Wholesale Trade - Nondurable Goods,"Piece Goods, Notions, and Other Dry Good",Wholesale Trade,Finished Goods: Apparel & Accessories
+51,5136,Wholesale Trade - Nondurable Goods,Men's and Boy's Clothing and Furnishings,Wholesale Trade,Finished Goods: Apparel & Accessories
+51,5137,Wholesale Trade - Nondurable Goods,"Women's, Children's, and Infants' Clothing and Accessories",Wholesale Trade,Finished Goods: Apparel & Accessories
+51,5139,Wholesale Trade - Nondurable Goods,Footwear,Wholesale Trade,Finished Goods: Apparel & Accessories
+51,5141,Wholesale Trade - Nondurable Goods,"Groceries, General Line",Wholesale Trade,Consumable Goods: Food & Perishable
+51,5142,Wholesale Trade - Nondurable Goods,Packaged Frozen Foods,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5143,Wholesale Trade - Nondurable Goods,"Dairy Products, Except Dried or Canned",Wholesale Trade,Consumable Goods: Food & Perishable
+51,5144,Wholesale Trade - Nondurable Goods,Poultry and Poultry Products,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5145,Wholesale Trade - Nondurable Goods,Confectionery,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5146,Wholesale Trade - Nondurable Goods,Fish and Seafoods,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5147,Wholesale Trade - Nondurable Goods,Meats and Meat Products,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5148,Wholesale Trade - Nondurable Goods,Fresh Fruits and Vegetables,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5149,Wholesale Trade - Nondurable Goods,"Groceries and Related Products, NEC",Wholesale Trade,Consumable Goods: Food & Perishable
+51,5153,Wholesale Trade - Nondurable Goods,Grain and Field Beans,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5154,Wholesale Trade - Nondurable Goods,Livestock,Wholesale Trade,Consumable Goods: Food & Perishable
+51,5159,Wholesale Trade - Nondurable Goods,"Farm-Product Raw Materials, NEC",Wholesale Trade,Consumable Goods: Food & Perishable
+51,5162,Wholesale Trade - Nondurable Goods,Plastics Materials and Basic Forms and Shapes,Wholesale Trade,Finished Goods: Specialized Products
+51,5169,Wholesale Trade - Nondurable Goods,"Chemicals and Allied Products, NEC",Wholesale Trade,Chemical/Pharma/Petrochem & Allied Products
+51,5171,Wholesale Trade - Nondurable Goods,Petroleum Bulk stations and Terminals,Wholesale Trade,Chemical/Pharma/Petrochem & Allied Products
+51,5172,Wholesale Trade - Nondurable Goods,"Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals",Wholesale Trade,Chemical/Pharma/Petrochem & Allied Products
+51,5181,Wholesale Trade - Nondurable Goods,Beer and Ale,Wholesale Trade,Consumable Goods: Alcohol & Tobacco
+51,5182,Wholesale Trade - Nondurable Goods,Wine and Distilled Alcoholic Beverages,Wholesale Trade,Consumable Goods: Alcohol & Tobacco
+51,5191,Wholesale Trade - Nondurable Goods,Farm Supplies,Wholesale Trade,Finished Goods: Heavy Equipment
+51,5192,Wholesale Trade - Nondurable Goods,"Books, Periodicals, and Newspapers",Wholesale Trade,"Print Material, Paper/Stationery & Associated"
+51,5193,Wholesale Trade - Nondurable Goods,"Flowers, Nursery Stock, and Florists' Supplies",Wholesale Trade,Finished Goods: Home Goods/Decor & Recreation
+51,5194,Wholesale Trade - Nondurable Goods,Tobacco and Tobacco Products,Wholesale Trade,Consumable Goods: Alcohol & Tobacco
+51,5198,Wholesale Trade - Nondurable Goods,"Paints, Varnishes, and Supplies",Wholesale Trade,Construction Materials
+51,5199,Wholesale Trade - Nondurable Goods,"Nondurable Goods, NEC",Wholesale Trade,Other Goods
+52,5211,"Building Matrials, Hrdwr, Garden Supply & Mobile Home Dealrs",Lumber and Other Building Materials,Retail Trade,Construction Materials
+52,5231,"Building Matrials, Hrdwr, Garden Supply & Mobile Home Dealrs","Paint, Glass, and Wallpaper Stores",Retail Trade,Construction Materials
+52,5251,"Building Matrials, Hrdwr, Garden Supply & Mobile Home Dealrs",Hardware Stores,Retail Trade,Construction Materials
+52,5261,"Building Matrials, Hrdwr, Garden Supply & Mobile Home Dealrs",Retail Nurseries and Garden Stores,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+52,5271,"Building Matrials, Hrdwr, Garden Supply & Mobile Home Dealrs",Mobile Home Dealers,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+53,5311,General Merchandise Stores,Department Stores,Retail Trade,Trade: General Merchandise
+53,5331,General Merchandise Stores,Variety Stores,Retail Trade,Trade: General Merchandise
+53,5399,General Merchandise Stores,Miscellaneous General Merchandise,Retail Trade,Trade: General Merchandise
+54,5411,Food Stores,Grocery Stores,Retail Trade,Consumable Goods: Food & Perishable
+54,5421,Food Stores,Meat and Fish Markets,Retail Trade,Consumable Goods: Food & Perishable
+54,5431,Food Stores,Fruit and Vegetable Markets,Retail Trade,Consumable Goods: Food & Perishable
+54,5441,Food Stores,"Candy, Nut, and Confectionery Stores",Retail Trade,Consumable Goods: Food & Perishable
+54,5451,Food Stores,Dairy Products Stores,Retail Trade,Consumable Goods: Food & Perishable
+54,5461,Food Stores,Retail Bakeries,Retail Trade,Consumable Goods: Food & Perishable
+54,5499,Food Stores,Miscellaneous Food Stores,Retail Trade,Consumable Goods: Food & Perishable
+55,5511,Automotive Dealers and Gasoline Service Stations,New and Used Car Dealers,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+55,5521,Automotive Dealers and Gasoline Service Stations,Used Car Dealers,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+55,5531,Automotive Dealers and Gasoline Service Stations,Auto and Home Supply Stores,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+55,5541,Automotive Dealers and Gasoline Service Stations,Gasoline Service Stations,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+55,5551,Automotive Dealers and Gasoline Service Stations,Boat Dealers,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+55,5561,Automotive Dealers and Gasoline Service Stations,Recreational Vehicle Dealers,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+55,5571,Automotive Dealers and Gasoline Service Stations,Motorcycle Dealers,Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+55,5599,Automotive Dealers and Gasoline Service Stations,"Automotive Dealers, NEC",Retail Trade,"Finished Goods: Vehicles, Vessels & Transport Equipment"
+56,5611,Apparel and Accessory Stores,Men's and Boys' Clothing Stores,Retail Trade,Finished Goods: Apparel & Accessories
+56,5621,Apparel and Accessory Stores,Women's Clothing Stores,Retail Trade,Finished Goods: Apparel & Accessories
+56,5632,Apparel and Accessory Stores,Women's Accessory and Specialty Stores,Retail Trade,Finished Goods: Apparel & Accessories
+56,5641,Apparel and Accessory Stores,Children's and Infants' Wear Stores,Retail Trade,Finished Goods: Apparel & Accessories
+56,5651,Apparel and Accessory Stores,Family Clothing Stores,Retail Trade,Finished Goods: Apparel & Accessories
+56,5661,Apparel and Accessory Stores,Shoe Stores,Retail Trade,Finished Goods: Apparel & Accessories
+56,5699,Apparel and Accessory Stores,Miscellaneous Apparel and Accessories,Retail Trade,Finished Goods: Apparel & Accessories
+57,5712,"Home Furniture, Furnishings and Equipment Stores",Furniture Stores,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+57,5713,"Home Furniture, Furnishings and Equipment Stores",Floor Covering Stores,Retail Trade,Construction Materials
+57,5714,"Home Furniture, Furnishings and Equipment Stores",Drapery and Upholstery Stores,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+57,5719,"Home Furniture, Furnishings and Equipment Stores",Miscellaneous Homefurnishings,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+57,5722,"Home Furniture, Furnishings and Equipment Stores",Household Appliance Stores,Retail Trade,Finished Goods: Heavy Equipment
+57,5731,"Home Furniture, Furnishings and Equipment Stores","Radio, Television, and Electronic Stores",Retail Trade,Finished Goods: Electronics & Computing
+57,5734,"Home Furniture, Furnishings and Equipment Stores",Computer and Software Stores,Retail Trade,Finished Goods: Electronics & Computing
+57,5735,"Home Furniture, Furnishings and Equipment Stores",Record and Prerecorded Tape Stores,Retail Trade,Finished Goods: Electronics & Computing
+57,5736,"Home Furniture, Furnishings and Equipment Stores",Musical Instrument Stores,Retail Trade,Finished Goods: Specialized Products
+58,5812,Eating and Drinking Places,Eating Places,In-Person Industries,Hospitality: Eating and Drinking Places
+58,5813,Eating and Drinking Places,Drinking Places,In-Person Industries,Hospitality: Eating and Drinking Places
+59,5912,Miscellaneous Retail,Drug Stores and Proprietary Stores,Retail Trade,Chemical/Pharma/Petrochem & Allied Products
+59,5921,Miscellaneous Retail,Liquor Stores,Retail Trade,Consumable Goods: Alcohol & Tobacco
+59,5932,Miscellaneous Retail,Used Merchandise Stores,Retail Trade,Trade: General Merchandise
+59,5941,Miscellaneous Retail,Sporting Goods Stores and Bicycle Shops,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+59,5942,Miscellaneous Retail,Book Stores,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+59,5943,Miscellaneous Retail,Stationery Stores,Retail Trade,"Print Material, Paper/Stationery & Associated"
+59,5944,Miscellaneous Retail,Jewelry Stores,Retail Trade,Finished Goods: Luxury Goods
+59,5945,Miscellaneous Retail,"Hobby, Toy, and Game Shops",Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+59,5946,Miscellaneous Retail,Camera and Photographic Supply Stores,Retail Trade,Finished Goods: Electronics & Computing
+59,5947,Miscellaneous Retail,"Gift, Novelty, and Souvenir Shops",Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+59,5948,Miscellaneous Retail,Luggage and Leather Goods Stores,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+59,5949,Miscellaneous Retail,"Sewing, Needlework, and Piece Goods Stores",Retail Trade,Finished Goods: Specialized Products
+59,5961,Miscellaneous Retail,Catalog and Mail-Order Houses,Retail Trade,Trade: General Merchandise
+59,5962,Miscellaneous Retail,Automatic Merchandising Machine Operators,Retail Trade,Trade: General Merchandise
+59,5963,Miscellaneous Retail,Direct Selling Establishments,Retail Trade,Trade: General Merchandise
+59,5983,Miscellaneous Retail,Fuel Oil Dealers,Retail Trade,Raw Materials & Fuels
+59,5984,Miscellaneous Retail,Liquefied Petroleum Gas (Bottled Gas) Dealers,Retail Trade,Raw Materials & Fuels
+59,5989,Miscellaneous Retail,"Fuel Dealers, NEC",Retail Trade,Raw Materials & Fuels
+59,5992,Miscellaneous Retail,Florists,Retail Trade,Finished Goods: Home Goods/Decor & Recreation
+59,5993,Miscellaneous Retail,Tobacco Stores and Stands,Retail Trade,Consumable Goods: Alcohol & Tobacco
+59,5994,Miscellaneous Retail,News Dealers and Newsstands,Retail Trade,"Print Material, Paper/Stationery & Associated"
+59,5995,Miscellaneous Retail,Optical Goods Stores,Retail Trade,Finished Goods: Precision Equipment
+59,5999,Miscellaneous Retail,"Miscellaneous Retail Stores, NEC",Retail Trade,Trade: General Merchandise
+60,6011,Depository Institutions,Federal Reserve Banks,Financial Services,Other Financial
+60,6019,Depository Institutions,"Central Reserve Depository, NEC",Financial Services,Other Financial
+60,6021,Depository Institutions,National Commercial Banks,Financial Services,Commercial Bank
+60,6022,Depository Institutions,State Commercial Banks,Financial Services,Commercial Bank
+60,6029,Depository Institutions,"Commercial Banks, NEC",Financial Services,Commercial Bank
+60,6035,Depository Institutions,Federal Savings Institutions,Financial Services,Savings & Loan Assoc/Fed Home Loan Bank
+60,6036,Depository Institutions,"Savings Institutions, Except Federal",Financial Services,Savings & Loan Assoc/Fed Home Loan Bank
+60,6061,Depository Institutions,Federal Credit Unions,Financial Services,Credit Union
+60,6062,Depository Institutions,State Credit Unions,Financial Services,Credit Union
+60,6081,Depository Institutions,Foreign Bank and Branches and Agencies,Financial Services,Commercial Bank
+60,6082,Depository Institutions,Foreign Trade and International Banks,Financial Services,Investment Bank/Brokerage
+60,6091,Depository Institutions,Nondeposit Trust Facilities,Financial Services,Trusts
+60,6099,Depository Institutions,Functions Related To Depository Banking,Financial Services,Savings Bank
+61,6111,Nondepository Credit Institutions,Federal and Federally Sponsored Credit,Financial Services,Savings Bank
+61,6141,Nondepository Credit Institutions,Personal Credit Institutions,Financial Services,Savings Bank
+61,6153,Nondepository Credit Institutions,Short-term Business Credit,Financial Services,Small Loan Company
+61,6159,Nondepository Credit Institutions,Miscellaneous Business Credit,Financial Services,Investment Bank/Brokerage
+61,6162,Nondepository Credit Institutions,Mortgage Bankers and Correspondents,Financial Services,Investment Bank/Brokerage
+61,6163,Nondepository Credit Institutions,Loan Brokers,Financial Services,Investment Bank/Brokerage
+62,6211,"Security & Commodity Brokers, Dealers, Exchanges & Services",Security Brokers and Dealers,Financial Services,Investment Bank/Brokerage
+62,6221,"Security & Commodity Brokers, Dealers, Exchanges & Services","Commodity Contracts Brokers, Dealers",Financial Services,Investment Bank/Brokerage
+62,6231,"Security & Commodity Brokers, Dealers, Exchanges & Services",Security and Commodity Exchanges,Financial Services,Finance Company
+62,6282,"Security & Commodity Brokers, Dealers, Exchanges & Services",Investment Advice,Financial Services,Investment Bank/Brokerage
+62,6289,"Security & Commodity Brokers, Dealers, Exchanges & Services",Security and Commodity Service,Financial Services,Investment Bank/Brokerage
+63,6311,Insurance Carriers,Life Insurance,Financial Services,Insurance Company
+63,6321,Insurance Carriers,Accident and Health Insurance,Financial Services,Insurance Company
+63,6324,Insurance Carriers,Hospital and Medical Service Plans,Financial Services,Insurance Company
+63,6331,Insurance Carriers,"Fire, Marine, and Casualty Insurance",Financial Services,Insurance Company
+63,6351,Insurance Carriers,Surety Insurance,Financial Services,Insurance Company
+63,6361,Insurance Carriers,Title Insurance,Financial Services,Insurance Company
+63,6371,Insurance Carriers,"Pension, Health, and Welfare Funds",Financial Services,Insurance Company
+63,6399,Insurance Carriers,"Insurance Carriers, NEC",Financial Services,Insurance Company
+64,6411,"Insurance Agents, Brokers and Service","Insurance Agents, Brokers, and Service",Skilled Services,Professional Services: Insurance Brokerage/Services
+65,6512,Real Estate,Nonresidential Building Operators,In-Person Industries,"Building Maintenance, Waste Removal & Pest Control"
+65,6513,Real Estate,Apartment Building Operators,In-Person Industries,"Building Maintenance, Waste Removal & Pest Control"
+65,6514,Real Estate,"Dwelling Operators, Except Apartments",In-Person Industries,"Building Maintenance, Waste Removal & Pest Control"
+65,6515,Real Estate,Mobile Home Site Operators,In-Person Industries,"Building Maintenance, Waste Removal & Pest Control"
+65,6517,Real Estate,Railroad Property Lessors,In-Person Industries,"Transportation: Airports, Marinas, Depots & Associated"
+65,6519,Real Estate,"Real Property Lessors, NEC",Skilled Services,Professional Services: Real Estate Agency & Services
+65,6531,Real Estate,Real Estate Agents and Managers,Skilled Services,Professional Services: Real Estate Agency & Services
+65,6541,Real Estate,Title abstract Offices,Skilled Services,Professional Services: Real Estate Agency & Services
+65,6552,Real Estate,"Subdividers and Developers, NEC",Skilled Services,Professional Services: Real Estate Agency & Services
+65,6553,Real Estate,Cemetery Subdividers and Developers,In-Person Industries,Funereal Services
+67,6712,Holding and Other Investment Offices,Offices of Bank Holding Companies,Financial Services,Investment Bank/Brokerage
+67,6719,Holding and Other Investment Offices,"Offices of Holding Companies, NEC",Financial Services,Investment Bank/Brokerage
+67,6722,Holding and Other Investment Offices,"Management Investment Offices, Open-End",Financial Services,Investment Bank/Brokerage
+67,6726,Holding and Other Investment Offices,"Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices",Financial Services,Trusts
+67,6732,Holding and Other Investment Offices,"Educational, Religious, and Charitable Trusts",Skilled Services,Public Administration & Social Services
+67,6733,Holding and Other Investment Offices,"Trusts, Except Educational, Religious, and Charitable",Financial Services,Trusts
+67,6792,Holding and Other Investment Offices,Oil Royalty Traders,Financial Services,Other Financial
+67,6794,Holding and Other Investment Offices,Patent Owners and Lessors,Financial Services,Other Financial
+67,6798,Holding and Other Investment Offices,Real Estate Investment Trusts,Financial Services,Trusts
+67,6799,Holding and Other Investment Offices,"Investors, NEC",Financial Services,Other Financial
+70,7011,"Hotels, Rooming Houses, Camps, and Other Lodging Places",Hotels and Motels,In-Person Industries,Hospitality: Hotels & Temporary Lodging (excl Casinos)
+70,7021,"Hotels, Rooming Houses, Camps, and Other Lodging Places",Rooming and Boarding Houses,In-Person Industries,Hospitality: Hotels & Temporary Lodging (excl Casinos)
+70,7032,"Hotels, Rooming Houses, Camps, and Other Lodging Places",Sporting and Recreational Camps,In-Person Industries,Hospitality: Hotels & Temporary Lodging (excl Casinos)
+70,7033,"Hotels, Rooming Houses, Camps, and Other Lodging Places",Trailer Parks and Campsites,In-Person Industries,Hospitality: Hotels & Temporary Lodging (excl Casinos)
+70,7041,"Hotels, Rooming Houses, Camps, and Other Lodging Places",Membership-basis Organization Hotels,In-Person Industries,Hospitality: Hotels & Temporary Lodging (excl Casinos)
+72,7211,Personal Services,"Power Laundries, Family and Commercial",In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7212,Personal Services,Garment Pressing and Cleaners' Agents,In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7213,Personal Services,Linen Supply,In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7215,Personal Services,Coin-operated Laundries and Cleaning,In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7216,Personal Services,"Drycleaning Plants, Except Rugs",In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7217,Personal Services,Carpet and Upholstery Cleaning,In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7218,Personal Services,Industrial Launderers,In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7219,Personal Services,"Laundry and Garment Services, NEC",In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7221,Personal Services,"Photographic Studios, Portrait",Skilled Services,Other Services: Photography & Graphics
+72,7231,Personal Services,Beauty Shops,In-Person Industries,Personal: Hair & Beauty
+72,7241,Personal Services,Barber Shops,In-Person Industries,Personal: Hair & Beauty
+72,7251,Personal Services,Shoe Repair and Shoeshine Parlors,In-Person Industries,"Personal: Laundry, Dry Cleaning & Associated"
+72,7261,Personal Services,Funeral Service and Crematories,In-Person Industries,Funereal Services
+72,7291,Personal Services,Tax Return Preparation Services,Skilled Services,"Professional Services: Accounting, Auditing & Tax Prep"
+72,7299,Personal Services,Miscellaneous Personal Services,Skilled Services,Other Services: Misc
+73,7311,Business Services,Advertising Agencies,Skilled Services,Other Services: Advertising/PR & Media Services
+73,7312,Business Services,Outdoor Advertising Services,Skilled Services,Other Services: Advertising/PR & Media Services
+73,7313,Business Services,"Radio, Television, Publisher Representatives",Skilled Services,Other Services: Advertising/PR & Media Services
+73,7319,Business Services,"Advertising, NEC",Skilled Services,Other Services: Advertising/PR & Media Services
+73,7322,Business Services,Adjustment and Collection Services,Skilled Services,Professional Services: Clerical & Employment Services
+73,7323,Business Services,Credit Reporting Services,Skilled Services,Professional Services: Clerical & Employment Services
+73,7331,Business Services,Direct Mail Advertising Services,Skilled Services,Professional Services: Clerical & Employment Services
+73,7334,Business Services,Photocopying and Duplicating Services,Skilled Services,Other Services: Photography & Graphics
+73,7335,Business Services,Commercial Photography,Skilled Services,Other Services: Photography & Graphics
+73,7336,Business Services,Commercial Art and Graphic Design,Skilled Services,Other Services: Photography & Graphics
+73,7338,Business Services,Secretarial and Court Reporting,Skilled Services,Professional Services: Clerical & Employment Services
+73,7342,Business Services,Disinfecting and Pest Control Services,In-Person Industries,"Building Maintenance, Waste Removal & Pest Control"
+73,7349,Business Services,"Building Maintenance Services, NEC",In-Person Industries,"Building Maintenance, Waste Removal & Pest Control"
+73,7352,Business Services,Medical Equipment Rental,In-Person Industries,Goods-Related: Equipment Rental
+73,7353,Business Services,Heavy Construction Equipment Rental,In-Person Industries,Goods-Related: Equipment Rental
+73,7359,Business Services,"Equipment Rental and Leasing, NEC",In-Person Industries,Goods-Related: Equipment Rental
+73,7361,Business Services,Employment Agencies,Skilled Services,Professional Services: Clerical & Employment Services
+73,7363,Business Services,Help Supply Services,Skilled Services,Professional Services: Clerical & Employment Services
+73,7371,Business Services,Custom Computer Programming Services,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7372,Business Services,Prepackaged Software,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7373,Business Services,Computer Integrated Systems Design,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7374,Business Services,Data Processing and Preparation,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7375,Business Services,Information Retrieval Services,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7376,Business Services,Computer Facilities Management,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7377,Business Services,Computer Rental and Leasing,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7378,Business Services,Computer Maintenance and Repair,Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7379,Business Services,"Computer Related Services, NEC",Skilled Services,Professional Services: Computing Services & Information Mgmt
+73,7381,Business Services,Detective and Armored Car Services,In-Person Industries,Armored Car & Security Services
+73,7382,Business Services,Security Systems Services,In-Person Industries,Armored Car & Security Services
+73,7383,Business Services,News Syndicates,Skilled Services,Other Services: Advertising/PR & Media Services
+73,7384,Business Services,Photofinish Laboratories,Skilled Services,Other Services: Photography & Graphics
+73,7389,Business Services,"Business Services, NEC",Skilled Services,Other Services: Advertising/PR & Media Services
+75,7513,"Automotive Repair, Services and Parking","Truck Rental and Leasing, Without Drivers",In-Person Industries,Transportation: Automotive Services
+75,7514,"Automotive Repair, Services and Parking",Passenger Car Rental,In-Person Industries,Transportation: Automotive Services
+75,7515,"Automotive Repair, Services and Parking",Passenger Car Leasing,In-Person Industries,Transportation: Automotive Services
+75,7519,"Automotive Repair, Services and Parking",Utility Trailer Rental,In-Person Industries,Transportation: Automotive Services
+75,7521,"Automotive Repair, Services and Parking",Automobile Parking,In-Person Industries,Transportation: Automotive Services
+75,7532,"Automotive Repair, Services and Parking",Top and Body Repair and Paint Shops,In-Person Industries,Transportation: Automotive Services
+75,7533,"Automotive Repair, Services and Parking",Auto Exhaust System Repair Shops,In-Person Industries,Transportation: Automotive Services
+75,7534,"Automotive Repair, Services and Parking",Tire Retreading and Repair Shops,In-Person Industries,Transportation: Automotive Services
+75,7536,"Automotive Repair, Services and Parking",Automotive Glass Replacement Shops,In-Person Industries,Transportation: Automotive Services
+75,7537,"Automotive Repair, Services and Parking",Automotive Transmission Repair Shops,In-Person Industries,Transportation: Automotive Services
+75,7538,"Automotive Repair, Services and Parking",General Automotive Repair Shops,In-Person Industries,Transportation: Automotive Services
+75,7539,"Automotive Repair, Services and Parking","Automotive Repair Shops, NEC",In-Person Industries,Transportation: Automotive Services
+75,7542,"Automotive Repair, Services and Parking",Carwashes,In-Person Industries,Transportation: Automotive Services
+75,7549,"Automotive Repair, Services and Parking","Automotive Services, NEC",In-Person Industries,Transportation: Automotive Services
+76,7622,Miscellaneous Repair Services,Radio and Television Repair,In-Person Industries,Goods-Related: Appliance & Large Item Repair
+76,7623,Miscellaneous Repair Services,Refrigeration Service and Repair,In-Person Industries,Goods-Related: Appliance & Large Item Repair
+76,7629,Miscellaneous Repair Services,Electrical Repair Shops,In-Person Industries,Goods-Related: Precision Repair
+76,7631,Miscellaneous Repair Services,"Watch, Clock, and Jewelry Repair",In-Person Industries,Goods-Related: Precision Repair
+76,7641,Miscellaneous Repair Services,Reupholstery and Furniture Repair,In-Person Industries,Goods-Related: Appliance & Large Item Repair
+76,7692,Miscellaneous Repair Services,Welding Repair,In-Person Industries,Goods-Related: Appliance & Large Item Repair
+76,7694,Miscellaneous Repair Services,Armature Rewinding Shops,In-Person Industries,Goods-Related: Precision Repair
+76,7699,Miscellaneous Repair Services,"Repair Services, NEC",In-Person Industries,Goods-Related: Precision Repair
+78,7812,Motion Pictures,Motion Picture and Video Production,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+78,7819,Motion Pictures,Services Allied To Motion Pictures,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+78,7822,Motion Pictures,Motion Picture and Tape Distribution,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+78,7829,Motion Pictures,Motion Picture Distribution Services,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+78,7832,Motion Pictures,"Motion Picture Theaters, Except Drive-in",In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+78,7833,Motion Pictures,Drive-in Motion Picture Theaters,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+78,7841,Motion Pictures,Video Tape Rental,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7911,Amusement and Recreation Services,"Dance Studios, Schools, and Halls",In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7922,Amusement and Recreation Services,Theatrical Producers and Services,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7929,Amusement and Recreation Services,Entertainers and Entertainment Groups,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7933,Amusement and Recreation Services,Bowling Centers,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7941,Amusement and Recreation Services,"Sports Clubs, Managers, and Promoters",In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7948,Amusement and Recreation Services,"Racing, Including Track Operation",In-Person Industries,Hospitality: Casinos & Gambling
+79,7991,Amusement and Recreation Services,Physical Fitness Facilities,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7992,Amusement and Recreation Services,Public Golf Courses,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7993,Amusement and Recreation Services,Coin-operated Amusement Devices,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7996,Amusement and Recreation Services,Amusement Parks,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7997,Amusement and Recreation Services,Membership Sports and Recreation Clubs,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+79,7999,Amusement and Recreation Services,"Amusement and Recreation, NEC",In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+80,8011,Health Services,Offices and Clinics of Medical Doctors,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8021,Health Services,Offices and Clinics of Dentists,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8031,Health Services,Offices and Clinics of Osteopathic Physicians,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8041,Health Services,Offices and Clinics of Chiropractors,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8042,Health Services,Offices and Clinics of Optometrists,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8043,Health Services,Offices and Clinics of Podiatrists,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8049,Health Services,Offices of Health Practitioner,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8051,Health Services,Skilled Nursing Care Facilities,Skilled Services,Health Services: Skilled Care
+80,8052,Health Services,Intermediate Care Facilities,Skilled Services,Health Services: Skilled Care
+80,8059,Health Services,"Nursing and Personal Care, NEC",Skilled Services,Health Services: Skilled Care
+80,8062,Health Services,General Medical and Surgical Hospitals,Skilled Services,Health Services: Hospitals
+80,8063,Health Services,Psychiatric Hospitals,Skilled Services,Health Services: Hospitals
+80,8069,Health Services,"Specialty Hospitals, Except Psychiatric",Skilled Services,Health Services: Hospitals
+80,8071,Health Services,Medical Laboratories,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8072,Health Services,Dental Laboratories,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8082,Health Services,Home Health Care Services,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8092,Health Services,Kidney Dialysis Centers,Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8093,Health Services,"Specialty Outpatient Clinics, NEC",Skilled Services,"Health Services: Offices, Clinics & Labs"
+80,8099,Health Services,"Health and Allied Services, NEC",Skilled Services,"Health Services: Offices, Clinics & Labs"
+81,8111,Legal Services,Legal Services,Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+82,8211,Educational Services,Elementary and Secondary Schools,Skilled Services,Education: Grade School
+82,8221,Educational Services,Colleges and Universities,Skilled Services,Education: Colleges & Universities
+82,8222,Educational Services,Junior Colleges,Skilled Services,Education: Colleges & Universities
+82,8231,Educational Services,Libraries,Skilled Services,Public Administration & Social Services
+82,8243,Educational Services,Data Processing Schools,Skilled Services,Education: Professional training
+82,8244,Educational Services,Business and Secretarial Schools,Skilled Services,Education: Professional training
+82,8249,Educational Services,"Vocational Schools, NEC",Skilled Services,Education: Professional training
+82,8299,Educational Services,Schools and Educational Services,Skilled Services,Education: Professional training
+83,8322,Social Services,Individual and Family Services,Skilled Services,Public Administration & Social Services
+83,8331,Social Services,Job Training and Related Services,Skilled Services,Public Administration & Social Services
+83,8351,Social Services,Child Day Care Services,Skilled Services,Public Administration & Social Services
+83,8361,Social Services,Residential Care,Skilled Services,Public Administration & Social Services
+83,8399,Social Services,"Social Services, NEC",Skilled Services,Public Administration & Social Services
+84,8412,"Museums, Art Galleries and Botanical and Zoological Gardens",Museums and Art Galleries,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+84,8422,"Museums, Art Galleries and Botanical and Zoological Gardens",Botanical and Zoological Gardens,In-Person Industries,Hospitality: Entertainment & Recreation (excl Gambling)
+86,8611,Membership Organizations,Business Associations,Skilled Services,Membership Organizations
+86,8621,Membership Organizations,Professional Organizations,Skilled Services,Membership Organizations
+86,8631,Membership Organizations,Labor Organizations,Skilled Services,Membership Organizations
+86,8641,Membership Organizations,Civic and Social Associations,Skilled Services,Membership Organizations
+86,8651,Membership Organizations,Political Organizations,Skilled Services,Membership Organizations
+86,8661,Membership Organizations,Religious Organizations,Skilled Services,Membership Organizations
+86,8699,Membership Organizations,"Membership Organizations, NEC",Skilled Services,Membership Organizations
+87,8711,"Engineering, Accounting, Research, Management & Related Svcs",Engineering Services,Skilled Services,"Professional Services: Architects, Engineers & Surveyors"
+87,8712,"Engineering, Accounting, Research, Management & Related Svcs",Architectural Services,Skilled Services,"Professional Services: Architects, Engineers & Surveyors"
+87,8713,"Engineering, Accounting, Research, Management & Related Svcs",Surveying Services,Skilled Services,"Professional Services: Architects, Engineers & Surveyors"
+87,8721,"Engineering, Accounting, Research, Management & Related Svcs","Accounting, Auditing, and Bookkeeping",Skilled Services,"Professional Services: Accounting, Auditing & Tax Prep"
+87,8731,"Engineering, Accounting, Research, Management & Related Svcs",Commercial Physical Research,Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+87,8732,"Engineering, Accounting, Research, Management & Related Svcs",Commercial Nonphysical Research,Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+87,8733,"Engineering, Accounting, Research, Management & Related Svcs",Noncommercial Research Organizations,Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+87,8734,"Engineering, Accounting, Research, Management & Related Svcs",Testing Laboratories,Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+87,8741,"Engineering, Accounting, Research, Management & Related Svcs",Management Services,Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+87,8742,"Engineering, Accounting, Research, Management & Related Svcs",Management Consulting Services,Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+87,8743,"Engineering, Accounting, Research, Management & Related Svcs",Public Relations Services,Skilled Services,Other Services: Advertising/PR & Media Services
+87,8744,"Engineering, Accounting, Research, Management & Related Svcs",Facilities Support Services,In-Person Industries,"Building Maintenance, Waste Removal & Pest Control"
+87,8748,"Engineering, Accounting, Research, Management & Related Svcs","Business Consulting, NEC",Skilled Services,"Professional Services: Consulting, Legal, Logistics & Research"
+88,8811,Private Households,Private Households,n/a,n/a
+91,9111,"Executive, Legislative & General Government, Except Finance",Executive Offices,Skilled Services,Public Administration & Social Services
+91,9121,"Executive, Legislative & General Government, Except Finance",Legislative Bodies,Skilled Services,Public Administration & Social Services
+91,9131,"Executive, Legislative & General Government, Except Finance",Executive and Legislative Combined,Skilled Services,Public Administration & Social Services
+91,9199,"Executive, Legislative & General Government, Except Finance","General Government, NEC",Skilled Services,Public Administration & Social Services
+92,9211,"Justice, Public Order and Safety",Courts,Skilled Services,Public Administration & Social Services
+92,9221,"Justice, Public Order and Safety",Police Protection,Skilled Services,Public Administration & Social Services
+92,9222,"Justice, Public Order and Safety",Legal Counsel and Prosecution,Skilled Services,Public Administration & Social Services
+92,9223,"Justice, Public Order and Safety",Correctional Institutions,Skilled Services,Public Administration & Social Services
+92,9224,"Justice, Public Order and Safety",Fire Protection,Skilled Services,Public Administration & Social Services
+92,9229,"Justice, Public Order and Safety","Public Order and Safety, NEC",Skilled Services,Public Administration & Social Services
+93,9311,"Public Finance, Taxation and Monetary Policy","Finance, Taxation, and Monetary Policy",Skilled Services,Public Administration & Social Services
+94,9411,Administration of Human Resource Programs,Administration of Educational Programs,Skilled Services,Public Administration & Social Services
+94,9431,Administration of Human Resource Programs,Administration of Public Health Programs,Skilled Services,Public Administration & Social Services
+94,9441,Administration of Human Resource Programs,Administration of Social and Manpower Programs,Skilled Services,Public Administration & Social Services
+94,9451,Administration of Human Resource Programs,Administration of Veterans' Affairs,Skilled Services,Public Administration & Social Services
+95,9511,Administration of Environmental Quality and Housing Programs,"Air, Water, and Solid Waste Management",Skilled Services,Public Administration & Social Services
+95,9512,Administration of Environmental Quality and Housing Programs,"Land, Mineral, and Wildlife Conservation",Skilled Services,Public Administration & Social Services
+95,9531,Administration of Environmental Quality and Housing Programs,Housing Programs,Skilled Services,Public Administration & Social Services
+95,9532,Administration of Environmental Quality and Housing Programs,Urban and Community Development,Skilled Services,Public Administration & Social Services
+96,9611,Administration of Economic Programs,Administration of General Economic Programs,Skilled Services,Public Administration & Social Services
+96,9621,Administration of Economic Programs,"Regulation, Administration of Transportation",Skilled Services,Public Administration & Social Services
+96,9631,Administration of Economic Programs,"Regulation, Administration of Utilities",Skilled Services,Public Administration & Social Services
+96,9641,Administration of Economic Programs,Regulation of Agricultural Marketing,Skilled Services,Public Administration & Social Services
+96,9651,Administration of Economic Programs,"Regulation, Miscellaneous Commercial Sectors",Skilled Services,Public Administration & Social Services
+96,9661,Administration of Economic Programs,Space Research and Technology,Skilled Services,Public Administration & Social Services
+97,9711,National Security and International Affairs,National Security,Skilled Services,Public Administration & Social Services
+97,9721,National Security and International Affairs,International Affairs,Skilled Services,Public Administration & Social Services
+99,9999,Nonclassifiable Establishments,Nonclassifiable Establishments,n/a,n/a

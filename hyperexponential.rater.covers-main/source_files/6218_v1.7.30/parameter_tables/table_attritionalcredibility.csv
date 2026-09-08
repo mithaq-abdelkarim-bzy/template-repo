@@ -1,0 +1,837 @@
+Version,Benchmark Class,Percent Ultimate,Value
+11,Aviation Liab,0.0,IELR
+11,Aviation Liab,0.1,IELR
+11,Aviation Liab,0.2,IELR
+11,Aviation Liab,0.3,IELR
+11,Aviation Liab,0.4,BF
+11,Aviation Liab,0.5,BF
+11,Aviation Liab,0.6,BF
+11,Aviation Liab,0.7,CL
+11,Aviation Liab,0.8,CL
+11,Aviation Liab,0.9,CL
+11,Aviation Liab,1.0,CL
+11,Aviation PD,0.0,IELR
+11,Aviation PD,0.1,IELR
+11,Aviation PD,0.2,IELR
+11,Aviation PD,0.3,IELR
+11,Aviation PD,0.4,BF
+11,Aviation PD,0.5,BF
+11,Aviation PD,0.6,BF
+11,Aviation PD,0.7,CL
+11,Aviation PD,0.8,CL
+11,Aviation PD,0.9,CL
+11,Aviation PD,1.0,CL
+11,US Marine,0.0,IELR
+11,US Marine,0.1,IELR
+11,US Marine,0.2,IELR
+11,US Marine,0.3,IELR
+11,US Marine,0.4,BF
+11,US Marine,0.5,BF
+11,US Marine,0.6,BF
+11,US Marine,0.7,CL
+11,US Marine,0.8,CL
+11,US Marine,0.9,CL
+11,US Marine,1.0,CL
+11,Cargo,0.0,IELR
+11,Cargo,0.1,IELR
+11,Cargo,0.2,IELR
+11,Cargo,0.3,IELR
+11,Cargo,0.4,BF
+11,Cargo,0.5,BF
+11,Cargo,0.6,BF
+11,Cargo,0.7,CL
+11,Cargo,0.8,CL
+11,Cargo,0.9,CL
+11,Cargo,1.0,CL
+11,Downhole,0.0,IELR
+11,Downhole,0.1,IELR
+11,Downhole,0.2,IELR
+11,Downhole,0.3,IELR
+11,Downhole,0.4,BF
+11,Downhole,0.5,BF
+11,Downhole,0.6,BF
+11,Downhole,0.7,CL
+11,Downhole,0.8,CL
+11,Downhole,0.9,CL
+11,Downhole,1.0,CL
+11,Energy Liab and Cas,0.0,IELR
+11,Energy Liab and Cas,0.1,IELR
+11,Energy Liab and Cas,0.2,IELR
+11,Energy Liab and Cas,0.3,IELR
+11,Energy Liab and Cas,0.4,BF
+11,Energy Liab and Cas,0.5,BF
+11,Energy Liab and Cas,0.6,BF
+11,Energy Liab and Cas,0.7,CL
+11,Energy Liab and Cas,0.8,CL
+11,Energy Liab and Cas,0.9,CL
+11,Energy Liab and Cas,1.0,CL
+11,Energy PD,0.0,IELR
+11,Energy PD,0.1,IELR
+11,Energy PD,0.2,IELR
+11,Energy PD,0.3,IELR
+11,Energy PD,0.4,BF
+11,Energy PD,0.5,BF
+11,Energy PD,0.6,BF
+11,Energy PD,0.7,CL
+11,Energy PD,0.8,CL
+11,Energy PD,0.9,CL
+11,Energy PD,1.0,CL
+11,Hull,0.0,IELR
+11,Hull,0.1,IELR
+11,Hull,0.2,IELR
+11,Hull,0.3,IELR
+11,Hull,0.4,BF
+11,Hull,0.5,BF
+11,Hull,0.6,BF
+11,Hull,0.7,CL
+11,Hull,0.8,CL
+11,Hull,0.9,CL
+11,Hull,1.0,CL
+11,Marine Libs,0.0,IELR
+11,Marine Libs,0.1,IELR
+11,Marine Libs,0.2,IELR
+11,Marine Libs,0.3,IELR
+11,Marine Libs,0.4,BF
+11,Marine Libs,0.5,BF
+11,Marine Libs,0.6,BF
+11,Marine Libs,0.7,CL
+11,Marine Libs,0.8,CL
+11,Marine Libs,0.9,CL
+11,Marine Libs,1.0,CL
+11,Marine Misc,0.0,IELR
+11,Marine Misc,0.1,IELR
+11,Marine Misc,0.2,IELR
+11,Marine Misc,0.3,IELR
+11,Marine Misc,0.4,BF
+11,Marine Misc,0.5,BF
+11,Marine Misc,0.6,BF
+11,Marine Misc,0.7,CL
+11,Marine Misc,0.8,CL
+11,Marine Misc,0.9,CL
+11,Marine Misc,1.0,CL
+11,Satellite,0.0,IELR
+11,Satellite,0.1,IELR
+11,Satellite,0.2,IELR
+11,Satellite,0.3,IELR
+11,Satellite,0.4,BF
+11,Satellite,0.5,BF
+11,Satellite,0.6,BF
+11,Satellite,0.7,CL
+11,Satellite,0.8,CL
+11,Satellite,0.9,CL
+11,Satellite,1.0,CL
+11,War,0.0,IELR
+11,War,0.1,IELR
+11,War,0.2,IELR
+11,War,0.3,IELR
+11,War,0.4,BF
+11,War,0.5,BF
+11,War,0.6,BF
+11,War,0.7,CL
+11,War,0.8,CL
+11,War,0.9,CL
+11,War,1.0,CL
+11,Contingency,0.0,IELR
+11,Contingency,0.1,IELR
+11,Contingency,0.2,IELR
+11,Contingency,0.3,IELR
+11,Contingency,0.4,BF
+11,Contingency,0.5,BF
+11,Contingency,0.6,BF
+11,Contingency,0.7,CL
+11,Contingency,0.8,CL
+11,Contingency,0.9,CL
+11,Contingency,1.0,CL
+11,Political,0.0,IELR
+11,Political,0.1,IELR
+11,Political,0.2,IELR
+11,Political,0.3,IELR
+11,Political,0.4,BF
+11,Political,0.5,BF
+11,Political,0.6,BF
+11,Political,0.7,CL
+11,Political,0.8,CL
+11,Political,0.9,CL
+11,Political,1.0,CL
+11,Terrorism,0.0,IELR
+11,Terrorism,0.1,IELR
+11,Terrorism,0.2,IELR
+11,Terrorism,0.3,IELR
+11,Terrorism,0.4,BF
+11,Terrorism,0.5,BF
+11,Terrorism,0.6,BF
+11,Terrorism,0.7,CL
+11,Terrorism,0.8,CL
+11,Terrorism,0.9,CL
+11,Terrorism,1.0,CL
+11,BICI A&H PA,0.0,IELR
+11,BICI A&H PA,0.1,IELR
+11,BICI A&H PA,0.2,IELR
+11,BICI A&H PA,0.3,IELR
+11,BICI A&H PA,0.4,BF
+11,BICI A&H PA,0.5,BF
+11,BICI A&H PA,0.6,BF
+11,BICI A&H PA,0.7,CL
+11,BICI A&H PA,0.8,CL
+11,BICI A&H PA,0.9,CL
+11,BICI A&H PA,1.0,CL
+11,Life Direct,0.0,IELR
+11,Life Direct,0.1,IELR
+11,Life Direct,0.2,IELR
+11,Life Direct,0.3,IELR
+11,Life Direct,0.4,BF
+11,Life Direct,0.5,BF
+11,Life Direct,0.6,BF
+11,Life Direct,0.7,CL
+11,Life Direct,0.8,CL
+11,Life Direct,0.9,CL
+11,Life Direct,1.0,CL
+11,Life Reinsurance,0.0,IELR
+11,Life Reinsurance,0.1,IELR
+11,Life Reinsurance,0.2,IELR
+11,Life Reinsurance,0.3,IELR
+11,Life Reinsurance,0.4,BF
+11,Life Reinsurance,0.5,BF
+11,Life Reinsurance,0.6,BF
+11,Life Reinsurance,0.7,CL
+11,Life Reinsurance,0.8,CL
+11,Life Reinsurance,0.9,CL
+11,Life Reinsurance,1.0,CL
+11,PA Direct,0.0,IELR
+11,PA Direct,0.1,IELR
+11,PA Direct,0.2,IELR
+11,PA Direct,0.3,IELR
+11,PA Direct,0.4,BF
+11,PA Direct,0.5,BF
+11,PA Direct,0.6,BF
+11,PA Direct,0.7,CL
+11,PA Direct,0.8,CL
+11,PA Direct,0.9,CL
+11,PA Direct,1.0,CL
+11,PA Reinsurance,0.0,IELR
+11,PA Reinsurance,0.1,IELR
+11,PA Reinsurance,0.2,IELR
+11,PA Reinsurance,0.3,IELR
+11,PA Reinsurance,0.4,BF
+11,PA Reinsurance,0.5,BF
+11,PA Reinsurance,0.6,BF
+11,PA Reinsurance,0.7,CL
+11,PA Reinsurance,0.8,CL
+11,PA Reinsurance,0.9,CL
+11,PA Reinsurance,1.0,CL
+11,Sports,0.0,IELR
+11,Sports,0.1,IELR
+11,Sports,0.2,IELR
+11,Sports,0.3,IELR
+11,Sports,0.4,BF
+11,Sports,0.5,BF
+11,Sports,0.6,BF
+11,Sports,0.7,CL
+11,Sports,0.8,CL
+11,Sports,0.9,CL
+11,Sports,1.0,CL
+11,Open Market,0.0,IELR
+11,Open Market,0.1,IELR
+11,Open Market,0.2,IELR
+11,Open Market,0.3,IELR
+11,Open Market,0.4,BF
+11,Open Market,0.5,BF
+11,Open Market,0.6,BF
+11,Open Market,0.7,CL
+11,Open Market,0.8,CL
+11,Open Market,0.9,CL
+11,Open Market,1.0,CL
+11,E&S Property,0.0,IELR
+11,E&S Property,0.1,IELR
+11,E&S Property,0.2,IELR
+11,E&S Property,0.3,IELR
+11,E&S Property,0.4,BF
+11,E&S Property,0.5,BF
+11,E&S Property,0.6,BF
+11,E&S Property,0.7,CL
+11,E&S Property,0.8,CL
+11,E&S Property,0.9,CL
+11,E&S Property,1.0,CL
+11,E&S Homeowners,0.0,IELR
+11,E&S Homeowners,0.1,IELR
+11,E&S Homeowners,0.2,IELR
+11,E&S Homeowners,0.3,IELR
+11,E&S Homeowners,0.4,BF
+11,E&S Homeowners,0.5,BF
+11,E&S Homeowners,0.6,BF
+11,E&S Homeowners,0.7,CL
+11,E&S Homeowners,0.8,CL
+11,E&S Homeowners,0.9,CL
+11,E&S Homeowners,1.0,CL
+11,Covers,0.0,IELR
+11,Covers,0.1,IELR
+11,Covers,0.2,IELR
+11,Covers,0.3,IELR
+11,Covers,0.4,BF
+11,Covers,0.5,BF
+11,Covers,0.6,BF
+11,Covers,0.7,CL
+11,Covers,0.8,CL
+11,Covers,0.9,CL
+11,Covers,1.0,CL
+11,Specie,0.0,IELR
+11,Specie,0.1,IELR
+11,Specie,0.2,IELR
+11,Specie,0.3,IELR
+11,Specie,0.4,BF
+11,Specie,0.5,BF
+11,Specie,0.6,BF
+11,Specie,0.7,CL
+11,Specie,0.8,CL
+11,Specie,0.9,CL
+11,Specie,1.0,CL
+11,Swiss,0.0,IELR
+11,Swiss,0.1,IELR
+11,Swiss,0.2,IELR
+11,Swiss,0.3,IELR
+11,Swiss,0.4,BF
+11,Swiss,0.5,BF
+11,Swiss,0.6,BF
+11,Swiss,0.7,CL
+11,Swiss,0.8,CL
+11,Swiss,0.9,CL
+11,Swiss,1.0,CL
+11,Jewellers,0.0,IELR
+11,Jewellers,0.1,IELR
+11,Jewellers,0.2,IELR
+11,Jewellers,0.3,IELR
+11,Jewellers,0.4,BF
+11,Jewellers,0.5,BF
+11,Jewellers,0.6,BF
+11,Jewellers,0.7,CL
+11,Jewellers,0.8,CL
+11,Jewellers,0.9,CL
+11,Jewellers,1.0,CL
+11,Motor,0.0,IELR
+11,Motor,0.1,IELR
+11,Motor,0.2,IELR
+11,Motor,0.3,IELR
+11,Motor,0.4,BF
+11,Motor,0.5,BF
+11,Motor,0.6,BF
+11,Motor,0.7,CL
+11,Motor,0.8,CL
+11,Motor,0.9,CL
+11,Motor,1.0,CL
+11,Package,0.0,IELR
+11,Package,0.1,IELR
+11,Package,0.2,IELR
+11,Package,0.3,IELR
+11,Package,0.4,BF
+11,Package,0.5,BF
+11,Package,0.6,BF
+11,Package,0.7,CL
+11,Package,0.8,CL
+11,Package,0.9,CL
+11,Package,1.0,CL
+11,BPS - BBR,0.0,IELR
+11,BPS - BBR,0.1,IELR
+11,BPS - BBR,0.2,IELR
+11,BPS - BBR,0.3,IELR
+11,BPS - BBR,0.4,BF
+11,BPS - BBR,0.5,BF
+11,BPS - BBR,0.6,BF
+11,BPS - BBR,0.7,CL
+11,BPS - BBR,0.8,CL
+11,BPS - BBR,0.9,CL
+11,BPS - BBR,1.0,CL
+11,eTrading BBR,0.0,IELR
+11,eTrading BBR,0.1,IELR
+11,eTrading BBR,0.2,IELR
+11,eTrading BBR,0.3,IELR
+11,eTrading BBR,0.4,BF
+11,eTrading BBR,0.5,BF
+11,eTrading BBR,0.6,BF
+11,eTrading BBR,0.7,CL
+11,eTrading BBR,0.8,CL
+11,eTrading BBR,0.9,CL
+11,eTrading BBR,1.0,CL
+11,US PE London BBR,0.0,IELR
+11,US PE London BBR,0.1,IELR
+11,US PE London BBR,0.2,IELR
+11,US PE London BBR,0.3,IELR
+11,US PE London BBR,0.4,BF
+11,US PE London BBR,0.5,BF
+11,US PE London BBR,0.6,BF
+11,US PE London BBR,0.7,CL
+11,US PE London BBR,0.8,CL
+11,US PE London BBR,0.9,CL
+11,US PE London BBR,1.0,CL
+11,US - A&E MM,0.0,IELR
+11,US - A&E MM,0.1,IELR
+11,US - A&E MM,0.2,IELR
+11,US - A&E MM,0.3,IELR
+11,US - A&E MM,0.4,BF
+11,US - A&E MM,0.5,BF
+11,US - A&E MM,0.6,BF
+11,US - A&E MM,0.7,CL
+11,US - A&E MM,0.8,CL
+11,US - A&E MM,0.9,CL
+11,US - A&E MM,1.0,CL
+11,Digital US Cyber,0.0,IELR
+11,Digital US Cyber,0.1,IELR
+11,Digital US Cyber,0.2,IELR
+11,Digital US Cyber,0.3,IELR
+11,Digital US Cyber,0.4,BF
+11,Digital US Cyber,0.5,BF
+11,Digital US Cyber,0.6,BF
+11,Digital US Cyber,0.7,CL
+11,Digital US Cyber,0.8,CL
+11,Digital US Cyber,0.9,CL
+11,Digital US Cyber,1.0,CL
+11,Healthcare Misc,0.0,IELR
+11,Healthcare Misc,0.1,IELR
+11,Healthcare Misc,0.2,IELR
+11,Healthcare Misc,0.3,IELR
+11,Healthcare Misc,0.4,BF
+11,Healthcare Misc,0.5,BF
+11,Healthcare Misc,0.6,BF
+11,Healthcare Misc,0.7,CL
+11,Healthcare Misc,0.8,CL
+11,Healthcare Misc,0.9,CL
+11,Healthcare Misc,1.0,CL
+11,Environmental,0.0,IELR
+11,Environmental,0.1,IELR
+11,Environmental,0.2,IELR
+11,Environmental,0.3,IELR
+11,Environmental,0.4,BF
+11,Environmental,0.5,BF
+11,Environmental,0.6,BF
+11,Environmental,0.7,CL
+11,Environmental,0.8,CL
+11,Environmental,0.9,CL
+11,Environmental,1.0,CL
+11,Healthcare ML,0.0,IELR
+11,Healthcare ML,0.1,IELR
+11,Healthcare ML,0.2,IELR
+11,Healthcare ML,0.3,IELR
+11,Healthcare ML,0.4,BF
+11,Healthcare ML,0.5,BF
+11,Healthcare ML,0.6,BF
+11,Healthcare ML,0.7,CL
+11,Healthcare ML,0.8,CL
+11,Healthcare ML,0.9,CL
+11,Healthcare ML,1.0,CL
+11,Lawyers,0.0,IELR
+11,Lawyers,0.1,IELR
+11,Lawyers,0.2,IELR
+11,Lawyers,0.3,IELR
+11,Lawyers,0.4,BF
+11,Lawyers,0.5,BF
+11,Lawyers,0.6,BF
+11,Lawyers,0.7,CL
+11,Lawyers,0.8,CL
+11,Lawyers,0.9,CL
+11,Lawyers,1.0,CL
+11,Misc Med PE,0.0,IELR
+11,Misc Med PE,0.1,IELR
+11,Misc Med PE,0.2,IELR
+11,Misc Med PE,0.3,IELR
+11,Misc Med PE,0.4,BF
+11,Misc Med PE,0.5,BF
+11,Misc Med PE,0.6,BF
+11,Misc Med PE,0.7,CL
+11,Misc Med PE,0.8,CL
+11,Misc Med PE,0.9,CL
+11,Misc Med PE,1.0,CL
+11,BPS,0.0,IELR
+11,BPS,0.1,IELR
+11,BPS,0.2,IELR
+11,BPS,0.3,IELR
+11,BPS,0.4,BF
+11,BPS,0.5,BF
+11,BPS,0.6,BF
+11,BPS,0.7,CL
+11,BPS,0.8,CL
+11,BPS,0.9,CL
+11,BPS,1.0,CL
+11,Surety,0.0,IELR
+11,Surety,0.1,IELR
+11,Surety,0.2,IELR
+11,Surety,0.3,IELR
+11,Surety,0.4,BF
+11,Surety,0.5,BF
+11,Surety,0.6,BF
+11,Surety,0.7,CL
+11,Surety,0.8,CL
+11,Surety,0.9,CL
+11,Surety,1.0,CL
+11,Digital US Tech,0.0,IELR
+11,Digital US Tech,0.1,IELR
+11,Digital US Tech,0.2,IELR
+11,Digital US Tech,0.3,IELR
+11,Digital US Tech,0.4,BF
+11,Digital US Tech,0.5,BF
+11,Digital US Tech,0.6,BF
+11,Digital US Tech,0.7,CL
+11,Digital US Tech,0.8,CL
+11,Digital US Tech,0.9,CL
+11,Digital US Tech,1.0,CL
+11,US Programmes,0.0,IELR
+11,US Programmes,0.1,IELR
+11,US Programmes,0.2,IELR
+11,US Programmes,0.3,IELR
+11,US Programmes,0.4,BF
+11,US Programmes,0.5,BF
+11,US Programmes,0.6,BF
+11,US Programmes,0.7,CL
+11,US Programmes,0.8,CL
+11,US Programmes,0.9,CL
+11,US Programmes,1.0,CL
+11,Media,0.0,IELR
+11,Media,0.1,IELR
+11,Media,0.2,IELR
+11,Media,0.3,IELR
+11,Media,0.4,BF
+11,Media,0.5,BF
+11,Media,0.6,BF
+11,Media,0.7,CL
+11,Media,0.8,CL
+11,Media,0.9,CL
+11,Media,1.0,CL
+11,Recall US,0.0,IELR
+11,Recall US,0.1,IELR
+11,Recall US,0.2,IELR
+11,Recall US,0.3,IELR
+11,Recall US,0.4,BF
+11,Recall US,0.5,BF
+11,Recall US,0.6,BF
+11,Recall US,0.7,CL
+11,Recall US,0.8,CL
+11,Recall US,0.9,CL
+11,Recall US,1.0,CL
+11,DIN US Lawyers,0.0,IELR
+11,DIN US Lawyers,0.1,IELR
+11,DIN US Lawyers,0.2,IELR
+11,DIN US Lawyers,0.3,IELR
+11,DIN US Lawyers,0.4,BF
+11,DIN US Lawyers,0.5,BF
+11,DIN US Lawyers,0.6,BF
+11,DIN US Lawyers,0.7,CL
+11,DIN US Lawyers,0.8,CL
+11,DIN US Lawyers,0.9,CL
+11,DIN US Lawyers,1.0,CL
+11,Financial Institutions,0.0,IELR
+11,Financial Institutions,0.1,IELR
+11,Financial Institutions,0.2,IELR
+11,Financial Institutions,0.3,IELR
+11,Financial Institutions,0.4,BF
+11,Financial Institutions,0.5,BF
+11,Financial Institutions,0.6,BF
+11,Financial Institutions,0.7,CL
+11,Financial Institutions,0.8,CL
+11,Financial Institutions,0.9,CL
+11,Financial Institutions,1.0,CL
+11,Hospitals,0.0,IELR
+11,Hospitals,0.1,IELR
+11,Hospitals,0.2,IELR
+11,Hospitals,0.3,IELR
+11,Hospitals,0.4,BF
+11,Hospitals,0.5,BF
+11,Hospitals,0.6,BF
+11,Hospitals,0.7,CL
+11,Hospitals,0.8,CL
+11,Hospitals,0.9,CL
+11,Hospitals,1.0,CL
+11,Large Risk International Healthcare,0.0,IELR
+11,Large Risk International Healthcare,0.1,IELR
+11,Large Risk International Healthcare,0.2,IELR
+11,Large Risk International Healthcare,0.3,IELR
+11,Large Risk International Healthcare,0.4,BF
+11,Large Risk International Healthcare,0.5,BF
+11,Large Risk International Healthcare,0.6,BF
+11,Large Risk International Healthcare,0.7,CL
+11,Large Risk International Healthcare,0.8,CL
+11,Large Risk International Healthcare,0.9,CL
+11,Large Risk International Healthcare,1.0,CL
+11,PE Delegated Authority,0.0,IELR
+11,PE Delegated Authority,0.1,IELR
+11,PE Delegated Authority,0.2,IELR
+11,PE Delegated Authority,0.3,IELR
+11,PE Delegated Authority,0.4,BF
+11,PE Delegated Authority,0.5,BF
+11,PE Delegated Authority,0.6,BF
+11,PE Delegated Authority,0.7,CL
+11,PE Delegated Authority,0.8,CL
+11,PE Delegated Authority,0.9,CL
+11,PE Delegated Authority,1.0,CL
+11,International ML,0.0,IELR
+11,International ML,0.1,IELR
+11,International ML,0.2,IELR
+11,International ML,0.3,IELR
+11,International ML,0.4,BF
+11,International ML,0.5,BF
+11,International ML,0.6,BF
+11,International ML,0.7,CL
+11,International ML,0.8,CL
+11,International ML,0.9,CL
+11,International ML,1.0,CL
+11,London - A&E,0.0,IELR
+11,London - A&E,0.1,IELR
+11,London - A&E,0.2,IELR
+11,London - A&E,0.3,IELR
+11,London - A&E,0.4,BF
+11,London - A&E,0.5,BF
+11,London - A&E,0.6,BF
+11,London - A&E,0.7,CL
+11,London - A&E,0.8,CL
+11,London - A&E,0.9,CL
+11,London - A&E,1.0,CL
+11,eTrading,0.0,IELR
+11,eTrading,0.1,IELR
+11,eTrading,0.2,IELR
+11,eTrading,0.3,IELR
+11,eTrading,0.4,BF
+11,eTrading,0.5,BF
+11,eTrading,0.6,BF
+11,eTrading,0.7,CL
+11,eTrading,0.8,CL
+11,eTrading,0.9,CL
+11,eTrading,1.0,CL
+11,Specialty (PT),0.0,IELR
+11,Specialty (PT),0.1,IELR
+11,Specialty (PT),0.2,IELR
+11,Specialty (PT),0.3,IELR
+11,Specialty (PT),0.4,BF
+11,Specialty (PT),0.5,BF
+11,Specialty (PT),0.6,BF
+11,Specialty (PT),0.7,CL
+11,Specialty (PT),0.8,CL
+11,Specialty (PT),0.9,CL
+11,Specialty (PT),1.0,CL
+11,US PE London,0.0,IELR
+11,US PE London,0.1,IELR
+11,US PE London,0.2,IELR
+11,US PE London,0.3,IELR
+11,US PE London,0.4,BF
+11,US PE London,0.5,BF
+11,US PE London,0.6,BF
+11,US PE London,0.7,CL
+11,US PE London,0.8,CL
+11,US PE London,0.9,CL
+11,US PE London,1.0,CL
+11,PE International Healthcare,0.0,IELR
+11,PE International Healthcare,0.1,IELR
+11,PE International Healthcare,0.2,IELR
+11,PE International Healthcare,0.3,IELR
+11,PE International Healthcare,0.4,BF
+11,PE International Healthcare,0.5,BF
+11,PE International Healthcare,0.6,BF
+11,PE International Healthcare,0.7,CL
+11,PE International Healthcare,0.8,CL
+11,PE International Healthcare,0.9,CL
+11,PE International Healthcare,1.0,CL
+11,Digital Int Package,0.0,IELR
+11,Digital Int Package,0.1,IELR
+11,Digital Int Package,0.2,IELR
+11,Digital Int Package,0.3,IELR
+11,Digital Int Package,0.4,BF
+11,Digital Int Package,0.5,BF
+11,Digital Int Package,0.6,BF
+11,Digital Int Package,0.7,CL
+11,Digital Int Package,0.8,CL
+11,Digital Int Package,0.9,CL
+11,Digital Int Package,1.0,CL
+11,BBR Services MM,0.0,IELR
+11,BBR Services MM,0.1,IELR
+11,BBR Services MM,0.2,IELR
+11,BBR Services MM,0.3,IELR
+11,BBR Services MM,0.4,BF
+11,BBR Services MM,0.5,BF
+11,BBR Services MM,0.6,BF
+11,BBR Services MM,0.7,CL
+11,BBR Services MM,0.8,CL
+11,BBR Services MM,0.9,CL
+11,BBR Services MM,1.0,CL
+11,Large Risk International TMB Info Sec,0.0,IELR
+11,Large Risk International TMB Info Sec,0.1,IELR
+11,Large Risk International TMB Info Sec,0.2,IELR
+11,Large Risk International TMB Info Sec,0.3,IELR
+11,Large Risk International TMB Info Sec,0.4,BF
+11,Large Risk International TMB Info Sec,0.5,BF
+11,Large Risk International TMB Info Sec,0.6,BF
+11,Large Risk International TMB Info Sec,0.7,CL
+11,Large Risk International TMB Info Sec,0.8,CL
+11,Large Risk International TMB Info Sec,0.9,CL
+11,Large Risk International TMB Info Sec,1.0,CL
+11,Commercial Crime,0.0,IELR
+11,Commercial Crime,0.1,IELR
+11,Commercial Crime,0.2,IELR
+11,Commercial Crime,0.3,IELR
+11,Commercial Crime,0.4,BF
+11,Commercial Crime,0.5,BF
+11,Commercial Crime,0.6,BF
+11,Commercial Crime,0.7,CL
+11,Commercial Crime,0.8,CL
+11,Commercial Crime,0.9,CL
+11,Commercial Crime,1.0,CL
+11,D&O MM,0.0,IELR
+11,D&O MM,0.1,IELR
+11,D&O MM,0.2,IELR
+11,D&O MM,0.3,IELR
+11,D&O MM,0.4,BF
+11,D&O MM,0.5,BF
+11,D&O MM,0.6,BF
+11,D&O MM,0.7,CL
+11,D&O MM,0.8,CL
+11,D&O MM,0.9,CL
+11,D&O MM,1.0,CL
+11,EPL MM,0.0,IELR
+11,EPL MM,0.1,IELR
+11,EPL MM,0.2,IELR
+11,EPL MM,0.3,IELR
+11,EPL MM,0.4,BF
+11,EPL MM,0.5,BF
+11,EPL MM,0.6,BF
+11,EPL MM,0.7,CL
+11,EPL MM,0.8,CL
+11,EPL MM,0.9,CL
+11,EPL MM,1.0,CL
+11,EPL,0.0,IELR
+11,EPL,0.1,IELR
+11,EPL,0.2,IELR
+11,EPL,0.3,IELR
+11,EPL,0.4,BF
+11,EPL,0.5,BF
+11,EPL,0.6,BF
+11,EPL,0.7,CL
+11,EPL,0.8,CL
+11,EPL,0.9,CL
+11,EPL,1.0,CL
+11,Financial Crime,0.0,IELR
+11,Financial Crime,0.1,IELR
+11,Financial Crime,0.2,IELR
+11,Financial Crime,0.3,IELR
+11,Financial Crime,0.4,BF
+11,Financial Crime,0.5,BF
+11,Financial Crime,0.6,BF
+11,Financial Crime,0.7,CL
+11,Financial Crime,0.8,CL
+11,Financial Crime,0.9,CL
+11,Financial Crime,1.0,CL
+11,TMB MM,0.0,IELR
+11,TMB MM,0.1,IELR
+11,TMB MM,0.2,IELR
+11,TMB MM,0.3,IELR
+11,TMB MM,0.4,BF
+11,TMB MM,0.5,BF
+11,TMB MM,0.6,BF
+11,TMB MM,0.7,CL
+11,TMB MM,0.8,CL
+11,TMB MM,0.9,CL
+11,TMB MM,1.0,CL
+11,TMB MM InfoSec,0.0,IELR
+11,TMB MM InfoSec,0.1,IELR
+11,TMB MM InfoSec,0.2,IELR
+11,TMB MM InfoSec,0.3,IELR
+11,TMB MM InfoSec,0.4,BF
+11,TMB MM InfoSec,0.5,BF
+11,TMB MM InfoSec,0.6,BF
+11,TMB MM InfoSec,0.7,CL
+11,TMB MM InfoSec,0.8,CL
+11,TMB MM InfoSec,0.9,CL
+11,TMB MM InfoSec,1.0,CL
+11,US Large Risk Cyber,0.0,IELR
+11,US Large Risk Cyber,0.1,IELR
+11,US Large Risk Cyber,0.2,IELR
+11,US Large Risk Cyber,0.3,IELR
+11,US Large Risk Cyber,0.4,BF
+11,US Large Risk Cyber,0.5,BF
+11,US Large Risk Cyber,0.6,BF
+11,US Large Risk Cyber,0.7,CL
+11,US Large Risk Cyber,0.8,CL
+11,US Large Risk Cyber,0.9,CL
+11,US Large Risk Cyber,1.0,CL
+11,US M&A,0.0,IELR
+11,US M&A,0.1,IELR
+11,US M&A,0.2,IELR
+11,US M&A,0.3,IELR
+11,US M&A,0.4,BF
+11,US M&A,0.5,BF
+11,US M&A,0.6,BF
+11,US M&A,0.7,CL
+11,US M&A,0.8,CL
+11,US M&A,0.9,CL
+11,US M&A,1.0,CL
+11,D&O,0.0,IELR
+11,D&O,0.1,IELR
+11,D&O,0.2,IELR
+11,D&O,0.3,IELR
+11,D&O,0.4,BF
+11,D&O,0.5,BF
+11,D&O,0.6,BF
+11,D&O,0.7,CL
+11,D&O,0.8,CL
+11,D&O,0.9,CL
+11,D&O,1.0,CL
+11,Intl M&A,0.0,IELR
+11,Intl M&A,0.1,IELR
+11,Intl M&A,0.2,IELR
+11,Intl M&A,0.3,IELR
+11,Intl M&A,0.4,BF
+11,Intl M&A,0.5,BF
+11,Intl M&A,0.6,BF
+11,Intl M&A,0.7,CL
+11,Intl M&A,0.8,CL
+11,Intl M&A,0.9,CL
+11,Intl M&A,1.0,CL
+11,Safeguard,0.0,IELR
+11,Safeguard,0.1,IELR
+11,Safeguard,0.2,IELR
+11,Safeguard,0.3,IELR
+11,Safeguard,0.4,BF
+11,Safeguard,0.5,BF
+11,Safeguard,0.6,BF
+11,Safeguard,0.7,CL
+11,Safeguard,0.8,CL
+11,Safeguard,0.9,CL
+11,Safeguard,1.0,CL
+11,Large Risk International TMB E&O,0.0,IELR
+11,Large Risk International TMB E&O,0.1,IELR
+11,Large Risk International TMB E&O,0.2,IELR
+11,Large Risk International TMB E&O,0.3,IELR
+11,Large Risk International TMB E&O,0.4,BF
+11,Large Risk International TMB E&O,0.5,BF
+11,Large Risk International TMB E&O,0.6,BF
+11,Large Risk International TMB E&O,0.7,CL
+11,Large Risk International TMB E&O,0.8,CL
+11,Large Risk International TMB E&O,0.9,CL
+11,Large Risk International TMB E&O,1.0,CL
+11,TMB Info Sec,0.0,IELR
+11,TMB Info Sec,0.1,IELR
+11,TMB Info Sec,0.2,IELR
+11,TMB Info Sec,0.3,IELR
+11,TMB Info Sec,0.4,BF
+11,TMB Info Sec,0.5,BF
+11,TMB Info Sec,0.6,BF
+11,TMB Info Sec,0.7,CL
+11,TMB Info Sec,0.8,CL
+11,TMB Info Sec,0.9,CL
+11,TMB Info Sec,1.0,CL
+11,TMB E&O,0.0,IELR
+11,TMB E&O,0.1,IELR
+11,TMB E&O,0.2,IELR
+11,TMB E&O,0.3,IELR
+11,TMB E&O,0.4,BF
+11,TMB E&O,0.5,BF
+11,TMB E&O,0.6,BF
+11,TMB E&O,0.7,CL
+11,TMB E&O,0.8,CL
+11,TMB E&O,0.9,CL
+11,TMB E&O,1.0,CL
+11,Covers International,0.0,IELR
+11,Covers International,0.1,IELR
+11,Covers International,0.2,IELR
+11,Covers International,0.3,IELR
+11,Covers International,0.4,BF
+11,Covers International,0.5,BF
+11,Covers International,0.6,BF
+11,Covers International,0.7,CL
+11,Covers International,0.8,CL
+11,Covers International,0.9,CL
+11,Covers International,1.0,CL

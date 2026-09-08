@@ -1,0 +1,193 @@
+﻿Country,IHS Country,Credit score,Rating
+Afghanistan,Afghanistan,4,CCC
+Albania,Albania,9,BB-
+Algeria,Algeria,6,B-
+Angola,Angola,6,B-
+Antigua and Barbuda,Antigua and Barbuda,10,BB
+Argentina,Argentina,1,CC
+Armenia,Armenia,9,BB-
+Aruba,Aruba,13,BBB
+Australia,Australia,21,AAA
+Austria,Austria,20,AA+
+Azerbaijan,Azerbaijan,11,BB+
+Bahamas,Bahamas,8,B+
+Bahrain,Bahrain,8,B+
+Bangladesh,Bangladesh,9,B+
+Barbados,Barbados,5,B-
+Belarus,Belarus,2,CC
+Belgium,Belgium,18,AA-
+Belize,Belize,5,CCC+
+Benin,Benin,8,B+
+Bermuda,Bermuda,17,A+
+Bhutan,Bhutan,11,BB+
+Bolivia,Bolivia,6,CCC+
+Bosnia and Herzegovina,Bosnia and Herzegovina,6,B-
+Botswana,Botswana,14,BBB+
+Brazil,Brazil,9,BB
+Brunei Darussalam,Brunei,18,AA-
+Bulgaria,Bulgaria,14,BBB+
+Burkina Faso,Burkina Faso,5,CCC+
+Burundi,Burundi,2,CC
+Cambodia,Cambodia,7,B
+Cameroon,Cameroon,6,B-
+Canada,Canada,21,AAA
+Cape Verde,Cape Verde,6,B
+Central African Republic,Central African Republic,3,CCC-
+Chad,Chad,1,C
+Chile,Chile,17,A
+China,China,17,A+
+Colombia,Colombia,13,BBB
+Comoros,Comoros,4,CCC
+Congo,"Congo, Republic of the",6,CCC+
+Congo DR,Congo Democratic Republic,5,CCC+
+Costa Rica,Costa Rica,9,BB-
+Cote d'Ivoire (Ivory Coast),Cote d'Ivoire,9,BB-
+Croatia,Croatia,15,A-
+Cuba,Cuba,3,CCC-
+Curacao,Curacao,14,BBB+
+Cyprus,Cyprus,12,BBB+
+Czech Republic,Czechia,18,AA-
+Denmark,Denmark,21,AAA
+Djibouti,Djibouti,6,B-
+Dominica,Dominica,10,BB
+Dominican Republic,Dominican Republic,9,BB-
+Ecuador,Ecuador,5,CCC+
+Egypt,Egypt,6,B-
+El Salvador,El Salvador,4,CCC+
+Equatorial Guinea,Equatorial Guinea,4,CCC
+Eritrea,Eritrea,1,C
+Estonia,Estonia,17,A+
+Ethiopia,Ethiopia,4,CCC-
+Fiji,Fiji,8,B+
+Finland,Finland,20,AA+
+France,France,20,AA
+Gabon,Gabon,5,CCC+
+Gambia,"Gambia, The",5,CCC+
+Georgia,Georgia,10,BB
+Germany,Germany,21,AAA
+Ghana,Ghana,1,CC
+Greece,Greece,10,BB+
+Grenada,Grenada,2,CC
+Guatemala,Guatemala,10,BB
+Guinea,Guinea,6,B-
+Guinea-Bissau,Guinea-Bissau,6,B-
+Guyana,Guyana,11,BB+
+Haiti,Haiti,3,CCC-
+Honduras,Honduras,8,B+
+Hong Kong,Hong Kong SAR,18,AA-
+Hungary,Hungary,13,BBB
+Iceland,Iceland,15,A
+India,India,12,BBB-
+Indonesia,Indonesia,13,BBB
+Iran,Iran,7,B
+Iraq,Iraq,6,B-
+Ireland,Ireland,18,AA-
+Israel,Israel,17,A
+Italy,Italy,13,BBB
+Jamaica,Jamaica,8,B+
+Japan,Japan,17,A+
+Jordan,Jordan,9,BB-
+Kazakhstan,Kazakhstan,13,BBB
+Kenya,Kenya,7,B-
+Kosovo,Kosovo,6,B-
+Kuwait,Kuwait,17,A+
+Kyrgyzstan,Kyrgyz Republic,6,B-
+Laos,Laos,3,CCC-
+Latvia,Latvia,15,A-
+Lebanon,Lebanon,1,C
+Lesotho,Lesotho,7,B
+Liberia,Liberia,6,B-
+Libya,Libya,7,B
+Liechtenstein,Liechtenstein,21,AAA
+Lithuania,Lithuania,16,A
+Luxembourg,Luxembourg,21,AAA
+Macau,Macao SAR,19,AA
+Macedonia,"Macedonia, North",9,BB-
+Madagascar,Madagascar,6,B-
+Malawi,Malawi,7,B
+Malaysia,Malaysia,15,A-
+Maldives,Maldives,6,CCC
+Mali,Mali,4,CCC
+Malta,Malta,17,A
+Mauritania,Mauritania,6,B-
+Mauritius,Mauritius,12,BBB-
+Mexico,Mexico,13,BBB
+Micronesia,Micronesia,8,B+
+Moldova,Moldova,6,B-
+Mongolia,Mongolia,7,B
+Montenegro,Montenegro,8,B+
+Morocco,Morocco,11,BB+
+Mozambique,Mozambique,5,CCC+
+Myanmar,Myanmar (Burma),7,B
+Namibia,Namibia,9,BB-
+Nepal,Nepal,7,B
+Netherlands,Netherlands,21,AAA
+New Caledonia,New Caledonia,0,D
+New Zealand,New Zealand,21,AAA
+Nicaragua,Nicaragua,6,B-
+Niger,Niger,5,CCC+
+Nigeria,Nigeria,6,B-
+Norway,Norway,21,AAA
+Oman,Oman,11,BB+
+Pakistan,Pakistan,4,CCC
+Panama,Panama,12,BBB-
+Papua New Guinea,Papua New Guinea,6,B-
+Paraguay,Paraguay,11,BB+
+Peru,Peru,14,BBB+
+Philippines,Philippines,14,BBB+
+Poland,Poland,15,A-
+Portugal,Portugal,15,A-
+Qatar,Qatar,19,AA
+Romania,Romania,12,BBB-
+Russia,Russia,2,CC
+Rwanda,Rwanda,8,B+
+Samoa,Samoa,9,BB-
+Sao Tome and Principe,Sao Tome and Principe,6,B-
+Saudi Arabia,Saudi Arabia,17,A+
+Senegal,Senegal,10,B+
+Serbia,Serbia,11,BB+
+Seychelles,Seychelles,9,BB-
+Sierra Leone,Sierra Leone,6,B-
+Singapore,Singapore,21,AAA
+Slovakia,Slovakia,16,A
+Slovenia,Slovenia,16,A
+Solomon Islands,Solomon Islands,5,CCC+
+Somalia,Somalia,5,CCC+
+South Africa,South Africa,9,BB-
+South Korea,South Korea,18,AA-
+South Sudan,South Sudan,2,CC
+Spain,Spain,14,BBB+
+Sri Lanka,Sri Lanka,4,CCC
+St. Kitts and Nevis,St Kitts and Nevis,11,BB+
+St. Lucia,St Lucia,11,BB+
+St. Vincent and the Grenadines,St Vincent and the Grenadines,6,B-
+Sudan,Sudan,4,CCC
+Suriname,Suriname,3,CCC-
+Swaziland,Eswatini,6,B-
+Sweden,Sweden,21,AAA
+Switzerland,Switzerland,21,AAA
+Syria,Syria,1,C
+Taiwan,Taiwan,19,AA
+Tajikistan,Tajikistan,6,B-
+Tanzania,Tanzania,8,B+
+Thailand,Thailand,14,BBB+
+Timor-Leste,East Timor,7,B
+Togo,Togo,6,B-
+Tonga,Tonga,7,B
+Trinidad and Tobago,Trinidad and Tobago,13,BBB-
+Tunisia,Tunisia,4,CCC
+Turkey,Turkey,7,B
+Turkmenistan,Turkmenistan,9,BB-
+Uganda,Uganda,7,B
+Ukraine,Ukraine,4,CC
+United Arab Emirates,United Arab Emirates,20,AA
+United Kingdom,United Kingdom,18,AA-
+United States,United States,21,AAA
+Uruguay,Uruguay,12,BBB
+Uzbekistan,Uzbekistan,9,BB-
+Vanuatu,Vanuatu,7,B
+Venezuela,Venezuela,2,CC
+Vietnam,Vietnam,10,BB
+Yemen,Yemen,4,CCC
+Zambia,Zambia,2,CC
+Zimbabwe,Zimbabwe,4,CCC

@@ -1,0 +1,363 @@
+{
+  "al_BPItoMeetPlan": {
+    "YOA": "int",
+    "Airlines Hull": "float",
+    "Airlines Liab": "float"
+  },
+  "al_BPItoMeetROC": {
+    "YOA": "int",
+    "Airlines Hull": "float",
+    "Airlines Liab": "float"
+  },
+  "al_DevFactors": {
+    "Quarter": "int",
+    "Airlines Hull": "float",
+    "Airlines Liab": "float"
+  },
+  "al_HullFreqRegion": {
+    "Region": "str",
+    "Region2": "str",
+    "Parameter": "float"
+  },
+  "al_HullFreqPrev12monthshours": {
+    "Previous 12 month hours": "str",
+    "Parameter": "float"
+  },
+  "al_BuildYearFreq": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group": "str"
+  },
+  "al_HullFreqBuildYear": {
+    "Build Year": "str",
+    "Reformatted": "int",
+    "Parameter": "float"
+  },
+  "al_HullFreqStatus": {
+    "Status": "str",
+    "Parameter": "float"
+  },
+  "al_HullFreqUsage": {
+    "Usage": "str",
+    "Parameter": "float"
+  },
+  "al_TLOFreqAdjustment": {
+    "Total Loss Only Frequency Adjustment": "float"
+  },
+  "al_OperatorClass": {
+    "Class": "str",
+    "Lower Lim": "float",
+    "Upper Lim": "float",
+    "Factor": "float",
+    "Numeric Rank": "int"
+  },
+  "al_OperatorTLOGroup": {
+    "Operator": "str",
+    "Mapped TLO Group": "str"
+  },
+  "al_HullBaseSev": {
+    "Base Hull Severity": "float"
+  },
+  "al_HullSevPrevious12monthshours": {
+    "Previous 12 months hours": "str",
+    "Parameter": "float"
+  },
+  "al_HullSevClass": {
+    "Class": "str",
+    "Parameter": "float"
+  },
+  "al_HullSevRussianBuild": {
+    "Russian Build": "str",
+    "Parameter": "float"
+  },
+  "al_HullSevOperatingMTOW": {
+    "Operating MTOW": "str",
+    "Parameter": "float"
+  },
+  "al_ILFParam": {
+    "Parameter": "str",
+    "Value": "float"
+  },
+  "al_ILFTable": {
+    "Limit": "float",
+    "ILF": "float"
+  },
+  "al_BuildYearSev": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group": "str"
+  },
+  "al_HullSevBuildYear": {
+    "Build Year": "str",
+    "Parameter": "float"
+  },
+  "al_LowValue": {
+    "Parameter": "str",
+    "Value": "float"
+  },
+  "al_FleetDiscountParameter": {
+    "Parameter": "str",
+    "Value": "float"
+  },
+  "al_AttritionalLoad": {
+    "Cover": "str",
+    "Attritional Uplift": "float"
+  },
+  "al_HullExposure": {
+    "Parameter": "str",
+    "Value": "float"
+  },
+  "al_LiabBaseFreq": {
+    "Base Liab Frequency": "float"
+  },
+  "al_LiabFreqBuildYearNumeric": {
+    "Usage": "str",
+    "Parameter": "float"
+  },
+  "al_LiabFreqStatus": {
+    "Status": "str",
+    "Parameter": "float"
+  },
+  "al_LiabFreqRegion": {
+    "Region": "str",
+    "Region2": "str",
+    "Parameter": "float"
+  },
+  "al_LiabFreqPrev12monthshours": {
+    "Previous 12 month hours": "str",
+    "Parameter": "float"
+  },
+  "al_LiabFreqClass": {
+    "Class": "str",
+    "Parameter": "float"
+  },
+  "al_LiabSeverity": {
+    "Country": "str",
+    "Region Mapped": "str",
+    "Major Loss Airline Pax Liab Severity per Seat": "float"
+  },
+  "al_LiabFreqUsage": {
+    "Usage": "str",
+    "Parameter": "int"
+  },
+  "al_TPLLimitsRates": {
+    "CSL": "int",
+    "Price $": "int",
+    "Rate": "float"
+  },
+  "al_TPLMisc": {
+    "Factor": "str",
+    "Value": "float"
+  },
+  "al_TPLFleetSizeDiscount": {
+    "Fleet Size": "str",
+    "Mid-point": "float",
+    "Parameter": "float"
+  },
+  "al_HullBaseFreq": {
+    "Base Hull Frequency": "float"
+  },
+  "al_HullFreqClass": {
+    "Class": "str",
+    "Parameter": "float"
+  },
+  "al_PLLAdditionalTPCover": {
+    "Parameter": "float"
+  },
+  "al_PLLAwards": {
+    "Country": "str",
+    "PLL Awards": "float"
+  },
+  "al_StatusMapping": {
+    "Cirium Field Name": "str",
+    "Airlines Rater Mapped Name": "str"
+  },
+  "al_UsageMapping": {
+    "AircraftUsage": "str",
+    "AircraftUsageMapped": "str"
+  },
+  "ga_DevFactors": {
+    "Quarter": "int",
+    "Aviation Hull": "float",
+    "Aviation Liab": "float"
+  },
+  "ClaimsInflation": {
+    "Cover": "str",
+    "Inflation": "float"
+  },
+  "HistoricPortfolioRC": {
+    "YOA": "int",
+    "Airlines Hull Rate Change": "float",
+    "Airlines Liab Rate Change": "float",
+    "GA Hull Rate Change": "float",
+    "GA Liab Rate Change": "float"
+  },
+  "OperatorCountryList": {
+    "Region": "str",
+    "Region 2": "str",
+    "Country": "str",
+    "Region GA": "str",
+    "Region Airlines": "str",
+    "Region GA Frequency": "str"
+  },
+  "RussianManufacturer": {
+    "Russian Manufacturer": "str"
+  },
+  "CiriumClassMapping": {
+    "Cirium Aircraft Class": "str",
+    "Mapped Rater Class": "str",
+    "Class Split by Number of Engines": "str"
+  },
+  "ga_MappedUsageType": {
+    "Cirium Primary Usage": "str",
+    "GA Mapped Primary Usage": "str"
+  },
+  "ga_Region": {
+    "Region Detailed": "str",
+    "Region": "str"
+  },
+  "ga_SeatOccupancy": {
+    "Class": "str",
+    "Base Rate": "float"
+  },
+  "ga_SeatOccupancyCountry": {
+    "Country": "str",
+    "Factor": "float"
+  },
+  "ga_SeatNumberAdjustment": {
+    "Number of Seats": "int",
+    "Factor": "float"
+  },
+  "ga_BaseUse": {
+    "Country": "str",
+    "BusinessJet1": "str",
+    "BusinessJet2": "str",
+    "PistonHeli1": "str",
+    "PistonHeli2": "str",
+    "PistonFixed1": "str",
+    "PistonFixed2": "str",
+    "TurbineHeli1": "str",
+    "TurbineHeli2": "str",
+    "Turboprops1": "str",
+    "Turboprops2": "str"
+  },
+  "ga_AirplaneUse": {
+    "AirplaneUse": "str",
+    "Seat Occupancy": "float",
+    "Fatality %": "float"
+  },
+  "ga_Base": {
+    "Class": "str",
+    "Factor": "float"
+  },
+  "ga_FatalityRateAB": {
+    "Paramater A": "float",
+    "Paramater B": "float"
+  },
+  "ga_BaseOccupancy": {
+    "Country": "str",
+    "BusinessJet1": "float",
+    "BusinessJet2": "float",
+    "PistonHeli1": "float",
+    "PistonHeli2": "float",
+    "PistonFixed1": "float",
+    "PistonFixed2": "float",
+    "TurbineHeli1": "float",
+    "TurbineHeli2": "float",
+    "Turboprops1": "float",
+    "Turboprops2": "float"
+  },
+  "ga_TotalFreqBase": {
+    "Total Loss EL Rates": "str",
+    "Paramater": "float"
+  },
+  "ga_ForLinear": {
+    "Class": "str",
+    "Value Band": "float",
+    "Adjuster": "float"
+  },
+  "ga_StatusMod": {
+    "Status": "str",
+    "Class": "float"
+  },
+  "ga_UseMod": {
+    "Use": "str",
+    "Adjuster": "float"
+  },
+  "ga_RegionMod": {
+    "Country": "str",
+    "Adjuster": "float"
+  },
+  "ga_BuildLocationMod": {
+    "Build Location": "str",
+    "Paramater": "float"
+  },
+  "ga_FleetSizeMod": {
+    "Fleet Size": "int",
+    "Factor": "float"
+  },
+  "ga_PartialConversionFactor": {
+    "Type": "str",
+    "Factor": "float"
+  },
+  "ga_PartialBaseSeverity": {
+    "Base Severity": "float"
+  },
+  "ga_PartialBuildYearMod": {
+    "Year": "int",
+    "Factor": "float"
+  },
+  "ga_PartialEngineMod": {
+    "Engine": "str",
+    "Factor": "float"
+  },
+  "ga_HullAttr": {
+    "Paramater": "float"
+  },
+  "ga_LiabFreqAdj": {
+    "Country": "str",
+    "BusinessJet1": "float",
+    "BusinessJet2": "float",
+    "PistonHeli1": "float",
+    "PistonHeli2": "float",
+    "PistonFixed1": "float",
+    "PistonFixed2": "float",
+    "TurbineHeli1": "float",
+    "TurbineHeli2": "float",
+    "Turboprops1": "float",
+    "Turboprops2": "float"
+  },
+  "ga_PAXAward": {
+    "Country": "str",
+    "Passenger Awards (USD)": "float"
+  },
+  "ga_PAXNetWorth": {
+    "Net Worth": "str",
+    "Adjutments": "float"
+  },
+  "ga_LiabAttr": {
+    "Paramater": "float"
+  },
+  "ga_TPL": {
+    "CSL": "float",
+    "Net Price": "float",
+    "Net RoL": "float"
+  },
+  "ga_TPLUnexposedRate": {
+    "TPL Unexposed Rate": "float"
+  },
+  "ga_RateIncrease": {
+    "Year": "int",
+    "Hull": "float",
+    "Liability": "float"
+  },
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "Claims_Inflation_YOA": {
+    "YOA": "int",
+    "Hull": "float",
+    "Liab": "float"
+  }
+}

@@ -1,0 +1,4 @@
+conveyance,conveyance_,factor
+AIR,Air,0.7
+LAND,Land,0.8
+SEA,Sea,1.0

@@ -1,0 +1,201 @@
+﻿Name,Mode,CDS level,Coverage,Relative path,Rater Defined?,Type,Default,Label hx
+insured_name,Input,cds/standard_fields,,/insured_name,N,str,,
+facility_reference,Input,cds/standard_fields,,/facility_reference,N,str,,
+code,Input,cds/currencies,,/rates/code,N,str,,
+deductions,Input,cds,,/policy_info/deductions,Y,float,,Deductions
+term,Input,cds,,/policy_info/term,Y,float,,Term (Years)
+beazley_share,Input,cds,,/policy_info/beazley_share,Y,float,,Beazley Share (%)
+transit_flag,Input,cds/layers/coverages,cargo_transit,/cargo_transit/transit_flag,Y,bool,FALSE,Transit
+wh_to_port_flag,Input,cds/layers/coverages,cargo_transit,/cargo_transit/wh_to_port_flag,Y,bool,FALSE,Initial Warehouse to Port
+loading_flag,Input,cds/layers/coverages,cargo_transit,/cargo_transit/loading_flag,Y,bool,FALSE,Loading
+voyage_flag,Input,cds/layers/coverages,cargo_transit,/cargo_transit/voyage_flag,Y,bool,FALSE,Voyage
+unloading_flag,Input,cds/layers/coverages,cargo_transit,/cargo_transit/unloading_flag,Y,bool,FALSE,Unloading
+port_to_wh_flag,Input,cds/layers/coverages,cargo_transit,/cargo_transit/port_to_wh_flag,Y,bool,FALSE,Port to Final Warehouse
+base_rate,Output,cds/layers/coverages,cargo_transit,/cargo_transit/base_rate,Y,float,,Base Rate
+commodity,Input,cds/layers/coverages,cargo_transit,/cargo_transit/commodity,Y,str,,Commodity
+commodity_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/commodity_factor,Y,float,,Factor
+trans_vals,Input,cds/layers/coverages,cargo_transit,/cargo_transit/trans_vals,Y,float,,Est Ann Transit Vals
+trans_vals_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/trans_vals_factor,Y,float,, 
+deductible_level,Input,cds/layers/coverages,cargo_transit,/cargo_transit/deductible_level,Y,str,,Deductible Level
+deductible_factor,Override,cds/layers/coverages,cargo_transit,/cargo_transit/deductible_factor,Y,float,, 
+excess,Input,cds/layers/coverages,cargo_transit,/cargo_transit/excess,N,float,,Excess
+excess_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/excess_factor,Y,float,, 
+packaging,Input,cds/layers/coverages,cargo_transit,/cargo_transit/packaging,Y,str,,Packaging
+packaging_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/packaging_factor,Y,float,, 
+conv_air,Input,cds/layers/coverages,cargo_transit,/cargo_transit/conv_air,Y,str,Air,Conveyance
+conv_land,Input,cds/layers/coverages,cargo_transit,/cargo_transit/conv_land,Y,str,Land, 
+conv_sea,Input,cds/layers/coverages,cargo_transit,/cargo_transit/conv_sea,Y,str,Sea, 
+conv_air_factor,Input,cds/layers/coverages,cargo_transit,/cargo_transit/conv_air_factor,Y,float,, 
+conv_land_factor,Input,cds/layers/coverages,cargo_transit,/cargo_transit/conv_land_factor,Y,float,, 
+conv_sea_factor,Input,cds/layers/coverages,cargo_transit,/cargo_transit/conv_sea_factor,Y,float,, 
+conv_check,Output,cds/layers/coverages,cargo_transit,/cargo_transit/conv_check,Y,float,,Check
+voyage,Input,cds/layers/coverages,cargo_transit,/cargo_transit/voyage,Y,str,,Voyage
+voyage_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/voyage_factor,Y,float,, 
+surveyor,Input,cds/layers/coverages,cargo_transit,/cargo_transit/surveyor,Y,str,,Surveyor Present
+surveyor_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/surveyor_factor,Y,float,, 
+vessel,Input,cds/layers/coverages,cargo_transit,/cargo_transit/vessel,Y,str,,Vessel
+vessel_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/vessel_factor,Y,float,, 
+uw_discretion,Input,cds/layers/coverages,cargo_transit,/cargo_transit/uw_discretion,Y,str,,UW Discretion
+uw_discretion_weight,Input,cds/layers/coverages,cargo_transit,/cargo_transit/uw_discretion_weight,Y,float,1, 
+type_of_cover,Input,cds/layers/coverages,cargo_transit,/cargo_transit/type_of_cover,Y,str,,Type of Cover
+type_of_cover_factor,Output,cds/layers/coverages,cargo_transit,/cargo_transit/type_of_cover_factor,Y,float,, 
+technical_deductions,Output,cds/layers/coverages,cargo_transit,/cargo_transit/technical_deductions,Y,float,,Technical Annual Transit Rate Base Deductions
+technical_rate,Output,cds/layers/coverages,cargo_transit,/cargo_transit/technical_rate,Y,float,,Technical Annual Transit Rate
+technical_premium,Output,cds/layers/coverages,cargo_transit,/cargo_transit/technical_premium,N,float,,Technical Transit Premium (Term)
+actual_rate,Input,cds/layers/coverages,cargo_transit,/cargo_transit/actual_rate,Y,float,,Actual Transit Rate (Annual)
+quoted_premium,Input,cds/layers/coverages,cargo_transit,/cargo_transit/quoted_premium,N,float,,Actual Transit Premium (Term)
+pct_of_technical,Output,cds/layers/coverages,cargo_transit,/cargo_transit/pct_of_technical,Y,float,,Percentage of Technical
+storage_flag,Input,cds/layers/coverages,cargo_storage,/cargo_storage/storage_flag,Y,bool,FALSE,Storage
+base_rate,Output,cds/layers/coverages,cargo_storage,/cargo_storage/base_rate,Y,float,,Base Rate
+stock_vals,Input,cds/layers/coverages,cargo_storage,/cargo_storage/stock_vals,Y,float,,Expo'd Stock Vals
+deductible_level,Input,cds/layers/coverages,cargo_storage,/cargo_storage/deductible_level,Y,str,,Deductible Level
+deductible_factor,Override,cds/layers/coverages,cargo_storage,/cargo_storage/deductible_factor,Y,float,,Factor
+excess,Input,cds/layers/coverages,cargo_storage,/cargo_storage/excess,N,float,,Excess
+excess_factor,Override,cds/layers/coverages,cargo_storage,/cargo_storage/excess_factor,Y,float,, 
+survey,Input,cds/layers/coverages,cargo_storage,/cargo_storage/survey,Y,bool,FALSE,Satis. Survey Report
+survey_factor,Output,cds/layers/coverages,cargo_storage,/cargo_storage/survey_factor,Y,float,, 
+risk_mgmt,Input,cds/layers/coverages,cargo_storage,/cargo_storage/risk_mgmt,Y,str,,Risk Management
+risk_mgmt_weight,Input,cds/layers/coverages,cargo_storage,/cargo_storage/risk_mgmt_weight,Y,float,1, 
+type_of_cover,Input,cds/layers/coverages,cargo_storage,/cargo_storage/type_of_cover,Y,str,,Type of Cover
+type_of_cover_factor,Output,cds/layers/coverages,cargo_storage,/cargo_storage/type_of_cover_factor,Y,float,, 
+uw_discretion,Input,cds/layers/coverages,cargo_storage,/cargo_storage/uw_discretion,Y,str,,UW Discretion
+uw_discretion_weight,Input,cds/layers/coverages,cargo_storage,/cargo_storage/uw_discretion_weight,Y,float,1, 
+rate,Output,cds/layers/coverages,cargo_storage,/cargo_storage/rate,Y,float,,Storage Rate
+avg_val_pcm,Input,cds/layers/coverages,cargo_storage,/cargo_storage/avg_val_pcm,Y,float,,Avg Val Expo'd PCM
+cat_expo,Input,cds/layers/coverages,cargo_storage,/cargo_storage/cat_expo,Y,float,,Cat Expo
+cat_pct_of_total,Output,cds/layers/coverages,cargo_storage,/cargo_storage/cat_pct_of_total,Y,float,,% of Total
+combined_cat_load,Output,cds/layers/coverages,cargo_storage,/cargo_storage/combined_cat_load,Y,float,,Combined Cat Load
+cat_expo_tp,Override,cds/layers/coverages,cargo_storage,/cargo_storage/cat_expo_tp,Y,float,,Technical Premium
+country,Input,cds/layers/coverages,cargo_storage,/cargo_storage/country,Y,str,,Country
+country_cat_expo,Input,cds/layers/coverages,cargo_storage,/cargo_storage/country_cat_expo,Y,float,,Cat Exposure Amount
+country_cat_load,Output,cds/layers/coverages,cargo_storage,/cargo_storage/country_cat_load,Y,float,,Load Applied
+retail_expo,Input,cds/layers/coverages,cargo_storage,/cargo_storage/retail_expo,Y,float,,Retail Expo
+retail_pct_of_total,Output,cds/layers/coverages,cargo_storage,/cargo_storage/retail_pct_of_total,Y,float,,% of Total
+retail_load,Input,cds/layers/coverages,cargo_storage,/cargo_storage/retail_load,Y,float,1.5,Retail Load
+retail_expo_tp,Output,cds/layers/coverages,cargo_storage,/cargo_storage/retail_expo_tp,Y,float,,Technical Premium
+all_else_expo,Override,cds/layers/coverages,cargo_storage,/cargo_storage/all_else_expo,Y,float,,Everything Else
+all_else_pct_of_total,Output,cds/layers/coverages,cargo_storage,/cargo_storage/all_else_pct_of_total,Y,float,,% of Total
+all_else_load,Input,cds/layers/coverages,cargo_storage,/cargo_storage/all_else_load,Y,float,1,Everything Else Load
+all_else_expo_tp,Output,cds/layers/coverages,cargo_storage,/cargo_storage/all_else_expo_tp,Y,float,,Technical Premium
+technical_deductions,Output,cds/layers/coverages,cargo_storage,/cargo_storage/technical_deductions,Y,float,,Technical Annual Storage Rate Base Deductions
+technical_rate,Output,cds/layers/coverages,cargo_storage,/cargo_storage/technical_rate,Y,float,,Technical Annual Storage Rate
+technical_premium,Output,cds/layers/coverages,cargo_storage,/cargo_storage/technical_premium,N,float,,Technical Storage Premium (Term)
+actual_rate,Input,cds/layers/coverages,cargo_storage,/cargo_storage/actual_rate,Y,float,,Actual Storage Rate (Annual)
+quoted_premium,Input,cds/layers/coverages,cargo_storage,/cargo_storage/quoted_premium,N,float,,Actual Storage Premium (Term)
+pct_of_technical,Output,cds/layers/coverages,cargo_storage,/cargo_storage/pct_of_technical,Y,float,,Percentage of Technical
+transit_flag,Input,cds/layers/coverages,specie_transit,/specie_transit/transit_flag,Y,bool,FALSE,Transit
+base_rate,Output,cds/layers/coverages,specie_transit,/specie_transit/base_rate,Y,str,,Base Rate
+commodity,Input,cds/layers/coverages,specie_transit,/specie_transit/commodity,Y,str,,Commodity
+commodity_factor,Output,cds/layers/coverages,specie_transit,/specie_transit/commodity_factor,Y,float,,Factor
+trans_vals,Input,cds/layers/coverages,specie_transit,/specie_transit/trans_vals,Y,float,,Expo'd Stock Vals
+trans_vals_factor,Output,cds/layers/coverages,specie_transit,/specie_transit/trans_vals_factor,Y,float,, 
+deductible_level,Input,cds/layers/coverages,specie_transit,/specie_transit/deductible_level,Y,str,,Deductible Level
+deductible_factor,Override,cds/layers/coverages,specie_transit,/specie_transit/deductible_factor,Y,float,, 
+excess,Input,cds/layers/coverages,specie_transit,/specie_transit/excess,N,float,,Excess
+excess_factor,Output,cds/layers/coverages,specie_transit,/specie_transit/excess_factor,Y,float,, 
+type_of_cover,Input,cds/layers/coverages,specie_transit,/specie_transit/type_of_cover,Y,str,,Type of Cover
+type_of_cover_factor,Output,cds/layers/coverages,specie_transit,/specie_transit/type_of_cover_factor,Y,float,, 
+uw_discretion,Input,cds/layers/coverages,specie_transit,/specie_transit/uw_discretion,Y,str,,UW Discretion
+uw_discretion_weight,Input,cds/layers/coverages,specie_transit,/specie_transit/uw_discretion_weight,Y,float,1, 
+technical_deductions,Output,cds/layers/coverages,specie_transit,/specie_transit/technical_deductions,Y,float,,Technical Annual Transit Rate Base Deductions
+technical_rate,Output,cds/layers/coverages,specie_transit,/specie_transit/technical_rate,Y,float,,Technical Annual Transit Rate
+technical_premium,Output,cds/layers/coverages,specie_transit,/specie_transit/technical_premium,N,float,,Technical Transit Premium (Term)
+actual_rate,Input,cds/layers/coverages,specie_transit,/specie_transit/actual_rate,Y,float,,Actual Transit Rate (Annual)
+actual_premium,Input,cds/layers/coverages,specie_transit,/specie_transit/actual_premium,Y,float,,Actual Transit Premium (Term)
+pct_of_technical,Output,cds/layers/coverages,specie_transit,/specie_transit/pct_of_technical,Y,float,,Percentage of Technical
+storage_flag,Input,cds/layers/coverages,specie_storage,/specie_storage/storage_flag,Y,bool,FALSE,Storage
+base_rate,Output,cds/layers/coverages,specie_storage,/specie_storage/base_rate,Y,float,,Base Rate
+commodity,Input,cds/layers/coverages,specie_storage,/specie_storage/commodity,Y,str,,Commodity
+commodity_factor,Output,cds/layers/coverages,specie_storage,/specie_storage/commodity_factor,Y,float,, 
+stock_vals,Input,cds/layers/coverages,specie_storage,/specie_storage/stock_vals,Y,float,,Expo'D Stock Vals
+stock_vals_factor,Output,cds/layers/coverages,specie_storage,/specie_storage/stock_vals_factor,Y,float,, 
+deductible_level,Input,cds/layers/coverages,specie_storage,/specie_storage/deductible_level,Y,str,,Deductible Level
+deductible_factor,Override,cds/layers/coverages,specie_storage,/specie_storage/deductible_factor,Y,float,, 
+excess,Input,cds/layers/coverages,specie_storage,/specie_storage/excess,N,float,,Excess
+excess_factor,Override,cds/layers/coverages,specie_storage,/specie_storage/excess_factor,Y,float,, 
+survey,Input,cds/layers/coverages,specie_storage,/specie_storage/survey,Y,bool,FALSE,Satis. Survey Report
+survey_factor,Output,cds/layers/coverages,specie_storage,/specie_storage/survey_factor,Y,float,, 
+risk_mgmt,Input,cds/layers/coverages,specie_storage,/specie_storage/risk_mgmt,Y,str,,Risk Management
+risk_mgmt_weight,Input,cds/layers/coverages,specie_storage,/specie_storage/risk_mgmt_weight,Y,float,1, 
+type_of_cover,Input,cds/layers/coverages,specie_storage,/specie_storage/type_of_cover,Y,str,,Type of Cover
+type_of_cover_factor,Output,cds/layers/coverages,specie_storage,/specie_storage/type_of_cover_factor,Y,float,, 
+uw_discretion,Input,cds/layers/coverages,specie_storage,/specie_storage/uw_discretion,Y,str,,UW Discretion
+uw_discretion_weight,Input,cds/layers/coverages,specie_storage,/specie_storage/uw_discretion_weight,Y,float,1, 
+rate,Output,cds/layers/coverages,specie_storage,/specie_storage/rate,Y,float,,Storage Rate
+avg_val_pcm,Input,cds/layers/coverages,specie_storage,/specie_storage/avg_val_pcm,Y,float,,Avg Val Expo'd PCM
+cat_expo,Input,cds/layers/coverages,specie_storage,/specie_storage/cat_expo,Y,float,,Cat Expo
+cat_pct_of_total,Output,cds/layers/coverages,specie_storage,/specie_storage/cat_pct_of_total,Y,float,,% of Total
+combined_cat_load,Output,cds/layers/coverages,specie_storage,/specie_storage/combined_cat_load,Y,float,,Combined Cat Load
+cat_expo_tp,Override,cds/layers/coverages,specie_storage,/specie_storage/cat_expo_tp,Y,float,,Technical Premium
+country,Input,cds/layers/coverages,specie_storage,/specie_storage/country,Y,str,,Country
+country_cat_expo,Input,cds/layers/coverages,specie_storage,/specie_storage/country_cat_expo,Y,float,,Cat Exposure Amount
+country_cat_load,Output,cds/layers/coverages,specie_storage,/specie_storage/country_cat_load,Y,float,,Load Applied
+non_cat_expo,Input,cds/layers/coverages,specie_storage,/specie_storage/non_cat_expo,Y,float,,Non-CAT Expo
+non_cat_pct_of_total,Output,cds/layers/coverages,specie_storage,/specie_storage/non_cat_pct_of_total,Y,float,,% of Total
+non_cat_load,Output,cds/layers/coverages,specie_storage,/specie_storage/non_cat_load,Y,float,1,Non-CAT Load
+non_cat_expo_tp,Output,cds/layers/coverages,specie_storage,/specie_storage/non_cat_expo_tp,Y,float,,Technical Premium
+technical_deductions,Output,cds/layers/coverages,specie_storage,/specie_storage/technical_deductions,Y,float,,Technical Annual Storage Rate Base Deductions
+technical_rate,Output,cds/layers/coverages,specie_storage,/specie_storage/technical_rate,Y,float,,Technical Annual Storage Rate
+technical_premium,Output,cds/layers/coverages,specie_storage,/specie_storage/technical_premium,N,float,,Technical Storage Premium (Term)
+actual_rate,Input,cds/layers/coverages,specie_storage,/specie_storage/actual_rate,Y,float,,Actual Storage Rate (Annual)
+quoted_premium,Input,cds/layers/coverages,specie_storage,/specie_storage/quoted_premium,N,float,,Actual Storage Premium (Term)
+pct_of_technical,Output,cds/layers/coverages,specie_storage,/specie_storage/pct_of_technical,Y,float,,Percentage of Technical
+transit_flag,Input,cds/layers/coverages,conloss_transit,/conloss_transit/transit_flag,Y,bool,FALSE,Transit
+base_rate,Output,cds/layers/coverages,conloss_transit,/conloss_transit/base_rate,Y,float,,Base Rate
+trans_vals,Input,cds/layers/coverages,conloss_transit,/conloss_transit/trans_vals,Y,float,,Est Ann Transit Vals
+trans_vals_factor,Output,cds/layers/coverages,conloss_transit,/conloss_transit/trans_vals_factor,Y,float,,Factor
+deductible_level,Input,cds/layers/coverages,conloss_transit,/conloss_transit/deductible_level,Y,str,,Deductible
+deductible_factor,Override,cds/layers/coverages,conloss_transit,/conloss_transit/deductible_factor,Y,float,, 
+packaging_1,Input,cds/layers/coverages,conloss_transit,/conloss_transit/packaging_1,Y,str,,Packaging
+packaging_2,Input,cds/layers/coverages,conloss_transit,/conloss_transit/packaging_2,Y,str,, 
+packaging_1_factor,Input,cds/layers/coverages,conloss_transit,/conloss_transit/packaging_1_factor,Y,float,, 
+packaging_2_factor,Input,cds/layers/coverages,conloss_transit,/conloss_transit/packaging_2_factor,Y,float,, 
+packaging_check,Output,cds/layers/coverages,conloss_transit,/conloss_transit/packaging_check,Y,float,,Check
+conv_air,Input,cds/layers/coverages,conloss_transit,/conloss_transit/conv_air,Y,str,Air,Conveyance
+conv_land,Input,cds/layers/coverages,conloss_transit,/conloss_transit/conv_land,Y,str,Land, 
+conv_sea,Input,cds/layers/coverages,conloss_transit,/conloss_transit/conv_sea,Y,str,Sea, 
+conv_air_factor,Input,cds/layers/coverages,conloss_transit,/conloss_transit/conv_air_factor,Y,float,, 
+conv_land_factor,Input,cds/layers/coverages,conloss_transit,/conloss_transit/conv_land_factor,Y,float,, 
+conv_sea_factor,Input,cds/layers/coverages,conloss_transit,/conloss_transit/conv_sea_factor,Y,float,, 
+conv_check,Output,cds/layers/coverages,conloss_transit,/conloss_transit/conv_check,Y,float,,Check
+voyage,Input,cds/layers/coverages,conloss_transit,/conloss_transit/voyage,Y,str,,Voyage
+voyage_factor,Output,cds/layers/coverages,conloss_transit,/conloss_transit/voyage_factor,Y,float,, 
+surveyor,Input,cds/layers/coverages,conloss_transit,/conloss_transit/surveyor,Y,str,,Surveyor Present
+surveyor_factor,Output,cds/layers/coverages,conloss_transit,/conloss_transit/surveyor_factor,Y,float,, 
+vessel,Input,cds/layers/coverages,conloss_transit,/conloss_transit/vessel,Y,str,,Vessel
+vessel_factor,Output,cds/layers/coverages,conloss_transit,/conloss_transit/vessel_factor,Y,float,, 
+uw_discretion,Input,cds/layers/coverages,conloss_transit,/conloss_transit/uw_discretion,Y,str,,UW Discretion
+uw_discretion_weight,Input,cds/layers/coverages,conloss_transit,/conloss_transit/uw_discretion_weight,Y,float,1, 
+type_of_cover,Input,cds/layers/coverages,conloss_transit,/conloss_transit/type_of_cover,Y,str,,Type Of Cover
+type_of_cover_factor,Output,cds/layers/coverages,conloss_transit,/conloss_transit/type_of_cover_factor,Y,float,, 
+technical_deductions,Output,cds/layers/coverages,conloss_transit,/conloss_transit/technical_deductions,Y,float,,Technical Annual Transit Rate Base Deductions
+technical_rate,Output,cds/layers/coverages,conloss_transit,/conloss_transit/technical_rate,Y,float,,Technical Annual Transit Rate
+technical_premium,Output,cds/layers/coverages,conloss_transit,/conloss_transit/technical_premium,N,float,,Technical Transit Premium
+actual_rate,Input,cds/layers/coverages,conloss_transit,/conloss_transit/actual_rate,Y,float,,Actual Transit Rate
+actual_premium,Input,cds/layers/coverages,conloss_transit,/conloss_transit/actual_premium,Y,float,,Actual Transit Premium
+pct_of_technical,Output,cds/layers/coverages,conloss_transit,/conloss_transit/pct_of_technical,Y,float,,Percentage of Technical
+conloss_flag,Input,cds/layers/coverages,conloss,/conloss/conloss_flag,Y,bool,FALSE,Con Loss
+base_rate,Output,cds/layers/coverages,conloss,/conloss/base_rate,Y,str,,Base Rate
+limit,Input,cds/layers/coverages,conloss,/conloss/limit,N,float,,Indemnity Limit
+limit_factor,Output,cds/layers/coverages,conloss,/conloss/limit_factor,Y,float,, 
+exposure,Input,cds/layers/coverages,conloss,/conloss/exposure,Y,str,,Exposure
+exposure_factor,Output,cds/layers/coverages,conloss,/conloss/exposure_factor,Y,float,, 
+indemnity_period,Input,cds/layers/coverages,conloss,/conloss/indemnity_period,Y,str,,Indemnity Period
+deductible_level,Input,cds/layers/coverages,conloss,/conloss/deductible_level,Y,str,,Deductible
+deductible_factor,Output,cds/layers/coverages,conloss,/conloss/deductible_factor,Y,float,, 
+uw_discretion,Input,cds/layers/coverages,conloss,/conloss/uw_discretion,Y,str,,UW Discretion
+uw_discretion_weight,Input,cds/layers/coverages,conloss,/conloss/uw_discretion_weight,Y,float,1, 
+technical_deductions,Output,cds/layers/coverages,conloss,/conloss/technical_deductions,Y,float,,Technical Con Loss Rate Base Deductions
+technical_rate,Output,cds/layers/coverages,conloss,/conloss/technical_rate,Y,float,,Technical Con Loss Rate
+technical_premium,Output,cds/layers/coverages,conloss,/conloss/technical_premium,N,float,,Technical Con Loss Premium
+actual_rate,Input,cds/layers/coverages,conloss,/conloss/actual_rate,Y,float,,Actual Storage Rate
+quoted_premium,Input,cds/layers/coverages,conloss,/conloss/quoted_premium,N,float,,Actual Storage Premium
+pct_of_technical,Output,cds/layers/coverages,conloss,/conloss/pct_of_technical,Y,float,,Percentage Of Technical
+quoted_premium,Input,cds/layers,,/quoted_premium,N,float,,Gross Quoted Premium
+uw_rationale,Input,cds/standard_fields,,/uw_rationale,N,str,,Underwriter Rationale
+benchmark_premium,Output,cds/layers,,/benchmark_premium,N,float,,Gross Benchmark Premium
+bpi,Output,cds/layers,,/bpi,N,float,,BPI
+technical_premium,Output,cds/layers,,/technical_premium,N,float,,Gross Technical Premium
+tpi,Output,cds/layers,,/tpi,N,float,,TPI
+technical_premium_pre_uw_adj,Output,cds/layers,,/technical_premium_pre_uw_adj,N,float,,Gross Technical Premium (Pre-UW Adjustment)
+tpi_pre_uw_adj,Output,cds/layers,,/tpi_pre_uw_adj,N,float,,TPI (Pre-UW Adjustment)

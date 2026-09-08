@@ -1,0 +1,24 @@
+commodity,commodity_,factor
+ARMS & AMMO,Arms & Ammo,1.0
+COTTON,Cotton,1.15
+GRAIN,Grain,1.15
+METALS,Metals,1.0
+ORE,Ore,1.0
+OIL,Oil,1.0
+ELECTRICAL EQUIPT,Electrical Equipt,2.0
+OTHER COMMODITY,Other Commodity,1.0
+SEAFOOD,Seafood,1.5
+SUGAR,Sugar,1.5
+LOGGING & TIMBER,Logging & Timber,1.15
+CON LOSS,Con Loss,0.0
+MEAT,Meat,1.5
+WINE,Wine,1.5
+CLOTHING & TEXTILES,Clothing & Textiles,2.0
+TOBACCO,Tobacco,1.5
+PHARMACEUTICALS,Pharmaceuticals,1.25
+MOTORSPORT,Motorsport,1.25
+VEHICLES,Vehicles,2.0
+GENL FOODSTUFFS,Genl Foodstuffs,1.5
+MACHY & EQUIPT,Machy & Equipt,1.0
+CARRIERS LIAB,Carriers Liab,1.0
+W'HOUSEMANS LEGAL LIAB,W'Housemans Legal Liab,1.0

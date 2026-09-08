@@ -1,0 +1,4 @@
+economic_band,lower_band,upper_band
+"Fair Economic Environment",0.1,2.4
+"Slowing Economic Environment",2.4,4.4
+"Recessionary Economic Environment",4.4,10

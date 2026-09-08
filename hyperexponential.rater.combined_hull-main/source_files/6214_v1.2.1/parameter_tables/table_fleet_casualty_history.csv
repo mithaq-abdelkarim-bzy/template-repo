@@ -1,0 +1,6 @@
+fleet_casualty_history,lower_bound,upper_bound,default
+Poor,1.1,2,1.25
+Below Average,0,0,1.1
+Average,0.95,1.1,1
+Good,0,0,0.95
+Superior,0.8,0.95,0.9

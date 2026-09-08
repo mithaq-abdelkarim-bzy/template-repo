@@ -1,0 +1,43 @@
+﻿Row Labels,ATC_Code,-0.25,0,0.25,1,Grand Total,Mean,Mode
+Agriculture,20,1,10,14,3,28,0.22,0.25
+Air,28,3,0,0,0,3,-0.25,-0.25
+Casinos,48,0,1,0,0,1,0,0
+Chemicals Processing,15,0,0,15,0,15,0.25,0.25
+Communication (Radio and TV),35,1,0,0,0,1,-0.25,-0.25
+Construction,18,1,0,0,0,1,-0.25,-0.25
+Education,25,5,0,0,0,5,-0.25,-0.25
+Electrical,30,7,2,0,0,9,-0.19,-0.25
+Entertainment and Recreation,10,3,9,0,0,12,-0.06,0
+Food and Drugs Processing,14,1,14,1,1,17,0.06,0
+Gasoline Service Stations ,44,3,0,0,0,3,-0.25,-0.25
+General Commercial,37,3,2,1,0,6,-0.08,-0.25
+General Industrial,38,1,0,0,0,1,-0.25,-0.25
+General Services,23,5,0,0,0,5,-0.25,-0.25
+Group Institutional Housing,4,4,0,0,0,4,-0.25,-0.25
+Health Care Service,9,5,2,1,0,8,-0.13,-0.25
+Heavy Fabrication and Assembly,12,8,9,25,6,48,0.21,0.25
+High Technology,17,1,0,0,0,1,-0.25,-0.25
+Highway,26,5,0,0,0,5,-0.25,-0.25
+Light Fabrication and Assembly,13,3,5,9,2,19,0.18,0.25
+Metal and Minerals Processing,16,0,0,2,1,3,0.5,0.25
+Mining,21,0,2,15,0,17,0.22,0.25
+Multi Family Units,2,2,0,0,0,2,-0.25,-0.25
+Natural Gas,33,4,0,0,0,4,-0.25,-0.25
+Parking,11,4,0,0,0,4,-0.25,-0.25
+Permanent Dwelling (multi family housing),2,1,0,0,0,1,-0.25,-0.25
+Permanent Dwelling (single family housing),1,3,1,0,0,4,-0.19,-0.25
+Personal and Repair Services,7,11,0,0,0,11,-0.25,-0.25
+Petroleum,19,3,1,0,0,4,-0.19,-0.25
+"Professional, Technical and Business Services",8,2,1,0,0,3,-0.17,-0.25
+Railroad,27,1,1,0,0,2,-0.13,-0.25
+Religion and Nonprofit,22,1,0,0,0,1,-0.25,-0.25
+Restaurants,47,3,0,0,0,3,-0.25,-0.25
+Retail Trade,5,15,3,0,0,18,-0.21,-0.25
+Sanitary Sewer,32,1,0,0,1,2,0.38,-0.25
+Sea/Water,29,3,0,0,0,3,-0.25,-0.25
+Telephone & Telegraph,34,3,0,0,0,3,-0.25,-0.25
+Temporary Lodging,3,1,4,0,0,5,-0.05,0
+Universities and Colleges,54,1,0,0,0,1,-0.25,-0.25
+Unknown,0,1,0,0,0,1,-0.25,-0.25
+Water,31,4,0,0,0,4,-0.25,-0.25
+Wholesale Trade,6,1,10,0,0,11,-0.02,0

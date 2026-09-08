@@ -1,0 +1,4 @@
+deductible_level,deductible_level_,factor
+LOW,Low,1.1
+MEDIUM,Medium,1.0
+HIGH,High,0.9

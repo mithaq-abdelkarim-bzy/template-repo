@@ -1,0 +1,152 @@
+vessel_type,relativity,vessel_type_long
+MPR,1.85773098392121,Passenger (Cruise) - MPR
+BBU,1,Bulk Carrier - BBU
+LNG,2,Liquid Natural Gas Carrier - LNG
+UCC,0.869329491123662,Fully Cellular Containership - UCC
+OSY,0.399224346106143,Supply - OSY
+TCR,1.25,Crude Oil Tanker - TCR
+LPG,1.5,Liquid Petroleum Gas Carrier - LPG
+BOR,3,Bulk Ore Carrier - BOR
+OCS,1,Crane Ship - OCS
+TPD,1.15,Product Tanker - TPD
+XTG,1.99145230138833,Tug - XTG
+URR,2.5,Roll On Roll Off - URR
+PRR,2.43610834153766,Passenger Ro/Ro - PRR
+GGC,5.15886913645717,General Cargo - GGC
+TCO,1.25,Combined Chemical And Oil Tanker - TCO
+OPL,2,Pipe Layer - OPL
+OBA,0.5,Barge - OBA
+OSU,0.399224346106143,Support - OSU
+XAT,1.99145230138833,Anchor Handling Tug - XAT
+RRE,3.88499295606663,Research - RRE
+XAH,1.99145230138833,Anchor Handling Tug/Supply - XAH
+OTB,1,Tank Barge - OTB
+FFS,2.25,Fishing (General) - FFS
+TCH,1.5,Chemical Tanker - TCH
+GPC,2.85978862466144,General Cargo With Container Capacity - GPC
+MVE,5.15886913645717,Vehicle Carrier - MVE
+TTA,1.25,Tanker (Unspecified) - TTA
+TFJ,1,Fruit Juice Tanker - TFJ
+OFY,1,Ferry - OFY
+RSR,1,Seismographic Research - RSR
+OCX,1,Crane Barge - OCX
+ODS,1,Diving Support - ODS
+OPP,1,Pipe Carrier - OPP
+XPT,1.99145230138833,Pusher Tug - XPT
+XTS,1.99145230138833,Tug/Supply - XTS
+CBO,1,Combined Bulk And Oil Carrier - CBO
+MLV,1,Livestock - MLV
+TAS,1,Asphalt Tanker - TAS
+FTR,2.25,Trawler (All Types) - FTR
+ZZZ,1,Vessel Type (Unspecified) - ZZZ
+OIB,1,Icebreaker - OIB
+FFF,2.25,Fish Factory - FFF
+LFS,1,Floating Gas Storage - LFS
+OPO,1,Pontoon - OPO
+YDP,1,Drill Platform - YDP
+OHL,1,Semi-Sub Hl Vessel - OHL
+BCE,1,Bulk Cement Carrier - BCE
+DZZ,1,Dry Cargo Vessel (Unspecified) - DZZ
+XFF,1.99145230138833,Fire Fighting Tug - XFF
+OWO,1,Work Ship - OWO
+OSV,1,Salvage - OSV
+XFS,1.99145230138833,Fire Fighting Tug/Supply - XFS
+FFP,2.25,Fishery Protection - FFP
+GRF,1,Reefer - GRF
+XAA,1.99145230138833,Anchor Handling Salvage Tug - XAA
+OYT,5.15886913645717,Yacht - OYT
+OHS,1,Hospital Ship - OHS
+OFL,1,Floating Crane - OFL
+TFS,1,Floating Storage Tanker - TFS
+BWC,1,Wood-Chip Carrier - BWC
+YDS,1,Drill Ship - YDS
+PZZ,1,Passenger Vessel (Unspecified) - PZZ
+OCL,1,Cable Ship - OCL
+DHD,1,Hopper Dredger - DHD
+ROR,1,Oceanographic Research - ROR
+OMT,1,Maintenance - OMT
+OOS,1,Offshore Safety - OOS
+XTP,1.99145230138833,Tug/Pilot Ship - XTP
+DGD,1,Grab Dredger - DGD
+TBK,1,Bunkering Tanker - TBK
+XAF,1.99145230138833,Anchor Handling Fire Fighting Tug/Supply - XAF
+BCB,1,Bulk Carrier With Container Capacity - BCB
+XAG,1.99145230138833,Anchor Handling Fire Fighting Tug - XAG
+OSM,1,Submarine - OSM
+OPI,1,Pilot Ship - OPI
+OTN,1,Tender - OTN
+RRB,1,Research/Buoy Ship - RRB
+COO,1,Combined Ore And Oil Carrier - COO
+DDR,1,Dredger - DDR
+TFP,1,Floating Production Tanker - TFP
+TRR,1,Tanker With Ro/Ro For Road Tankers. - TRR
+ODE,1,Depot Ship - ODE
+XTX,1.99145230138833,Tug/Support - XTX
+OIS,1,Icebreaker/Supply - OIS
+OSS,1,Storage Ship - OSS
+OSB,1,Storage Barge - OSB
+XTR,1.99145230138833,Tractor Tug - XTR
+OSZ,1,Standby Safety Vessel - OSZ
+FFC,2.25,Fish Carrier - FFC
+OLC,1,Landing Craft - OLC
+OPA,1,Patrol Ship - OPA
+OBS,1,Buoy Ship/Supply - OBS
+DTD,1,Trailing Suction Dredger - DTD
+ORN,1,Ro/Ro Pontoon - ORN
+XST,1.99145230138833,Salvage Tug - XST
+RRS,1,Research/Supply Ship - RRS
+URC,1,Roll On Roll Off With Container Capacity - URC
+DBD,1,Bucket Dredger - DBD
+DCH,1,Cutter Suction Hopper Dredger - DCH
+DCS,1,Cutter Suction Dredger - DCS
+DGH,1,Grab Hopper Dredger - DGH
+DSD,1,Suction Dredger - DSD
+DSH,1,Suction Hopper Dredger - DSH
+DSS,1,Sand Suction Dredger - DSS
+DTS,1,Trailing Suction Hopper Dredger - DTS
+FWF,2.25,Whale Factory - FWF
+FWH,2.25,Whaler - FWH
+GCT,1,Cargo/Training - GCT
+LCN,1,Compressed Natural Gas Carrier - LCN
+LFP,1,Floating Gas Production - LFP
+LNP,1,Combined Lng And Lpg Gas Carrier - LNP
+NAV,1,Naval Vessel - NAV
+NAX,1,Naval Auxiliary Vessel - NAX
+OBY,1,Buoy Ship - OBY
+OCP,1,Cable Pontoon - OCP
+OES,1,Exhibition Ship - OES
+OHB,1,Hopper Barge - OHB
+OHF,1,Hydrofoil - OHF
+OHT,1,Semi-Sub Hl/Tank - OHT
+OIF,1,Icebreaker/Ferry - OIF
+OIT,1,Icebreaker/Tender - OIT
+OLT,1,Lighthouse/Tender - OLT
+OMN,1,Mining Ship - OMN
+OMS,1,Mission Ship - OMS
+OPC,1,Pollution Control Vessel - OPC
+OPD,1,Paddle - OPD
+ORD,1,Radio Ship - ORD
+ORP,1,Repair Ship - ORP
+ORX,1,Repair Barge - ORX
+OSC,1,Sludge Carrier - OSC
+OSP,1,Semi-Sub Pontoon - OSP
+OTC,1,Tank Cleaning Ship - OTC
+OTR,1,Training - OTR
+OWA,1,Waste Ship - OWA
+RHR,1,Hydrographic Research - RHR
+RMR,1,Meteorological Research - RMR
+TAC,1,Acid Tanker - TAC
+TDP,1,Floating Drilling Production Tanker - TDP
+TEO,1,Edible Oil Tanker - TEO
+TFO,1,Fish Oil Tanker - TFO
+TMO,1,Molasses Tanker - TMO
+TNA,1,Naval Auxiliary Tanker - TNA
+TWN,1,Wine Tanker - TWN
+TWT,1,Water Tanker - TWT
+UBC,1,Barge Container Carrier - UBC
+UBG,1,Barge Carrier - UBG
+UCR,1,Fully Cellular Refrigerated - UCR
+XCT,1.99145230138833,Catamaran Tug - XCT
+XFT,1.99145230138833,Fire Fighting Tractor Tug - XFT
+XTI,1.99145230138833,Tug/Icebreaker - XTI
+XTT,1.99145230138833,Tug/Tender - XTT

@@ -1,0 +1,91 @@
+{
+  "claim_basis": {
+    "Claim Basis": "str",
+    "Factor": "float"
+  },
+  "currency": {
+    "currency": "str"
+  },
+  "endt_extensions": {
+    "Endorsements and Coverages Extensions": "str",
+    "Factor": "float"
+  },
+  "expense_mod_limits": {
+    "State": "str",
+    "Expense Mod Min": "float",
+    "Expense Mod Max": "float",
+    "Include in Risk Mod": "bool"
+  },
+  "global_params": {
+    "Variable": "str",
+    "Value": "float"
+  },
+  "ilf_params": {
+    "Parameter": "str",
+    "Commercial": "float",
+    "Financial": "float"
+  },
+  "industry_lookup": {
+    "Industry": "str",
+    "Manufacturing": "float",
+    "Wholesale Trade": "float",
+    "Retail Trade": "float",
+    "All": "float"
+  },
+  "institution_lookup": {
+    "Institution Type": "str",
+    "Factor": "float"
+  },
+  "layer_quality": {
+    "Layer Quality": "str",
+    "Layer Weight": "int"
+  },
+  "modifier_limits": {
+    "Risk Characteristic": "str",
+    "Max Credit Rate Plan": "float",
+    "Max Debit Rate Plan": "float"
+  },
+  "other_perils": {
+    "Other Perils": "str",
+    "On-Premises": "float",
+    "Off-Premises": "float"
+  },
+  "sic_lookup": {
+    "SIC Code 2ch": "str",
+    "SIC Code 4ch": "str",
+    "Industry Description 2ch": "str",
+    "Industry Description 4ch": "str",
+    "Industry Group": "str",
+    "Industry": "str"
+  },
+  "size_params": {
+    "Variable": "str",
+    "lambda": "float",
+    "alpha": "float",
+    "theta": "float"
+  },
+  "state_lookup": {
+    "State": "str",
+    "Schedule Min": "float",
+    "Schedule Max": "float",
+    "Eligibility Requirement (Before)": "int",
+    "Eligibility Requirement (After)": "int"
+  },
+  "sublimited_perils": {
+    "Sublimited Perils": "str",
+    "Factor": "float"
+  },
+  "underwriter_list": {
+    "UnderwriterName": "str"
+  },
+  "revenue_base_rates": {
+    "revenue_lb": "int",
+    "revenue_ub": "int",
+    "base_rate": "float"
+  },
+  "number_of_locations": {
+    "break": "int",
+    "lb_factor": "float",
+    "ub_factor": "float"
+  }
+}

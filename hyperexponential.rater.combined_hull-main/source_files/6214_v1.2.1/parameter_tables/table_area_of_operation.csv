@@ -1,0 +1,6 @@
+area_of_operation,lower_bound,upper_bound,default
+Poor,1.05,1.5,1.1
+Below Average,0,0,1.05
+Average,0.95,1.05,1
+Good,0,0,0.95
+Superior,0.85,0.95,0.9

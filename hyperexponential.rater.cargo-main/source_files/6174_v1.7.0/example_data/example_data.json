@@ -1,0 +1,767 @@
+[
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo"
+      },
+      "standard_fields": {
+        "insured_name": "SIPI METALS"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "J3418L22ANWJ"
+          },
+          "brokerage": 0.275,
+          "written_line": 0.2,
+          "quoted_premium": 180992.0,
+          "coverages": {
+            "cargo_transit": {
+              "transit_flag": true,
+              "wh_to_port_flag": true,
+              "loading_flag": true,
+              "voyage_flag": true,
+              "unloading_flag": true,
+              "port_to_wh_flag": true,
+              "commodity": "METALS",
+              "trans_vals": 155089000.0,
+              "deductible_level": "MEDIUM",
+              "packaging": "CONTAINERISED",
+              "conv_land_factor": 1.0,
+              "voyage": "LONG",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "34% TRANSITS CONT'T",
+              "uw_discretion_factor": 0.77,
+              "type_of_cover": "AMERICAN ALL RISKS"
+            },
+            "cargo_storage": {
+              "storage_flag": true,
+              "stock_vals": 63489317.0,
+              "deductible_level": "HIGH",
+              "survey": true,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "AMERICAN ALL RISKS",
+              "uw_discretion": "31% STOCK CONT'T",
+              "uw_discretion_factor": 0.85,
+              "avg_val_pcm": 63489317.0,
+              "cat_expo": 2482640.0,
+              "countries": [
+                {
+                  "country": "USA - California",
+                  "cat_expo": 2140115.0
+                },
+                {
+                  "country": "USA - Gulf & South",
+                  "cat_expo": 342525.0
+                }
+              ],
+              "retail_expo": 0.0
+            },
+            "specie_transit": {},
+            "specie_storage": {},
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Specie"
+      },
+      "standard_fields": {
+        "insured_name": "METALLIX REFINING"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "JDQ67Q22ANWN"
+          },
+          "brokerage": 0.275,
+          "quoted_premium": 165250.0,
+          "coverages": {
+            "cargo_transit": {},
+            "cargo_storage": {},
+            "specie_transit": {
+              "transit_flag": true,
+              "commodity": "GENERAL SPECIE",
+              "trans_vals": 390000000.0,
+              "deductible_level": "MEDIUM",
+              "type_of_cover": "ALL RISKS",
+              "uw_discretion_factor": 1.0,
+              "quoted_premium": 124986.0
+            },
+            "specie_storage": {
+              "storage_flag": true,
+              "commodity": "GENERAL SPECIE",
+              "stock_vals": 25000000.0,
+              "deductible_level": "MEDIUM",
+              "survey": true,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "ALL RISKS",
+              "uw_discretion_factor": 1.0,
+              "avg_val_pcm": 25000000.0,
+              "cat_expo": 0.0,
+              "non_cat_expo": 25000000.0,
+              "quoted_premium": 39775.0
+            },
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Con Loss"
+      },
+      "standard_fields": {
+        "insured_name": "TEST"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "TestTestTest"
+          },
+          "brokerage": 0.275,
+          "quoted_premium": 500000.0,
+          "coverages": {
+            "conloss_transit": {
+              "transit_flag": true,
+              "trans_vals": 155089000.0,
+              "deductible_level": "MEDIUM",
+              "packaging_1": "CONTAINERISED",
+              "packaging_1_factor": 1.0,
+              "conv_land_factor": 1.0,
+              "voyage": "LONG",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "34% TRANSITS CONT'T",
+              "uw_discretion_factor": 0.77,
+              "type_of_cover": "AMERICAN ALL RISKS"
+            },
+            "conloss": {
+              "conloss_flag": true,
+              "limit": 150000000,
+              "exposure": "MINIMAL",
+              "indemnity_period": "12 MONTHS",
+              "deductible_level": "45 DAYS",
+              "uw_discretion": "31% STOCK CONT'T",
+              "uw_discretion_factor": 0.85
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo"
+      },
+      "standard_fields": {
+        "insured_name": "SIPI METALS",
+        "rating_methodology": "Case Priced"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "J3418L22ANWJ"
+          },
+          "brokerage": 0.275,
+          "quoted_premium": 180992.0,
+          "bpi_case_priced": 2.313
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo"
+      },
+      "standard_fields": {
+        "insured_name": "SIPI METALS",
+        "is_renewal": {
+          "calculated": null,
+          "override": true,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 144621,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "J3418L22ANWJ"
+          },
+          "brokerage": 0.3,
+          "quoted_premium": 180992.0,
+          "written_line": 0.2,
+          "coverages": {
+            "cargo_transit": {
+              "transit_flag": true,
+              "wh_to_port_flag": true,
+              "loading_flag": true,
+              "voyage_flag": true,
+              "unloading_flag": true,
+              "port_to_wh_flag": true,
+              "commodity": "METALS",
+              "trans_vals": 155089000.0,
+              "deductible_level": "MEDIUM",
+              "deductible_level_factor": {
+                "calculated": null,
+                "override": 1.05,
+                "is_dirty": false,
+                "is_overridden": true,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "packaging": "CONTAINERISED",
+              "conv_land_factor": 1.0,
+              "voyage": "LONG",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "34% TRANSITS CONT'T",
+              "uw_discretion_factor": 0.77,
+              "type_of_cover": "AMERICAN ALL RISKS"
+            },
+            "cargo_storage": {
+              "storage_flag": true,
+              "stock_vals": 63489317.0,
+              "deductible_level": "HIGH",
+              "survey": true,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "AMERICAN ALL RISKS",
+              "uw_discretion": "31% STOCK CONT'T",
+              "uw_discretion_factor": 0.85,
+              "avg_val_pcm": 63489317.0,
+              "cat_expo": 11000000.0,
+              "countries": [
+                {
+                  "country": "USA - California",
+                  "cat_expo": 5000000.0
+                },
+                {
+                  "country": "USA - Gulf & South",
+                  "cat_expo": 6000000.0
+                }
+              ],
+              "retail_expo": 0.0
+            },
+            "specie_transit": {},
+            "specie_storage": {},
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo"
+      },
+      "standard_fields": {
+        "insured_name": "LABATT FOOD SERVICES",
+        "is_renewal": true
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "JAB90J22ANWJ"
+          },
+          "brokerage": 0.3,
+          "quoted_premium": 266500.0,
+          "written_line": 0.15,
+          "coverages": {
+            "cargo_transit": {
+              "transit_flag": true,
+              "wh_to_port_flag": false,
+              "loading_flag": true,
+              "voyage_flag": true,
+              "unloading_flag": true,
+              "port_to_wh_flag": true,
+              "commodity": "GENL FOODSTUFFS",
+              "trans_vals": 1750000000.0,
+              "deductible_level": "HIGH",
+              "deductible_level_factor": {
+                "override": 0.75,
+                "is_dirty": false,
+                "is_overridden": true
+              },
+              "packaging": "CONTAINERISED",
+              "conv_land_factor": 1.0,
+              "voyage": "MEDIUM",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "100% CONTINGENT",
+              "uw_discretion_factor": 0.33,
+              "type_of_cover": "ICC B"
+            },
+            "cargo_storage": {
+              "storage_flag": true,
+              "stock_vals": 82105000.0,
+              "deductible_level": "HIGH",
+              "survey": false,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "ICC B",
+              "avg_val_pcm": 82105000.0,
+              "cat_expo": 20000000.0,
+              "countries": [
+                {
+                  "country": "USA - Gulf & South",
+                  "cat_expo": 20000000.0
+                }
+              ],
+              "retail_expo": 0.0
+            },
+            "specie_transit": {},
+            "specie_storage": {},
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo",
+        "is_cargo_cyber": true
+      },
+      "standard_fields": {
+        "insured_name": "SIPI METALS"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "J3418L22ANWJ"
+          },
+          "brokerage": 0.275,
+          "written_line": 0.2,
+          "quoted_premium": 180992.0,
+          "coverages": {
+            "cargo_transit": {
+              "transit_flag": true,
+              "wh_to_port_flag": true,
+              "loading_flag": true,
+              "voyage_flag": true,
+              "unloading_flag": true,
+              "port_to_wh_flag": true,
+              "commodity": "METALS",
+              "trans_vals": 155089000.0,
+              "deductible_level": "MEDIUM",
+              "packaging": "CONTAINERISED",
+              "conv_land_factor": 1.0,
+              "voyage": "LONG",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "34% TRANSITS CONT'T",
+              "uw_discretion_factor": 0.77,
+              "type_of_cover": "AMERICAN ALL RISKS"
+            },
+            "cargo_storage": {
+              "storage_flag": true,
+              "stock_vals": 63489317.0,
+              "deductible_level": "HIGH",
+              "survey": true,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "AMERICAN ALL RISKS",
+              "uw_discretion": "31% STOCK CONT'T",
+              "uw_discretion_factor": 0.85,
+              "avg_val_pcm": 63489317.0,
+              "cat_expo": 2482640.0,
+              "countries": [
+                {
+                  "country": "USA - California",
+                  "cat_expo": 2140115.0
+                },
+                {
+                  "country": "USA - Gulf & South",
+                  "cat_expo": 342525.0
+                }
+              ],
+              "retail_expo": 0.0
+            },
+            "cargo_cyber_transit": {
+              "transit_flag": true,
+              "wh_to_port_flag": true,
+              "loading_flag": true,
+              "voyage_flag": true,
+              "unloading_flag": true,
+              "port_to_wh_flag": true,
+              "commodity": "METALS",
+              "trans_vals": 155089000.0,
+              "deductible_level": "MEDIUM",
+              "packaging": "CONTAINERISED",
+              "conv_land_factor": 1.0,
+              "voyage": "LONG",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "34% TRANSITS CONT'T",
+              "uw_discretion_factor": 0.77,
+              "type_of_cover": "AMERICAN ALL RISKS"
+            },
+            "cargo_cyber_storage": {
+              "storage_flag": true,
+              "stock_vals": 63489317.0,
+              "deductible_level": "HIGH",
+              "survey": true,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "AMERICAN ALL RISKS",
+              "uw_discretion": "31% STOCK CONT'T",
+              "uw_discretion_factor": 0.85,
+              "avg_val_pcm": 63489317.0,
+              "cat_expo": 2482640.0,
+              "countries": [
+                {
+                  "country": "USA - California",
+                  "cat_expo": 2140115.0
+                },
+                {
+                  "country": "USA - Gulf & South",
+                  "cat_expo": 342525.0
+                }
+              ],
+              "retail_expo": 0.0
+            },
+            "specie_transit": {},
+            "specie_storage": {},
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Specie"
+      },
+      "standard_fields": {
+        "insured_name": "METALLIX REFINING"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "JDQ67Q22ANWN"
+          },
+          "brokerage": 0.275,
+          "quoted_premium": 165250.0,
+          "coverages": {
+            "cargo_transit": {},
+            "cargo_storage": {},
+            "specie_transit": {
+              "transit_flag": true,
+              "commodity": "GENERAL SPECIE",
+              "trans_vals": 390000000.0,
+              "deductible_level": "MEDIUM",
+              "type_of_cover": "ALL RISKS",
+              "uw_discretion_factor": 1.0,
+              "quoted_premium": 124986.0
+            },
+            "specie_storage": {
+              "storage_flag": true,
+              "commodity": "GENERAL SPECIE",
+              "stock_vals": 25000000.0,
+              "deductible_level": "MEDIUM",
+              "survey": true,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "ALL RISKS",
+              "uw_discretion_factor": 1.0,
+              "avg_val_pcm": 25000000.0,
+              "cat_expo": 0.0,
+              "non_cat_expo": 25000000.0,
+              "quoted_premium": 39775.0
+            },
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Con Loss"
+      },
+      "standard_fields": {
+        "insured_name": "TEST"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "TestTestTest"
+          },
+          "brokerage": 0.275,
+          "quoted_premium": 500000.0,
+          "coverages": {
+            "conloss_transit": {
+              "transit_flag": true,
+              "trans_vals": 155089000.0,
+              "deductible_level": "MEDIUM",
+              "packaging_1": "CONTAINERISED",
+              "packaging_1_factor": 1.0,
+              "conv_land_factor": 1.0,
+              "voyage": "LONG",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "34% TRANSITS CONT'T",
+              "uw_discretion_factor": 0.77,
+              "type_of_cover": "AMERICAN ALL RISKS"
+            },
+            "conloss": {
+              "conloss_flag": true,
+              "limit": 150000000,
+              "exposure": "MINIMAL",
+              "indemnity_period": "12 MONTHS",
+              "deductible_level": "45 DAYS",
+              "uw_discretion": "31% STOCK CONT'T",
+              "uw_discretion_factor": 0.85
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo"
+      },
+      "standard_fields": {
+        "insured_name": "SIPI METALS",
+        "rating_methodology": "Case Priced"
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "J3418L22ANWJ"
+          },
+          "brokerage": 0.275,
+          "quoted_premium": 180992.0,
+          "bpi_case_priced": 2.313
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo"
+      },
+      "standard_fields": {
+        "insured_name": "SIPI METALS",
+        "is_renewal": {
+          "calculated": null,
+          "override": true,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 144621,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "J3418L22ANWJ"
+          },
+          "brokerage": 0.3,
+          "quoted_premium": 180992.0,
+          "written_line": 0.2,
+          "coverages": {
+            "cargo_transit": {
+              "transit_flag": true,
+              "wh_to_port_flag": true,
+              "loading_flag": true,
+              "voyage_flag": true,
+              "unloading_flag": true,
+              "port_to_wh_flag": true,
+              "commodity": "METALS",
+              "trans_vals": 155089000.0,
+              "deductible_level": "MEDIUM",
+              "deductible_level_factor": {
+                "calculated": null,
+                "override": 1.05,
+                "is_dirty": false,
+                "is_overridden": true,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "packaging": "CONTAINERISED",
+              "conv_land_factor": 1.0,
+              "voyage": "LONG",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "34% TRANSITS CONT'T",
+              "uw_discretion_factor": 0.77,
+              "type_of_cover": "AMERICAN ALL RISKS"
+            },
+            "cargo_storage": {
+              "storage_flag": true,
+              "stock_vals": 63489317.0,
+              "deductible_level": "HIGH",
+              "survey": true,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "AMERICAN ALL RISKS",
+              "uw_discretion": "31% STOCK CONT'T",
+              "uw_discretion_factor": 0.85,
+              "avg_val_pcm": 63489317.0,
+              "cat_expo": 11000000.0,
+              "countries": [
+                {
+                  "country": "USA - California",
+                  "cat_expo": 5000000.0
+                },
+                {
+                  "country": "USA - Gulf & South",
+                  "cat_expo": 6000000.0
+                }
+              ],
+              "retail_expo": 0.0
+            },
+            "specie_transit": {},
+            "specie_storage": {},
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cds": {
+      "cover_selection": {
+        "cover": "Cargo"
+      },
+      "standard_fields": {
+        "insured_name": "LABATT FOOD SERVICES",
+        "is_renewal": true
+      },
+      "currencies": {
+        "source_currency": "USD"
+      },
+      "layers": [
+        {
+          "single_section_reference": {
+            "ref": "JAB90J22ANWJ"
+          },
+          "brokerage": 0.3,
+          "quoted_premium": 266500.0,
+          "written_line": 0.15,
+          "coverages": {
+            "cargo_transit": {
+              "transit_flag": true,
+              "wh_to_port_flag": false,
+              "loading_flag": true,
+              "voyage_flag": true,
+              "unloading_flag": true,
+              "port_to_wh_flag": true,
+              "commodity": "GENL FOODSTUFFS",
+              "trans_vals": 1750000000.0,
+              "deductible_level": "HIGH",
+              "deductible_level_factor": {
+                "override": 0.75,
+                "is_dirty": false,
+                "is_overridden": true
+              },
+              "packaging": "CONTAINERISED",
+              "conv_land_factor": 1.0,
+              "voyage": "MEDIUM",
+              "surveyor": "NO",
+              "vessel": "AVERAGE",
+              "uw_discretion": "100% CONTINGENT",
+              "uw_discretion_factor": 0.33,
+              "type_of_cover": "ICC B"
+            },
+            "cargo_storage": {
+              "storage_flag": true,
+              "stock_vals": 82105000.0,
+              "deductible_level": "HIGH",
+              "survey": false,
+              "risk_mgmt_factor": 1.0,
+              "type_of_cover": "ICC B",
+              "avg_val_pcm": 82105000.0,
+              "cat_expo": 20000000.0,
+              "countries": [
+                {
+                  "country": "USA - Gulf & South",
+                  "cat_expo": 20000000.0
+                }
+              ],
+              "retail_expo": 0.0
+            },
+            "specie_transit": {},
+            "specie_storage": {},
+            "conloss_transit": {},
+            "conloss": {}
+          }
+        }
+      ]
+    }
+  }
+]

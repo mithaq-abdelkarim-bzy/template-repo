@@ -1,0 +1,5613 @@
+Operator,Mapped TLO Group
+American Airlines,A
+Delta Air Lines,A
+Southwest Airlines,A
+United Airlines,A
+Lufthansa,A
+British Airways,A
+Emirates Airline,A
+SkyWest Airlines,B
+Air France,A
+China Eastern Airlines,A
+Ryanair,A
+Turkish Airlines,B
+China Southern Airlines,A
+Air Canada,A
+JetBlue Airways,A
+Qatar Airways,B
+Air China,A
+FedEx,B
+US Airways,B
+Cathay Pacific,A
+EasyJet,A
+Envoy Air,A
+ExpressJet Airlines,A
+Korean Air,A
+Alaska Airlines,A
+Continental Airlines,A
+Qantas,A
+KLM Royal Dutch Airlines,A
+LATAM Airlines Brazil,A
+UPS Airlines,D
+Saudia,D
+Endeavor Air,B
+GOL,B
+Singapore Airlines,B
+SAS,B
+Hainan Airlines,B
+Etihad Airways,B
+Iberia,B
+WestJet,B
+IndiGo,B
+Japan Airlines,B
+Republic Airways,B
+Thai Airways International,B
+Xiamen Airlines,C
+China Airlines,B
+Aeroflot Russian Airlines,F
+Shenzhen Airlines,B
+Asiana Airlines,E
+Jet Airways,D
+Mesa Airlines,B
+Air India,B
+Garuda Indonesia,B
+Spirit Airlines,B
+Northwest Airlines,B
+ANA,B
+ExpressJet Airlines (1st),B
+Shandong Airlines,B
+Aeromexico,B
+Copa Airlines,B
+Frontier Airlines,B
+EVA Air,B
+TAP Air Portugal,B
+SWISS,B
+LATAM Airlines Chile,B
+airberlin,B
+Alitalia,B
+Virgin Australia,B
+Ethiopian Airlines,E
+PSA Airlines,C
+Wizz Air,C
+Azul,C
+Finnair,C
+S7 Airlines,C
+AirTran Airways,C
+Lion Air,E
+Air New Zealand,C
+TUI UK,C
+Vueling Airlines,C
+Virgin Atlantic Airways,C
+Avianca,C
+South African Airways,C
+Malaysia Airlines,F
+Volaris,C
+Air Wisconsin,C
+Spring Airlines,C
+Austrian,C
+Royal Air Maroc,C
+Condor,C
+Norwegian,C
+Aeromexico Connect,C
+Lufthansa CityLine,C
+Air Europa,C
+Sichuan Airlines,C
+Allegiant Air,D
+Aer Lingus,D
+Aerolineas Argentinas,D
+Brussels Airlines,D
+Jetstar,D
+Jazz,D
+Hawaiian Airlines,D
+AirAsia,D
+Comair (USA),D
+China Eastern Airlines Jiangsu,D
+China Eastern Airlines Yunnan,D
+Juneyao Air,D
+Chautauqua Airlines,D
+Egyptair,F
+Shuttle America,D
+LOT Polish Airlines,D
+Pegasus,F
+Vietnam Airlines,D
+Cathay Dragon,D
+Pakistan International Airlines,G
+SpiceJet,D
+Atlas Air,D
+Utair,G
+KLM Cityhopper,D
+Interjet,D
+Ural Airlines,D
+Kenya Airways,F
+Jet2.com,D
+Tianjin Airlines,D
+Gulf Air,D
+El Al,D
+Air Arabia,D
+Rossiya Airlines,E
+Transaero Airlines,E
+Philippine Airlines,E
+Air Nostrum,E
+Transavia Airlines,E
+SunExpress,E
+Air Algerie,E
+Shanghai Airlines,E
+Alitalia (1),E
+Cargolux,E
+Compass Airlines,E
+Aegean Airlines,E
+Sunwing Airlines,E
+Air Transat,E
+Royal Jordanian,E
+Thomas Cook Airlines,E
+Trans States Airlines,E
+Eurowings,E
+TUIfly,E
+GoJet Airlines,E
+Germanwings,E
+Lufthansa Cargo,F
+Mexicana,F
+Ukraine International Airlines,F
+Czech Airlines,F
+Virgin America,F
+EasyJet Europe,F
+SriLankan Airlines,F
+Tunisair,F
+Air France HOP,F
+Monarch Airlines,F
+Kuwait Airways,F
+Air Astana,F
+Icelandair,F
+Sun Country Airlines,F
+Sriwijaya Air,G
+LATAM Airlines Peru,F
+Mahan Air,F
+Air India Express,G
+Air Canada Rouge,F
+Go First,F
+Oman Air,F
+Avianca El Salvador,F
+GECAS,F
+SF Airlines,F
+Anadolu Jet,F
+EasyJet Switzerland,F
+Cebu Pacific Air,F
+America West Airlines,F
+Jeju Air,F
+China United Airlines,F
+Bangkok Airways,F
+Kingfisher Airlines,F
+Skymark Airlines,F
+TUI fly Belgium,F
+ABX Air,F
+Wings Air,G
+Flynas,F
+TAROM,F
+Sunclass Airlines,F
+Spanair,F
+Capital Airlines,F
+Portugalia Airlines,F
+J-Air,F
+Austral Lineas Aereas,F
+Avianca Brazil,G
+HOP!-Regional,G
+Martinair CARGO,G
+CommutAir,G
+Iran Air,G
+Middle East Airlines,G
+Air Bridge Cargo,G
+Airlink,G
+Transavia France,G
+China Express Airlines,G
+Kalitta Air,G
+AerCap,G
+Nordic Regional Airlines,G
+Uzbekistan Airways,G
+Tyrolean Airways,G
+Polar Air Cargo,G
+SilkAir,G
+Onur Air,G
+Thai AirAsia,G
+Virgin Australia International,G
+Ted,G
+Indonesia AirAsia,G
+Air Macau,G
+European Air Transport,G
+ASL Airlines Belgium,G
+Nordwind Airlines,G
+airBaltic,G
+Lucky Air,G
+Air Mauritius,G
+Caribbean Airlines,G
+Singapore Airlines Cargo,G
+Norwegian Air International,G
+TRIP,G
+Mesaba Airlines,G
+Nippon Cargo Airlines,G
+Globus,G
+Air China Cargo,G
+Air Serbia,G
+Swiss Global Air Lines,G
+Batavia Air,G
+China Postal Airlines,G
+LATAM Airlines Argentina,G
+Scoot,G
+China Eastern Airlines Wuhan,G
+Cobham Avn Services Australia-Airline Services,G
+bmi - British Midland International,G
+Belavia,G
+Flybe (1),G
+AeroLogic,G
+Aeromar Airlines,G
+HOP! Brit Air,G
+Jet Midwest,G
+Atlasglobal,G
+Air Dolomiti,G
+Volotea,G
+Biman Bangladesh Airlines,G
+Boeing Capital Corp,G
+Niki,G
+BA CityFlyer,G
+flydubai,G
+Philippines AirAsia,G
+Aviation Capital Group,G
+DHL Air (UK),G
+Comair (South Africa),G
+Blue Air,G
+Horizon Air,G
+Air Italy,G
+TUI Airlines Nederland,G
+AirAsia X,G
+Azerbaijan Airlines,G
+ATA Airlines,G
+Orenair,G
+CityJet,G
+Air Malta,G
+Royal Brunei Airlines,G
+Azur Air Russia,G
+Malev,G
+Sky Airline,G
+Mount Cook Airline,G
+Piedmont Airlines,G
+Edelweiss Air,G
+Iberia Express,G
+Olympic Airlines,G
+Smartwings,G
+Iran Aseman Airlines,G
+Avianca Costa Rica,G
+Virgin Australia Regional Airlines,G
+NordStar,G
+Alliance Airlines,G
+Alitalia Cityliner,G
+LTU,G
+Enter Air,G
+China Xinhua Airlines,G
+Orient Thai Airlines,G
+Executive Airlines,G
+TUIFly Nordic,G
+Neos,G
+VivaAerobus,G
+Sky Regional Airlines,G
+First Air,G
+Donghai Airlines,G
+Germania,G
+Merpati,G
+Air Do,G
+JetLite,G
+Japan TransOcean Air,G
+Tigerair Australia,G
+Stobart Air,G
+Binter Canarias,G
+Luxair,G
+Nordic Aviation Capital,G
+flybmi,G
+Satena,G
+Bulgaria Air,G
+Blue Panorama Airlines,G
+Smartavia,G
+Air Busan,G
+ASL Airlines Ireland,G
+Amazon Air,G
+AerSale,G
+LATAM Airlines Colombia,G
+TransAsia Airways,G
+Yamal Airlines,G
+Air Caraibes,G
+FireFly,G
+Kulula,G
+Aviacsa,G
+Thai Smile,G
+Aigle Azur,G
+Midwest Airlines,G
+Jetran,G
+VIM Airlines,G
+LATAM Cargo Chile,G
+Chongqing Airlines,G
+Air Niugini,G
+Swiftair,G
+Nouvelair,G
+SunExpress Germany,G
+Corsair,G
+SCAT,G
+Cargojet Airways,G
+Adria Airways,G
+Alliance Air,G
+Southern Air,G
+Eastar Jet,G
+BoA,G
+Nok Air,G
+Afriqiyah Airways,G
+Jin Air,G
+UNI Air,G
+Copa Airlines Colombia,G
+Skyservice Airlines,G
+SA Express,G
+Easyfly,G
+Mango,G
+Chengdu Airlines,G
+Fiji Airways,G
+ATI - Air Transport International,G
+Airblue,G
+Avianca Ecuador,G
+Mandarin Airlines,G
+Air One,G
+TAME,G
+Regional One,G
+JetConnect,G
+Iraqi Airways,G
+Far Eastern Air Transport,G
+Hebei Airlines,G
+Citilink Indonesia,G
+Indian Airlines,G
+ANA Wings,G
+Undisclosed Bank / Broker / Lessor,G
+StarFlyer,G
+Air Nippon,G
+Virgin Australia (New Zealand),G
+Jet time,G
+bmibaby,G
+Air Corsica,G
+Cyprus Airways (1),G
+Yakutia Airlines,G
+World Airways (1),G
+Air Tahiti,G
+Freebird Airlines,G
+Rusline,G
+LASER,G
+Syrianair,G
+Air Japan,G
+Eastern Airways,G
+Western Global,G
+Aurora,G
+Croatia Airlines,G
+iAero Airways,G
+VoePass,G
+JetKonnect,G
+Avmax Aircraft Leasing,G
+Conviasa,G
+Canjet Airlines,G
+MASwings,G
+Zagros Airlines,G
+Corendon Airlines,G
+SAS Norge,G
+Jetstar Asia,G
+EG&G Special Projects,G
+Fuji Dream Airlines,G
+T'way Air,G
+XL Airways France,G
+Omni Air International,G
+Azores Airlines,G
+Webjet,G
+Precision Air,G
+Air Hong Kong,G
+Shaheen Air International,G
+Network Aviation,G
+Air Tahiti Nui,G
+First Choice Airways,G
+IBEX Airlines,G
+West Atlantic,G
+Express Air,G
+Air India (1),G
+Blue1,G
+Cimber Sterling,G
+Aerosvit Airlines,G
+GX Airlines,G
+AirAsia (India),G
+China Cargo Airlines,G
+MexicanaClick,G
+HOP! Airlinair,G
+Safair,G
+VietJet Air,G
+Air Changan,G
+Carlyle Aviation Partners,G
+IrAero,G
+HapagFly,G
+VARIG,G
+Deccan,G
+BBAM,G
+Calm Air,G
+ILFC,G
+United States Air Force,G
+Embraer Netherlands B.V,G
+Thai Lion Air,G
+Sun-Air of Scandinavia,G
+MNG Airlines,G
+Magnicharters,G
+Air Namibia,G
+Jazeera Airways,G
+BAE Systems Regional Aircraft Asset Management,G
+Pegas Fly,G
+Air Madagascar,G
+Ultimate Jetcharters,G
+West Atlantic Sweden,G
+Amerijet International,G
+Air Cairo,G
+Royal Flight,G
+Miami Air International (1),G
+Libyan Airlines,G
+Novair,G
+Freedom Airlines,G
+BRA-Braathens Regional Airlines,G
+Thomas Cook Airlines Belgium,G
+Cebgo,G
+Wamos Air,G
+Arkia,G
+SKY Holding,G
+Air Mediterranee,G
+Canadian North,G
+DAT - Danish Air Transport,G
+Avianca Peru,G
+Falko,G
+Turkmenistan Airlines,G
+Jordan Aviation,G
+SmartLynx Latvia,G
+Sky Airlines,G
+Pacific Airlines,G
+Sterling (1st),G
+Suparna Airlines,G
+Viva Air,G
+LATAM Airlines Ecuador,G
+OK Air,G
+LATAM Cargo Brazil,G
+Evergreen International Airlines,G
+Meridiana (1st),G
+Air Moldova,G
+VEB-Leasing,G
+Yemenia,G
+Windrose Airlines,G
+Orbest Espana,G
+Qeshm Airlines,G
+Alitalia Express (1),G
+EuroAtlantic airways,G
+Taban Airlines,G
+Eastern Airlines,G
+Kunming Airlines,G
+Aeropostal,G
+Air Europa Express,G
+Kish Air,G
+VLM Airlines,G
+Norwegian Air Sweden,G
+Aircastle,G
+European Aviation Ltd,G
+Sky Lease Cargo,G
+Wind Jet,G
+North American Airlines,G
+Malindo Air,G
+Kuban Airlines,G
+USA 3000 Airlines,G
+Air Jamaica,G
+Donavia,G
+European Air Charter,G
+Astar Air Cargo,G
+Eurofly,G
+Arik Air,G
+Tigerair Mandala,G
+Belair,G
+Cobham Avtn Services Australia-Regional Services,G
+BA Connect,G
+Baja Air Inc,G
+Avior Airlines,G
+Avolon,G
+Airbus Asset Management,G
+Eurolot,G
+Azur Air Ukraine,G
+Kam Air,G
+SBA Airlines,G
+Helvetic Airways,G
+Independence Air,G
+Cabo Verde Airlines,G
+Blue Dart Aviation,G
+Primera Air Scandinavia,G
+PAL Express,G
+National Airlines,G
+ASL Airlines France,G
+Nam Air,G
+Air Austral,G
+Sudan Airways,G
+Fuzhou Airlines,G
+ALROSA Air Company,G
+Air Calin,G
+Song,G
+Russian Air Force,G
+Air Atlanta Icelandic,G
+Macquarie AirFinance,G
+AWAS,G
+MaxAir,G
+USA Jet Airlines,G
+US Marshals Service JPATS Air Operations,G
+Kitty Hawk Air Cargo,G
+Egyptair Express,G
+GB Airways,G
+MIAT - Mongolian Airlines,G
+Cubana,G
+Uni-top Airlines,G
+Lauda Europe,G
+Raya Airways,G
+Amas Bolivia,G
+Somon Air,G
+Bombardier Services Corp,G
+Caspian Airlines,G
+Air Seychelles,G
+Myanmar National Airlines,G
+Peruvian,G
+JAL Express,G
+YTO Cargo Airlines,G
+AeroJet-Transporte Aero Limitada,G
+Lao Airlines,G
+HK Express,G
+German Air Force,G
+Empire Airlines,G
+Aloha Airlines,G
+FTAI Aviation,G
+Georgian Airways,G
+Ifly,G
+Solaseed Air,G
+RwandAir,G
+Dniproavia,G
+VARIG - VRG Linhas Aereas,G
+French Air and Space Force,G
+Cargolux Italia,G
+PrivatAir,G
+BRA-Braathens Regional Airlines (ACMI),G
+Estonian Air,G
+Japan Airlines Domestic,G
+Departamento de Policia Federal,G
+Nile Air,G
+Saratov Airlines,G
+Aergo Capital,G
+Titan Airways,G
+Skyways,G
+KrasAvia,G
+Montenegro Airlines,G
+Corporate Flight Management,G
+Continental Micronesia,G
+Clickair,G
+Air Italy Fleet Management,G
+Star Peru,G
+Tailwind Airlines,G
+Solenta Aviation,G
+Yeti Airlines,G
+MyTravel Airways,G
+Mountain Air Cargo,G
+Myanmar Airways International,G
+Avianca Cargo,G
+Air Peace,G
+Air Next,G
+Loganair,G
+DHL Aero Expreso,G
+Armavia,G
+DANA Air,G
+Red Wings Airlines,G
+TAR Aerolineas,G
+AeroUnion,G
+Bek Air,G
+AeroRescue,G
+Aserca Airlines,G
+Buddha Air,G
+Hong Kong Airlines,G
+KF Cargo,G
+Sideral Air Cargo,G
+Victory Air LLC,G
+Bahamasair,G
+Total Linhas Aereas,G
+Izair,G
+Trigana Air,G
+Poste Air Cargo,G
+Ruili Airlines,G
+Air Zimbabwe,G
+Private Wings Flugcharter GmbH,G
+GA Telesis,G
+European Air Transport (1),G
+Elite Airways,G
+Ariana Afghan Airlines,G
+Sky Angkor Airlines,G
+Star Air,G
+Tiger Aircraft Trading Inc,G
+Air Georgian,G
+Air Arabia Maroc,G
+Embraer,G
+SAM Colombia,G
+Air Botswana,G
+Air KBZ,G
+Colorful Guizhou Airlines,G
+Air Cote D'Ivoire,G
+ASL Airlines Switzerland,G
+Adam Air,G
+Deer Jet,G
+Norwegian Air Norway,G
+Meraj Air,G
+LIAT,G
+Safi Airways,G
+Lineas Aereas Suramericanas,G
+flyglobespan,G
+Cirrus Airlines,G
+LAM - Mozambique Airlines,G
+CAA - Compagnie Africaine d'Aviation,G
+AeroVision International LLC,G
+Air Canada Jetz,G
+Morningstar Air Express,G
+Standard Chartered Aviation Finance,G
+Frontera Flight Holdings Inc,G
+Livingston Energy Flight,G
+Silk Way West Airlines,G
+Atlantic Airways (Faroe Islands),G
+Thai AirAsia X,G
+German Airways,G
+Global Supply Systems,G
+Contact Air,G
+Donbassaero,G
+SkyEurope Airlines,G
+World Atlantic Airlines,G
+Capital Cargo International Airlines,G
+Tatarstan Air,G
+Royal Air Maroc Express,G
+Level (France),G
+Alba Star,G
+Surinam Airways,G
+WOW air (1),G
+Flair Airlines,G
+Izhavia,G
+Privilege Style,G
+Alphastream Limited,G
+Israir,G
+West Air (China),G
+Express Freighters Australia,G
+Aeronaves TSM,G
+Nepal Airlines,G
+Atlas Blue,G
+Freedom Air (New Zealand),G
+Vision Airlines,G
+Smartwings (1),G
+Air Comet,G
+Andes Lineas Aereas,G
+AeroTurbine Inc,G
+Centurion Air Cargo,G
+Midex Airlines,G
+AMC Airlines,G
+CIT Aerospace,G
+XL Airways UK,G
+flyEgypt,G
+Bural Airlines,G
+Futura International Airways,G
+Lauda,G
+Small Planet Airlines (Lithuania),G
+9 Air,G
+BH Air,G
+Castlelake,G
+Pluna,G
+Vx Capital Partners,G
+Iran Airtour Airline,G
+Cayman Airways,G
+Grand China Air,G
+Aurigny,G
+Aruba Airlines,G
+Hi Fly,G
+Ryan International Airlines,G
+MK Airlines,G
+Astraeus,G
+MetroJet,G
+Royal Star Aviation,G
+Olympic Air,G
+Aviator Capital,G
+Logistic Air,G
+CEIBA Intercontinental,G
+Mauritanian Airlines,G
+Nova Airways,G
+Angara Airlines,G
+Hamburg International,G
+Nesma Airlines,G
+NewGen Airways,G
+Flight Inspections & Systems JSC - Spetsavia,G
+Atran,G
+MasAir,G
+1time Airline,G
+Wizz Air UK,G
+Ukrainian Air Force,G
+Aero Capital Solutions,G
+BADR Airlines,G
+ACT Air,G
+GetJet Airlines,G
+Air Seoul,G
+ASL Airlines Spain,G
+Air Bagan,G
+"Aerothrust Holdings Leasing, LLC",G
+Tarco Aviation,G
+BCI Aircraft Leasing,G
+Almasria Universal Airlines,G
+ECAir,G
+JSX Air,G
+Priority Air Charter LLC,G
+Airnorth,G
+Aerocalifornia,G
+Air Antilles,G
+Avion Express,G
+Sunday Airlines,G
+Druk Air,G
+Amapola Flyg,G
+Air Capital Group LLC,G
+Small Planet Airlines (Poland),G
+Kras Air,G
+Sky Express,G
+Bamboo Airways,G
+Air North,G
+Allied Air Cargo,G
+Automatic,G
+Hi Fly Malta,G
+Fly2Sky,G
+TAM - Transporte Aereo Militar,G
+Polar Airlines,G
+Skyway Airlines,G
+Venezolana,G
+Global Aviation Operations,G
+Hapag-Lloyd Express,G
+Deucalion Aviation,G
+Air Thanlwin,G
+Cargo Aircraft Management,G
+Avianca Guatemala,G
+Shanghai International Cargo Airlines,G
+Avelo Airlines,G
+Bluebird Nordic,G
+Genesis Aircraft Services,G
+Indonesia AirAsia Extra,G
+Kalstar Aviation,G
+UVT Aero,G
+Swoop,G
+ADA - Aerolinea de Antioquia,G
+Dornier Aviation Marketing Support Inc,G
+Rutaca,G
+Aerolineas Estelar,G
+SkyUp,G
+Air Arabia Egypt,G
+Eurowings Europe,G
+Blue Wings,G
+Aero Flite Inc,G
+Aloha Air Cargo,G
+Vallair Solutions,G
+Air Iceland Connect,G
+PLAAF - People's Liberation Army Air Force,G
+Tronos Ltd,G
+SkyExpress (Russia),G
+AK Bars Aero,G
+Regent Airways,G
+Avia Traffic Company,G
+Air Spray (1967),G
+Nauru Airlines,G
+KMW Leasing LLC,G
+CentralWings,G
+AeroSur,G
+Felix Airways,G
+Lauda Air,G
+Nationwide Airlines,G
+Cronos Airlines,G
+China Eastern Airlines Guangdong,G
+Serve Air,G
+Ulyanovsk Higher Civil Aviation School,G
+Pskovavia,G
+Gemini Air Cargo,G
+Suckling Airways,G
+Arrow Cargo,G
+Loong Air,G
+Estafeta Carga Aerea,G
+Vistara,G
+Kalitta Charters II,G
+Aerotranscargo,G
+Odyssey Engines LLC,G
+Pan Pacific Airlines,G
+LATAM Cargo Colombia,G
+Royal Canadian Air Force,G
+China Central Longhao Airlines,G
+TransNusa,G
+Air X Charter,G
+Kirland Aviation LLC,G
+InselAir,G
+Gazpromavia,G
+Aerocaribbean,G
+Wingo (Colombia),G
+Severstal Aircompany,G
+Albanian Airlines,G
+Royal Air Force,G
+Alma De Mexico,G
+DAE Capital,G
+VTB-Leasing,G
+Air Caledonie,G
+Hunnu Air,G
+DANA,G
+Fiji Link,G
+Altavair,G
+Aerolease International,G
+KD-Avia,G
+Joon,G
+United Airways,G
+Air Vanuatu,G
+Hak Air,G
+Smartlynx Estonia,G
+Air Lease Corporation,G
+Mission Air Support Inc,G
+Air Panama,G
+Tulpar Air,G
+Vensecar Internacional,G
+Swift Aircargo,G
+ItAli Airlines,G
+Buffalo Airways (Canada),G
+Palm Aviation,G
+Trujet,G
+Jiangsu Jet Co Ltd,G
+Neptune Aviation Ltd,G
+Aero Mongolia,G
+Belle Air,G
+Air Alps,G
+Alpha Star Aviation Services,G
+Khabarovsk Airlines,G
+Florida West International Airways,G
+SAS Ireland,G
+Urumqi Air,G
+PNG Air,G
+Jet Trading And Leasing LLC,G
+City Airline,G
+UTair Cargo,G
+Angola Air Services,G
+Kibris Turkish Airlines,G
+L-3 Technologies Inc,G
+Sukhoi Multipurpose Aircompany,G
+Air Senegal International,G
+Avro Global Limited,G
+Global Air,G
+Med View Airlines,G
+Saudi ARAMCO Aviation,G
+Servisair,G
+Mega Maldives Airlines,G
+NovoAir,G
+Khors Aircompany,G
+Air Kyrgyzstan,G
+West Wind Aviation,G
+Corendon Airlines Europe,G
+TAAG Angola Airlines,G
+Nordica,G
+Lanmei Airlines,G
+BRA Transportes Aereos,G
+Fly540,G
+Norwegian.se,G
+Erickson Aero Tanker,G
+MyAir,G
+Voyageur Airways,G
+Jet4You,G
+Bahrain Air,G
+AFM Hardware Inc,G
+Missionary Flights & Services Inc,G
+Air Burkina,G
+US-Bangla Airlines,G
+Buta Airways,G
+Astra Airlines,G
+DHL Aviation (Americas) Inc,G
+Africa World Airlines,G
+Jiangxi Air,G
+FlyMex,G
+Airbus Transport International,G
+White,G
+Tunisair Express,G
+Eswatini Airlink,G
+Air Peace Hopper,G
+Tajik Air,G
+Northern Air Cargo,G
+ValuAir,G
+K-Mile Asia,G
+NextJet,G
+Alpi Eagles,G
+Avianca Honduras,G
+Moskva Air Company,G
+Dalavia,G
+Lao Central Airlines,G
+Cygnus Air,G
+Air Nigeria,G
+Islas Airways,G
+Cielos Airlines,G
+Alitalia Cargo,G
+Air Memphis,G
+BoraJet,G
+South East Asian Airlines (SEAIR),G
+Libyan Wings,G
+Maleth Aero,G
+YanAir,G
+MHS Aviation,G
+go!,G
+Trans Air Congo,G
+PAWA Dominicana,G
+Mocambique EXpresso,G
+Japan Air Commuter,G
+Sterling Airways,G
+Air Mandalay,G
+Australian Air Express,G
+CDB Aviation,G
+Aerovias DAP,G
+Global Jet Airlines,G
+Primera Air Nordic,G
+Azteca Airlines,G
+Air Finland,G
+Wings Aircraft Finance Inc,G
+World Star Aviation,G
+Pelita Air Service,G
+Comtran International Inc,G
+Smartwings Hungary,G
+ASKY,G
+Myanmar Air Force,G
+21 Air,G
+Kabo Air,G
+Luxaviation Portugal,G
+Jade Cargo International,G
+Gulf & Caribbean Cargo,G
+BMED,G
+Key Lime Air,G
+Airbus,G
+Chukotavia,G
+Virgin Express,G
+Aeroflot Cargo,G
+Pantanal Linhas Aereas,G
+Eurocypria Airlines,G
+VIP - Vuelos Internos Privados,G
+SkyWork Airlines,G
+Canair,G
+CSDS Aircraft Sales & Leasing,G
+SMBC Aviation Capital,G
+Intel Air Shuttle Aircraft,G
+Canary Fly,G
+Mihin Lanka,G
+Ameristar Charters,G
+Lotus Air,G
+African Express Airways,G
+Fly Baghdad,G
+BeauTech Power Systems LLC,G
+AVDEF - Aviation Defense Service,G
+Royal Air Philippines,G
+One-Two-Go,G
+Canadian Airways Congo,G
+SkyWorks Leasing,G
+SonAir,G
+Airwork (NZ) Limited,G
+Universal Asset Management,G
+FPG Amentum,G
+Blue Islands,G
+DHL International Aviation EEMEA,G
+Aero Contractors,G
+Government of Saudi Arabia,G
+Islamic Republic of Iran Air Force,G
+MidAtlantic Airways,G
+AirExplore,G
+Flybondi,G
+ULS Airlines Cargo,G
+Summit Air Charters,G
+Facility for Airborne Atmospheric Measurements,G
+328 Support Services,G
+Corendon Dutch Airlines,G
+Cham Wings,G
+dba,G
+Varig Log,G
+Chair Airlines,G
+Sudan Air Force,G
+TAG Aviation (Stansted) Ltd,G
+Vladivostok Air,G
+AIRFAST Indonesia,G
+Smart Cargo,G
+Air China Inner Mongolia,G
+China Southwest Airlines,G
+flyLAL,G
+Jet Asia Airways,G
+Carpatair,G
+Deta Air,G
+Wings Capital Partners,G
+Bancomext,G
+Nordic Global Airlines,G
+Government of Gabon,G
+Ocean Airlines,G
+FirstNation Airways,G
+TAME xpress,G
+Bombardier Capital Inc,G
+Augsburg Airways,G
+MexicanaLink,G
+Hello,G
+Sahand Asia Airlines,G
+Air Leisure,G
+Berry Aviation,G
+Safat Airlines,G
+DOT LT,G
+Proflight Zambia,G
+Calafia Airlines,G
+Eastern Skyjets,G
+Stewart-Haas Racing LLC,G
+Sierra Pacific Airlines,G
+BOC Aviation,G
+Golden Myanmar Airlines,G
+Fastjet Tanzania,G
+Ellinair,G
+Wizz Air Ukraine,G
+Blue Bird Aviation,G
+ORIX Aviation,G
+Moskovia Airlines,G
+Blue Bird Airways,G
+JetLink Express,G
+Aeronexus,G
+CargoLogicAir,G
+Japan Asia Airways,G
+Rio Linhas Aereas,G
+Serene Air,G
+Air Gemini,G
+Karthago Airlines,G
+Camair-Co,G
+Air Senegal,G
+UTair-Express,G
+Toll Priority,G
+NIIIS ATP,G
+Scoot (1),G
+Bombardier Inc,G
+Sama Airways,G
+Astral Aviation,G
+MFW Aeronautics Inc,G
+Level (Spain),G
+ICBC Leasing,G
+Unconfirmed Operator,G
+Avantiair,G
+Air Greenland,G
+Cambodia Angkor Air,G
+Afrijet Business Service,G
+Iberojet,G
+JP Express,G
+ITA Airways,G
+Paramount Airways,G
+Skyjet,G
+Tomskavia,G
+Air Spray USA Inc,G
+LATAM Airlines Paraguay,G
+Air China Zhejiang,G
+Texel Air,G
+Karun Airlines,G
+Air Mali,G
+Colombian Air Force,G
+CIAF-Leasing,G
+Jubba Airways,G
+Presidio Aircraft Leasing,G
+Asian Wings Airways,G
+Smartwings Poland,G
+Grozny-Avia,G
+Breeze Airways,G
+Henan Airlines,G
+Indonesia Air Transport,G
+General Electric Co (CA),G
+Boeing,G
+Turuhan Aviacompany,G
+Transair,G
+Cargo Air,G
+Petropavlovsk-Kamchatsky Air Enterprise,G
+United Nigeria,G
+Air Guilin,G
+Progress TsSKB Aviakompania,G
+Virgin Samoa,G
+Gulf Traveller,G
+Lviv Airlines Ukraine West,G
+Conair Aviation,G
+Republic of Singapore Air Force,G
+Bassaka Air,G
+LanExpress,G
+AerFin,G
+Sundair,G
+Elix Aviation Capital,G
+Africa Charter Airline,G
+Perla Airlines,G
+DLR Flugbetriebe,G
+DHL Network Operations (USA) Inc,G
+Paradigm Air Operators,G
+Jet2 (1st),G
+Atlantis Armenian Airlines,G
+Air Cargo Germany,G
+Unconfirmed Operating Lessor,G
+CAL Cargo Air Lines,G
+Komiaviatrans,G
+AviaAM Leasing,G
+Trade Air,G
+Wells Fargo Delaware Trust Company,G
+Aerway Leasing LLC,G
+B&H Airlines,G
+VASCO,G
+ALBAWINGS,G
+Golden Mile Aircraft Leasing Inc,G
+AT Leasing,G
+Air Libya,G
+Livingston Compagnia Aerea,G
+Air Ivoire,G
+Gulf Air Group,G
+Great Wall Airlines,G
+Phuket Air,G
+Hamburg Airways,G
+ALS Limited,G
+Miniliner,G
+Up,G
+NokScoot,G
+AirSwift,G
+Omega Air Inc,G
+Mexican Air Force,G
+Air India Cargo,G
+Alexandria Airlines,G
+Go2Sky,G
+FastJet Zimbabwe,G
+Hemus Air,G
+SAHA Airlines,G
+Kostroma Air Enterprise,G
+A&W Aeronautics Services Inc,G
+RAK Airways,G
+Asia Sky Lines,G
+Nesma Airlines (Saudi Arabia),G
+Plus Ultra,G
+Klasjet,G
+CAI Second,G
+PAL Airlines,G
+Longjiang Airlines,G
+Air Costa,G
+ATR,G
+Doric,G
+Bravo Airways,G
+2Excel Aviation,G
+Mann Yadanarpon Airlines,G
+Smartwings Slovakia,G
+East Star Airlines,G
+Airjet Angola,G
+Solomon Airlines,G
+Anda Air,G
+AeBal - Aerolineas de Baleares,G
+Dutch Antilles Express,G
+Lufthansa Italia,G
+SprintAir,G
+Air Incheon,G
+Iberojet (Portugal),G
+Koral Blue,G
+GMT Global Republic Aviation,G
+Servicos Executivos Aereos de Angola (SEAA),G
+Hevilift Ltd,G
+SELVA Colombia,G
+Alfa Airlines,G
+DC Aviation,G
+Olympus Airways,G
+InselAir Aruba,G
+Gomair,G
+TAB Airlines,G
+Riau Airlines,G
+Air Bashkortostan,G
+Maldivian,G
+Flyme,G
+TransAVIAexport Airlines,G
+Amas Uruguay,G
+MAP Linhas Aereas,G
+Dubrovnik Airline,G
+Air Horizont,G
+Jackson Square Aviation,G
+Blue Line,G
+Overland Airways,G
+Aerosucre Colombia,G
+Buraq Air,G
+RusJet,G
+Kingfisher Red,G
+Eritrean Airlines,G
+Daimler Capital Services LLC,G
+IRS Airlines,G
+EXIN,G
+Bhutan Airlines,G
+BWIA West Indies Airways,G
+Zoom Airlines,G
+LTE,G
+ALM - Aircraft Leasing & Management,G
+Sun D'Or International Airlines,G
+Cobalt Air,G
+Songbird,G
+Falcon Air Express,G
+Air Comet Chile,G
+Air Kasai,G
+Peruvian Air Force,G
+Avianova (Russia),G
+Brazilian Air Force,G
+Global Charter Services,G
+Skytraders,G
+Filair,G
+Wizz Air Bulgaria,G
+Welcome Air,G
+Volaris Costa Rica,G
+AMCK Aviation,G
+Shanxi Airlines,G
+KMV - Kavkazskie Mineralnye Vody,G
+Cardig Air,G
+Syphax Airlines,G
+Beta Cargo,G
+East Air,G
+GMG Airlines,G
+Asia Pacific Airlines,G
+Transavia-Garantiya,G
+Air Mediterranean,G
+Royal Falcon Airlines,G
+10 Tanker Air Carrier,G
+Viking Airlines,G
+Tez Jet Airlines,G
+FlyOne,G
+African Inland Mission International,G
+Everts Air Alaska,G
+BRA-Braathens Regional Airlines (1),G
+TransAfrik,G
+2GO,G
+Qatar Amiri Flight,G
+Rio Sul,G
+DHL Ecuador,G
+Business Air,G
+Aviolet,G
+Icejet,G
+Israel Air and Space Force,G
+Seraph Aviation Management,G
+La Compagnie,G
+Aero Airlines,G
+Orange2fly,G
+Argentine Air Force,G
+Iceland Express,G
+Eurowings Discover,G
+Veling,G
+AAR Aircraft Sales & Leasing,G
+LOT Charters,G
+LUK Aero,G
+Investec Bank,G
+SkyBird Air,G
+Coulson Aviation (USA) Inc,G
+Olympia Aviation,G
+Aero Condor,G
+Thai VietJet Air,G
+Phoenix Aircraft Leasing,G
+Leading Edge Air Services Corp,G
+Sky Road Leasing,G
+RVR Air Charter,G
+Groupe Transair,G
+Virgin Galactic,G
+Tehran Airline Development Company,G
+SR Jet,G
+Aer Caribe,G
+Custom Air Transport,G
+Baikal Airlines,G
+Indian Air Force,G
+Siam Air,G
+HNB Investment Corp,G
+Marsland,G
+Senegal Airlines,G
+Vertir Airlines,G
+Saga Airlines,G
+Enerjet,G
+Holiday Europe,G
+ORBIS,G
+Agni Air,G
+Norwegian Air UK,G
+Air Cargo Global,G
+Regional Air Lines,G
+Congo Airways,G
+California Pacific Airlines,G
+Valan International Cargo Charter,G
+Air Malawi,G
+Virgin Atlantic International,G
+SATA Air Acores,G
+Silver Airways,G
+Lynden Air Cargo,G
+ASL Airlines Hungary,G
+Air Australia,G
+Cyprus Airways,G
+One Airlines,G
+Asia Atlantic Airlines,G
+Aviation Leasing Inc,G
+Avialesookhrana Central Base for Forest Protection,G
+Centre-Avia,G
+CMB Financial Leasing,G
+Sun Air,G
+CemAir,G
+DAS Air,G
+AVE.COM,G
+Pionair Australia,G
+Genesis Custom Jetliners LLC,G
+Corcim Inc,G
+Pamir Airways,G
+Eco Jet,G
+Minden Air,G
+Nolinor Aviation,G
+Cello Aviation,G
+Jetstar Japan,G
+Beijing Airlines,G
+Joy Air,G
+Airlease International Inc,G
+Wataniya Airways,G
+Paranair,G
+Varesh Airlines,G
+BNDES - Brazilian Development Bank,G
+Electra Airways,G
+Government of Iran,G
+Government of Djibouti,G
+Amelia International,G
+Grandstar Cargo,G
+Rayyan Air,G
+Air Manas,G
+Toumai Air Tchad,G
+Interglobal Inc,G
+Hyperion Aviation Ltd,G
+Fly Mid Africa,G
+Star Air Cargo,G
+MidAmerican Aerospace Ltd,G
+Pouya Air,G
+FlyGlobal Charter,G
+Apex Air,G
+Menard Inc,G
+Oleg N Rudkin,G
+Zimex Aviation,G
+Travira Air,G
+MCC Aviation (Pty) Ltd,G
+Rostrum Leasing,G
+Cambodia Airways,G
+ACIA Aero,G
+Crossbow Aircraft Group,G
+Nusantara Air Charter,G
+Skybus Airlines,G
+XL Airways Germany,G
+Air Bishkek,G
+KaiserAir,G
+Blu-Express,G
+Minera San Christobal,G
+Cara Capital Corp,G
+Aviastar Mandiri,G
+International Bank of Commerce,G
+Tasman Cargo Airlines,G
+Sierra Nevada Corporation,G
+Air Tanzania,G
+Miami Leasing Inc,G
+Manufacturers Hanover Leasing International,G
+BC Aircraft Leasing LLC,G
+Tsaradia,G
+MJet,G
+ZYB Lily Jet First Mandarin Business Aviation,G
+TUM AeroCarga,G
+SmartLynx Malta,G
+Norwegian Air Argentina,G
+World Cargo Airlines,G
+Sunrise Airways,G
+BAE Systems (Corporate Air Travel) Ltd,G
+Russian Naval Aviation,G
+Armenia,G
+Fars Qeshm Air Lines,G
+Batik Air,G
+Viva Air Peru,G
+LC Peru,G
+Air Vallee,G
+Air Slovakia,G
+JetGo Australia,G
+US Aviation Corp,G
+National Nuclear Security Adminstration,G
+ELTA Electronics Ltd,G
+flyCongo,G
+Global Air Transport,G
+MDLR Airlines,G
+Skymaster Air Lines,G
+Arena Aviation Capital,G
+RESIDCO,G
+Transportes Aereos Cielos Andinos,G
+Jet Time Finland,G
+Artel Starateley Amur,G
+Government of the Democratic Republic of the Congo,G
+Denim Air (1),G
+Trident Aviation Services Inc,G
+Denver Air Connection,G
+Sargent Avborne,G
+Level Europe,G
+Air Central,G
+Boeing Aircraft Holding Co,G
+Harmony Airways,G
+TCA,G
+Nasair (Eritrea),G
+R Airlines,G
+Gryphon Airlines,G
+FlyMe (1),G
+Loftleidir Iceland,G
+Asian Spirit,G
+ICARO Air,G
+PB Air,G
+Australian Airlines,G
+AG Air,G
+Dauria,G
+Polaris Aviation Solutions,G
+Global Aviation Leasing,G
+Hermes Airlines,G
+Japan Air Self-Defense Force,G
+AirVolga,G
+Ecuadorian Air Force,G
+OLT Express,G
+Air Mekong,G
+Eastern Air Lines (2),G
+Aviando Services LLC,G
+Air Albania,G
+Eaglexpress Air Charter,G
+Just Us Air,G
+Wings of Lebanon,G
+Bashkirian Airlines,G
+Solar Cargo,G
+Northstar Aviation LLC (Florida),G
+Al Naser Wings Airlines,G
+Russian Ministry of the Interior - MVD VV,G
+Chilean Air Force,G
+DHL Aviation (Netherlands) BV,G
+Royal Netherlands Air Force,G
+Northwest International Cargo Airlines,G
+Med Airways,G
+Fil-Asian Airways,G
+Aero Asia International,G
+Flight Research Aerogeophysical Center,G
+Airstream LLC,G
+Azal Avia Cargo,G
+Azee Aviation FZE,G
+Air Madrid,G
+Air Katanga,G
+ASL Aviation Group,G
+Fly Gangwon,G
+Laurus Master Fund Ltd,G
+Zambezi Airlines,G
+Air Sinai,G
+Fly Pro,G
+Sepehran Airlines,G
+Aviation Legacy (Gambia) Ltd,G
+Korea Express Air,G
+Red Cloud Assets LLC,G
+Unconfirmed Sao Tome Airline,G
+Ten Air,G
+"Blackrock Investment Management, LLC",G
+Jayawijaya Dirgantara,G
+Goiania Comercio E Servicos Internacionais Lda,G
+Central Mountain Air,G
+National Airways,G
+Karinou Airlines,G
+GlobalX,G
+Wideroe,G
+Azman Air,G
+US Bank NA,G
+Hungarian Air Force,G
+Aviogenex,G
+Dart Airlines,G
+Air Saint-Pierre,G
+Kaz Air Jet,G
+Trast Aero,G
+Avolar,G
+Jonika Airlines,G
+Airbus A300 Leasing Inc,G
+La Costena,G
+Pace Airlines,G
+ALAFCO Aviation Lease and Finance Company,G
+Air Sweden,G
+GECAS Asset Management Services,G
+Blue Aviation Limited,G
+SKA Air & Logistics (SkyLink Arabia),G
+Jet Acceptance Corp,G
+People's Vienna Line,G
+Airtime AB,G
+GainJet,G
+Galaxy Kavatsi,G
+Pakistan Navy,G
+Government of Eswatini,G
+My Indo Airlines,G
+Travel Air (PNG),G
+Ghana International Airlines,G
+Rotana Jet,G
+JALways,G
+Plane Business Leasing,G
+Las Vegas Sands Corp,G
+Ansett Australia,G
+Cape Air,G
+Aura Airlines,G
+Air Sial,G
+Walya Airways,G
+Yeniseisky Meridian,G
+JL Isar Lease Co Ltd,G
+Midwest Airlines (Egypt),G
+Air Uganda,G
+Danube Wings,G
+SkyAir corp,G
+CargoItalia,G
+ASL Aviation Holdings,G
+Corning Inc,G
+Aero Nusantara Indonesia (ANI),G
+Ghadames Air Transport,G
+Atrak Air,G
+Gir Jet,G
+Air Djibouti,G
+Spanish Air Force,G
+Pier Seven Aviation,G
+Air Century,G
+Hansung Airlines,G
+Clube Nauitico Agua Limpa,G
+Tyrol Air Ambulance,G
+Flightline,G
+EastAfrican,G
+Kirov Air Enterprise,G
+Aerostar,G
+Cetraca Air Service,G
+UM Air,G
+Detroit Pistons,G
+FitsAir,G
+DirectAir,G
+New England Patriots LLC,G
+Avation PLC,G
+Tri MG Airlines,G
+Colt Cargo,G
+Tokyo Century Corporation,G
+Veteran Avia,G
+Spirit Leasing,G
+ExecuJet Europe AG,G
+Volito Aviation Services AB,G
+Kartika Airlines,G
+Bristow Helicopters (Nigeria),G
+Rolls-Royce North America Inc,G
+JedAir,G
+Dynamic Aviation Group Inc,G
+Platinum Skies,G
+Nav Canada,G
+Sky Georgia,G
+Republic of China Air Force,G
+WNG Capital,G
+Pearl Aviation,G
+ConocoPhillips Co,G
+Freebird Airlines Europe,G
+Batik Air Malaysia,G
+Safran Aircraft Engines,G
+Alpha Aircraft Holdings Ltd,G
+TAG Aviation (UK) Ltd,G
+Club Air,G
+Axis Airways,G
+Pulkovo Aviation Enterprise,G
+Baltia Air Lines,G
+Flyafrica,G
+Cloud Investment Partners,G
+Amelia,G
+Aviaprad Airlines,G
+L Avion,G
+SJL Aeronautica,G
+Southern Aircraft Charters Ltd Corp,G
+Ukrainian Wings,G
+Fly Jamaica,G
+Air Republiq Airlines,G
+Vivaldi Overseas Ltd,G
+American Jet,G
+Hellas Jet,G
+Banc of America Leasing Ireland,G
+Peruvian Navy,G
+Bul Air,G
+Longtail Aviation,G
+Maximus Air,G
+Department of the Air Force (USAF),G
+Air Adriatic (1),G
+Antares Air,G
+Bay 2 Bay Leasing LLC,G
+Star East,G
+Nordeste Linhas Aereas Regionais,G
+Unical Aviation Inc,G
+FlyArystan,G
+Museum of Flight Foundation,G
+Global Knafaim Leasing,G
+Air Post,G
+Sojitz Corp,G
+City Airways,G
+Heston Airlines,G
+Air Annobon,G
+DHL de Guatemala,G
+Trans Air Cargo Services,G
+Government of Uruguay,G
+Sunkar Air,G
+Xtreme Aviation LLC (FL),G
+Daallo Airlines,G
+Neptune Aviation Services Inc,G
+Taftan Air,G
+Tehran Air,G
+E-Cargo,G
+Compass Capital Corp,G
+Ryanair UK,G
+Nordic Airways,G
+328Jets LLC,G
+Jota Aviation,G
+Pennant Aviation LLC,G
+Aerospace One,G
+Italian Air Force,G
+Aviation Horizons Ltd,G
+CIAF Air Operation,G
+Cameroon Airlines,G
+Fly Persia,G
+Flight Lease,G
+AirQuarius Aviation,G
+European Aircharter,G
+Norwegian Long Haul,G
+Denim,G
+BlueSky Airlines,G
+Turkuaz Airlines,G
+Delta Material Services LLC,G
+Excellent Glide,G
+Pars Air,G
+Sky Wings Airlines,G
+Royal Australian Air Force,G
+Terra Avia,G
+Saurya Airlines,G
+Atlantic Airlines De Honduras,G
+Rhein-Neckar Air,G
+SBS Leasing,G
+Azul Aviation Investments Inc,G
+Viva Macau,G
+OzJet,G
+Ernest Airlines,G
+Montex Drilling Co,G
+Slovakian Government Flying Service,G
+First Greenwich Kahala Ltd,G
+TUS Airways,G
+Zambian Airways (1),G
+TMA,G
+Deutsche Structured Finance GmbH,G
+Thompson Tractor Co Inc,G
+Skybus Jet Cargo,G
+Power Aircraft Services Ltd,G
+North Cariboo Air,G
+TICV,G
+Iraq Gate,G
+mas,G
+International Trading Company of Yukon Inc,G
+Ayit Aviation,G
+Iran Aircraft Manufacturing Industries Co. - HESA,G
+Aviation Exposure Management,G
+JIHB DAC,G
+Orion Airlines LLC,G
+AAR Corp,G
+Aeromexico Travel,G
+Karat,G
+Pan Europeenne Air Service,G
+Republic of Korea Air Force,G
+Direction Generale de l'Armement,G
+Island Air,G
+P.C. Air,G
+Interair,G
+Abu Dhabi Presidential Flight,G
+Save A Connie Inc,G
+Sahel Aviation Service,G
+ATSA Airlines,G
+All Express Corporation,G
+Titan Helicopter Group (THG),G
+Aria Air,G
+Belle Air Europe,G
+InterIsland Airlines,G
+Northrop Grumman Systems Corp (CA),G
+Global Principal Finance Company LLC,G
+SNAS Aviation,G
+Romavia,G
+Interlink Airlines,G
+Gladiator Leasing Ltd,G
+Silk Way Airlines,G
+Avion Aircraft Trading EHF,G
+Executive Jet Support Ltd,G
+North Star Air,G
+Lift,G
+MY Jet Xpress,G
+Aviaobshchemash,G
+Avianca Express,G
+Touchdown Aviation,G
+DS Aviation,G
+Avia Jaynar,G
+Skyward International Aviation,G
+Air Arabia Jordan,G
+Chalair,G
+European Capital Corporation,G
+High Air Power LLC,G
+Aviavilsa,G
+Sayegh Group Aviation,G
+Eastok Aviation FZE,G
+Rahila Air,G
+FINOVA Capital Corp,G
+Petroleum Air Services,G
+Genex,G
+Chanchangi Airlines,G
+Aurela,G
+Fly International Airways,G
+NEFF Air LLC,G
+Air Alsie A/S,G
+Air Trust Air Company,G
+Tailwind Capital,G
+Bouraq Indonesia,G
+Zephyrus Aviation Capital,G
+Indonesian Air Force,G
+TrueNoord,G
+Jetscape Inc,G
+GullivAir,G
+Transavia Denmark,G
+New United Aerospace Co Ltd,G
+Air Europe,G
+Global Africa Aviation,G
+Deccan 360,G
+Express.Net Airlines,G
+Germania Express (1st),G
+InvestAvia Airline,G
+Tristar Air,G
+Zoom Air,G
+Werner Aero Service LLC,G
+Sirius Aero,G
+Libyan Air Cargo,G
+FlyBosnia,G
+West Atlantic Aircraft Management,G
+Willis Lease Finance Corporation,G
+Gatari Air Service,G
+Airfleet Credit Corp,G
+Malawi Airlines,G
+Avion Express Malta,G
+Elbrus Avia,G
+United Arab Emirates Air Force,G
+Corporate Elite Group,G
+ALK Airlines,G
+Lufthansa Technik,G
+SADELCA,G
+Pegase Aviation,G
+LTU Flug,G
+Xfly,G
+Azorra Aviation,G
+ASL BV,G
+Air Poland,G
+Ruby Star Airlines,G
+AeroCentury Corp,G
+Transafric,G
+Aeroperlas,G
+Cargo Three,G
+Deraya Air Taxi,G
+Minsheng Financial Leasing,G
+Wallace Holdings LLC,G
+Lloyd Ploutz & Ramymond S Gada III,G
+Air Arabia Abu Dhabi,G
+LAMIA Bolivia,G
+Dog Leg Transportation Co LLC,G
+Vision Air International,G
+Western Air,G
+Sky Gates Airlines,G
+European Skybus Ltd,G
+Fly Air,G
+Slovak Airlines,G
+Air One Nine,G
+Western Airways Inc (Texas),G
+Berjaya Air,G
+Tesis Airline,G
+TriStar History and Preservation Inc,G
+MTA Cargo,G
+Sky High,G
+S.Group International,G
+Transcarga International Airways,G
+ATON GmbH,G
+AlMousa VIP Fly,G
+Fair Aviation,G
+Mirny Aviation Enterprise,G
+Air Lease International Two LC,G
+Brindabella Airlines,G
+AeroRegional,G
+China Southern Air Leasing,G
+MAT - Macedonian Airlines,G
+Stewart Industries International LLC,G
+Shree Airlines,G
+Government of Kuwait,G
+Westair Aviation,G
+First Jet,G
+Royal Thai Army,G
+Flair Aviation GmbH,G
+SAM Air,G
+Dubai Air Wing,G
+Comoro Islands Airline,G
+JetFleet Management Corp,G
+Small Planet Airlines (Germany),G
+ATR Asset Management,G
+Cimber,G
+Oasis Hong Kong Airlines,G
+Manunggal Air,G
+Jettime A/S,G
+Mountain Capital Partners LLC,G
+Starbow,G
+Air Taraba,G
+Southern Winds,G
+GOAL German Operating Aircraft Leasing,G
+Chorus Aviation Capital,G
+Jet Partners (New York),G
+Tibet Airlines,G
+Pobeda,G
+TAF Linhas Aereas,G
+Aerospace Consortium,G
+Gogo,G
+Kingdom Holding,G
+Shell Canada,G
+PTB (Emerald) Pty Ltd,G
+CargoLogic Germany,G
+TrueAero,G
+Penerbangan Malaysia Berhad,G
+GFS - Government Flying Service,G
+748 Air Services,G
+Tianjin Air Cargo,G
+Flyr,G
+Antrak Air,G
+India Flysafe Aviation Ltd,G
+Red Air,G
+Omni Aviation Leasing LLC,G
+Sky Aviation,G
+Deutsche Bank Equipment Leasing Inc,G
+International Aerospace Group Corp,G
+Air Investors LLC,G
+City Star Airlines,G
+Pegasus Airlines Asia,G
+KF Aerospace,G
+IAI,G
+Royal Wings,G
+Air Ghana,G
+TANS,G
+PAI Aviation Inc,G
+Basic Capital Management Inc,G
+Government of Tanzania,G
+Hong Kong Aviation Capital,G
+Avianca Argentina,G
+Prima Charter,G
+Mistral Aviation,G
+TAMep,G
+Northrop Grumman Systems Corp,G
+Aviall Services Inc,G
+Bocomm Leasing,G
+Electra Airways Inc,G
+Air Belgium,G
+Aero JBR,G
+Mauritania Airways,G
+Royal Thai Air Force,G
+Whitejets,G
+IBC Airways,G
+Imperial Bank Limited,G
+Aerothrust Holdings Leasing LLC,G
+Kharkiv Airlines,G
+CAI First,G
+TAG Airlines,G
+Tayaran Jet,G
+African Safari Airways,G
+Skylink Aviation,G
+RCL Aviation Inc,G
+GMT Aviation Ltd,G
+Regional Express,G
+Kayala,G
+TAT Leasing Services,G
+China Academy of Civil Aviation Science/Technology,G
+Orex Orbit Express Airlines,G
+Global Jet Luxembourg,G
+Sky Swallows,G
+Corporate Aviation Holdings Corp,G
+Belgian Air Component,G
+Infinity Trading & Solutions LLC,G
+Bell Atlantic TriCon Leasing Corp,G
+Freedom Airline,G
+Medallion Air,G
+Sky One FZE,G
+Solenta Aviation Gabon,G
+RPX Airlines,G
+Yemen Arab Republic Air Force,G
+Coulson Aviation (Australia) Pty Ltd,G
+Azizi Group,G
+Pascan Aviation,G
+Afghan Jet International Airlines,G
+Air Lebanon,G
+Aviation Consultants,G
+Airstars,G
+Cargo Vik FZE,G
+Aladia Airlines,G
+Air Wales,G
+WDA - Wimbi Dira Airways,G
+Federal Airlines,G
+RBS Aviation Capital,G
+AirControl,G
+Finrep Handels GmbH,G
+Global Reach Aviation,G
+ACLAS Global,G
+Leaseair Company,G
+FlyCongo,G
+AirInter1,G
+Kievskaya Rus XXI vek OAO,G
+MCAP/MC Aviation Partners,G
+OOO Ak Sev Avia,G
+Bahrain Royal Flight,G
+Dougherty Equipment Finance LLC,G
+Zapolyarye Airline,G
+Honesty Air Cargo,G
+Transwisata Air,G
+HOLIDAYS Czech Airlines,G
+DHL Air (Austria),G
+ACR Aero Charter,G
+Zagrosjet,G
+AirEst,G
+Midair S.A.,G
+Baboo,G
+SiAvia,G
+Voyageur Aviation Corp,G
+Bingo Airways,G
+EasySky,G
+Killick Aerospace,G
+Flydamas,G
+DGAC - Dir Gen Aviation Civile,G
+Skygate International,G
+Dream Wind,G
+One Caribbean,G
+Intellijet International LLC,G
+Jetran Air (1),G
+Zoom Airlines (UK),G
+Trans Attico,G
+Silverback Cargo Freighters,G
+US DEA - Drug Enforcement Agency,G
+Al-Haya,G
+Modern Logistics,G
+Banc One Capital Corp,G
+Volga-Dnepr Airlines,G
+Overbird Ltd,G
+Transatlantic Aviation Ltd,G
+FMI Air,G
+Armenia Airways,G
+Ward Kraft Inc,G
+Aerospace Consortium FZE,G
+Aerocardal,G
+JC International Airlines,G
+KAL Aviation FZE,G
+U-Boats Parts Inc,G
+645th Aeronautical Engineering Systems Group,G
+Air Direct Connect,G
+Great Dane Airlines,G
+Cally Air,G
+Orion Air,G
+Texas Aviation Group LLC,G
+Amsterdam Airlines,G
+Fly Angola,G
+Luzair,G
+SANSA,G
+NordLB,G
+GTLK - State Transport Leasing Company,G
+Heavylift International,G
+Danish Air Lease,G
+ITOCHU Corporation,G
+Uganda Airlines,G
+Aerolineas Internacionales,G
+JHK Development LLC,G
+Barq Aviation,G
+South Supreme Airlines,G
+FL Technics (Broker/Dealer),G
+Ewa Air,G
+Air Guyane Express,G
+Roadrunair Aviation LLC,G
+KV Aviation,G
+Cummins Inc,G
+Fly Allways,G
+Advanced Air LLC (Hawthorne),G
+Swedish ATP Management AB,G
+HEH Aviation Management GmbH,G
+Lagun Air,G
+Aviastar-TU,G
+MUFG Americas Capital Leasing & Finance LLC,G
+European Air Express,G
+Cranford Aircraft Commercial Leasing Corp,G
+Amakusa Airlines,G
+Kahala Aviation Leasing,G
+Unique Air,G
+Baq Air Technologies,G
+Palau Asia Pacific Airways,G
+Aerotron Ltd,G
+Aircraft Instrument and Electronics (Pty) Ltd,G
+Inter Airlines (Turkey),G
+Gabon Air Force,G
+LIFT Ireland Leasing Ltd,G
+McLarens Aviation,G
+Citus LLC WAA Holdings,G
+Sky Prim Air,G
+Grand Cru Airlines,G
+ITAB - International Trans Air Business,G
+Askari Aviation,G
+InterSky,G
+Air Onix Airlines,G
+A.P.C. Aircraft Purchase Company Ltd,G
+Helios,G
+D R Congo Air Force,G
+Advantage Aviation Services,G
+Goshawk,G
+Airhub Airlines,G
+Elan Express,G
+Sibaviatrans,G
+Gaztech Leasing,G
+Alwafeer Air,G
+SkyEurope Airlines Hungary,G
+Colombe Airline,G
+Bees Airline,G
+Paraguayan Air Force,G
+Tyrolean Jet Service,G
+Hevilift Australia (Fixed Wing) Pty Ltd,G
+Sakurai Aviation Ltd,G
+Maluti Sky,G
+Reem Air,G
+Magnetic MRO,G
+REDjet,G
+Mint Airways,G
+Cargo 360,G
+Mass Lease,G
+BritishJet.com,G
+Air Inuit,G
+Kingman Airline Services Inc,G
+Nordic Regional,G
+Royal Bahraini Air Force,G
+GL Ventures LLC,G
+Oman Royal Flight,G
+OH Capital Assets Inc,G
+224th State Airline Flight Unit,G
+Bremenfly,G
+Jetpro International LLC,G
+Dart Aviation Europe,G
+ICX Corp,G
+VTB Leasing (Europe) Ltd,G
+MSN 1523 LLC,G
+Africa One (DRC),G
+Express Air Cargo,G
+Aruba La Mia,G
+Adria Airways Switzerland,G
+Bolivian Air Force,G
+South Airlines (Armenia),G
+Marron Ventures Ltd,G
+Ibom Air,G
+ITA Transportes Aereos,G
+Air Go Airlines,G
+Bestair,G
+Vietravel Airlines,G
+Commercial Jet Partners LLC,G
+Aerotrans Ltd,G
+Interjet West,G
+Tango Airways,G
+Moldavian Airlines,G
+Airborne Capital,G
+SIBNIA,G
+Aero Maximum Inc,G
+SkyGreece Airlines,G
+Sosoliso Airlines,G
+Asian Express Airline,G
+Sky Pearl Aviation,G
+SaudiGulf,G
+Skyeinvest Adminstration,G
+GP Aviation,G
+Aviation Resource Services Ltd,G
+Government of Brunei,G
+Organizacoes Santos Bikuku,G
+Silverjet,G
+AGD Systems,G
+JT Power LLC,G
+GCA Airlines,G
+Falcon Express Cargo Airlines,G
+Aerodrom Shushenskoe OOO,G
+Coast Air,G
+Constanta Airlines,G
+Flyjet,G
+LADE,G
+Summit Bank,G
+Global Air Logistics,G
+Turboshaft FZE,G
+Danaus Lineas Aereas,G
+Laser Aereo Colombia,G
+Ten Forty Corp,G
+Atlas Atlantique Airlines,G
+Lease Fly,G
+Skippers Aviation,G
+Evergreen Aircraft Sales & Leasing Co & Evergreen,G
+Unconfirmed Iranian Airline,G
+Avialeasing,G
+Maple Leaf 48006 LLC,G
+Mohammed Bin Salem Al-Marri,G
+Flyadeal,G
+AAR Parts Supply,G
+Aerovista,G
+MHD Rockland Services Inc,G
+Indochina Airlines,G
+Greater Bay Airlines,G
+Glencore Canada Corp,G
+Greentech De Venezueal,G
+Star Air (Indonesia),G
+Russ Air Transport Company,G
+Elysian Airlines,G
+Van Vliet International Limited,G
+TonleSap Airlines,G
+Air Congo,G
+Play,G
+Aero K,G
+Kalitta Turbine Leasing,G
+Capital Airways,G
+Helitt,G
+Bavaria Int'l Aircraft Leasing GmbH & Co .KG,G
+Air Bucharest,G
+Galaxy Airlines,G
+Alpha Express Aviation FZE,G
+Landsbanki Island HF,G
+Mel Air,G
+Magnetic Leasing,G
+Mozambique Air Force,G
+Blade Leasing Co Ltd,G
+South Airlines (Ukraine),G
+Asia Cargo Airlines (Indonesia),G
+737 Portfolio Trust,G
+Aircraft Finance Solutions Sweden AB,G
+Trawel Fly,G
+Royal Khmer Airlines,G
+Anka Air,G
+Corporate South African Operator,G
+Geo Sky,G
+Avioserv,G
+Air Philip,G
+Global Aircraft Leasing Partners,G
+KMR Aviation Services,G
+Strategic Air Finance,G
+Spirit of Manila,G
+Deutsche Aircraft,G
+ABL Aviation,G
+Volvo Aero Services LP,G
+Argentine Navy,G
+Aircompany ZetAvia,G
+Center-South Airlines,G
+PMT Airlines,G
+Suhura Airways,G
+Madagasikara Airways,G
+Macka Invest Co,G
+German Sky Airlines,G
+Skywise,G
+Cargo B Airlines,G
+Engage Aviation LLC,G
+Aeropa,G
+Jett8 Airlines Cargo,G
+Calima Aviacion,G
+QinetiQ,G
+Lynden Air Cargo PNG,G
+Abakan Air,G
+ASG Business Aviation,G
+Prime Air Services,G
+Mokulele Airlines,G
+Bellview Airlines,G
+NATO,G
+Clarks Summit II LLC,G
+V Air,G
+ANA Trading Corp USA,G
+Government of Cameroon,G
+The PacAvi Group,G
+AHS Air International,G
+Johnson Controls Inc,G
+Yak Service,G
+Air Georgia (2),G
+AZee AIR,G
+Galistair Trading Ltd,G
+Cross Ocean Partners,G
+Styrian Spirit,G
+Voyage Air,G
+Bellinger Aviation,G
+Waha Leasing,G
+Meridian Airways,G
+Air Pohang,G
+SLM-Grammercy Corp,G
+Edge Aerodynamix,G
+B&K Aero KZ,G
+ISD Avia,G
+Exim America Corp,G
+Tavrey Air Company,G
+Joluma Corp,G
+Eos Airlines,G
+Royal Moroccan Air Force,G
+Brickell Asset Management LLC,G
+Finlight Airlines,G
+Parkhead Leasing & Sales Ltd,G
+Air Leasing Cameroon,G
+Brassbox Ltd,G
+Enkor,G
+TFM Aviation Ltd,G
+FlyOne Armenia,G
+Star Air (India),G
+Aviation Capital Solutions,G
+MGC Aviation,G
+TAT Nigeria,G
+Manta Air,G
+GR Avia,G
+Samoa Airways,G
+Elevate Jet LLC,G
+International Air Response Inc.,G
+AerGen Leasing,G
+Aeronautics Fund,G
+Ecole Nationale Aero Technique,G
+JetMagic,G
+Quick Link Aviation Services FZC,G
+Aeronautika Suntrans,G
+Aircraft Financing and Trading BV,G
+Tyumen Airlines,G
+European Cargo,G
+Afric Aviation,G
+Blue Bird Aviation (Sudan),G
+Grandmax Group Ltd,G
+Bank of Hawaii Leasing Inc,G
+KG Aircraft Rotable Co Ltd,G
+Aushaan Air,G
+BLF Ltd,G
+Atlas Air (Kenya),G
+Aurora Airlines,G
+Small Planet Airlines (Cambodia),G
+Aurora Aviation Group,G
+EAST Trust-Sub 12,G
+J&V Aviation FZC,G
+Avionco Canada Ltd,G
+BAE Systems (Operations) Ltd,G
+Melilla Airlines,G
+General Work Aviacion,G
+Gordon P & Ann G Getty,G
+Lionair Inc,G
+Cosmic Air,G
+Lignes Aeriennes Congolaises,G
+Intertrade Ltd,G
+Government of Angola,G
+United States Navy,G
+Jione Financial Service Co Ltd,G
+Airline Capital Leasing Inc,G
+King Maha Vajiralongkorn,G
+Pfizer Inc,G
+Stars Away Aviation,G
+Jasmin Airways,G
+Small Planet Airlines (Italy),G
+Mammoth Freighters,G
+Black Sea Airlines,G
+TAC Airlines,G
+Bravo Air,G
+Hola Airlines,G
+Air Atlanta Europe (1),G
+Firedancer Asset Holding II LLC,G
+Rusair,G
+Avient Aviation,G
+Aersource Ltd,G
+ASECNA,G
+LEAL Lineas Aereas,G
+Air Mauritanie,G
+Executive Turbine Air Charter,G
+Strategic Airlines Luxembourg,G
+Petrus Aviation Management LLC,G
+InterCaribbean Airways,G
+Transpacific Pty Ltd,G
+Infinity Transportation,G
+Kalair Ltd,G
+Republic of Iraq,G
+Focus Air Cargo,G
+Air Sirin,G
+HiSky Europe,G
+Exodus Aircraft LLC,G
+Maxjet Airways,G
+Champion Air LLC,G
+Titan Airways Malta,G
+Quantum Air,G
+Wayraperu,G
+Air Iberia,G
+Mid East Jet,G
+NasJet,G
+Cairo Aviation,G
+TT Airlines,G
+Air Niamey,G
+Guna Airlines,G
+Azza Transport,G
+Chrono Aviation,G
+Bukovyna Airlines,G
+Pan Am Clipper Connection,G
+Berniq Airways,G
+Orange Air,G
+Capital Trade & Energy LLC,G
+AJW Aviation,G
+Pecotox Air,G
+Azur Air Germany,G
+Costa Airlines,G
+APEX Airlines,G
+Sine Draco Aviation Development Ltd,G
+Willis Asset Management,G
+Diexim Expresso,G
+San Marino Executive Aviation,G
+Unconfirmed CIS Bank / Broker / Lessor,G
+Charleston Partners Ltd,G
+Animawings,G
+Thai Summer Airways,G
+Saicus Air,G
+300P Holding ehf,G
+Angkor Airways,G
+North South Airlines,G
+Refine Inc,G
+Eagle Air Iceland,G
+Houston Rockets,G
+AELS,G
+Continental Airways,G
+Limitless Airways,G
+Jambojet,G
+Panavia Cargo Airlines,G
+SalamAir,G
+Gordon Brothers Commercial and Industrial LLC,G
+Government of Mali,G
+Petro Air,G
+Meridian Airlines,G
+Hi Air,G
+Solenta Aviation Mozambique,G
+Royal Jet,G
+Lloyd Aereo Boliviano,G
+Procuraduria General de la Republica (Mexico),G
+Commercial Aviation International,G
+Royal Air Force of Oman,G
+Air Guyana,G
+Africa Airlines,G
+"Aviation Repair Technologies, LLC",G
+Milon Air LLC,G
+Privaira,G
+Sahara African Aviation,G
+Intensa Sanpaolo,G
+Ukrainian Cargo Airways,G
+Air Armenia,G
+Pencilland Ltd,G
+Asterias Commercial S.A,G
+Miami Air International,G
+Qwest Air Parts Inc,G
+Philipp Aviation Consulting & Engineering GmbH,G
+LH Investments and Leasing Inc,G
+Integra Aircraft Sales LLC,G
+KC International Airlines,G
+Banca Intesa,G
+Matthews Aviation Consultants LLC,G
+Royal Oman Police,G
+Yildizlar Aviation,G
+JMD Aviation Holdings LLC,G
+Safiran Air Lines,G
+Advanced European Technologies Ltd,G
+Clear Jet Lease Ltd,G
+Airfinancial Management Limited,G
+Atlasglobal Ukraine,G
+Nouvelle Air Affaires Gabon,G
+Dolphin Air,G
+Copenhagen Airtaxi A/S,G
+IMP Group International Inc,G
+Aircraft Propulsion Leasing LLC,G
+Amjet Executive,G
+SIR Aero,G
+Arkas,G
+Origin Pacific Airways,G
+MIA Airlines,G
+Novus Aviation,G
+Velvet Sky,G
+Alania Airlines,G
+Equaflight,G
+JIHB Two DAC,G
+Aeronaves Peruanas Air Cargo,G
+Shell Petroleum Development (Nigeria) Co,G
+Three Capital Partners LLC,G
+"JP Lease Products & Services Co., Ltd",G
+Westair Benin,G
+Ross Aviation,G
+Tempus Applied Solutions,G
+NASA,G
+Delayt OOO,G
+Skyworld Aviation,G
+727 Air Leasing Corp Inc,G
+Fifth Third Equipment Finance Co,G
+Government of Kenya,G
+Horizon Leasing Ltd,G
+Eagle Aviation FZC,G
+Euro Mediterranean Airlines,G
+GE Aviation Materials LP,G
+RPK Capital Management Group LLC,G
+Fly Hellas,G
+Solinair,G
+Tortug Air,G
+East Kazakhstan Region Air Enterprise,G
+Irmaos Passaura SA,G
+Fly Jet Kz,G
+SASCO Air Lines,G
+Southern Alps SA,G
+SW Italia,G
+Vista Georgia,G
+Fresh Air,G
+Highbury Group,G
+Aviacijas Kompanija Inversija SIA,G
+Viaggio Air,G
+SkyTaxi,G
+Venezuelan Military Aviation,G
+Euram Air,G
+White Eagle Aviation,G
+U Airlines,G
+Palestinian Airlines,G
+Sojitz Aircraft Leasing,G
+Fokus OOO,G
+Arrow Panama,G
+East Wing,G
+flyGR8,G
+HiSky,G
+Malek Air,G
+Liza Transport International,G
+AC Aviatie,G
+KJ Aviation Services Inc,G
+McKee Foods Transportation LLC,G
+Security Pacific Equipment Leasing Inc,G
+KAPO Avia - Gorbunova,G
+Congo Express,G
+Avstar Aviation,G
+Korongo Airlines,G
+Avmax Aviation Services,G
+Fast Brilliant Investment Ltd,G
+Excellent Air,G
+FAI rent-a-jet,G
+FlyGeorgia,G
+Skyservice Business Aviation,G
+Suasa Airlines,G
+Bright Flight,G
+Bishopsgate Aircraft 2008 Ltd,G
+Megantara Air,G
+Pratt & Whitney Canada,G
+30 West Inc,G
+Flightstar Trading LLC,G
+Airtex Enterprises Ltd,G
+California AirSales Inc,G
+FGL Aircraft Ireland Ltd,G
+VAS Aero Services,G
+Privajet Ltd,G
+Transwede Airways,G
+Hooters Air,G
+Highland Airways,G
+KEB Aircraft Sales Inc,G
+MAP Executive Flightservice,G
+Regional Cargo,G
+FBA Airplane Inc,G
+ASL - Air Service Liege,G
+Aerosyncro,G
+Air Box Cargo,G
+East-West Express,G
+CAW Finance Corporation,G
+Asia Continental Airlines,G
+Mid Airlines,G
+Belfairs (UK) Ltd,G
+Aircraft Acquisition Group II LLC,G
+Minoan Air,G
+Skylease II Inc,G
+Aerokontrol (FSUE),G
+Unconfirmed Tajikstan Airline,G
+DAC Aviation East Africa,G
+Generation Jets LLC,G
+Connect Cargo,G
+BNY Capital Funding LLC,G
+Borrower 2019 No1 Pty Ltd,G
+Albatros Airlines,G
+Lighthouse Aviation,G
+UT Finance Corp,G
+Lumiwings,G
+Aquiline International Corporation,G
+Ford Motor Co,G
+Interavia Airlines,G
+RVL Aviation Ltd,G
+Sberbank Leasing,G
+Stratus Ltd,G
+Athens Airways,G
+Kush Air,G
+Peterborough 850 LLC,G
+Ababeel Aviation,G
+Commonwealth Bank of Australia,G
+Aerochaco,G
+Sundsvallsflyg,G
+R1 Airlines,G
+Finaircraft,G
+Aircraft Solutions 27108/27109 LLC,G
+Royal Air Charters,G
+Zavod 410 GAZ,G
+Government of Poland,G
+Islamic Republic of Iran Army,G
+Pinnacle Partners LLC,G
+Aerofinance LLC,G
+Air Urga,G
+Unconfirmed Djibouti Airline,G
+Perm Airlines,G
+Punto Azul,G
+Czech Connect Airlines,G
+FL Technics,G
+Redenlake Aviation Inc,G
+International Air Leases Inc,G
+Airtrails Services & Management,G
+Merx Aviation,G
+Itek Air,G
+Engine Lease Finance Corp,G
+Royal Aero,G
+Norilsk Avia (1),G
+Zero Gravity Corp,G
+Armenian Air Force,G
+Aircraft 235 LLC,G
+Charter Air,G
+Kahala Aviation,G
+Joasro Aviation,G
+Aurora Leasing Inc,G
+Bhoja Air,G
+Dutch Royal Flight,G
+Fly Union,G
+AOGLINE.com Inc,G
+Kallat Elsaker Air,G
+AV Cargo Airlines,G
+Eurus Aviation,G
+Unconfirmed Gabon Airline,G
+North American Jet,G
+Flex Airlines,G
+Q Aviation LLC,G
+Malta MedAir,G
+Coanda LLC,G
+Euromanx,G
+Air Alanna,G
+Constel Aviation Services,G
+Hotel du Bois Rouge Corp,G
+Flight Technology Aviacompany,G
+Skiva Air,G
+Rayani Air,G
+Clipper Aviation Services,G
+Discovery Air,G
+Skybus,G
+TGI-Lizing OOO,G
+Fleet Air International,G
+LAI - Linea Aerea IAACA,G
+SkyExec Aviation Ltd,G
+Halcyonair Cabo Verde Airways,G
+Gryphon Aviation Leasing,G
+ARC Shengtai Corporation,G
+Finnish Air Force,G
+Premiair (Indonesia),G
+Citicorp North America Inc,G
+S-Air,G
+Turboprop Ventures LLC,G
+Unconfirmed Armenian Airline,G
+Rajshahi Air,G
+Aircraft Investments Ltd,G
+SARPA,G
+Livemercial Aviation Holding LLC,G
+MEGAviation SRL,G
+PNCEF LLC,G
+USL Capital Corp,G
+Airlift Service,G
+Sobel Air Ghana,G
+Jet Plus America LLC,G
+Best Jets International Inc,G
+Turkish Navy,G
+Seagle Air,G
+LPJ Aircraft Finance LLC,G
+Super Air Jet,G
+Angolan Peoples Air Force,G
+Halla Airlines,G
+Air Trading International LLC,G
+AeroCondor Express,G
+Mena Aerospace,G
+Pembroke Group & Aircraft Financing and Trading BV,G
+Jubba Airways (Somalia),G
+Bremer Business Finance Corp,G
+The Love2Fly,G
+Botswana Defence Force,G
+Turan Air,G
+Ghana Air Force,G
+L & E Sweden AB/Advantage Aviation Services Sweden,G
+Judah 1 Inc,G
+First Flight Couriers,G
+Imperial Air Cargo,G
+Mitsui Bussan Aerospace Corp,G
+KC Air Show Charities Inc,G
+Jet Technics slr,G
+Pinnacle Aircraft Parts Inc,G
+Regional Paraguaya,G
+Jet Engine Technology Corp,G
+Quikjet,G
+Servivensa,G
+Niger Airlines,G
+Prudential Retirement Insurance & Annuity Company,G
+AP Finance Ltd,G
+Air Transport Office,G
+Kosmos Airlines,G
+Georgian Airlines,G
+Via Air,G
+AlisCargo,G
+Ram Air Sales Inc,G
+KP Aviation LLC,G
+Vigo Jet,G
+China Aircraft Leasing Company,G
+Aircraft Leasing & Management Ltd (Malta),G
+Formula 1,G
+Aerolineas SOSA,G
+Celestial Airways Limited,G
+Mineralogy Pty Ltd,G
+Aftrans Aero DMCC,G
+Eram Air,G
+Enrique Pineyro,G
+Small Planet Airlines (Estonia),G
+ST Engineering Aerospace,G
+Albion Aviation LLC,G
+MSN25368 Corp,G
+Challenge Airlines IL,G
+Tenir Airlines,G
+80C2 Partners LLC,G
+Unconfirmed Indonesian Airline,G
+Philippine Air Force,G
+iAero Tech,G
+Brisair Ltd,G
+Corporate Tajikstan Operator,G
+Linus Airways,G
+Airlift International of Ghana,G
+Aero Nomad,G
+Anugrah Mandiri Walesi,G
+Golden Wings Aviation,G
+Wizz Air Abu Dhabi,G
+Mongolian Airways,G
+Lanhsa Airlines,G
+Comores Aviation,G
+Menajet,G
+WDC Leasing Corp,G
+JetOneX LLC,G
+Vildanden,G
+Lockard Aircraft Sales Co,G
+Multiple Solutions,G
+Luxury Air LLC,G
+Pivot Airlines,G
+Fly540 Ghana,G
+Unicredit,G
+RUS Aviation,G
+CRJ 7779 LLC,G
+Eirjet,G
+FlightWorks,G
+Do-Tec GmbH,G
+Int'Air Iles,G
+Aircraft & Engine Support LLC,G
+Millers Capital Investments Pte Ltd,G
+John Travolta,G
+Kan Air,G
+Air Lituanica,G
+Crane Aircraft Partners,G
+AS&L LLC,G
+Inter Island Airways (American Samoa),G
+Avion Capital Partners,G
+KAP.KG Cargo,G
+Ameritech Credit Corp,G
+Vertical De Aviacion,G
+Slate Aerospace LLC,G
+East Flight Operations Ltd,G
+Abbas Amini,G
+Keybank National Association,G
+Pacific Aviation Group LLC,G
+Caisse D'Epargne Ingepar,G
+Pac Jet Acquisitions LLC,G
+Air One Leasing Inc,G
+Green Flag Aviation,G
+LASA Lineas Aereas,G
+FirstBank Puerto Rico,G
+Elite Airlines,G
+Esen Air,G
+Kirland 41022 LLC,G
+Orion Engine Services LLC,G
+Toos Airlines,G
+Tiramavia,G
+Global Equipment Lease Ltd,G
+LD Services LLC,G
+BNY Leasing Corp,G
+Business Aero,G
+IMP Group Ltd,G
+Backbone Aviation A/S,G
+United Aircraft Corporation,G
+Casco Aero Ltd,G
+Owen Air,G
+"Global Air Fleet, LLC",G
+Global Aviation Leasing LLC,G
+Khozu Avia,G
+Air Montenegro,G
+Monocoque Diversified Interests,G
+Aviatsa,G
+Listari Marina Sdn Bhd,G
+Goldman Sachs & Co,G
+Unconfirmed Guinean Airline,G
+Pearl Aircraft Corporation,G
+Interleasing,G
+Interstate Airlines,G
+Vincent Aviation,G
+MSN 24452 Ltd,G
+Alfa Air Services,G
+Casino Rodos,G
+JoinJet,G
+Nova Air,G
+Sparrow Aviation,G
+Tor Air,G
+Strong Tower Properties X LLC,G
+Sky Trade Ltd,G
+Pace Cargo Enterprises,G
+Krasnoyarsk Regional Government,G
+Peau Vava'u,G
+Jet-Star,G
+Sky Border Logistics Ltd,G
+Oceanic Aviation 1 Ltd,G
+SG Air Leasing Ltd,G
+BB Airways,G
+SmartJets,G
+US Bancorp Equipment Finance Inc,G
+Stanton Defense Industries Inc,G
+Aircraft & Engine Parts LLC,G
+223rd State Airline Flight Unit,G
+MAP Ulan Ude APO,G
+Transwest Air,G
+SJL Aeronautica Congo,G
+Transaviaservice,G
+Apsara International Air,G
+GIE RJ Fin,G
+Aircraft N532AU LLC,G
+Amerer Air,G
+Air Atlantique,G
+Latin American Wings,G
+Al Anwa Establishment,G
+Elite Aviation,G
+Kargo Xpress,G
+LTA-Linea Turistica Aereotuy,G
+M1 Commercial Jets Ltd,G
+Aero Majestic Charter Services,G
+Ajwaa Airlines,G
+Royal New Zealand Air Force,G
+IJT Aviation,G
+Keen Max Development Ltd,G
+Fly Blue Crane,G
+Sigma Airlines,G
+CV Cargo,G
+Mali Air Force,G
+IBEX Air Charter,G
+Aviatrans K,G
+Saturn Aviakompania,G
+Vdp Aero Services,G
+Agneet Sky Limited,G
+Swiflite Aircraft Corp,G
+Astra Holdings Limited,G
+NAYSA,G
+Government of Togo,G
+NyxAir,G
+Hapero Aircraft 50,G
+Government of Algeria,G
+Air Asturias,G
+National Airways Corporation,G
+Nordea Finance Sweden Plc,G
+Colombian National Police,G
+Jhonlin Air Transport,G
+IAP Group Australia Pty Ltd,G
+Myway Airlines,G
+Cobra Jet,G
+Air Tahoma,G
+Scotland PLC,G
+Wells Fargo Bank NA,G
+Elevate Capital Partners,G
+Senator Flugzeuge GmbH And Co Kg,G
+Norfolk Air,G
+Dove Air Services,G
+Maxavia,G
+Eleron,G
+Air Corridor,G
+MCA Airlines AB,G
+FlyCAA,G
+East Horizon Airlines,G
+Luxor Air,G
+Aerolift Airways,G
+Aviro Air,G
+Community Airlines,G
+Citelynx Travel Ltd,G
+Cypress Leasing,G
+S7 Group,G
+Fastway Leasing Ltd,G
+Transamerica Aircraft Finance Group,G
+Sky Cana,G
+Aerolineas Sudamericanas,G
+Pakistan Air Force,G
+Silver Air,G
+TECO Investments Inc,G
+Allegiance Air,G
+Sky One sro,G
+Alterna Capital Partners,G
+PDVSA Petroleo SA,G
+Sirte Oil Company,G
+Sabena Technics (DNR),G
+Unconfirmed Ukrainian Company,G
+Zimbabwe Airways,G
+Aviation Technologies Inc (PA),G
+MyWings,G
+Continuity Air Finance VIII BV,G
+Uniworld Air Cargo,G
+Euro Oceanic Transport Ltd,G
+Hong Kong & Shanghai Banking Corp,G
+Transportes Generales Aereos,G
+7th Sky,G
+RCR Air LLC,G
+Andjet Havacilik ve Seyehat Ltd,G
+EFW,G
+Polish Air Force,G
+Asialink Cargo Airlines,G
+Fly Tanzania,G
+Sky Aviation Ltd,G
+National Regionale Transport,G
+Aero Rent,G
+MAP Asset Preservation LLC,G
+UR Airlines,G
+AVIC International Leasing,G
+Pacific AirFinance,G
+Ark Airways,G
+North Shore Aircraft LLC,G
+Strong Aviation,G
+Aeroresiduals / Kellstrom Industries,G
+LAC - Linea Aerea Cuencana,G
+ETF Airways,G
+Mountain Aircraft Services Inc,G
+CAVU Aerospace Inc,G
+Ladoga,G
+Valljet,G
+Alas Uruguay,G
+Air Maleo,G
+Kyrgyz Trans Avia,G
+Unconfirmed Libyan Airline,G
+Indonesian Police,G
+Volare Airlines,G
+Trygon Ltd,G
+Cara Aircraft Leasing Inc,G
+PB Leasing CA (UK) Ltd,G
+Jetlite,G
+53251 LLC,G
+Rockton,G
+Worldwide Equipment Financial LLC,G
+Fly Lili,G
+Samara Airlines,G
+Walker Aviation Finance Ltd,G
+Divi Divi Air,G
+Executive Jet Group I LLC,G
+Alajnihah Air Transport,G
+TC Skyward Aviation,G
+Diamond Sky OU,G
+First Chicago Leasing Corp,G
+Flight Director Inc,G
+Hokkaido Air System,G
+Sky Capital Airlines,G
+LMO Fly Dynamics Development,G
+Allegiance Airways - Gabon,G
+Edwin Air Cargo,G
+RAF-AVIA,G
+Rocky S Morris,G
+Air Salvage International Ltd,G
+Everjets Madeira,G
+3TOP Aviation Services,G
+Andalus Lineas Aereas,G
+OLT Express Poland,G
+Honduran Air Force,G
+Eznis Airways,G
+Air Scotland,G
+Gabon Airlines,G
+Defence Research & Development Organisation,G
+Stratos,G
+Dan Air,G
+JALUX Americas Inc,G
+DFO Partnership,G
+Eftec (UK) Ltd,G
+Jet Stream International,G
+Unconfirmed Russian Company,G
+Rimbun Air,G
+Motor Sich Airlines,G
+ALG DC-9 LLC,G
+Volaris El Salvador,G
+Negri Immobiliare,G
+GATX Financial Corp,G
+Gomelavia,G
+Heavylift Cargo Airlines,G
+Mojave Jet Holdings LLC,G
+UTAGE,G
+Transafrican Air Ltd,G
+Lobaye Airways,G
+Titan Singapore Aircraft Leasing Ltd,G
+Cyrrus Air,G
+Sumitomo Bank Capital Markets,G
+Sky Bosnia,G
+Syrian Pearl Airways,G
+Aircraft 23684 LLC,G
+Turbo Resources International,G
+ARP 410 Airlines,G
+UAC (Ilyushin),G
+Italy First,G
+Smartlynx Italia,G
+Kellstrom Aerospace Group Inc,G
+Silverstone Air Services,G
+Sol Lineas Aereas,G
+Tibet Financial Leasing,G
+MSN 53470 LLC,G
+EquAir,G
+Westall Ltd,G
+Blue Sky,G
+Unconfirmed Moldovan Airline,G
+Gadair Lines,G
+KG Aircraft Leasing Co Ltd,G
+National Legacy for Aircraft Management,G
+Plaza Servicios Aereos,G
+Skies Airlines,G
+Unannounced non-commercial customer,G
+AMS Aircraft Services Ltd,G
+LINC Capital Inc,G
+Internal Finance (Pty) Ltd,G
+ScanBlu Airlines,G
+Fordair,G
+Ovenstone Ltd,G
+Bravo Aviation,G
+MetLife Capital LP,G
+CFS Aero,G
+SAM Intercontinental,G
+Propulsion Investments,G
+Regency Projects Ltd,G
+Jetlease Inc,G
+Macair Airlines,G
+Regional Aircraft Leasing 1 Pty Ltd,G
+Swift Air Cargo,G
+Omni-Blu Aviation,G
+Adelante,G
+Denver Air Support Inc,G
+NCC Key Company,G
+Aerocondor (Portugal),G
+Banc One Equipment Finance Inc,G
+Jet Managers International,G
+AC Leasing Inc,G
+Santos Dumont Aircraft Management,G
+NTE Aviation SW23063/23251 LLC,G
+China Everbright Financial Leasing,G
+LaserLine Lease Finance Corp,G
+One Source Aerospace,G
+Solenta Aviation Cote d'Ivoire,G
+LJ Properties Inc,G
+ME Aviation Services LLC,G
+Aero,G
+Domodedovo Airlines,G
+Cramington Aviation Limited,G
+PT. Eastindo Services,G
+GATX 737-800 Partners LDC,G
+Cirrus Aviation,G
+Elas Professional Services Network BV,G
+Lizinkom,G
+Falcon Aviation Inc,G
+Pelangi Air,G
+South Phoenix Airways,G
+JARO International,G
+American Falcon,G
+Nex Aviation Aircrafts Ltd,G
+Emerald Airways,G
+Sky Gabon,G
+Galistair,G
+Cirrus Gmbh,G
+Joe Gibbs Racing Inc,G
+AirWheel,G
+Freedom Air Services,G
+Verizon Capital Group,G
+Fly 365 Aviation,G
+Hayways,G
+Seldon Partners,G
+Government of Tahiti,G
+Mars Aeroparts Trading FZE,G
+Globus Airlines,G
+Skybus Peru,G
+Aviator Airlines,G
+Air Universal,G
+3 Way Aviation Ltd,G
+Nine Star Airways,G
+Phoenix International Investment Group Co Ltd,G
+TRTO Agency Ltd,G
+Speed Star ( Hong Kong ) Limited,G
+Gambia International Airlines,G
+Avenue Capital AMR N624AA Inc,G
+Okapi Airlines,G
+Windavia,G
+Fly Jordan,G
+Government of Philippines,G
+AerOasis,G
+19th Hole Corp,G
+Khatlon Air,G
+South Sudan Supreme Airlines,G
+Marine Midland Business Loans Inc,G
+Airseven,G
+Aerospace Management Capital,G
+Corporate Italian Operator,G
+Tahmid Air,G
+Waterworld Jet Aviation,G
+Hermes Aviation Capital LLC,G
+Undisclosed Russian Operator,G
+Kuber Airlines,G
+Phoebus Apollo Aviation,G
+FlyCemAir Canada,G
+JW Aviation LLC,G
+Paramount Jet LLC,G
+Rheinland Air Service,G
+Air Amder,G
+FlyNamibia,G
+SkyAirWorld,G
+Star1 Airlines,G
+Lensib Jsc,G
+Europe Air,G
+First Airways S.A.,G
+Sunrider International,G
+Top Way General Trading LLC,G
+Sierra Foxtrot Zulu Aircraft Pty,G
+Gresham Marketing Limited,G
+JR Executive SAL,G
+Aviatica,G
+Bellevue Aircraft Leasing Ltd,G
+BVI Airways,G
+Air National Corporate,G
+Nasim Air,G
+Tiara Air,G
+Air Vega Bulgaria,G
+Commercial Aircraft Services Inc,G
+Serve Air Ltd,G
+Woelbern Flight Invest 01 GmbH & C/o. KG.,G
+Air Guicango,G
+Erickson Aviation LLC (OR),G
+Blue Sky Ventures Ltd,G
+World Aircraft Trading Inc,G
+Bank of Hawaii,G
+Emerald Airlines,G
+Fit Aero Iceland Ltd,G
+RGL-4 Corp,G
+Advantage Asset Sweden AB,G
+Hello Jets,G
+Air Lithuania,G
+LuxAviation Inc,G
+Heflin Business Inc,G
+Northern Lights Leasing,G
+Jet Express,G
+Government of Myanmar,G
+Merlin One Aircraft LLC,G
+Citibank,G
+Kraake & Associates Inc,G
+Russian Sky,G
+Sudamericana de Aviacion,G
+Royal Thai Police,G
+AirCorp Inc (Texas),G
+Fast Spread Investment Ltd,G
+Sigma Aircraft Management LLC,G
+Euroair,G
+LuftLine Georgia,G
+Scorpion Air,G
+Compass Cargo Airlines,G
+Fortune Air,G
+Unconfirmed Moldovan Company,G
+V9U-737 LLC,G
+Aban Air,G
+Trans Maldivian Airways,G
+Ruta Air,G
+Flywings,G
+Banque Indosuez SA,G
+Maya Island Air,G
+Futura Gael,G
+Vision Asset Co LLC,G
+Executive Aerospace,G
+Jiangsu JD Cargo Airlines,G
+Air Caucasus,G
+Barker Aeromotive,G
+Meridian Air,G
+Icar Air,G
+Sky Bishkek,G
+Bank of Scotland PLC (London),G
+Air Charter Express,G
+AU7 LLC,G
+19th Hole Inc,G
+Tbilisi Airways,G
+Aerospace Trading LLC,G
+Air Cuenca,G
+Finservice Bank Jsc,G
+POS Malaysia,G
+Cobrex Trans,G
+World Aviation Services LLC,G
+Voliamo,G
+Sakaviaservice,G
+Aero Controls Inc,G
+Aircraft 23169 LLC,G
+Historical Aircraft Restoration Society Inc,G
+ST Engineering Aerospace Engines,G
+Dauair,G
+Tandem Aero,G
+LinkAir Express,G
+Avtrade Ltd,G
+Rising Sun Aviation LLC,G
+Aerodyne LLC,G
+Air Transport Services Group (ATSG),G
+Erik Thun AB,G
+Air Pegasus,G
+Qanot Sharq,G
+Soir Premiere Enterprises Inc,G
+Omega Air Refueling Services Inc,G
+Aerodesierto,G
+Chornomorski avialinii,G
+Salam Aviation Services FZE,G
+Alpha Air,G
+Cello Air Finance,G
+Flycana,G
+Polet Airlines,G
+Fleet National Bank of Connecticut,G
+Bombardier Finance Inc,G
+Qingdao Airlines,G
+Siem Reap Airways,G
+Cronos Airlines (South Africa),G
+Empost Air,G
+ORIX Aircraft Corp,G
+Trinidad & Tobago CAA,G
+Woelbern Flight Invest 02 GmbH & C/o. KG.,G
+NPTC Inc,G
+Dirgantara Air Service,G
+IMD Airways,G
+Zimex Aviation Austria,G
+Air Turquoise,G
+Aero Bee Airlines,G
+CLC Capital LLC,G
+Aviation Sales MSN 26461 LLC,G
+Mimika Air,G
+Tronosjet Maintenance Inc,G
+AK Sunkar,G
+Best Aviation,G
+Exclusive Alliance,G
+Flightcraft Trading Ltd,G
+Flugvik ehf,G
+JetNetherlands,G
+Imperial Airlines,G
+Phoenix Aviation (Kenya),G
+Airstream Aviation,G
+Layonair,G
+Air West,G
+DaimlerChrysler Services North America LLC,G
+Oscar Jet,G
+Unconfirmed Lithuanian Company,G
+GS/MC Leasing (N14336) LLC,G
+T A Corporativos 2006,G
+Aviation Leasing Group,G
+Air International Ltd,G
+MDT (UK) Limited,G
+Peak Pacific Global Ltd,G
+Cardiff Aviation Malta,G
+Fuga Inc,G
+Hermes Aviation Ltd,G
+Innovative Aviation,G
+South Asian Airlines,G
+VGAS Procurement BV,G
+EGO Airways,G
+Siemens Financial Services Inc,G
+Air Carrier Accessory Service,G
+Andre Drevs,G
+Irtysh Air,G
+Avior Regional,G
+Lukoil Avia,G
+Fly Armenia,G
+STV Group a.s.,G
+Eswatini Air,G
+Trijet Global Air LLC,G
+Gambia Bird,G
+Libyavia,G
+Royal Malaysian Air Force,G
+Million Air Charter,G
+Aer Lucht,G
+Servicaribe Express,G
+ExecuJet (UK) Ltd,G
+Gremar Management S.A Ltd,G
+V M Rotar,G
+Avtrade Aircraft Leasing Ltd,G
+SC Toyo Motor Leasing IFN S.A,G
+Lubeck Air,G
+"Charter Jets, UAB",G
+Air Paradise International,G
+Italiatour Airlines,G
+Top Fly,G
+ERJ-145-025 LLC,G
+Strong Tower Services LLC,G
+Falcon Air,G
+Airlines of Mordovia,G
+Lehman Brothers Inc,G
+Sino Europe Aircraft Ltd,G
+Transworld Air Freighters,G
+Whirlpool Financial Corp,G
+Aeolian Airlines,G
+Export-Import Bank Of The United States,G
+AerDragon Aviation Leasing,G
+Paradigm Jet Management,G
+Inflite Engineering,G
+VECA,G
+SVMF 36 LLC,G
+World Sky Aviation FZE,G
+Mega Aircompany,G
+East Coast Flight Services Inc,G
+Aviacon Zitotrans,G
+Mwant Jet,G
+ERJ-145-026 LLC,G
+General Electric Capital Business Asset Funding Cp,G
+Delbitur,G
+Aviation Sales MSN 25022 LLC,G
+Gacela Air Cargo,G
+Egon Oldendorff OHG,G
+BellSouth Corp,G
+Floridian Community Bank,G
+VAH,G
+LAMIA,G
+ERJ-145-007 LLC,G
+Starling Aviation,G
+Zantop International,G
+Trust N693BR,G
+Albarka Air,G
+Zenith Aviation Inc,G
+Transaviaservis,G
+Beibars,G
+Airbus Defence & Space,G
+Easy Fly Express,G
+Hi Sky Airlines,G
+Puma Air Linhas Aereas,G
+E1076 Trading Ltd,G
+Air Phoenix,G
+Cressing Ltd,G
+Rainbow Aviation V.o.F,G
+Corporate Armenian Operator,G
+Jeritt Ltd,G
+Air Service Gabon,G
+ExecuJet Africa,G
+Honk Aviation Limited,G
+Aventure Aviation,G
+Meridien FZE,G
+Skyways Technics,G
+The MEC Group LLC,G
+Air Peru International,G
+Primaris Airlines,G
+Weststar General Aviation,G
+Hermes Aviation LLC,G
+Unconfirmed Indian Airline,G
+Golden International Airlines,G
+BIC Arrendamento Mercantil SA,G
+Winged foot LLC,G
+Georgian International Airlines,G
+Skytech-AIC,G
+Air Lease International One LC,G
+Eheim Flugzeug GmbH & Co,G
+Kemira Trading Ltd,G
+Aeronef Limited,G
+Jetcorp Technical Services Inc,G
+Green Africa Airways,G
+Aerogaviota,G
+Airgo Airlines (Greece),G
+Rainbow Air,G
+SkyBangla Airways,G
+Syrian Air Force,G
+West Caribbean Airways,G
+DVB Aviation Finance Asia Pte Ltd,G
+Nurman Avia,G
+Air Gabon,G
+Phoenix Avia,G
+SilkLine Air,G
+Contrail Aviation Support Inc,G
+Fly540 Uganda,G
+AeroUSA Inc,G
+Elitavia (Malta) Ltd,G
+New England Merchants Leasing Corp B-10,G
+Espace Aviation Services,G
+Kenn Borek Air,G
+First Security Leasing Company,G
+Northrop Grumman Systems Corp (Delaware),G
+Maersk Aircraft A/S,G
+Wu Air Corp,G
+Finlayt OOO,G
+Jet Asia,G
+PanAm Air Cargo,G
+JL Anna Lease Co Ltd,G
+Taron-Avia,G
+Trump Air,G
+Pratt & Whitney Engine Services Inc,G
+Sunlight Air,G
+PL Panorama Leasing Limited,G
+Vale S.A.,G
+JL Carina Lease Co Ltd,G
+Hi-Jet Helicopters,G
+Roger H Turnbaugh,G
+AirCruising Australia,G
+BizCharters Inc,G
+Ridgmount Holdings Ltd,G
+Grupo Adelac,G
+African Airlines Investments,G
+Fairchild Dornier,G
+Sierra Bravo Delta Aircraft,G
+Zone 4 International,G
+JRW Aviation Inc (Texas),G
+AT&T Credit Corp,G
+Mid Express Tchad,G
+Continuity Air Finance VII BV,G
+Government of Niger,G
+NXT Capital LLC,G
+Savannah Airlines,G
+MontAir,G
+Tec Aircraft Leasing Gmbh & Co Kg,G
+Air Charter United,G
+Unconfirmed Ukrainian Airline,G
+Eaganbail GIE,G
+Antares Aviation LLC,G
+Norris Aviation Services Australia Pty Ltd,G
+Paladin (Africa) Ltd,G
+Capital Aircraft Inc,G
+JL Sarah Lease Co Ltd,G
+MCA Airlines (1),G
+Third Star Aviation LLC,G
+Aviation Holdings II Investments LP,G
+Triton Aviation Services LLC,G
+Pronair,G
+Six Cargo,G
+Lonestar Aviation LLC,G
+Funair Corp,G
+342 Airframe Acquisition LLC,G
+Ararat International Airlines,G
+Ansett Australia Cargo,G
+Fly Salone,G
+Enterprise World Airways,G
+Imtrec Aviation Cambodia,G
+Avaio Ltd,G
+Chasseral Aircraft Leasing Ltd,G
+Grossmann Air Service,G
+Dornier 3095 LLC,G
+GST Aero Aircompany,G
+Samal Air,G
+Airline Transport,G
+Lynx Taxi Aereo Ltda,G
+Chrome Air Services,G
+Cesa Cargo,G
+SP Aircraft Owner IV LLC,G
+Gromov Flight Research Institute ( LII ),G
+Albatros Airways,G
+Fly Guam,G
+Daruro Airline,G
+Fly Wings LLC,G
+GIE Danda,G
+Nomads,G
+Arab Leasing International Finance,G
+Safair Lease Finance,G
+Bravo Airlines,G
+Rocky S Morris & Mary E Morris,G
+Sol Airlines,G
+Saratov Aviation Plant,G
+Flycorp Ltd,G
+Bristow Helicopters (UK),G
+Privatair Saudi Arabia,G
+Jetways Airlines,G
+Prestige Avia,G
+Aventura Aviation LLC,G
+Buffair Services,G
+Vermeer Global Aviation Sevices,G
+Pacific Coast Group Inc,G
+Air Falcon,G
+Gary 737 LLC,G
+CFM Materials LP,G
+Libertas Holding AS,G
+Nuevo Continente,G
+Augusta Aviation (Cayman) Inc,G
+Fly Erbil,G
+Alphastream AG,G
+Clear Blue Capital PTY Ltd,G
+Braun Racing Aviation LLC,G
+Jetstream Aviation Capital,G
+Pacific Gas & Electric Co,G
+Zermatt Ltd,G
+GETRA-Guinea Ecuatorial de Transportes Aereos,G
+Turbo ATR Partnership,G
+Air Universal (Cyprus),G
+Grizodubova Aviation Company,G
+Nona Trade Corporation GmbH,G
+Prestige Jet,G
+FGUAP MCHS Rossii,G
+Premier Avia Service,G
+AVCOM,G
+Government of Taiwan,G
+Lowa Ltd,G
+Canoga Capital Corp,G
+Regional Air Services,G
+Unconfirmed Airline,G
+SkyKing Airlines,G
+Jetsgo,G
+Avico Asset Management,G
+United Aircraft Corporation (Aviastar-SP),G
+Opel Investments,G
+Star Jet,G
+Unconfirmed Kazakhstan Airline,G
+Eastern Trade Wings Denmark ApS,G
+Star Airline,G
+Desert Eagle LLC,G
+Leasing Roma SpA,G
+Ascent Aviation Services (Marana),G
+Unconfirmed Russian Airline,G
+ERJ145 Msn 145524 LLC,G
+Afghan Air Force,G
+Knight Airlines,G
+Meditair,G
+Air Midwest (3),G
+Aero Acquisitions LLC,G
+Jupiter Jet,G
+Tikal Jets Airlines,G
+Tiko Air,G
+Bay Aeroservices Inc,G
+Aquila Air Capital,G
+Latinoamericana de Aviacion SA,G
+BCI Aircraft Leasing Ireland Ltd,G
+Fujairah Amiri Flight,G
+T.P Mazembe,G
+Air Leap,G
+Nedbank Ltd,G
+US Department of State - INL Air Wing (INL/A),G
+Hong Kong Meilian Airline Share Ltd,G
+Source One Spares,G
+Aer Lingus UK,G
+SKYnet.aero,G
+Bangkok Helicopter Services,G
+Eastgate Investments (London) Ltd,G
+Precision Aircraft Solutions,G
+Sol del Paraguay Lineas Aereas SA,G
+Red Apple Aviation Inc,G
+SP Aircraft Owner VI LLC,G
+Air Company Continent,G
+South East Airlines - Dagestan Airlines,G
+Grand Airlines Inc,G
+Locat SpA,G
+Protocole Aviation,G
+West Caribbean Costa Rica,G
+WS Aircraft Holdings 1 LLC,G
+FlyAruba,G
+Atyrau Air Ways,G
+C.S.P. Societe,G
+Bionic Aviation,G
+FX Aviation Capital LLC,G
+LG Aviation Inc,G
+Towards Air LLC,G
+Business Jet Access,G
+Starwood Flight Operations Inc,G
+Australian Corporate Jet Centres Pty Ltd,G
+Chip Ganassi Racing Teams Inc,G
+Chip Ganassi Racing with Felix Sabates Inc,G
+Eurex Airlines,G
+Largus Aviation,G
+MWG Avia,G
+Geo Fly Airways,G
+Samara Airlines (Georgia),G
+GATX Air,G
+Unconfirmed Kyrgyzstan Airline,G
+Regional International Air Services,G
+WuMac Inc,G
+AirCapital Aviation Services LLC,G
+Thompson SPE LLC,G
+Air Kazakhstan (1),G
+Boreal Aviacion,G
+Flying Colours Corp,G
+Pembroke Capital Shannon 2000 Ltd,G
+Comlux Aviation Malta,G
+Triton Aviation Cargo Conversion LLC,G
+Aztech Ltd,G
+Tbilaviamsheni Georgia,G
+Planet Airways,G
+Al-Atheer Establishment,G
+Botir Avia,G
+UAC (Irkut),G
+Skyline Aviation,G
+Aeronautical Engineers Inc,G
+ADA Air,G
+Government of the Ivory Coast,G
+Heritage Air,G
+SP Aircraft Owner II LLC,G
+US Airways Group Inc,G
+Hemmer Management & Beheer BV,G
+Lineas Aereas Santomenses,G
+Fly Air 41,G
+ANCL Investments Limited,G
+flybig,G
+Zia Turbopower Inc,G
+Sumisho Aircraft Asset Management BV,G
+Piraeus Financial Leasing SA,G
+AL22371 LLC,G
+Bulair,G
+Air Atlanta Europe,G
+Universal Express Holdings Limited,G
+Salaam Air Express,G
+Jordan International Air Cargo,G
+Corporate Russian Operator,G
+Sierra West Airlines,G
+KLM UK Engineering,G
+ASSL Air,G
+Rollins Air,G
+Fly ZeJet,G
+Orient Aviation Services,G
+United Aviation (Kuwait),G
+Kinshasa Airways,G
+Air Antwerp,G
+Flightec International,G
+Select Leasing Inc,G
+Scaife Flight Operations LLC,G
+Royal Air (Gambia),G
+Zodiac Group,G
+Fly540 Angola,G
+Master Airways,G
+Benin Golf Air,G
+International Jet Management GmbH,G
+Afrijet,G
+Aerostan,G
+Aerovip,G
+Regional Air (Kenya),G
+Fleet Air International (Bulgaria),G
+Wetrafa Airlift,G
+CRJ 7245 LLC,G
+CRJ 7408 LLC,G
+SP Aircraft Owner III LLC,G
+Aeroinversiones SA,G
+IAGB A300 LLC,G
+QinetiQ Ltd,G
+Africa Airways,G
+PeopleFly,G
+Tropical Air,G
+RICO Linhas Aereas,G
+Medavia,G
+Chen Avia (Pty) Ltd,G
+Air Rum International,G
+Air Glona,G
+Renegade Air,G
+RepublicAir,G
+OWG,G
+Commercial Aviation Services LLC,G
+Magadanavialeasing,G
+Okada Air,G
+Equipment Sales and Leasing LLC,G
+Skyway,G
+SRF Aircraft Services Inc,G
+Aero Technologies Inc,G
+Air Carnival,G
+Houston Aircorp Basketball LLC,G
+FaroeJet,G
+Capex Leasing,G
+Desna Avia OOO,G
+Emery Worldwide Airlines,G
+Icelandic Coast Guard,G
+Avcorp Industries,G
+Alvar Enterprises,G
+JM 21695 LLC,G
+Marbyia Investments,G
+Avex Air,G
+Sunny Airways,G
+Click Airways,G
+Stansted Aircraft Finance (No.1) Ltd,G
+flyOristano,G
+Air Transport Acquisition Corp,G
+Islamic Republic of Iran Navy,G
+Misger S.A.,G
+ING Lease France SNC,G
+Servicios Aereos Rio Baker,G
+Civil Aviation Authority,G
+Quest Aviation Holdings Limited Partnership,G
+CRJ 7440 LLC,G
+Star Airways,G
+Golden Wings,G
+I-Fly Air,G
+CityLine Hungary,G
+MR Lines,G
+Sverdlovsk 2nd Aviation Enterprise,G
+TAVAJ,G
+Dateline Overseas Ltd,G
+Perfect Aviation SDN BHD,G
+Crescent Air Cargo,G
+ESL4SIA Educational Services Inc,G
+Czech Air Force,G
+Challenge Airlines,G
+Magadan Regional Government,G
+Rockland Aerospace,G
+Euroguineana de Aviacion,G
+Al Nassr Ltd,G
+DC-Seis Cargo SA,G
+H S Aviation,G
+Pinnacle Aircraft Leasing,G
+Calder Ltd,G
+Fairchild Dornier (AvCraft),G
+Pragma MB SA,G
+Comlux Aruba,G
+Constellation Productions Inc,G
+Lamont Sea Maritime SA,G
+Trident Aviation Leasing Services (Ireland) Ltd,G
+ANAP Jets,G
+DirektFlyg,G
+Hex' Air,G
+Aguila One Corp,G
+SOAR,G
+Star Air Aviation,G
+Compagnie Mauritanienne de Transports Aerien,G
+Lockheed Martin Aeronautical Systems,G
+Conquest Air Inc,G
+Montrose Global,G
+Jet Maintenance Solutions,G
+PS Group Inc,G
+ATK Antey-2 OOO,G
+ASL Airlines UK,G
+Bornholmerflyet,G
+Air Speed Charter FZE,G
+Ilyushin Finance Company,G
+Aeroparts Inc,G
+Government of Turkmenistan,G
+Jenny Jamet,G
+Zebriflo Investments (Pty) Ltd,G
+Nigeria Airways,G
+Johnsons Air,G
+El Dinder Aviation,G
+Transpacific Heavylift Inc,G
+ZAO Liner,G
+Comfort Line Ltd,G
+Fly BAe146,G
+John Mark Chiddick,G
+Quart Aviation Aircraft One,G
+Wasaya Airways,G
+Fira SarL,G
+Triarc Company,G
+Turbo 72-500 Leasing Ltd,G
+Vizion Air,G
+Gordon P Getty,G
+Slovakian Airlines,G
+Air Rotables Inc,G
+Air Brasil Linhas Aereas,G
+RSM Richter Inc,G
+Tropical,G
+Palau Airways,G
+Thai Sky Airlines,G
+Orient Air,G
+AGV International Leasing NR 11 Gmbh & Inter KG,G
+Coprix Finance Ltd,G
+Aerotradex Inc,G
+PRiMA Aero Trasporti Italiani,G
+The Flightstar Group Inc,G
+AviaStar Air Company,G
+Heidi Aviation LLC,G
+ISR Platforms LLC,G
+Hudson United Bank,G
+FlyValan,G
+QIC Europe Ltd,G
+Hibernian Airlines,G
+Marshall Aerospace Ltd,G
+Cybergate Nevada LLC,G
+Russian Federal Frontier Guards,G
+Mahfooz Aviation,G
+Fanjet Express,G
+SP Aircraft Owner I LLC,G
+Aravco Ltd,G
+Airlink (PNG),G
+Honeywell International Inc (Arizona),G
+Air Indus,G
+Fairfield Aviation Ltd,G
+Government of Gambia,G
+Alok Air,G
+Cape Finance Ltd,G
+Pilar II Leasing Ltd,G
+Sun Air Aviation,G
+Luxury Air,G
+Unconfirmed Philippine Airline,G
+Wallis Trading Company,G
+Fugro LADS Corporation Ltd,G
+Congo Airways WAC,G
+Elite Express LLC,G
+Angola Air Charter,G
+Canguro o.n.l.u.s. Flights Aid,G
+Asia Wings,G
+CATIC,G
+Airclass Airways,G
+JL Rhein Lease Co Ltd,G
+Air Chathams,G
+Nordea Finans Sverige AB,G
+Double O Aviation LLC,G
+Trans Air Benin,G
+Sterna Linhas Aereas,G
+Silverwing,G
+Government of Madagascar,G
+Atruvera Air Transport Company,G
+Flycraft II ltd,G
+Wingo xprs,G
+Peresvet Avia,G
+FlyEst,G
+Easycharter,G
+Caribbean Cargo Carriers LLC,G
+Eurolynx Corporation,G
+Khanty-Mansiysk Regional Government,G
+Aero-Fret Business,G
+Archway Aviation,G
+Delcar Express,G
+OFSB Ltd,G
+Royal Dutch Air Force Historic Flight,G
+Mena Cargo,G
+Enterprise Aviation Bermuda Limited,G
+Pilar I Leasing Ltd,G
+Vitoria Regia Leasing Limited,G
+Castle Aircraft Finance (No1) Ltd,G
+Ban Air Cargo,G
+Elbee Airlines,G
+ASAS Linhas Aereas,G
+Technoline FZC,G
+Jet Express Holdings Ltd,G
+Rudufu,G
+Ajwa Aviation,G
+Aztec Alliance Cargo,G
+Flying Tech Co Ltd,G
+Gala Trans Cargo,G
+Transflorida Aviation LLC,G
+Guardia di Finanza,G
+Jetcom S.R.L,G
+Jump Air,G
+River One Ltd,G
+Asia Airways,G
+Hellenic Air Force,G
+Sun Air (Egypt),G
+Alan Moffatt,G
+OK Consultants Inc (California),G
+Aviodetachment 28,G
+Cal Jet Air,G
+Oryx Jet,G
+V6U-737 LLC,G
+Portigon Financial Services AG,G
+Validus Aviation 757 LLC,G
+Parallel Express,G
+Yeongnam Air,G
+UAUA 2000-2 EETC Portfolio,G
+Business Aviation Group,G
+SAAD Air Ltd,G
+Mass Holding NV,G
+AirSal,G
+Kalitta Charters,G
+Noor Airways,G
+Asian Leasing Group Ltd,G
+Greenapple Inc,G
+DDH Aircraft Corp,G
+Mr E Baleke et al,G
+Djibouti Air,G
+Starline.kz,G
+International Airline Support Group Inc,G
+Xejet,G
+Freedom Air (Greece),G
+Bismillah Airlines,G
+South African Air Force,G
+International Aviation Holdings,G
+IFL Group,G
+Air Leone,G
+JMC Investments Pty Ltd,G
+Avia Import,G
+Aeronautica,G
+Coapa Air SA de CV,G
+AMS Airlines,G
+Central Airlines,G
+Galaxy Aviation,G
+Savanna Aviation LLC,G
+Sunu Air,G
+ACME Aircraft Parts Emporium Inc,G
+PharmAir Corp,G
+KB Aircraft Acquisitions LLC,G
+410 Airframe Acquisition LLC,G
+Air Class Cargo,G
+Heritaviation II,G
+Pacific Royale,G
+Clay Lacy Aviation Inc,G
+Delos Leasing Corp,G
+hdair.com,G
+debis Financial Services Inc,G
+Corporate Aircraft Leasing Ltd,G
+Avias-2000 Ltd,G
+Kush Aviation,G
+Quiroz Sanchez Gerardo Alejandro,G
+Special Ops Ltd,G
+Melendez African Open Sky,G
+GoldenWings Aviation (SA) Pty Ltd,G
+PSEG Resources Inc,G
+Finaval Aviation Srl,G
+Societe Normande D'Enterprises SARL,G
+M&I Equipment Finance Co,G
+UEP Fly,G
+Malu Aviation,G
+Dimonim Air,G
+Platinum Services Ltd,G
+Northern Thunderbird Air,G
+SUR Lineas Aereas,G
+Sumitomo Mitsui Finance & Leasing,G
+TNT Express Worldwide UK Ltd,G
+Holiday Airways,G
+Trident Jet (Jersey) Ltd,G
+Airline Fleet Support BV,G
+SST Aviation Ltd,G
+Star Airlines,G
+Enar Lindstrom AB,G
+Nygard Ventures Inc,G
+SZ General Aviation Service Co Ltd,G
+Azov-Avia Aircompany,G
+Federal Government of Nigeria,G
+UAL 1994-A JETS Portfolio,G
+Mercury Radio Arts Inc,G
+Silk Road Cargo Business,G
+Twinjet Aircraft,G
+Atlantic Express,G
+Reliance Commercial Dealers Ltd,G
+Honeywell Inc,G
+Astar Air Cargo Holdings LLC,G
+Ukraine Ministry of Transport,G
+Olesya Aircraft Leasing Limited,G
+DB Export-Leasing GmbH,G
+Penas Air Cargo,G
+Aeromaster del Peru SAC,G
+OLT Regional Express,G
+ZanAir,G
+Meelad Air,G
+PIA Express,G
+Dresdner Kleinwort Wasserstein Leasing M,G
+Wanair,G
+Blueberry Aviation,G
+SAVA,G
+Sky One,G
+Ready 4 Aero,G
+Sky Prime Aviation Services,G
+TAG Aviation,G
+KF Aero,G
+Government of Uzbekistan,G
+Banc of America Commercial Finance Corp,G
+Aero Stock,G
+El Sol De America,G
+SouthJet One Limited,G
+World Wide Aircraft Ferrying Ltd,G
+K-Tractor Parts,G
+Aircraft Technical Support Sales Inc,G
+BAe Systems Inc,G
+ACE Aviation Services Ltd,G
+Government of Armenia,G
+Albatross Avia,G
+Fokker Aircraft N1426A Trust,G
+Peruvian Coast Guard,G
+Aero-Sky SA,G
+Moalem Aviation,G
+Stichting Fokker Heritage Flight,G
+Evergreen Aviation Sales & Leasing Co,G
+Falcon Air Leasing,G
+VASP,G
+Safire,G
+Sky Mali,G
+Rotec Industries Inc & RO II Inc,G
+Valley Commercial Inc & Global T & E Inc,G
+Kanem Air,G
+Fly 6ix,G
+Pacific Harbor Capital Inc,G
+Click Airways International,G
+Eagle Support Corp,G
+Glynn County Sheriff,G
+China Lantian Trade Company Ltd,G
+Riverhorse Aviation Group Inc,G
+Victorville Aerospace LLC,G
+Best Kompaniya OOO,G
+Elmo Aviation Ltd,G
+Air Lib,G
+422 Holdings Inc,G
+Valahia Air,G
+Gazelle Ltd,G
+Caltex Pacific,G
+Government of Ukraine,G
+Jenis Air,G
+Ukraine Air Alliance,G
+AELF FlightService,G
+Leasing Finance EAD,G
+Scibe Airlift,G
+Cen-Sad,G
+Starjet,G
+MGC Aircraft Maintenance,G
+Red River Aircraft Leasing LLC,G
+NXT Air,G
+TAPC Aviatrans,G
+Aerolineas Executive Jet,G
+East Shore Aircraft LLC,G
+GIE Lerins,G
+OMNI Taxi Aereo,G
+Asset Management Corp of Nigeria,G
+Orbital Science LLC,G
+Aerotekhservis,G
+Jatayu Airlines,G
+Antoine Finance Corp,G
+Coleman Jet LLC,G
+ConocoPhillips Alaska Inc & BP Exploration(Alaska),G
+Pacific Sky Aviation Inc,G
+Samaritans Purse,G
+MLW Air LLC,G
+Fly Tristar Services,G
+Air Mali (1),G
+Jetalliance Flugbetriebs,G
+Osab Air,G
+Photros Air,G
+Jordan Gate Airlines,G
+Blue Moon Aviation,G
+Ishtar Airlines,G
+Meteor Aero,G
+Rossiya State Transport Company,G
+Government of Chad,G
+Northeast Airlines,G
+Colombian Navy,G
+Aviation Partenaires,G
+Dau Global Leasing LLC,G
+Jet Tech International Inc,G
+D van Berkel,G
+Spectrum Aerospace,G
+PAC Jet Acquisitions III LLC,G
+Rio Amazonas,G
+K-Air,G
+VIF Aircraft Pty Ltd,G
+Banc of America Leasing & Capital LLC (2),G
+Mangol Airlines,G
+Aspire Airlines,G
+Al Tameer Co,G
+Fort Lauderdale Aerospace Inc,G
+"Trust N695BR, N696BR, N697BR",G
+Aeropostal Alas De Centroamerica,G
+Voyager Airlines,G
+Regional Aviation Group,G
+Saudi Royal Aviation,G
+AirTaxi Sudan,G
+Commercial Finance EFD 2002-II LLC,G
+Jetair Caribbean,G
+IRBIS,G
+Bricknell Aviation And Property Pty Ltd,G
+Crede Capital Group LLC,G
+X Aviation Group LLC,G
+Victoria Air,G
+Nav Canada Inventory Holding Company Inc,G
+Almajara Aviation,G
+Barclays Bank plc,G
+Jet Finance Group LLC,G
+Avio Bravo Ltd,G
+Air Highnesses,G
+Club328,G
+Corretajes Verisa Ltda,G
+Helicopteros Nimbus Sa,G
+Kolob Canyons Air Services,G
+Localease Aviation BV,G
+Zoom Airways,G
+Trans Gulf Corp,G
+Government of Belarus,G
+Globe Ltd,G
+PSI Air 2007,G
+Mundo Aereo S.A.,G
+Sunrise Asset Management LLC,G
+Aircraft Traders Belgium SA,G
+Hello Air,G
+Intergalactic,G
+Libyan National Army,G
+Picaflor Leasing Ltd,G
+Bestfly Cabo Verde,G
+Indus Airways,G
+Ariel Aviation IV Limited,G
+Air Tropiques,G
+First Financial Insurance Co,G
+Sky Aero,G
+Corporate Mexican Operator,G
+GRG Aircraft and Leasing,G
+Awsaj Aviation Services,G
+TM Aircraft 28563 Ltd,G
+Key Equipment Finance,G
+Sterlitamak Air Enterprise,G
+Thai Express Cargo,G
+Cheikh Niang,G
+Safe Air Company,G
+Socrates 622 Ltd,G
+JS Air,G
+Unconfirmed Venezuelan Airline,G
+Azmar Airline,G
+SAMCO Aviation,G
+Aldus Aviation,G
+Newjet Corp,G
+Sky KG Airlines,G
+Magellan Aviation Group,G
+Government of South Africa,G
+Asia Avia Airlines,G
+Skylease Ltd,G
+New Century Aviation - Oregon LLC,G
+Clementine Aviation Services Inc,G
+UMI International Inc,G
+CFTE - China Flight Test Establishment,G
+International Aircraft Management BV,G
+Aerolesen S A,G
+Go Jet Inc,G
+Will Airlift,G
+Stansted Aircraft Finance (No.2) Ltd,G
+727X Aerospace Corp,G
+Etram Air Wing,G
+DXD Holdings,G
+Arikayes Air,G
+Fayaka Airways,G
+Met Air,G
+Hubli Aircraft Leasing Ltd,G
+Ithifly,G
+Hellenic Imperial Airways,G
+Executive Airlines (Australia),G
+San Paolo Leasing SPA,G
+Eskglen Shipping Company,G
+Ryan MDBJ LLC,G
+McAir Inc,G
+Pearl Jam Touring Inc,G
+World2Fly,G
+United Breweries,G
+Drug Enforcement Administration,G
+Latittude Hub,G
+Busy Bee Congo,G
+All Canada Express,G
+JEGE Inc,G
+Wat Phnom Airlines,G
+Flying Fish Airline CC,G
+Star Equatorial Airlines,G
+Aerospace Sales & Leasing Co Inc,G
+EP Institut Geographique National,G
+AF Aerospace,G
+Hillwood Airways,G
+uSKY AIR,G
+Sky Eyes Airlines,G
+MET International Inc,G
+Moscow Sky,G
+Enimex,G
+Northwest Aircraft Inc,G
+Victory Jet,G
+Jet Aviation 125 Services LLC,G
+Safari Express Cargo,G
+First International Airlines,G
+Imetame Metalmechanica,G
+Falcon Administration LLC,G
+Kostar Airlines,G
+Paramount Jet,G
+Aquiline Austria,G
+CTA Aerospace LLC,G
+Mais Linhas Aereas,G
+AVENSA,G
+American Aerospace Inc,G
+Cascade Spares,G
+Maverick Aviation Holdings Inc,G
+Royal Son's Inc,G
+Airline Technical Support BV,G
+ATM Aviation,G
+ING Lease (Ireland) BV,G
+Corporate Paraguayan Operator,G
+Nicon Airways,G
+Dodson International Charter,G
+First Manx Aviation Holdings Ltd,G
+Fly Wex,G
+CMIG Leasing,G
+FSG Aviation Ltd,G
+International Student Recruitment (UK) Ltd,G
+Aeroparts SA,G
+Neptune Aviation Transport Services Inc,G
+Transporte Aereo,G
+Pacific Pearl Airways,G
+Bombardier (Learjet),G
+Century Services Inc,G
+Sky Star FZC,G
+Time Aviation SA (PTY) Ltd,G
+Worldwide Aircraft Holding Co (Bermuda) Ltd,G
+Aviation Inventory Resources Inc,G
+Flyjet Sdn Bhd,G
+Atlantic Aircraft Inc,G
+Eagle Aviation,G
+First Prop Aviation Ltd,G
+Premier Aircraft Management Inc,G
+Rom Cargo Airlines,G
+Rubloff MD87-936 LLC,G
+Sky Relief (Kenya),G
+Air Hold Assets Ltd,G
+Skyjet Ltd,G
+Air Guinee International,G
+CFS Air Cargo,G
+Dugan Kinetics NV LLC,G
+Government of Yemen Arab Republic,G
+Intal Air,G
+Mojave Jet LLC,G
+First Class Aircraft Repair Inc,G
+ConocoPhillips Alaska Inc,G
+Flyways Linhas Aereas,G
+Perris Valley Aviation Service,G
+Air Ventures AVV,G
+Avenue Capital AMR N625AA,G
+Comerica Leasing Corp,G
+Kayo Limited,G
+ST Engineering Aerospace Resources,G
+TAT Industries,G
+The Yucaipa Companies LLC,G
+AviancaTaca Holding SA,G
+Suncor Energy Inc,G
+Aerospace Asset Trading,G
+M-DOT Aviation LLC,G
+GS/MC Leasing Holdings (MD82) LLC,G
+Heritaviation II Europe Ltd,G
+Interflight Airline Marketing Consultant,G
+NG Eagle,G
+Saudi Oger,G
+Chelsea Green Aviation Ltd,G
+Dallah Avco,G
+Mojave Jet Asset Services LLC,G
+Petters Aviation LLC,G
+Aircraft Finance Services Inc,G
+Arabian Support and Services Co Ltd (ASASCO),G
+Avenue Capital AMR N623AA,G
+HL Aviation LLC,G
+Pan Am Railways Inc,G
+Tim Holdings,G
+BPI Aerospace Trading LLC,G
+Government of Azerbaijan,G
+LOCAFIT Locazione Macchinari Industriali SpA,G
+Bravo Cargo Air,G
+Fry's Electronics Inc,G
+Interstate Airways,G
+Pratt & Whitney,G
+Airbahn,G
+Arabasco,G
+Azul Uruguay,G
+Gateway American Holdings Inc,G
+Top Air,G
+AeroDan SA de CV,G
+Pan American Airways,G
+Team Aviation LLC,G
+Thales Airborne Systems,G
+Aero Postal Cargo de Mexico,G
+Corpac Canada,G
+MAT Airways,G
+One Charter LLC,G
+Platinum Airlines,G
+Star Dynamics Aviation LLC,G
+THT Air Services,G
+Corporate Central African Republic Operator,G
+Wiggins Airways,G
+CC2B LLC,G
+Earth Airlines,G
+XL Trading,G
+African Holding Co of America Inc,G
+Aviation Finance 3 Ltd,G
+Fokker Aircraft Services BV,G
+Jet Aviation Components&Aircraft International Inc,G
+Noybim LLC,G
+Planes For Africa,G
+Sectum Air Services Kft,G
+Semeyavia,G
+University Alas Peruanas,G
+ADC Airlines,G
+Air Batumi,G
+Interlease Aviation Investors LLC,G
+Kurdistan Airlines,G
+Magpie Aviation Leasing,G
+MED Airlines,G
+Peninsula Aviation LLC,G
+VIA Uganda,G
+227th State Airline Flight Unit,G
+230th State Airline Flight Unit,G
+231st State Airline Flight Unit,G
+"987 Investments, LLC",G
+A I Burnazyan Federal Medical & Biophysical Center,G
+A M F Aircraft Leasing Meier & Fisher Gmbh & Co KG,G
+A Zelinsky,G
+A. A. Bashirov,G
+Abavia,G
+ABX Holdings Inc,G
+Adeks-Avia,G
+Administration of Kogalym,G
+Advance Aviation Support Ltd,G
+Advance Leasing Company,G
+Aer Caribe Peru,G
+Aeriantur-M Airlines,G
+Aero-Pioneer Group,G
+Aero-Pioneer of Africa,G
+Aero-Service,G
+Aero-Tranzit,G
+Aero Africa,G
+Aero Lab International,G
+Aero North International Ltd,G
+Aero Partners Ltd,G
+Aero Rent 2000,G
+Aero Sky LLC,G
+Aero Trans Service,G
+Aerobratsk,G
+Aerocentro de Servicios Caroni,G
+Aerocom,G
+Aeroejecutivos CA,G
+Aeroexpress,G
+Aerofreighter LLC,G
+AeroGeo,G
+Aerogryf,G
+Aerojet Ltd,G
+Aeroklub Nowy Targ,G
+Aerokuzbass,G
+Aerolimousine,G
+Aerolineas Andinas,G
+Aerolux,G
+Aerom,G
+Aeromoscovia,G
+Aeromost - Kharkov Airlines,G
+Aeronautical Airmotive Modifications Inc,G
+Aeronavigatsiya Yuga,G
+Aeronord-Group,G
+Aeroparaguana,G
+Aeroservis OAO (Kazan),G
+Aerospace,G
+Aerospace Finance Leasing Inc,G
+Aerostroy,G
+Aerotec,G
+Aerotecnic LLC,G
+Aerotrust Ltd,G
+Aerotur Air,G
+Aerovis Airlines,G
+Aerovista Gulf Express,G
+Aerowings,G
+AfrBail GIE de Droit Francais,G
+Afreximbank,G
+Africa Air Assistance,G
+Africa One,G
+Africa United Holding Co,G
+Africa West,G
+Africa West Cargo,G
+African Air Service Commuter,G
+African Airlines Express,G
+African Daze Trading 513 CC,G
+Afrik Air Links,G
+Agat OOO,G
+Aigle Aviation,G
+AIM Air,G
+Air-Van Airlines,G
+Air 26,G
+Air Aceh,G
+Air Afrique,G
+Air Atlantic Congo,G
+Air Baghdad,G
+Air Burundi,G
+Air Cargo Chartering,G
+Air Charter Cargo,G
+Air Chayka,G
+Air company North-West,G
+Air Continental Ltd,G
+Air Costa Rica,G
+Air Eagle,G
+Air Efata,G
+Air Express,G
+Air Force Museum Heritage Foundation,G
+Air Gulf Falcon,G
+Air Horizon,G
+Air KG,G
+Air Kiribati,G
+Air Koryo,G
+Air Kyrgyzstan (1),G
+Air Link International Airways,G
+Air Linkers LLC,G
+Air Livonia,G
+Air Mark International,G
+Air Max,G
+Air Million Cargo Charter,G
+Air Nacoia,G
+Air Nave,G
+Air Navette,G
+Air Ocean Airlines,G
+Air One Corr,G
+Air One LLC,G
+Air Premia,G
+Air Scorpio,G
+Air Services International,G
+Air Sofia,G
+Air Space Agency,G
+Air Stork,G
+Air Tomisko,G
+Air Travel,G
+Air Tsolak,G
+Air Ukraine,G
+Air Vendee Investissements,G
+Air Victory Georgia,G
+Air Wings,G
+AirAsia Japan,G
+AirAsia Japan (1),G
+Airborne Support Inc,G
+Aircompany Grodno,G
+Aircompany Rosavia,G
+Aircraft  Maintenance Services Ltd,G
+Aircraft International Renting (AIR) Ltd,G
+Aircraft Inventory Corp,G
+Aircraft Purchase Company No. 12 Ltd,G
+Aircraft Repair Plant No 411,G
+Aircraft stolen from legal owner/operator,G
+Airline Transport Incorporation FZE,G
+Airlines Ukraero,G
+Airlogic Holding SA,G
+Airmark Aviation,G
+Airplane Sales International,G
+Airsmith Inc,G
+AirTanker,G
+Airtec Inc,G
+Airworthy Parts International,G
+AIST M Airclub,G
+AK Bars-Avia AL OOO,G
+AK Bars Bank,G
+Akka MA1 Ltd,G
+Akros OOO,G
+Aktyubinsk Higher Flying College of Civil Aviation,G
+Al-Rafedain Falcon,G
+Al Hokair Aviation Ltd,G
+Al Rais Cargo Airlines,G
+Al Salam,G
+Al Thuraya Marine Services,G
+ALADA,G
+Albatross Aero Club,G
+Alcazar LLC,G
+ALCI Aviation Ltd,G
+Alcon,G
+Alexandair,G
+Alexandra Avia Leasing,G
+Alfa 92 Aircompany,G
+ALG- VIR-747RR Ltd,G
+Algerian Air Force,G
+ALJ Engines Supply Inc,G
+Alkmaar Air Holding BV,G
+Alliance Avia,G
+Allied Services,G
+Allied Services Limited,G
+Almaty Avia,G
+Almiron Aviation (Uganda),G
+Alpha Wings Ltd,G
+Alrosa Avia,G
+Alter Bail Aviation,G
+AMAC Aerospace,G
+Amako Airlines,G
+Amazon Sky,G
+AMC - Aircraft Maintenance Center FZA 3-45,G
+Amel Aruba Ltd & MME Aviation (Cayman Islands) Ltd,G
+America Linares Beltran,G
+American Museum of Aviation,G
+AMMZ Ltd,G
+Amur Airlines,G
+Amur Regional Government,G
+AMW tchad,G
+Anglo Operations,G
+Anikay Air Company,G
+Anrad Aero,G
+Antal Service Ltd,G
+Antinea Airlines,G
+Anton Air,G
+Antonov,G
+Antonov Airlines,G
+Antonov Finance State Enterprise,G
+AOPA Nigeria,G
+APS Trading Services,G
+Arctic Aviation Assets,G
+ARGO,G
+Ariella Airlines,G
+Arizona Department of Public Safety,G
+ARjet Airlines,G
+Armenian Airlines,G
+Armenian International Airways,G
+Armi Global Business Airways,G
+Arnoro,G
+ART 21799 LLC,G
+Art Business Group,G
+Artem-Avia,G
+Artic Group Ltd,G
+Artik Avia,G
+AS Aviakompania,G
+ASAP Charters CA,G
+Ascend Aviation Marketing & Sales LLC,G
+Ascent Aviation Services (Tuscon),G
+ASEC Inc,G
+Asencion Investments LLC,G
+Asia Air Transport,G
+Asia Alpha Airways,G
+Asia Pacific Aerospace Pty Ltd,G
+Asian Air,G
+Askar,G
+Asken Aviation Ltd,G
+Associated Aviation,G
+Associated Sales International,G
+Astoria Aircraft Leasing Inc,G
+Astrakhan Airlines,G
+ATA Brasil,G
+ATI Aircompany,G
+Atlant Airways,G
+Atlant Hungary Airlines,G
+Atlantic BP Exploration (Alaska) Inc,G
+Atlantic Express Airlines,G
+Atlantic Richfield Co,G
+Atlas Jet,G
+Atom Airways,G
+ATRiam Capital DAC,G
+Autogroup VIPOS,G
+AVFL Logistics Ltd,G
+Avia-Lizing,G
+Avia leasing Asset Management Inc,G
+Aviaekspresskruiz (Russia),G
+Aviaenergo,G
+Aviaexpress Aircompany,G
+Aviaglobal,G
+Avial,G
+Avialeasing Company,G
+Avialift Vladivostok,G
+Aviant,G
+Aviaoptim Ltd,G
+Aviaspetssnab Kontrol,G
+Aviast,G
+Aviatest ZAO,G
+Aviation Communication UK Ltd,G
+Aviation Connections,G
+Aviation Group Holdings I,G
+Aviation Inc,G
+Aviation Link Co,G
+Aviation Link Int,G
+Aviation Parts Depot Inc,G
+Aviation Technology Broker OOO,G
+Aviation University of Tbilisi,G
+Aviaton,G
+Aviatrade Congo,G
+Aviatrans,G
+Avioimpex,G
+Aviostart Airlines,G
+Avis-Amur,G
+Avluga-Trans,G
+AVTrade,G
+Axiom Air,G
+Ayk Avia,G
+Azerbaijan Air Force,G
+Azimuth,G
+Babani Sissko,G
+Bakhtar Afghan Airline,G
+Bako Air,G
+Bakrie Aviation Inc,G
+Bali Air,G
+Baltika Airlines,G
+Baltiskaya stroitelnaya kompania,G
+Bangladesh Air Force,G
+Bank of America NA,G
+Barash Aviation,G
+Barkol Aviakompania,G
+BASe,G
+Basler Turbo Conversions LLC,G
+Bayham Ltd,G
+BB 11 Ltd,G
+BBC Aircraft LLC,G
+Belarus Air Force,G
+Belgorod Air Enterprise,G
+Bellview Airlines SL,G
+Belogorie,G
+Ben Air,G
+Benin Air Force,G
+Beriev TANTK,G
+Bestfly,G
+BGB Air,G
+Big Flats LLC,G
+Bio Air,G
+Bischoff Aerospace,G
+Blagoveshchensk Airlines,G
+Blair Investors Corp,G
+BLMZ Gulf FZC,G
+Blue Air Leasing,G
+Blue Airlines,G
+Blue Falcon Inc,G
+Blue Jackets Air LLC,G
+Blue Lines,G
+Blue Ridge Aero Services LLC,G
+Blue Sky Airways,G
+Blue Sky Aviation Services,G
+Blue Sky Aviation Trading LLC,G
+Blue Sky Five Ltd,G
+Blue Sky Four Ltd,G
+Blue Sky Six Ltd,G
+Blue Wing Airlines,G
+BMD Investment,G
+Boeing Logistics Spares Inc,G
+Bolivian Army,G
+Bosphorus European Airways,G
+BPI Leasing-Soc.Locacao Financeira AS,G
+BPV Group Ltd,G
+Brascoota,G
+Brass Holdings Ltd,G
+Bravia,G
+Bravo Air Congo,G
+Bravo Air Congo Brazzaville,G
+Brazza Airways,G
+Bright Aviation Services,G
+Brise Air,G
+Bristol Air Ltd,G
+Britannia Aviation Services Inc,G
+British Gulf International,G
+Broken Wing LLC,G
+Brooklands Museum,G
+BT Slavuta,G
+Buckley 905W LLC,G
+Buguruslan Flying School,G
+Bulgarian Air Force,G
+Burundaiavia,G
+Bushair Safaris,G
+Business Aviation Center JSC,G
+Business Aviation Services Guernsey Ltd,G
+Butembo Airlines,G
+Buzz,G
+Bylina,G
+C & M Airways,G
+C&L Aerospace LLC,G
+CABI Airlines,G
+CAIC - China Aviation Industry Corp,G
+CAICA,G
+California Microwave Inc,G
+California Pacific Airlines (1),G
+Cambodia Bayon Airlines,G
+Cameroon Air Force,G
+Canair Congo,G
+Capital Asset Management,G
+Capital Avia Invest,G
+Career Aviation Company Inc,G
+Cargair International Ltd,G
+Cargo Airways International,G
+Cargo Jets International LLC,G
+Cargo North,G
+Cargo Plus,G
+Carpax International LLC,G
+Carre Aviation Georgia,G
+Casbah AG,G
+Caskett Trading,G
+Cavok Air,G
+Celsius Amtec Corp,G
+Centec Aviation,G
+Centrafrique Air Express,G
+Central Air,G
+Central Asian Aviation Services,G
+Central Leasing Corp,G
+Central Siberian Skydiving Club,G
+CF6-50 LLC,G
+Chabahar Airlines,G
+Chad Air Force,G
+Challenge Aero,G
+Champion Air,G
+Charter America Holdings Inc,G
+Chelyabinsk Airline,G
+Chernomor Avia,G
+China Air Cargo,G
+China Coast Guard,G
+China Electronic Technology Corporation No.38,G
+China Flying Dragon General Aviation Co,G
+China Meteorlogical Administration,G
+China Southern Air Cargo,G
+Chinese Academy of Meteorological Science,G
+Chinese Arctic & Antarctic Administration,G
+Chitaavia,G
+Christian Sindie,G
+Chuvashia Airlines,G
+CIS Air Corp,G
+Citibank Leasing Canada,G
+Civil Aviation Flight University of China,G
+Classic Rotors Museum,G
+Clesh Aviation,G
+CLF6 Inc,G
+Clipper Leasing Corp,G
+Clover Aircraft Leasing,G
+Club Jetstream Inc,G
+Co-Za Airways,G
+Colibri,G
+Colombian Army,G
+Columbus Avia,G
+COMAC,G
+Comac Express,G
+Comaf Industria Aeronautica Ltda,G
+Comair (DRC),G
+Company Resail Ltd,G
+Congolese Air Force,G
+Constellation West Indian Airways,G
+Constructions Marketing Limited,G
+Continental Airlines Purchasing Services LLC,G
+Contrails Capital Inc,G
+Cordial Tours & Cargo,G
+Corporate Angolan Operator,G
+Corporate Azerbaijan Operator,G
+Corporate Bangladesh Operator,G
+Corporate Colombian Operator,G
+Corporate Czech Operator,G
+Corporate DR Congo Operator,G
+Corporate Georgian Operator,G
+Corporate German Operator,G
+Corporate Guinean Operator,G
+Corporate Kazakhstan Operator,G
+Corporate Kyrgyzstan Operator,G
+Corporate Lithuanian Operator,G
+Corporate Madagascan Operator,G
+Corporate Romanian Operator,G
+Corporate Rwandan Operator,G
+Corporate Sudanese Operator,G
+Corporate Ukrainian Operator,G
+Corporate Venezuelan Operator,G
+Cosmos Air Cargo,G
+Costa Rica Skies,G
+Cougar Leasing Limited,G
+Crianza Aviation,G
+Croatian Air Force,G
+Crossline,G
+Crystal Luxury Air,G
+CS Aviation,G
+Cuban Revolutionary Air and Air Defense Force - DA,G
+Cuda Ray Investments,G
+D S Kuzovenkov,G
+Dakota Aviation,G
+Dakota Express LLC,G
+Dalian Airlines,G
+Dalmashlizing,G
+Damascene Airways,G
+Dasab Airlines,G
+Daviak Aviation Ltd (Ireland),G
+DC-Cinco Pax SA,G
+Delmun Aviation Services,G
+Delta Air Aviation,G
+Democratic Republic of Madagascar,G
+Denver Inversts,G
+Derco Aerospace,G
+Des R. Cargo Express,G
+Destiny Air,G
+DGI I LLC,G
+DHL Aviation (South Africa),G
+Dinar Lineas Aereas,G
+Diversified Aero Services Inc,G
+Djibouti Air Force,G
+Djibouti Airlines,G
+Dobro Ltd,G
+Dodson Aviation Inc,G
+Dodson International Parts Inc,G
+Dodson Services Inc,G
+Doren Air Congo,G
+Dove Air Inc,G
+Dow Chemical Co,G
+Dvin Air,G
+Dynami Aviation,G
+DynCorp Inc,G
+Eagle Jet Aviation,G
+EASCO,G
+East-Wind,G
+East African Airlines,G
+East Clipper Ukraine,G
+Easy Freight FZC,G
+Ecolines International FZE,G
+Ecuadorian Army Aviation,G
+Ecuato Guineana De Aviacion,G
+EFC Leasing Corp,G
+Egyptian Air Force,G
+El Magal Aviation,G
+El Sam Airlift,G
+Elitsovka Airport,G
+Eltsovka,G
+Emirate Touch Aviation Services,G
+Emirates International Air Cargo,G
+Empresa abierta,G
+Energia RKK,G
+Enhance Aero Group,G
+Enhance Aero Maintenance SAS,G
+ENIKSTSE,G
+Equajet,G
+Equatorial Cargo,G
+Equatorial Guinea Air Force,G
+Ernest Angley Ministries,G
+Erste Bank,G
+ESS Rossii,G
+Estar Avia,G
+Estonian Air Force,G
+ESYaTK OAO,G
+Ethiopian Air Force,G
+Euro-Asia Air,G
+Eurojet FZCO,G
+Everett Air LLC,G
+Evergreen Aircraft Sales & Leasing Co,G
+Evergreen Maintenance Center,G
+Evergreen Trade Inc,G
+Executive Air Services Inc,G
+Executive Aircraft Services Inc (AZ),G
+Executive Jet Aviation (Cayman Islands),G
+Executive Jet Services,G
+Express airlines,G
+Express Camel Aviation,G
+Express One International,G
+Ezen Aviation,G
+FAA/US DoT,G
+Fab Airlines,G
+FABCO Equipment Inc,G
+Facts Air,G
+Falcon OOO,G
+Faso Airways,G
+Fastjet Air Four Ltd,G
+Fayaka Airways LLC,G
+Federal Agency for Management of State Property,G
+Feniks Airlines,G
+Ferreteria & Implementos San Francisco,G
+Finance Leasing Company,G
+Financial Advisory Group,G
+Financial Advisory Group Corp,G
+Finavion Ltd,G
+Finzayder OOO,G
+First Class Air Supports Inc,G
+Fleet Capital Leasing,G
+Flight Air Company,G
+Flight Express,G
+Flightstar Aircraft Services,G
+FLIP No 176 Co Ltd,G
+FLIP No 178 Co Ltd,G
+Fluffy CAQ,G
+Fly Air Africa Aviation,G
+Fly Caminter,G
+Fly Excellent,G
+Fly Kiss,G
+Fly Lineas Aereas,G
+Fly National Air,G
+Fly Oya International,G
+Fly Sky Airline,G
+Fly Sky Airline (Kyrgyzstan),G
+Flying Dandy,G
+Fortis Pacific Services,G
+Fortran Aviation Pte Ltd,G
+Forty Eight Aviation,G
+Frameair,G
+Freedom Two,G
+Freeman Leasing LLC,G
+French bee,G
+FSB - Federal Security Service,G
+Fugro Aviation Canada,G
+FUND MGPiS NO,G
+Gabon Airlines Cargo,G
+Galaxy Air,G
+Galex Guinee Air,G
+Galiros s.r.o.,G
+Gambia Airways,G
+Gambia New Millenium Air,G
+Garinco Airways,G
+Gateway Export Aviation,G
+Gazprom Dobycha Astrakhan,G
+Gaztekhnoeksport,G
+GEASA,G
+Geasa Air Cargo,G
+Geleon Trade Ltd,G
+Geliks,G
+Gemini Leasing Inc,G
+General Electric Co (OH),G
+General Service Administration (GSA),G
+Genesis Aircraft Parts Inc,G
+Genghis Khan Airlines,G
+GeoAir Group LLC,G
+Geodynamica Centre Jsc,G
+George T Baker Aviation School,G
+Georgian Land Forces,G
+Geos Aero OAO,G
+GFT-Inzhiniring OOO,G
+Ghana Airways (1),G
+GJD Services Ltd,G
+GKA-Avia,G
+Global Aero Investments Inc,G
+Global Aviation Leasing Inc,G
+Global Georgian Airways,G
+Global Peace Initiative Inc,G
+Global SuperTanker Services,G
+Gloria Airways,G
+GM (General Mediteranean) Airlines,G
+Golden City,G
+Goldman Sachs Credit LLC,G
+Goliaf Air,G
+Google LLC,G
+Gorlitsa Airlines,G
+Gos. NII GA,G
+Government of Afghanistan,G
+Government of Bauchi State of Nigeria,G
+Government of Brazil,G
+Government of Burkina Faso,G
+Government of Cambodia,G
+Government of Congo,G
+Government of Equatorial Guinea,G
+Government of Georgia,G
+Government of Kazakhstan,G
+Government of Kyrgyzstan,G
+Government of Laos,G
+Government of Libya,G
+Government of Moldova,G
+Government of North Korea,G
+Government of Senegal,G
+Government of Slovakia,G
+Government of Sudan,G
+Government of Syria,G
+Government of Tajikistan,G
+Government of Tajikstan,G
+Government of the State of West Bengal,G
+Government of Tonga,G
+Government of Turkey,G
+GPA ATR II Inc,G
+Grade OOO,G
+Grand Air,G
+Grand Comoros,G
+Grand Holdings Inc,G
+Great Lakes Business Co,G
+Great Southwest Aviation Inc,G
+Greenwich Highland Aviation,G
+Grixona Air,G
+Grupo Sociedad Ecuatoguineana de Espana,G
+GSGA AON Air,G
+GTRA Airways,G
+Guatemalan Air Force,G
+Guinee Paramount Airlines,G
+Gulf Falcon Group,G
+Gustavo Briceno,G
+GVG Airlines,G
+H & T Airways Inc,G
+H A D Jet Cargo,G
+HA Airlines,G
+Haajara Airline,G
+Hamilton Aerospace Technologies Inc,G
+Hangard Airlines,G
+HDP Trade Ltd,G
+Heavylift Congo,G
+Heli Air Services,G
+Helitours,G
+Hendrick Motorsports LLC,G
+Himalaya Airlines,G
+HK Aircraft Sub11 Co Ltd,G
+HMS Airways,G
+Holland Investment Group Ltd,G
+Hong Kong Air Cargo,G
+Hongkong Jet,G
+Hongyuan Group Co Ltd,G
+HSC Leasing Co Ltd,G
+HSL Co,G
+HUK Hungarian Ukrainian Airlines,G
+Hunair Hungarian Airlines,G
+Hunan Airline,G
+Ibrahim Mohammad Ghouli,G
+Icelandic Aircraft Management Ltd.,G
+Icelease,G
+IconAir,G
+IDG Cayman II Ltd,G
+IDG Ltd,G
+IDM Aviation Services-F LLC,G
+IDM Corporate Aviation Services LLC,G
+IFaero AK ZAO,G
+Ikar (Magadan),G
+Ilandorstroy Jsc,G
+Ilavia,G
+Ilyich-avia,G
+IMAIR Airline,G
+ImperialJet,G
+Indexline Limited,G
+Inflight Marketing Systems Inc,G
+Insolite Travel Fly,G
+Intektrans OOO,G
+Inter (Colombia),G
+Interair Lease LLC,G
+InterAmi Ltd,G
+Interflight,G
+International Air Services,G
+International Aircraft Consulting Inc,G
+International Aircraft Leasing Inc,G
+International Airline Investors Limited,G
+International Pacific Trading,G
+InterStar Aviation A V V,G
+Inversia Air,G
+Investec Global Aircraft Fund,G
+Investment Capital Xchange Inc,G
+InvestProektLimited,G
+ION Tiriac Air,G
+Iranian Police Aviation,G
+Iranian Revolutionary Guard,G
+Iraqi Air Force,G
+Iris Air,G
+Irkutsk Aircraft Plant,G
+IrMa Air Service,G
+IRS Aero,G
+ITL-LLC,G
+Ivoirienne de Transports Aeriens,G
+Ivory Coast Air Force,G
+J P Bemba,G
+J&L Aircraft Leasing Co Ltd,G
+J.R.S Aviation Inc,G
+Jags Aviation Ltd,G
+Janco Aircraft & Engines,G
+Japan Civil Aviation Bureau,G
+Japan Coast Guard,G
+Japan Maritime Self-Defense Force,G
+Jerry Conway,G
+Jet 2000,G
+Jet Aircraft Leasing A.V.V.,G
+Jet Airlines,G
+Jet Aviation Business Jets,G
+Jet Aviation Flight Services Inc,G
+Jet Connections Ltd,G
+Jet Develop Limited,G
+Jet Line International,G
+Jet Line International Ltd,G
+Jet Ukraynia,G
+Jetair Group,G
+JetAlliance East,G
+Jetmark Leasing LLC,G
+JetSMART Argentina,G
+JetSMART Chile,G
+Jetstar Aircraft Sales,G
+Jetstar Hong Kong,G
+"JFTCO, Inc",G
+JLT WP Aircraft Co LLC,G
+JODA LLC,G
+Jordan Sky Aviation,G
+Jordanian Special Operations Command,G
+Joseph Kabila,G
+Joss Aviation,G
+Juba Air Cargo,G
+KAB Holding Co,G
+Kabi International,G
+Kabul Air,G
+Kalitta Equipment LLC,G
+Kan-Avtovaz,G
+Kando Jet LLC,G
+Karibu Airways,G
+KAS Air Company,G
+Kata Transportation Company,G
+Katrol Aviation,G
+Kaycee Aerospace,G
+Kaz Air Trans,G
+Kaz TransAir,G
+KazAir West,G
+Kazakhmys Plc,G
+Kazakhstan Air Force,G
+Kazakhstan Border Guards,G
+Kazakhstan Ministry of Defence,G
+Kazaviaspas,G
+Kazzinc Jsc,G
+KB Centrtekhnologiya LLC,G
+KCP Leasing & Services LLC,G
+Keldenn Air LLC,G
+Kenya Air Force,G
+Keramist,G
+Kerch Airport,G
+Khabarovsk Regional Government,G
+Khaled Eltoukhy & Abdelbaki Mohamed,G
+Khanty-Mansi Autonomous District,G
+KhGAPP,G
+Kings Airlines,G
+KMPO - Kazan Motors Production Association,G
+KNAAPO,G
+KNAAPO-Flying Division,G
+KNG Transavia,G
+Knight Air,G
+Knight Aviation,G
+Kokshetau Airlines,G
+Komplektimpex,G
+Konair US LLC,G
+Korean People's Army Air Force,G
+Koryakavia,G
+Kosmas Air,G
+Kosmos NPO OOO,G
+Kotlas Airlines,G
+Kotraks OOO,G
+Krasnoyarsk LLC,G
+Krechet,G
+KRET,G
+Kroonk Air Agency,G
+KRYM,G
+Kuwait Air Force,G
+Kuzbass Skydiving Center,G
+KVZ - Kazansky vertoletny zavod,G
+Kyrgyz Air Force,G
+Kyrgyz Airways (1),G
+Kyzyl Orda Air,G
+La Nationale,G
+Landsflug ehf,G
+Langdon Asset Management,G
+Lankan Cargo,G
+Lao Peoples Liberation Army Air Force,G
+Lao Skyway,G
+Las Americas Cargo,G
+Lasare Air,G
+LATAM Airlines Group,G
+Latin Lease Ltd,G
+Layale Enterprises,G
+Layang-Layang Aerospace,G
+Lease Corporation International,G
+Lee County Mosquito Control Dist,G
+Let's Fly,G
+Level at 410 Aviation Services Inc,G
+Libo Air Cargo,G
+Libyan Air Force,G
+Libyan Arab Republic Air Force,G
+Libyan Blue Bird Aviation,G
+Libyan DCA,G
+Libyan Police,G
+Lina Congo,G
+Lionel Air,G
+Lipetsk Avia,G
+Lithuanian Air Force,G
+Liwa Air,G
+Lizing-Motors ZAO,G
+LJH Aviation Management Services Corp,G
+Lockheed Martin,G
+Look San Chee,G
+Lugansk Airlines,G
+Lukiaviatrans,G
+Luxaviation Belgium,G
+Lyca Cargo,G
+Lyra Enterprise,G
+Maandeeq Air,G
+Mach Aero International Corp,G
+Magas,G
+Majestic Air Cargo,G
+Mak Air,G
+Malaga Air,G
+Malibu Consulting Corp,G
+Malibu Consulting Ltd,G
+Malift Air,G
+Malta Air,G
+Manas Airways,G
+Mango Mat,G
+Mani Air Fret,G
+Mano River Airlines,G
+Mantuba Executive Jet,G
+MAP Aviakor-Samara,G
+MAP Kumertau APO,G
+MAP LII Zhukovski,G
+MAP Moscow APO,G
+Maranatha Leasing Corp,G
+Marios Ramirez,G
+Maritime Air Ltd,G
+Markz Jet Ltd,G
+Mars Avia,G
+Mashleasing OOO,G
+Massawa Airways,G
+Matthew Overton,G
+Mauritanian Air Force,G
+MAVIAL - Magadan Airlines,G
+Maximus Airlines,G
+MAYAir,G
+MAZ Aviation,G
+MBI Aviation,G
+MChS Azerbaijan,G
+MChS Kazakhstan,G
+McKinley Air Inc,G
+MD Skydive,G
+Medair,G
+Mega Aero,G
+Mega Lodis OOO,G
+Mekong Air International,G
+Mercury Aviation,G
+Mercury Aviation Corp (Delaware),G
+Mercury Holding Group Jsc,G
+Meridian,G
+Metalika AB Ltd,G
+Meteo France,G
+Mexican National Guard,G
+Mexican Navy,G
+MFP Aeronautics Inc,G
+Miapet Avia,G
+Midwest Aircraft Appraisals LLC,G
+Miniliner Malta,G
+Minnwest Bank Metro,G
+Minsk Aircraft Repair Plant,G
+MIR Scientific Industrial Enterprise,G
+Mirage Aviation Ltd,G
+Miras Air,G
+Miravia,G
+Mitsubishi,G
+Mitsui & Co,G
+Mizar 20622 LLC,G
+Mizar 20624 LLC,G
+Mizar 20626 LLC,G
+Mogilevavia,G
+Moldovan Air Force,G
+Mombasa Air Safari,G
+Mongolian Air Force,G
+Moskovskie AL ZAO,G
+Mosphil Aero,G
+Mostobud,G
+MP Aviation LLC,G
+Mr Mareshki,G
+MRK Airlines,G
+MRP Leningrad,G
+MRSK Sibiri OAO,G
+MSP Recovery Aviation LLC,G
+Mudan Airlines,G
+Murmansk Aviation Company,G
+Myachkovo Air Services,G
+N G K Holdings,G
+N&R Empreendimentos E Participacoes Ltda,G
+N878 Holdings LLC,G
+Nader Omar Al-Bazz Trading Estate,G
+Namibian Air Force,G
+NAP Kaj,G
+Nat. Security Committee of the Rep. of Kazakhstan,G
+Natalco Airlines,G
+National Airways Cameroon,G
+National Guard of the Republic of Kazakhstan,G
+National Reserve Bank,G
+National Test Pilot School,G
+National Test Pilots School,G
+National Test Pilots School (South Africa),G
+Navigator Airlines,G
+Nelstream LTD,G
+Nepal Army Air Wing,G
+New Financial Aviation Company OOO,G
+New Horizons Assets Management Corp,G
+New Jatayu Air,G
+Nexgen Aviation Capital,G
+Nicaraguan Air Force,G
+Nichiro Limited,G
+Nimbus AK,G
+Nion LLC,G
+Noor Air Company,G
+North-West Air Company,G
+Northeast Bolivian Airlines,G
+Northern Pacific Airways,G
+Novatek OAO,G
+Novgorodavia,G
+Novolipetskiy MK OAO,G
+Novosibirsk Avia,G
+NPO Saturn,G
+Nyanbiting Aviation,G
+O A Bashkirov,G
+OAO Girna,G
+Odessa Airlines,G
+Oil Trans Avia,G
+Oiland LLC,G
+OM Aviation Services Inc,G
+Omsk Airlines,G
+Onix Trade Corp,G
+OOO Finansbiznesgrupp,G
+OOO Russian Arctic,G
+Optimum Aviation,G
+Orel Air Enterprise,G
+Orel TsAVS OOO,G
+Orion Cargo,G
+Orsha Air,G
+OS Three LLC,G
+OS Two LLC,G
+Osh Avia,G
+OTT Airlines,G
+Overseas Cargo,G
+Oversized Cargo Specialists Inc,G
+Pac Jet Acquisitions II LLC,G
+Pacific Aerospace Resources & Technologies LLC,G
+Pacific Air Express,G
+Pacific AirCorp 21851 Inc,G
+Pacific East Asia Cargo Airlines,G
+Palace Air,G
+Pallas Aviation,G
+Palm Aire Holdings Inc,G
+Pan Havacilik,G
+Pantheon Airways,G
+Parabola OOO,G
+Parusahan Armada Niaga Nationale,G
+Patriot Air Ltd,G
+Paxair LLC,G
+Paxson Communication Management Co,G
+PD Air Operation,G
+Peach,G
+Pegasus Capital Corporation,G
+Perpetual Motion Inc,G
+Peruvian Army,G
+Peruvian National Police,G
+Petchabun Airlines,G
+Petroecuador - Unidad de Aviacion,G
+Pharaoh Airlines,G
+Philippines AirAsia (1),G
+Phoenix Aer Capital LLC,G
+Phoenix Aircraft Leasing Inc,G
+Pioneer Regional Airlines,G
+PK Airfinance SARL,G
+PLAGF - People's Liberation Army Ground Force,G
+PLANAF - Peoples Liberation Army Naval Air Force,G
+Planar,G
+Platinum Air Linhas Aereas,G
+PNAC Cargo,G
+PNC Equipment Finance LLC (ID),G
+Podillia Avia,G
+Polartrans OOO,G
+Polish Border Guard,G
+Polish Naval Air Arm,G
+Polston Equipment Leasing LLC,G
+Polympus,G
+Polyot Aerospace Association,G
+Preferred Airparts LLC,G
+Premier Avia,G
+Premium Air Shuttle,G
+Prescott,G
+President Airlines,G
+Presidential Fleet EQG,G
+Primair,G
+Principal Aviation Ltd,G
+Privatbank,G
+Privilege Jet Airlines,G
+Promodal Transportes Aereos,G
+PromStroyInvest OOO,G
+PSK Stroitel Astrakhani,G
+Qantas Foundation Memorial Ltd,G
+Quiet Skies Inc,G
+RaceAir LLC,G
+Rada Airlines,G
+Raduga-1 OOO,G
+RAK Leasing LLC,G
+Rak Link Airways,G
+Raul Helicopters,G
+Raytheon Corp,G
+RD Aviation LLC,G
+REAL Tonga,G
+Real Treyd OOO,G
+Rearden Logic Inc,G
+Red Star,G
+Region Avia,G
+RegionAvia - Servis Plus,G
+Renan,G
+Republic Flight Lines SRL,G
+Republic of Benin,G
+Residential Construction Industries Group Ltd,G
+Respublika Sakha,G
+Rhoades Aviation,G
+Ribway Cargo Airlines,G
+Rice Aviation Group LLC,G
+Ridge Airways,G
+Riga Aeroclub,G
+Rimos Ltd,G
+RJM Aviation,G
+RK Lizing OOO,G
+Roberto Rossi,G
+Robinson Air Crane LLC,G
+Rodina,G
+Romanian Air Force,G
+Roque Nublo Leasing Ltd,G
+RosAero Jsc,G
+Rosboronexport,G
+Roscosmos,G
+Rose Air,G
+Rosen Avia,G
+Rosgvardia,G
+Roshydromet,G
+Rosneft Baltika,G
+Rosnek OOO,G
+Rossair,G
+Rossair Contracts (Pty) Ltd,G
+Rossiya Special Flight Detachment,G
+RostAvia,G
+ROSTO - DOSAAF,G
+Rosto Airclub,G
+Rotor Trade Inc,G
+Roush Air LLC,G
+Roush Management LLC,G
+Royal Air,G
+Royal Airlines,G
+Royal Cambodian Air Force,G
+Royal Jordanian Air Force,G
+Royal Saudi Air Force,G
+Royal Saudi Medical Services,G
+Royal Thai Navy,G
+RP Aviation Inc,G
+RPB-Lizing OOO,G
+Rsk MIG,G
+Ruftberg LLC,G
+Russair JSC,G
+Russian Federal Border Guard,G
+Russian Federal Customs Service,G
+Russian Parachute Research Institute,G
+Russian Tax Service - FGUP Inzhtehtsentr,G
+Ruwenzori Airways,G
+Ryazanaviatrans,G
+Ryehul Plus OOO,G
+RYM Airlines,G
+S P Domashenko,G
+Saacid Airlines,G
+SAAK-GEM Air Company,G
+SAEP,G
+Safari Airlines,G
+Sakha Aviation School Center,G
+Salaam Aviation,G
+Salvadoran Air Force,G
+Samara Regional Government,G
+Samarkand Airways,G
+San Air General Trading Co,G
+San Effekt OOO,G
+Sapsan Airlines,G
+SAT Airlines (Kazakhstan),G
+Satair,G
+Saudia Special Flight Services,G
+Sayakhat,G
+Sayat Air,G
+SBD Aircraft Services Inc,G
+SBD Aircraft Services LLC,G
+Scaled Composites LLC,G
+Schlossinger Drilling Ltd,G
+Scroggins Aviation inc,G
+Seba Airlines,G
+Security Pacific Corp,G
+Sember Aviation AG,G
+Sepahan Airlines,G
+Serbia & Montenegro Air Force,G
+Serbian Air Force,G
+Sevastopol Avia (1),G
+Sever Aviakompania,G
+Shaanxi,G
+Shane Robinson,G
+Shans Air Company,G
+Shar ink,G
+Shared Services Aviation,G
+Shazin Trading,G
+Sheikh M Edress,G
+Sheremetyevo Institute of Civil Aviation,G
+Shovkoviy Shlyah,G
+Siberian Light Aviation - SILA,G
+Sichuan Tri-Star General Aviation Co,G
+Sierra Aircraft Leasing LLC,G
+Sierra American Corp,G
+Sikorsky (PZL-Mielec),G
+Silver Sky,G
+Sishen Iron Ore Co,G
+Sistema (Russia),G
+Siviera Invest Ltd,G
+SJSHC Artem,G
+SKA Air & Logistics (Uganda),G
+Skane Aviation Group,G
+SKOL Aircompany,G
+Sky Aviation (UAE),G
+Sky City,G
+Sky Guinee Airlines,G
+Sky Jet,G
+Sky Star Express,G
+Sky Test,G
+Sky Way Air,G
+Sky Wind,G
+Skydive Margarita,G
+Skydive Margirita,G
+Skydive Venezuela,G
+Skyjet Uganda,G
+Skyline Air Ltd,G
+Skypower Express Airways,G
+Skystar Airways,G
+Skytrade International Enterprises Inc,G
+Skytruck Co LLC,G
+SkyWay Enterprises,G
+Skyways Aviation A V V,G
+Slok Air International (Gambia),G
+Slovak Air Force,G
+Smart Avializing OOO,G
+Smatsa Ltd,G
+SN Air Congo,G
+Sococi Airways,G
+Soft Trans Air,G
+SOGERMA,G
+SOM Express Airways,G
+Sound Corp,G
+South-East European Airlines,G
+South Airlines Ltd,G
+South Stone Airlines,G
+South Sudan Air Force and Air Defense,G
+South West Aviation (South Sudan),G
+Southeast Airlines,G
+Southern International Airlines,G
+Southern Sky Airlines,G
+Southwest Sports Aviation LLC,G
+SP Evrotryed OOO,G
+Space World International Airlines,G
+Spectrem Air Ltd,G
+Spectrum Aerospace USA LLC,G
+Spring Airlines Japan,G
+Sri Lankan Air Force,G
+SriLankan Cargo,G
+Star Aviation Services,G
+Star Choice Trading 106 (Pty) Ltd,G
+StarJet.com,G
+Starlink Aviation,G
+StarLux,G
+State Air Company Berkut,G
+Stela Aviation Commercial Enterprises,G
+Stevens Express Leasing Inc,G
+STP Airways,G
+Stratosphere Inc,G
+Strekoza OOO,G
+String Ltd,G
+Styron Trading Incorporation,G
+Su Airlines,G
+Sudan Police Air Wing,G
+Sudanese States Aviation,G
+Sukhoi Design Bureau,G
+Sultra Air,G
+Sumy Frunze NPO,G
+Sun Air Charter,G
+Sun Air Services,G
+Sun Way,G
+Suncor Energy Oil Sands Ltd,G
+Sunlight Airlines,G
+Sunworld International Airlines,G
+Superjet International,G
+Supreme Aviation,G
+Swala Aviation,G
+Swazi Airways,G
+TAECA Cargo,G
+TAESA,G
+Tag Air Inc,G
+TAIF OAO,G
+Tajikistan Air Force,G
+Tajikstan Air Force,G
+Tajikstan Government,G
+Tamara Aviation Niger,G
+Tambov Avia,G
+Tanzanian Peoples Defence Force,G
+Tassili Airlines,G
+Tatarstan Flights A V V,G
+TCB,G
+Tehhazkomplekt Ltd,G
+Tehnoer FZC,G
+Teide Leasing Ltd,G
+Tekhnolizing ZAO,G
+Teli-Net,G
+Tenex-Service ZAO,G
+Tep Avia,G
+Test Flying Academy of South Africa (TFASA),G
+Thai Eastar Jet,G
+Thai Global Airline,G
+The Bank of New York Mellon,G
+The Leading Edge Group LLC,G
+The O Corporation,G
+Theia Aviation LLC,G
+Third Platinum Aircraft Acquisition Inc,G
+Thomas M Vaughan,G
+Tigerair Taiwan,G
+Tigris Air,G
+TOB SkyAviaTrans,G
+Tolaz Aviation Group,G
+TOO Gamma,G
+Tor Air Aviation,G
+Toucan Aviation,G
+TP Leasing (Cayman) Ltd,G
+Tracep Congo Aviation,G
+TRACO - Transports Aeriens Congolais,G
+Trade Links Aviation,G
+Tradecraft Air Nigeria,G
+Tramon Air,G
+Tran Sky Airlines,G
+Trans Arabian Air Transport,G
+Trans Aviation Global Group Inc,G
+Trans Kasai Air,G
+Trans Sahara Air,G
+Trans World Airways,G
+Transaer Peru,G
+Transafrica Airlines,G
+Transamerican Inc,G
+TransAtlantic Airlines,G
+Transatlantic International Airlines,G
+Transbrasil,G
+Transcontinental Asset Management Inc,G
+TransGlobal Airways,G
+Translankan Airlines,G
+Transliz Aviation,G
+Transportation Partners,G
+Transtate Airlines Pty Ltd,G
+Trast Aero Atlantic,G
+Tri-Star 1 Enterprises Ltd,G
+Triangle Aviation Solutions,G
+Trident Aviation Services LLC,G
+Trilan I Inc,G
+Tristar Capital (Nevada) LLC,G
+Tritan I Inc,G
+Triumph Airways Ltd,G
+Tropical Air Trading Co,G
+True Aviation,G
+TSOU - Ukraine,G
+Tuckahoe LLC,G
+TUI Aketiengesellschaft,G
+Tulpar Air Service,G
+Turbine Motor Works Ltd,G
+TurboArmkom OOO,G
+Turbot Air Cargo,G
+Turkmenistan Air Force,G
+Turkmenistan Border Guard,G
+Turpial Airlines,G
+Tuva Airlines,G
+Tuva Government,G
+UAC (Beriev),G
+UAC (Sukhoi),G
+UAC (Tupolev),G
+UAC (Yakovlev),G
+UAL 1995-A JETS Portfolio,G
+UAL 1995-B JETS Portfolio,G
+UES-Avia,G
+Uganda Air Cargo,G
+UK International Airlines,G
+Ukragroavia,G
+Ukraine Air Enterprise,G
+Ukraine Central Aero Club,G
+Ukraine Flight State Academy,G
+Ukraine Ministry of Emergency Situations,G
+Ukraine Ministry of Interior,G
+Ukraine National Airlines,G
+Ukrainian Border Guard,G
+Ukrainian Center of Innovations & Patent Services,G
+Ukrainian Navy,G
+Ukrainian Pilot School,G
+Ukrainian State Air Traffic Service Enterprise,G
+Ukroboronprom,G
+Ukrtranslizynh-Ukrtransleasing,G
+Uktus Avia-Company,G
+Ultimate Air,G
+Ultra Air,G
+UMPO - Ufa Motors Production Association,G
+Unconfirmed African Airline,G
+Unconfirmed Angolan Airline,G
+Unconfirmed Belorussian Airline,G
+Unconfirmed Central African Republic Airline,G
+Unconfirmed Chinese Lessor,G
+Unconfirmed Congo Brazzaville Airline,G
+Unconfirmed Democratic Republic of Congo Airline,G
+Unconfirmed Ghanaian Airline,G
+Unconfirmed Guatemalan Airline,G
+Unconfirmed Kyrgyzstan Company,G
+Unconfirmed Nigerian Airline,G
+Unconfirmed Peruvian Airline,G
+Unconfirmed Rwandan Airline,G
+Unconfirmed South Sudan Airline,G
+Unconfirmed Sudanese Airline,G
+Undisclosed Armenian Operator,G
+Undisclosed Central African Republic Operator,G
+Undisclosed Gambia Operator,G
+Undisclosed Libyan Operator,G
+Undisclosed US Operator,G
+Unimilk OJSC,G
+Union 20 Leasing Ltd,G
+United Arabian Airlines,G
+United International Airlines,G
+Unitemp M,G
+Universal Turbine Center,G
+Uralsib LK,G
+USDA - Forest Service Fire & Aviation,G
+Uzbekistan Air Force,G
+Uzbekistan Express,G
+V-Berd Avia,G
+V I Panchenko,G
+V L Solovyov,G
+Vainakhavia,G
+Valan International Cargo (South Africa),G
+Vale Mozambique,G
+Vanilla Air,G
+VARZ-400,G
+VASO - Voronezh Aviation Production Association,G
+Vega Avia,G
+Vega Aviation Company,G
+Venezuelan Army Aviation,G
+Venezuelan National Guard,G
+Versia LLC,G
+Veteran Airlines,G
+Victor Troschenkov,G
+Victory Aviation,G
+Vietnamese Peoples Air Force,G
+VIP Avia,G
+VIP Holdings Group LLC,G
+Vjekoslav Mihajlovic,G
+Vladimir Regional Government,G
+VLM Airlines Slovenia,G
+Vnukovo Airlines,G
+Volga Atlantic Aviation,G
+Volga Avia,G
+Volgatehsnab OOO,G
+Vologda Air Enterprise,G
+Voronezh ASO (VASO Airlines),G
+Voronezh ASO Leasing,G
+Voronezhavia,G
+Vostok Airlines,G
+Vostotsnaya Neftyanaya Kompaniya,G
+Vulcan Inc,G
+Vulkan Air,G
+VVOSS,G
+Vyborg (1),G
+Vzlet,G
+Wahoo Aviation I LLC,G
+Weasua Air Transport Co,G
+West Capital LLP,G
+West Coast Airways,G
+West Dover LLC,G
+Westair Cargo Airlines,G
+Westcan International Airlines,G
+Westwind Aviation,G
+White Spot Aviation FZC,G
+William N Grantham,G
+Wings 4 Sky Group SIA,G
+Wistair International,G
+World Airway,G
+Worldwide Aircraft Services Inc,G
+Xena LLC,G
+Xian Aircraft Company,G
+XYREC Inc,G
+Yas Air,G
+Yavson,G
+Yer-Avia,G
+Yermolino Airlines,G
+Yoshkar-Ola Air Enterprise,G
+Yunnan Yingan Airline,G
+Yuzhmashavia,G
+Yuzhnaya Aircompany,G
+Zambian Air Force,G
+Zara Airways,G
+Zengeneh Aeronautics Consulting Inc,G
+Zhetysu Aviakompania,G
+ZhezAir,G
+Zhongfei General Aviation Company,G
+Zilla Consulting Inc,G
+ZIPAIR Tokyo,G
+Zory Air Company,G

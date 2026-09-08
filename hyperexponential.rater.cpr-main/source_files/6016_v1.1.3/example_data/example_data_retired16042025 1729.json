@@ -1,0 +1,3818 @@
+[
+  {
+    "bug_report_email": "Please use the following email to report a bug or issue with the model and the support team will get back to you shortly.\n    Please include the model name, a brief description of the issue, and the website link to the policy the issue relates to. \n    \n    [RatingTeamDev@beazley](mailto:RatingTeamDev@beazley.com?subject=RATERNAME-Rater)",
+    "cds": {
+      "bi": {
+        "calc_run_value": "YK132A22APSM",
+        "check_run_consistent": "BI needs to be rerun - values have changed",
+        "last_run_date": null,
+        "last_run_status": null,
+        "last_run_value": null
+      },
+      "broker_contact": "kikkk",
+      "currencies": {
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ],
+        "source_currency": "USD",
+        "target_currency": null
+      },
+      "database_id": null,
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "exposure": {
+        "granular": {
+          "crcf": {
+            "calc_run_value": null,
+            "check_run_consistent": null,
+            "economic_outlook_adj_pct_pre_adj": null,
+            "economic_outlook_adj_pct_pst_adj": null,
+            "exposure_profile": [
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": 1000000.0,
+                "month_10": 994000.0,
+                "month_11": 991000.0,
+                "month_12": 991000.0,
+                "month_2": 1000000.0,
+                "month_3": 1000000.0,
+                "month_4": 1000000.0,
+                "month_5": 997000.0,
+                "month_6": 997000.0,
+                "month_7": 997000.0,
+                "month_8": 994000.0,
+                "month_9": 994000.0,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              },
+              {
+                "average_default_month": null,
+                "average_default_year_month": null,
+                "average_exposure": null,
+                "average_recovery_time": null,
+                "expected_recovery_pct": null,
+                "implied_grade_average_loss": null,
+                "implied_grade_average_loss_adj_lim_xs": null,
+                "implied_grade_pod_adj_inc": null,
+                "implied_grade_pod_adj_inc_allow_prior": null,
+                "implied_grade_pod_inc": null,
+                "implied_lgd": null,
+                "implied_lgd_average_loss": null,
+                "implied_lgd_average_loss_adj_lim_xs": null,
+                "implied_lgd_average_severity": null,
+                "month_1": null,
+                "month_10": null,
+                "month_11": null,
+                "month_12": null,
+                "month_2": null,
+                "month_3": null,
+                "month_4": null,
+                "month_5": null,
+                "month_6": null,
+                "month_7": null,
+                "month_8": null,
+                "month_9": null,
+                "pre_uw_adj_average_loss": null,
+                "pre_uw_adj_average_loss_adj_lim_xs": null,
+                "pre_uw_adj_average_severity": null,
+                "pre_uw_adj_pod_adj_inc": null,
+                "pre_uw_adj_pod_adj_inc_allow_prior": null,
+                "pre_uw_adj_premium_achieved": null,
+                "pre_uw_adj_premium_achieved_adj_pod": null,
+                "pre_uw_adj_premium_benchmark": null,
+                "pre_uw_adj_tenor_load": null,
+                "pst_uw_adj_average_loss": null,
+                "pst_uw_adj_average_loss_adj_lim_xs": null,
+                "pst_uw_adj_average_severity": null,
+                "pst_uw_adj_pod_adj_inc": null,
+                "pst_uw_adj_pod_adj_inc_allow_prior": null,
+                "pst_uw_adj_premium_achieved": null,
+                "pst_uw_adj_premium_achieved_adj_pod": null,
+                "pst_uw_adj_premium_benchmark": null,
+                "pst_uw_adj_tenor_load": null,
+                "term_adj": null,
+                "year": null,
+                "year_label": null,
+                "year_show_hide": null
+              }
+            ],
+            "indemnity": null,
+            "last_run_date": "2025-03-19 11:22:58",
+            "last_run_status": "Step Exposure Loaded at 2025-03-19 11:22:58.",
+            "last_run_value": "SI=1000000.0; instal_pd=3; instal_amt=3000.0; grace_pd=4; term=12",
+            "load_amt_basis": "Step",
+            "load_amt_flat": null,
+            "load_amt_step_grace_period": 4,
+            "load_amt_step_instal_amt": 3000.0,
+            "load_amt_step_instal_freq": 3,
+            "load_amt_step_opening_si": 1000000.0,
+            "load_amt_step_term": 12,
+            "pre_shipment_adj_pct": null,
+            "pre_shipment_amt": null,
+            "pre_shipment_risk": "No",
+            "pre_shipment_risk_show_hide": null,
+            "pst_shipment_amt": null,
+            "recovery_adj_pct": null,
+            "shipment_risk_adj_pct": null,
+            "sum_insured": null,
+            "waiting_period": null
+          },
+          "political": {
+            "country_exposure": [
+              {
+                "check": "ok",
+                "country": "Singapore",
+                "country_2dig": "SG",
+                "deductible_pv": 0.0,
+                "excess": 0.0,
+                "gross_rol_tot": 0.0028686616371900913,
+                "id": null,
+                "ihs_ci": 0.1,
+                "ihs_political": 0.5416666666666674,
+                "ihs_violence": 0.4833333333333336,
+                "limit": 1000000.0,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0001962798918210194,
+                "loss_roe_pv": 0.00018759837815393238,
+                "loss_roe_tot": 0.0003838782699749518,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0013934301779122413,
+                "net_rol_pv": 0.0013317983774183452,
+                "net_rol_tot": 0.0027252285553305867,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0005607996909171983,
+                "prem_roe_pv": 0.0005359953661540926,
+                "prem_roe_tot": 0.0010967950570712909,
+                "struc_adj_ci": 0.024847199463203348,
+                "struc_adj_crg": 0.024847199463203348,
+                "struc_adj_gai": 0.024847199463203348,
+                "struc_adj_pv": 0.024847199463203348,
+                "sublimit_ci": 1000000.0,
+                "sublimit_pv": 1000000.0,
+                "sum_insured": 1000000.0
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              },
+              {
+                "check": "",
+                "country": null,
+                "country_2dig": "",
+                "deductible_pv": 0.0,
+                "excess": null,
+                "gross_rol_tot": 0.0,
+                "id": null,
+                "ihs_ci": 0.0,
+                "ihs_political": 0.0,
+                "ihs_violence": 0.0,
+                "limit": null,
+                "loss_roe_ci": 0.0,
+                "loss_roe_crg": 0.0,
+                "loss_roe_gai": 0.0,
+                "loss_roe_pv": 0.0,
+                "loss_roe_tot": 0.0,
+                "net_rol_ci": 0.0,
+                "net_rol_crg": 0.0,
+                "net_rol_gai": 0.0,
+                "net_rol_pv": 0.0,
+                "net_rol_tot": 0.0,
+                "prem_roe_ci": 0.0,
+                "prem_roe_crg": 0.0,
+                "prem_roe_gai": 0.0,
+                "prem_roe_pv": 0.0,
+                "prem_roe_tot": 0.0,
+                "struc_adj_ci": 0.0,
+                "struc_adj_crg": 0.0,
+                "struc_adj_gai": 0.0,
+                "struc_adj_pv": 0.0,
+                "sublimit_ci": 0.0,
+                "sublimit_pv": 0.0,
+                "sum_insured": null
+              }
+            ],
+            "coverage_matrix": {
+              "deductible": {
+                "pol_violence": null
+              },
+              "fixed_assets": {
+                "cont_relation_govt": false,
+                "cur_inconvertibility": false,
+                "gov_action": false,
+                "pol_violence": false
+              },
+              "lenders_interest": {
+                "cont_relation_govt": false,
+                "cur_inconvertibility": false,
+                "gov_action": false,
+                "pol_violence": false
+              },
+              "mobile_assets": {
+                "cont_relation_govt": false,
+                "cur_inconvertibility": false,
+                "gov_action": true,
+                "pol_violence": true
+              },
+              "sublimit": {
+                "cur_inconvertibility": null,
+                "pol_violence": null
+              }
+            },
+            "ec_param_b": 0.09,
+            "ec_param_g": 10.0,
+            "exposure_curve": "Standard",
+            "key_summary_outputs": {
+              "exposure_rol": {
+                "cont_relation_govt": 0.0,
+                "cur_inconvertibility": 0.0,
+                "gov_action": 0.0013934301779122413,
+                "pol_violence": 0.0013317983774183452,
+                "total": 0.0027252285553305867
+              },
+              "on_cover": {
+                "cont_relation_govt": false,
+                "cur_inconvertibility": false,
+                "gov_action": true,
+                "pol_violence": true
+              },
+              "simulated_loss": {
+                "cont_relation_govt": 0.0,
+                "cur_inconvertibility": 0.0,
+                "gov_action": 0.0785400756991939,
+                "pol_violence": 0.07506622652253779,
+                "total": 0.1536063022217317
+              },
+              "simulated_prem": {
+                "cont_relation_govt": 0.0,
+                "cur_inconvertibility": 0.0,
+                "gov_action": 0.22440021628341114,
+                "pol_violence": 0.21447493292153655,
+                "total": 0.4388751492049477
+              },
+              "tenor_rate": 1.0,
+              "tenor_score": 0.5125000000000005
+            },
+            "simulation": {
+              "calc_run_value": "0.00038",
+              "check_run_consistent": "Simulation remains valid",
+              "last_run_date": "2025-03-19 11:43:59",
+              "last_run_status": "Political Risk Simulation run successfully at 2025-03-19 11:43:59",
+              "last_run_value": "0.00038",
+              "num_sims": 500000,
+              "total_det_loss_capped": 0.1435694837799051,
+              "total_det_loss_scaled": 0.1536063022217317,
+              "total_det_loss_uncapped": 9.538299943657053,
+              "total_sim_loss_capped": 6.2190652356668545,
+              "total_sim_loss_uncapped": 413.17491729578404
+            },
+            "tenor": 12.0
+          }
+        }
+      },
+      "ihs": {
+        "calc_run_value": "SG",
+        "check_run_consistent": "IHS extract remain valid",
+        "ihs_detail": [
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.6,
+            "risk_name": "BriberyAndCorruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.5,
+            "risk_name": "BriberyAndCorruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-20",
+            "historic_updated_value": 0.5,
+            "risk_name": "BriberyAndCorruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.5,
+            "risk_name": "BriberyAndCorruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.5,
+            "risk_name": "BriberyAndCorruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.4,
+            "risk_name": "BriberyAndCorruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-08-16",
+            "historic_updated_value": 0.1,
+            "risk_name": "CapitalTransfer"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-08-04",
+            "historic_updated_value": 0.1,
+            "risk_name": "CapitalTransfer"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.1,
+            "risk_name": "CivilWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-06-23",
+            "historic_updated_value": 0.1,
+            "risk_name": "CivilWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.1,
+            "risk_name": "CivilWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.1,
+            "risk_name": "CivilWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.1,
+            "risk_name": "CivilWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.3,
+            "risk_name": "ContractAlteration"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.3,
+            "risk_name": "ContractAlteration"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-20",
+            "historic_updated_value": 0.3,
+            "risk_name": "ContractAlteration"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractAlteration"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-30",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractAlteration"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractAlteration"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-20",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-12-11",
+            "historic_updated_value": 0.2,
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.3,
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-11-06",
+            "historic_updated_value": 1.6,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-02-07",
+            "historic_updated_value": 1.7,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-02-02",
+            "historic_updated_value": 2.2,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-05-06",
+            "historic_updated_value": 3.4,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-02-03",
+            "historic_updated_value": 2.9,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-11-05",
+            "historic_updated_value": 2.6,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-08-06",
+            "historic_updated_value": 1.8,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-05-05",
+            "historic_updated_value": 1.6,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-11-14",
+            "historic_updated_value": 1.0,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-15",
+            "historic_updated_value": 1.1,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-02-13",
+            "historic_updated_value": 1.5,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-08-15",
+            "historic_updated_value": 1.6,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-02-14",
+            "historic_updated_value": 1.3,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-05-09",
+            "historic_updated_value": 1.6,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-02-17",
+            "historic_updated_value": 2.1,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-10",
+            "historic_updated_value": 2.8,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-08-09",
+            "historic_updated_value": 2.6,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-05-10",
+            "historic_updated_value": 2.1,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-11-10",
+            "historic_updated_value": 2.6,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-02-09",
+            "historic_updated_value": 2.3,
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-02-08",
+            "historic_updated_value": 1.1,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-02-07",
+            "historic_updated_value": 1.2,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-02-02",
+            "historic_updated_value": 1.3,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-11-05",
+            "historic_updated_value": 1.4,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-05-06",
+            "historic_updated_value": 1.1,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-02-03",
+            "historic_updated_value": 1.2,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-11-05",
+            "historic_updated_value": 1.3,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-08-06",
+            "historic_updated_value": 1.4,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-05-05",
+            "historic_updated_value": 2.0,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-04-23",
+            "historic_updated_value": 1.9,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-02-25",
+            "historic_updated_value": 0.9,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-08-13",
+            "historic_updated_value": 0.8,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-15",
+            "historic_updated_value": 0.7,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-02-13",
+            "historic_updated_value": 0.6,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-08-15",
+            "historic_updated_value": 0.7,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-05-17",
+            "historic_updated_value": 0.6,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-11-17",
+            "historic_updated_value": 0.7,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-05-09",
+            "historic_updated_value": 0.8,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-08-09",
+            "historic_updated_value": 1.1,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-05-10",
+            "historic_updated_value": 1.0,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-02-09",
+            "historic_updated_value": 1.1,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-11-10",
+            "historic_updated_value": 1.0,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-08-11",
+            "historic_updated_value": 0.9,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-02-09",
+            "historic_updated_value": 0.8,
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.3,
+            "risk_name": "Expropriation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.3,
+            "risk_name": "Expropriation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-20",
+            "historic_updated_value": 0.2,
+            "risk_name": "Expropriation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.2,
+            "risk_name": "Expropriation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.2,
+            "risk_name": "Expropriation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.2,
+            "risk_name": "Expropriation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.8,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-04-18",
+            "historic_updated_value": 0.5,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-11-06",
+            "historic_updated_value": 0.5,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-13",
+            "historic_updated_value": 0.4,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-03-23",
+            "historic_updated_value": 0.5,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-02-25",
+            "historic_updated_value": 0.6,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-12-11",
+            "historic_updated_value": 0.5,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.4,
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-08-02",
+            "historic_updated_value": 1.5,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-05-04",
+            "historic_updated_value": 1.6,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-02-07",
+            "historic_updated_value": 1.8,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-11-03",
+            "historic_updated_value": 1.9,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-05-06",
+            "historic_updated_value": 2.2,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-02-02",
+            "historic_updated_value": 2.0,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-11-05",
+            "historic_updated_value": 1.4,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-15",
+            "historic_updated_value": 0.4,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-02-17",
+            "historic_updated_value": 0.4,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-02-09",
+            "historic_updated_value": 0.2,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-11-10",
+            "historic_updated_value": 0.3,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-02-09",
+            "historic_updated_value": 0.4,
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.5,
+            "risk_name": "InfrastructureDisruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-10-25",
+            "historic_updated_value": 0.4,
+            "risk_name": "InfrastructureDisruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-08-04",
+            "historic_updated_value": 0.1,
+            "risk_name": "InfrastructureDisruption"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.8,
+            "risk_name": "InterstateWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-06-23",
+            "historic_updated_value": 0.4,
+            "risk_name": "InterstateWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-01-21",
+            "historic_updated_value": 0.5,
+            "risk_name": "InterstateWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.4,
+            "risk_name": "InterstateWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.3,
+            "risk_name": "InterstateWar"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-09-29",
+            "historic_updated_value": 0.4,
+            "risk_name": "LabourStrikes"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-03-01",
+            "historic_updated_value": 0.7,
+            "risk_name": "LabourStrikes"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-12-03",
+            "historic_updated_value": 0.7,
+            "risk_name": "LabourStrikes"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.9,
+            "risk_name": "LabourStrikes"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 1.0,
+            "risk_name": "LabourStrikes"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 1.0,
+            "risk_name": "LabourStrikes"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.3,
+            "risk_name": "Legal"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.2,
+            "risk_name": "Legal"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.6,
+            "risk_name": "Operational"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-09-29",
+            "historic_updated_value": 0.5,
+            "risk_name": "Operational"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-10-25",
+            "historic_updated_value": 0.6,
+            "risk_name": "Operational"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-12-03",
+            "historic_updated_value": 0.5,
+            "risk_name": "Operational"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-07-02",
+            "historic_updated_value": 0.6,
+            "risk_name": "Operational"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.5,
+            "risk_name": "Operational"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-04-18",
+            "historic_updated_value": 1.0,
+            "risk_name": "PolicyStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.9,
+            "risk_name": "PolicyStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-13",
+            "historic_updated_value": 0.8,
+            "risk_name": "PolicyStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-03-11",
+            "historic_updated_value": 0.7,
+            "risk_name": "PolicyStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-09-05",
+            "historic_updated_value": 0.7,
+            "risk_name": "PolicyStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.7,
+            "risk_name": "PolicyStability"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-04-18",
+            "historic_updated_value": 0.7,
+            "risk_name": "Political"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-09-29",
+            "historic_updated_value": 0.6,
+            "risk_name": "Political"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-03-23",
+            "historic_updated_value": 0.5,
+            "risk_name": "Political"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-02-25",
+            "historic_updated_value": 0.6,
+            "risk_name": "Political"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.2,
+            "risk_name": "ProtestsAndRiots"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-06-23",
+            "historic_updated_value": 0.2,
+            "risk_name": "ProtestsAndRiots"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.2,
+            "risk_name": "ProtestsAndRiots"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.2,
+            "risk_name": "ProtestsAndRiots"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.1,
+            "risk_name": "ProtestsAndRiots"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-02-08",
+            "historic_updated_value": 2.9,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-11-06",
+            "historic_updated_value": 3.3,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-08-02",
+            "historic_updated_value": 3.4,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-05-04",
+            "historic_updated_value": 3.3,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-02-07",
+            "historic_updated_value": 3.1,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-11-03",
+            "historic_updated_value": 3.3,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2022-02-02",
+            "historic_updated_value": 2.9,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-11-05",
+            "historic_updated_value": 2.8,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-08-04",
+            "historic_updated_value": 2.0,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-05-06",
+            "historic_updated_value": 1.9,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-02-03",
+            "historic_updated_value": 3.2,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-11-05",
+            "historic_updated_value": 3.9,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-08-06",
+            "historic_updated_value": 5.3,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-04-23",
+            "historic_updated_value": 9.3,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-02-25",
+            "historic_updated_value": 3.1,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-11-14",
+            "historic_updated_value": 2.7,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-08-13",
+            "historic_updated_value": 2.6,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-15",
+            "historic_updated_value": 2.1,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-08-15",
+            "historic_updated_value": 1.3,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-05-17",
+            "historic_updated_value": 1.0,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-11-17",
+            "historic_updated_value": 1.6,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-05-09",
+            "historic_updated_value": 2.1,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-02-09",
+            "historic_updated_value": 3.1,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-11-10",
+            "historic_updated_value": 2.6,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-08-11",
+            "historic_updated_value": 2.1,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-02-09",
+            "historic_updated_value": 1.1,
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.7,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.7,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-03-01",
+            "historic_updated_value": 0.7,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-12-03",
+            "historic_updated_value": 0.6,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-03-11",
+            "historic_updated_value": 0.7,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-07-02",
+            "historic_updated_value": 0.6,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.5,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.4,
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.5,
+            "risk_name": "Security"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.4,
+            "risk_name": "Security"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.3,
+            "risk_name": "Security"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-08-04",
+            "historic_updated_value": 0.1,
+            "risk_name": "SovereignDefault"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.4,
+            "risk_name": "StateFailure"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-09-29",
+            "historic_updated_value": 0.5,
+            "risk_name": "StateFailure"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-20",
+            "historic_updated_value": 0.3,
+            "risk_name": "StateFailure"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.4,
+            "risk_name": "StateFailure"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-30",
+            "historic_updated_value": 0.4,
+            "risk_name": "StateFailure"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.4,
+            "risk_name": "StateFailure"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.8,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-11-05",
+            "historic_updated_value": 0.7,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-05-06",
+            "historic_updated_value": 0.6,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-08-06",
+            "historic_updated_value": 0.7,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-04-23",
+            "historic_updated_value": 0.8,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-01-29",
+            "historic_updated_value": 0.6,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2017-05-09",
+            "historic_updated_value": 0.4,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.5,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2015-11-10",
+            "historic_updated_value": 0.6,
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 1.3,
+            "risk_name": "Tax"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 1.5,
+            "risk_name": "Tax"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-12-03",
+            "historic_updated_value": 1.1,
+            "risk_name": "Tax"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 1.0,
+            "risk_name": "Tax"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-01-29",
+            "historic_updated_value": 1.1,
+            "risk_name": "Tax"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.3,
+            "risk_name": "Tax"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 0.4,
+            "risk_name": "TaxConsistency"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.5,
+            "risk_name": "TaxConsistency"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-07-20",
+            "historic_updated_value": 0.5,
+            "risk_name": "TaxConsistency"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.5,
+            "risk_name": "TaxConsistency"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-01-29",
+            "historic_updated_value": 0.5,
+            "risk_name": "TaxConsistency"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.3,
+            "risk_name": "TaxConsistency"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2025-03-19",
+            "historic_updated_value": 2.2,
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 2.4,
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2021-03-01",
+            "historic_updated_value": 1.7,
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-12-03",
+            "historic_updated_value": 1.6,
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 1.5,
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-01-29",
+            "historic_updated_value": 1.6,
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.3,
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2024-01-08",
+            "historic_updated_value": 0.7,
+            "risk_name": "Terrorism"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2020-06-23",
+            "historic_updated_value": 0.8,
+            "risk_name": "Terrorism"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2019-05-13",
+            "historic_updated_value": 0.8,
+            "risk_name": "Terrorism"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-04-09",
+            "historic_updated_value": 0.8,
+            "risk_name": "Terrorism"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2016-11-28",
+            "historic_updated_value": 0.7,
+            "risk_name": "Terrorism"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2023-07-07",
+            "historic_updated_value": 0.3,
+            "risk_name": "UnderDevelopment"
+          },
+          {
+            "country": "SG",
+            "historic_updated_date": "2018-07-11",
+            "historic_updated_value": 0.4,
+            "risk_name": "UnderDevelopment"
+          }
+        ],
+        "ihs_outlook": [
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.6,
+            "outlook": "Unchanged",
+            "outlook_description": "The conviction of former minister S Iswaran in 2024 shows rare instance of high-level corruption, but also demonstrates robust enforcement.",
+            "risk_name": "BriberyAndCorruption"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2023-08-16",
+            "last_updated_value": 0.1,
+            "outlook": "Up",
+            "outlook_description": "Score affirmation: With strong external liquidity, no expectation of issues surrounding currency conversion or of capital controls being implemented.",
+            "risk_name": "CapitalTransfer"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.1,
+            "outlook": "Unchanged",
+            "outlook_description": "Score affirmation: There is no indication of any dispute along racial or other societal divisions that would lead to large-scale violence.",
+            "risk_name": "CivilWar"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.3,
+            "outlook": "Unchanged",
+            "outlook_description": "Score affirmation: The government honors its contracts, and in case of a dispute with the government, the court system is impartial and capable.",
+            "risk_name": "ContractAlteration"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.2,
+            "outlook": "Unchanged",
+            "outlook_description": "Score affirmation: The court system is competent and impartial, and this is very unlikely to change after the next general election.",
+            "risk_name": "ContractEnforcement"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2023-11-06",
+            "last_updated_value": 1.6,
+            "outlook": "Down",
+            "outlook_description": "The outlook for the ending of tightening cycle by the Fed in Q4 2023 will limit the risk of further widening interest differentials.",
+            "risk_name": "CurrencyDepreciation"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-02-08",
+            "last_updated_value": 1.1,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "Economic"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.3,
+            "outlook": "Unchanged",
+            "outlook_description": "Score affirmation: Expropriation risks are low, but where land expropriation occurs, any dispute over compensation will be handled through the courts.",
+            "risk_name": "Expropriation"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.8,
+            "outlook": "Unchanged",
+            "outlook_description": "The next general election is due by Nov. 2025, but a change of government is improbable and a change of PM is very unlikely.",
+            "risk_name": "GovernmentStability"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2023-08-02",
+            "last_updated_value": 1.5,
+            "outlook": "Down",
+            "outlook_description": "Inflation will moderate thanks to softer import goods prices.",
+            "risk_name": "Inflation"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.5,
+            "outlook": "Unchanged",
+            "outlook_description": "Disruption in global maritime trade would increase the risk of disruption to Singapore's port infrastructure.",
+            "risk_name": "InfrastructureDisruption"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.8,
+            "outlook": "Up",
+            "outlook_description": "Singapore's support for AUKUS and its hosting of US navy facility gives rise to a remote chance that it will be a target in a US-China war.",
+            "risk_name": "InterstateWar"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2023-09-29",
+            "last_updated_value": 0.4,
+            "outlook": "Unchanged",
+            "outlook_description": "Labor unrest is very rare; The National Trades Union Congress is in effect affiliated with the ruling PAP, ensuring smooth labor-management relations.",
+            "risk_name": "LabourStrikes"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.3,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "Legal"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.6,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "Operational"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-04-18",
+            "last_updated_value": 1.0,
+            "outlook": "Unchanged",
+            "outlook_description": "Incoming PM Lawrence Wong's plan to create a more equitable society will mean changes to employment policy, including pay and flexible working.",
+            "risk_name": "PolicyStability"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-04-18",
+            "last_updated_value": 0.7,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "Political"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.2,
+            "outlook": "Unchanged",
+            "outlook_description": "Score affirmation: Authorities' comments that public events related to war in Gaza would not be allowed, indicate strict control of public protests.",
+            "risk_name": "ProtestsAndRiots"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-02-08",
+            "last_updated_value": 2.9,
+            "outlook": "Down",
+            "outlook_description": "Strong recovery in manufacturing sector and increase in exports will help keep the growth momentum in the economy intact.",
+            "risk_name": "Recession"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.7,
+            "outlook": "Unchanged",
+            "outlook_description": "Score affirmation: The regulatory framework is unlikely to change after the 2025 elections as the current government is likely to remain in power.",
+            "risk_name": "RegulatoryBurden"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.5,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "Security"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2021-08-04",
+            "last_updated_value": 0.1,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "SovereignDefault"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.4,
+            "outlook": "Unchanged",
+            "outlook_description": "The 2025 La Nina weather event will bring wetter weather to Southeast Asia, but SIngapore's institutions are capable of dealing with the impact.",
+            "risk_name": "StateFailure"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.8,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "StrategicOverall"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 1.3,
+            "outlook": "Unchanged",
+            "outlook_description": "",
+            "risk_name": "Tax"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 0.4,
+            "outlook": "Unchanged",
+            "outlook_description": "Planned tax changes are announced well in advance of implementation, sudden or ad hoc tax changes are highly unlikely.",
+            "risk_name": "TaxConsistency"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2025-03-19",
+            "last_updated_value": 2.2,
+            "outlook": "Unchanged",
+            "outlook_description": "PM announced tax incentives for companies seeking to invest or list in Singapore in his 2025 budget speech.",
+            "risk_name": "TaxIncrease"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2024-01-08",
+            "last_updated_value": 0.7,
+            "outlook": "Unchanged",
+            "outlook_description": "Reports of online threats of attack against Singapore relating to the war in Gaza, is unlikely to materialize due to strong state surveillance.",
+            "risk_name": "Terrorism"
+          },
+          {
+            "country": "SG",
+            "last_updated_date": "2023-07-07",
+            "last_updated_value": 0.3,
+            "outlook": "Unchanged",
+            "outlook_description": "GDP per capita is forecast to increase by 4.3%.",
+            "risk_name": "UnderDevelopment"
+          }
+        ],
+        "last_run_date": "2025-03-19 11:21:00",
+        "last_run_status": "IHS data load successful at 2025-03-19 11:21:00",
+        "last_run_value": "SG"
+      },
+      "key_industry": {
+        "code": null,
+        "code_name": null,
+        "code_type": null
+      },
+      "layers": [
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": 222222.0,
+          "aggregate_limit": 10000.0,
+          "benchmark_premium": 0.011549346031709151,
+          "benchmark_premium_annualised": 0.011557256542689775,
+          "bpi": 432.9249453841211,
+          "bpi_case_priced": 0.0,
+          "bpi_pre_uw_adj": 432.9249453841211,
+          "brokerage": 0.05,
+          "crcf": {
+            "loss_composition_pre_uwadj_term": {
+              "credit_rating": null,
+              "expected_loss": null,
+              "exposure": null,
+              "lgd": null,
+              "limit_discount": null,
+              "other": null,
+              "pod": null,
+              "recovery_discounted": null,
+              "tenor_load": null,
+              "term": null
+            },
+            "loss_composition_pst_uwadj_term": {
+              "credit_rating": null,
+              "expected_loss": null,
+              "exposure": null,
+              "lgd": null,
+              "limit_discount": null,
+              "other": null,
+              "pod": null,
+              "recovery_discounted": null,
+              "tenor_load": null,
+              "term": null
+            },
+            "metrics_summary_pre_uwadj_annual": {
+              "roe_benchmark": null,
+              "roe_offered": null,
+              "roe_plan": null,
+              "roe_technical": null
+            },
+            "metrics_summary_pre_uwadj_term": {
+              "bpi": null,
+              "priced_gglr": null,
+              "priced_gnlr": null,
+              "priced_to_plan": null,
+              "roe_benchmark": null,
+              "roe_offered": null,
+              "roe_plan": null,
+              "roe_technical": null,
+              "tpi": null
+            },
+            "metrics_summary_pst_uwadj_annual": {
+              "roe_benchmark": null,
+              "roe_offered": null,
+              "roe_plan": null,
+              "roe_technical": null
+            },
+            "metrics_summary_pst_uwadj_term": {
+              "bpi": null,
+              "credit_rating_bound": null,
+              "lgd_bound": null,
+              "priced_gglr": null,
+              "priced_gnlr": null,
+              "priced_to_plan": null,
+              "roe_benchmark": null,
+              "roe_offered": null,
+              "roe_plan": null,
+              "roe_technical": null,
+              "tpi": null
+            },
+            "premium_composition_pre_uwadj_annual": {
+              "brokerage": null,
+              "capital": null,
+              "che": null,
+              "cost_of_reinsurance": null,
+              "expected_loss": null,
+              "fixed_expenses": null,
+              "investment_income": null,
+              "loadings_benchmark": null,
+              "loadings_bound": null,
+              "loadings_model": null,
+              "loadings_plan": null,
+              "premium_benchmark": null,
+              "premium_bound": null,
+              "premium_model": null,
+              "premium_plan": null,
+              "premium_technical": null,
+              "variable_expenses": null
+            },
+            "premium_composition_pre_uwadj_term": {
+              "brokerage": null,
+              "capital": null,
+              "che": null,
+              "cost_of_reinsurance": null,
+              "expected_loss": null,
+              "fixed_expenses": null,
+              "investment_income": null,
+              "loadings_benchmark": null,
+              "loadings_bound": null,
+              "loadings_model": null,
+              "loadings_plan": null,
+              "premium_benchmark": null,
+              "premium_bound": null,
+              "premium_model": null,
+              "premium_plan": null,
+              "premium_technical": null,
+              "variable_expenses": null
+            },
+            "premium_composition_pst_uwadj_annual": {
+              "brokerage": null,
+              "capital": null,
+              "che": null,
+              "cost_of_reinsurance": null,
+              "expected_loss": null,
+              "fixed_expenses": null,
+              "investment_income": null,
+              "loadings_benchmark": null,
+              "loadings_bound": null,
+              "loadings_model": null,
+              "loadings_plan": null,
+              "premium_benchmark": null,
+              "premium_bound": null,
+              "premium_model": null,
+              "premium_plan": null,
+              "premium_technical": null,
+              "variable_expenses": null
+            },
+            "premium_composition_pst_uwadj_term": {
+              "brokerage": null,
+              "capital": null,
+              "che": null,
+              "cost_of_reinsurance": null,
+              "expected_loss": null,
+              "fixed_expenses": null,
+              "investment_income": null,
+              "loadings_benchmark": null,
+              "loadings_bound": null,
+              "loadings_model": null,
+              "loadings_plan": null,
+              "premium_benchmark": null,
+              "premium_bound": null,
+              "premium_model": null,
+              "premium_plan": null,
+              "premium_technical": null,
+              "variable_expenses": null
+            }
+          },
+          "currency": "USD",
+          "deductible": null,
+          "excess": 222222.0,
+          "expected_loss_cost": 0.0076803151110865844,
+          "expected_loss_cost_pre_uw_adj": 0.0076803151110865844,
+          "is_primary_excess": null,
+          "limit": 10000.0,
+          "model_premium": 7073.159400860681,
+          "pflr": 0.001616908444439281,
+          "pflr_att": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.001616908444439281,
+          "political": {
+            "metrics_summary_pre_uwadj": {
+              "bpi": 432.92494538412114,
+              "priced_gglr": 0.0015360630222173168,
+              "priced_gnlr": 0.001616908444439281,
+              "priced_to_plan": 361.6744497206734,
+              "rol_benchmark": 2.30986920634183e-05,
+              "rol_model": 4.61973841268366e-05,
+              "rol_offered": 0.01,
+              "rol_plan": 2.7649174575984425e-05,
+              "rol_technical": 14.14631880172136,
+              "tpi": 0.0007068976841369625
+            },
+            "metrics_summary_pst_uwadj": {
+              "bpi": 432.92494538412114,
+              "priced_gglr": 0.0015360630222173168,
+              "priced_gnlr": 0.001616908444439281,
+              "priced_to_plan": 361.6744497206734,
+              "rol_benchmark": 2.30986920634183e-05,
+              "rol_model": 4.61973841268366e-05,
+              "rol_offered": 0.01,
+              "rol_plan": 2.7649174575984425e-05,
+              "rol_technical": 14.14631880172136,
+              "tpi": 0.0007068976841369625
+            },
+            "premium_composition_pre_uwadj": {
+              "cont_relation_govt": {
+                "brokerage": 0.0,
+                "capital": 0.0,
+                "che": 0.0,
+                "cost_of_reinsurance": 0.0,
+                "expected_loss": 0.0,
+                "fixed_expenses": 0.0,
+                "investment_income": -0.0,
+                "loadings_benchmark": 0.0,
+                "loadings_bound": 0.0,
+                "loadings_model": 0.0,
+                "loadings_plan": 0.0,
+                "premium_benchmark": 0.0,
+                "premium_bound": 0.0,
+                "premium_model": 0.0,
+                "premium_plan": 0.0,
+                "premium_technical": 0.0,
+                "variable_expenses": 0.0
+              },
+              "cur_inconvertibility": {
+                "brokerage": 0.0,
+                "capital": 0.0,
+                "che": 0.0,
+                "cost_of_reinsurance": 0.0,
+                "expected_loss": 0.0,
+                "fixed_expenses": 0.0,
+                "investment_income": -0.0,
+                "loadings_benchmark": 0.0,
+                "loadings_bound": 0.0,
+                "loadings_model": 0.0,
+                "loadings_plan": 0.0,
+                "premium_benchmark": 0.0,
+                "premium_bound": 0.0,
+                "premium_model": 0.0,
+                "premium_plan": 0.0,
+                "premium_technical": 0.0,
+                "variable_expenses": 0.0
+              },
+              "gov_action": {
+                "brokerage": 3616.5604323588022,
+                "capital": 8355.416325118813,
+                "che": 0.001257824653047738,
+                "cost_of_reinsurance": 8539.898464787546,
+                "expected_loss": 0.0785400756991939,
+                "fixed_expenses": 48007.778113199434,
+                "investment_income": -7078.750391291616,
+                "loadings_benchmark": 0.039565301292075125,
+                "loadings_bound": 51.052223807816986,
+                "loadings_model": 0.15767067828334413,
+                "loadings_plan": 0.06283226598268392,
+                "premium_benchmark": 0.11810537699126902,
+                "premium_bound": 51.13076388351618,
+                "premium_model": 0.23621075398253805,
+                "premium_plan": 0.14137234168187782,
+                "premium_technical": 72331.20864717604,
+                "variable_expenses": 10890.225905102701
+              },
+              "pol_violence": {
+                "brokerage": 3456.598968501878,
+                "capital": 7985.853960132055,
+                "che": 0.0012021907222618464,
+                "cost_of_reinsurance": 8162.1764039602795,
+                "expected_loss": 0.07506622652253779,
+                "fixed_expenses": 45884.380866800566,
+                "investment_income": -6765.655312128166,
+                "loadings_benchmark": 0.03781531712037618,
+                "loadings_bound": 48.79416988996128,
+                "loadings_model": 0.15069686076329014,
+                "loadings_plan": 0.06005317755542862,
+                "premium_benchmark": 0.11288154364291397,
+                "premium_bound": 48.86923611648382,
+                "premium_model": 0.22576308728582795,
+                "premium_plan": 0.1351194040779664,
+                "premium_technical": 69131.97937003756,
+                "variable_expenses": 10408.548214353692
+              },
+              "total": {
+                "brokerage": 7073.159400860681,
+                "capital": 16341.270285250868,
+                "che": 0.002460015375309584,
+                "cost_of_reinsurance": 16702.074868747826,
+                "expected_loss": 0.1536063022217317,
+                "fixed_expenses": 93892.15898,
+                "investment_income": -13844.405703419783,
+                "loadings_benchmark": 0.07738061841245131,
+                "loadings_bound": 99.84639369777827,
+                "loadings_model": 0.3083675390466343,
+                "loadings_plan": 0.12288544353811257,
+                "premium_benchmark": 0.230986920634183,
+                "premium_bound": 100.0,
+                "premium_model": 0.461973841268366,
+                "premium_plan": 0.27649174575984425,
+                "premium_technical": 141463.1880172136,
+                "variable_expenses": 21298.774119456393
+              }
+            },
+            "premium_composition_pst_uwadj": {
+              "cont_relation_govt": {
+                "brokerage": 0.0,
+                "capital": 0.0,
+                "che": 0.0,
+                "cost_of_reinsurance": 0.0,
+                "expected_loss": 0.0,
+                "fixed_expenses": 0.0,
+                "investment_income": -0.0,
+                "loadings_benchmark": 0.0,
+                "loadings_bound": 0.0,
+                "loadings_model": 0.0,
+                "loadings_plan": 0.0,
+                "premium_benchmark": 0.0,
+                "premium_bound": 0.0,
+                "premium_model": 0.0,
+                "premium_plan": 0.0,
+                "premium_technical": 0.0,
+                "variable_expenses": 0.0
+              },
+              "cur_inconvertibility": {
+                "brokerage": 0.0,
+                "capital": 0.0,
+                "che": 0.0,
+                "cost_of_reinsurance": 0.0,
+                "expected_loss": 0.0,
+                "fixed_expenses": 0.0,
+                "investment_income": -0.0,
+                "loadings_benchmark": 0.0,
+                "loadings_bound": 0.0,
+                "loadings_model": 0.0,
+                "loadings_plan": 0.0,
+                "premium_benchmark": 0.0,
+                "premium_bound": 0.0,
+                "premium_model": 0.0,
+                "premium_plan": 0.0,
+                "premium_technical": 0.0,
+                "variable_expenses": 0.0
+              },
+              "gov_action": {
+                "brokerage": 3616.5604323588022,
+                "capital": 8355.416325118813,
+                "che": 0.001257824653047738,
+                "cost_of_reinsurance": 8539.898464787546,
+                "expected_loss": 0.0785400756991939,
+                "fixed_expenses": 48007.778113199434,
+                "investment_income": -7078.750391291616,
+                "loadings_benchmark": 0.039565301292075125,
+                "loadings_bound": 51.052223807816986,
+                "loadings_model": 0.15767067828334413,
+                "loadings_plan": 0.06283226598268392,
+                "premium_benchmark": 0.11810537699126902,
+                "premium_bound": 51.13076388351618,
+                "premium_model": 0.23621075398253805,
+                "premium_plan": 0.14137234168187782,
+                "premium_technical": 72331.20864717604,
+                "variable_expenses": 10890.225905102701
+              },
+              "pol_violence": {
+                "brokerage": 3456.598968501878,
+                "capital": 7985.853960132055,
+                "che": 0.0012021907222618464,
+                "cost_of_reinsurance": 8162.1764039602795,
+                "expected_loss": 0.07506622652253779,
+                "fixed_expenses": 45884.380866800566,
+                "investment_income": -6765.655312128166,
+                "loadings_benchmark": 0.03781531712037618,
+                "loadings_bound": 48.79416988996128,
+                "loadings_model": 0.15069686076329014,
+                "loadings_plan": 0.06005317755542862,
+                "premium_benchmark": 0.11288154364291397,
+                "premium_bound": 48.86923611648382,
+                "premium_model": 0.22576308728582795,
+                "premium_plan": 0.1351194040779664,
+                "premium_technical": 69131.97937003756,
+                "variable_expenses": 10408.548214353692
+              },
+              "total": {
+                "brokerage": 7073.159400860681,
+                "capital": 16341.270285250868,
+                "che": 0.002460015375309584,
+                "cost_of_reinsurance": 16702.074868747826,
+                "expected_loss": 0.1536063022217317,
+                "fixed_expenses": 93892.15898,
+                "investment_income": -13844.405703419783,
+                "loadings_benchmark": 0.07738061841245131,
+                "loadings_bound": 99.84639369777827,
+                "loadings_model": 0.3083675390466343,
+                "loadings_plan": 0.12288544353811257,
+                "premium_benchmark": 0.230986920634183,
+                "premium_bound": 100.0,
+                "premium_model": 0.461973841268366,
+                "premium_plan": 0.27649174575984425,
+                "premium_technical": 141463.1880172136,
+                "variable_expenses": 21298.774119456393
+              }
+            }
+          },
+          "premium": null,
+          "premium_label": "Gross Bound Premium",
+          "quoted_premium": 5.0,
+          "quoted_premium_annualised": 5.003424657534247,
+          "rate_change": {
+            "brokerage_change": {
+              "comments": null,
+              "model_calculated": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "deductible_change": {
+              "comments": null,
+              "model_calculated": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "expiring_layer": 1,
+            "expiring_policy_info": {
+              "expiring_brokerage": null,
+              "expiring_deductible": null,
+              "expiring_expected_loss": null,
+              "expiring_exposure": null,
+              "expiring_limit": null,
+              "expiring_policy_length": null,
+              "expiring_premium": null,
+              "expiring_section_reference": null,
+              "expiring_write_line": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "model_calculated": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit_change": {
+              "comments": null,
+              "model_calculated": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "other_change": {
+              "comments": null,
+              "model_calculated": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": null,
+                  "rebased_expiring": null,
+                  "renewal": null
+                },
+                "policy_term": {
+                  "expiring": null,
+                  "rebased_expiring": null,
+                  "renewal": null
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": null,
+                  "rebased_expiring": null,
+                  "renewal": null
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": null,
+              "other_factors_change": null,
+              "uw_selected": null
+            },
+            "risk_adjusted_rate_change": null,
+            "risk_adjusted_rate_change_case_priced": null,
+            "risk_adjusted_rate_change_gross_for_reporting": null,
+            "risk_characteristics_change": {
+              "comments": null,
+              "model_calculated": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "temp_storage": {
+              "benchmark_premium": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "model_calculated": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": -1218.1993162013032,
+          "section_reference": "YK132A22APSM",
+          "status": "Bound",
+          "technical_premium": 7073.159400860681,
+          "technical_premium_net": 6719.501430817646,
+          "technical_premium_pre_uw_adj": 7073.159400860681,
+          "tpi": 0.0007068976841369624,
+          "tpi_pre_uw_adj": 0.0007068976841369624,
+          "trifocus": "Political",
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 0.05
+        }
+      ],
+      "modifiers": {
+        "crcf": {
+          "default": {
+            "grade": null,
+            "lgd": null,
+            "pod": null,
+            "uw_adj": null
+          },
+          "economic_outlook": null,
+          "lgd_commentary": null,
+          "obligor_commentary": null,
+          "override": {
+            "grade": null,
+            "lgd": null,
+            "pod": null,
+            "uw_adj": null
+          },
+          "override_max": {
+            "grade": null,
+            "lgd": null,
+            "pod": null,
+            "uw_adj": null
+          },
+          "override_min": {
+            "grade": null,
+            "lgd": null,
+            "pod": null,
+            "uw_adj": null
+          },
+          "rating_commentary": null,
+          "rating_corporate": "BBB+",
+          "rating_country": null,
+          "rating_source": "Beazley credit tool",
+          "selected": {
+            "grade": null,
+            "lgd": null,
+            "pod": null,
+            "uw_adj": null
+          },
+          "uw_adj_commentary": null
+        },
+        "political": {
+          "override": {
+            "asset_composition": 0.0,
+            "industry": 0.0,
+            "insured_quality": 0.0,
+            "total": 0.0
+          },
+          "override_max": {
+            "asset_composition": 0.1,
+            "industry": 0.2,
+            "insured_quality": 0.1,
+            "total": 0.4
+          },
+          "override_min": {
+            "asset_composition": -0.1,
+            "industry": -0.2,
+            "insured_quality": -0.1,
+            "total": -0.4
+          },
+          "selected": {
+            "asset_composition": 0.0,
+            "industry": 0.0,
+            "insured_quality": 0.0,
+            "total": 0.0
+          },
+          "uw_adj_commentary": null
+        }
+      },
+      "policy_option_id": 540223,
+      "product": "Political Risk",
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": null,
+          "is_dirty": false,
+          "is_overridden": false,
+          "overridden_calculated": null,
+          "selected": null
+        },
+        "has_fetch_not_run": true,
+        "has_fetch_run": null,
+        "has_rarc_not_run": true,
+        "has_rarc_run": null,
+        "layer_mapping": null,
+        "rarc_message_show": null,
+        "rarc_run_again_message": null,
+        "show_layer_1": true
+      },
+      "rating_factors": {
+        "policy_term": 11.991786447638603
+      },
+      "rationale": {
+        "actuarial_notes": null,
+        "actuarial_review": "No",
+        "help_file": "User Guide, Quick Starts, Training Videos are stored [here](https://beazley.sharepoint.com/sites/ActuarialPricing)."
+      },
+      "risk_info": {
+        "crcf_country": "Singapore",
+        "crcf_industry": "Banks (Financials)",
+        "crcf_industry_group": "Financials",
+        "crcf_obligor": "",
+        "crcf_term": 12.0
+      },
+      "show_hide": {
+        "node": {
+          "show_crcf": false,
+          "show_hide_flat": false,
+          "show_hide_flat_not": true,
+          "show_hide_step": true,
+          "show_political": true,
+          "show_pre_shipment_risk": false,
+          "show_pre_shipment_risk_not": true
+        },
+        "page": {
+          "show_actuarial": false,
+          "show_exposure_detail": true,
+          "show_ihs": true,
+          "show_rate_change": null,
+          "show_rating_summary": true,
+          "show_rationale": true
+        }
+      },
+      "standard_fields": {
+        "benchmark_class": "Political",
+        "broker": "AON FRANCE",
+        "expiry_date": "2026-03-18",
+        "facility_reference": null,
+        "inception_date": "2025-03-19",
+        "insured_country": null,
+        "insured_name": "123 TESTING OPTION",
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_case_priced": false,
+        "is_free_trade_zone": false,
+        "is_rater_priced": true,
+        "is_renewal": false,
+        "policy_reference": "YK132A22",
+        "rating_methodology": "Rater",
+        "trifocus": "Political",
+        "underwriter": "Jack Suk",
+        "uw_rationale": null
+      }
+    },
+    "hx_core": {
+      "charged_premium": 0.0,
+      "class_code": "0",
+      "expiry_date": "2026-03-18",
+      "inception_date": "2020-03-19",
+      "model_premium": 0.0,
+      "premium_currency": "",
+      "ulr": 0.0
+    },
+    "live_hxd": true,
+    "model_state": {
+      "expiring_policy_option_id": null,
+      "landing_page_info": "Click the 'import expiring policy data' arrow in the top right corner then click **Start Policy**. ",
+      "pressed_start_renewal_task": null,
+      "show_after_landing_page": true,
+      "show_landing_page": false,
+      "show_rate_change": false
+    },
+    "policy_doc": {
+      "data_dict": "{\"product\": \"Political Risk\", \"underwriter\": \"Jack Suk\", \"insured_name\": \"123 TESTING OPTION\", \"section_reference\": \"YK132A22APSM\", \"source_currency\": \"USD\", \"is_renewal\": \"No\", \"expiry_date\": \"18/03/2026\", \"inception_date\": \"19/03/2025\", \"broker_contact\": \"kikkk\", \"broker_name\": \"AON FRANCE\", \"written_line\": 0.05, \"excess\": 222222.0, \"limit\": 10000.0, \"brokerage\": 0.05, \"status\": \"Bound\", \"pol.commentary.underwriter_adjustments\": \"\", \"pol.exposure_curve\": \"Standard\", \"pol.number_of_sims\": 500000, \"pol.tenor_mths\": 12.0, \"pol.tenor_rate\": 1.0, \"pol.fixed_assets.government_action_intervention\": \"No\", \"pol.lenders_interest.government_action_intervention\": \"No\", \"pol.mobile_assets.government_action_intervention\": \"Yes\", \"pol.deductible.political_violence\": \"\", \"pol.fixed_assets.political_violence\": \"No\", \"pol.lenders_interest.political_violence\": \"No\", \"pol.mobile_assets.political_violence\": \"Yes\", \"pol.sublimit.political_violence\": \"\", \"pol.fixed_assets.currency_inconvertibility\": \"No\", \"pol.lenders_interest.currency_inconvertibility\": \"No\", \"pol.mobile_assets.currency_inconvertibility\": \"No\", \"pol.sublimit.currency_inconvertibility\": \"\", \"pol.fixed_assets.contractual_relationship_with_government\": \"No\", \"pol.lenders_interest.contractual_relationship_with_government\": \"No\", \"pol.mobile_assets.contractual_relationship_with_government\": \"No\", \"pol.override.total\": 0.0, \"pol.max.total\": 0.4, \"pol.min.total\": -0.4, \"pol.selected.total\": 0.0, \"pol.override.uw_adjustment_1_industry\": 0.0, \"pol.max.uw_adjustment_1_industry\": 0.2, \"pol.min.uw_adjustment_1_industry\": -0.2, \"pol.selected.uw_adjustment_1_industry\": 0.0, \"pol.override.uw_adjustment_2_quality_of_insured\": 0.0, \"pol.max.uw_adjustment_2_quality_of_insured\": 0.1, \"pol.min.uw_adjustment_2_quality_of_insured\": -0.1, \"pol.selected.uw_adjustment_2_quality_of_insured\": 0.0, \"pol.override.uw_adjustment_3_asset_composition\": 0.0, \"pol.max.uw_adjustment_3_asset_composition\": 0.1, \"pol.min.uw_adjustment_3_asset_composition\": -0.1, \"pol.selected.uw_adjustment_3_asset_composition\": 0.0, \"all.impact_of_underwriting_adjustments\": 0.0, \"all.return_on_capital\": -1218.1993162013032, \"all.gross_model_premium\": 7073.159400860681, \"all.gross_quoted_premium\": 5.0, \"all.gross_technical_premium\": 7073.159400860681, \"all.gross_technical_premium_pre_uw_adjustment\": 7073.159400860681, \"all.gross_benchmark_premium\": 0.011549346031709151, \"all.tpi\": 0.0007068976841369624, \"all.tpi_pre_uw_adjustment\": 0.0007068976841369624, \"all.bpi\": 432.9249453841211, \"all.priced_for_loss_ratio\": 0.001616908444439281, \"all.bpi_pre_uw_adjustment\": 432.9249453841211, \"all.priced_for_loss_ratio_pre_uw_adjustment\": 0.001616908444439281, \"all.rate_chg.prem_expiring.annualized_100_share\": \"\", \"all.rate_chg.prem_renewal.annualized_100_share\": \"\", \"all.rate_chg.prem_expiring.annualized_beazley_share\": \"\", \"all.rate_chg.prem_renewal.annualized_beazley_share\": \"\", \"all.rate_chg.pct_comment.exposure_change\": \"\", \"all.rate_chg.pct_model.exposure_change\": \"\", \"all.rate_chg.pct_selected.exposure_change\": \"\", \"all.rate_chg.pct_comment.risk_characteristics_change\": \"\", \"all.rate_chg.pct_model.risk_characteristics_change\": \"\", \"all.rate_chg.pct_selected.risk_characteristics_change\": \"\", \"all.rate_chg.pct_comment.deductible_change\": \"\", \"all.rate_chg.pct_model.deductible_change\": \"\", \"all.rate_chg.pct_selected.deductible_change\": \"\", \"all.rate_chg.pct_comment.limit_change\": \"\", \"all.rate_chg.pct_model.limit_change\": \"\", \"all.rate_chg.pct_selected.limit_change\": \"\", \"all.rate_chg.pct_comment.terms_conditions_change\": \"\", \"all.rate_chg.pct_model.terms_conditions_change\": \"\", \"all.rate_chg.pct_selected.terms_conditions_change\": \"\", \"all.rate_chg.pct_comment.other_change\": \"\", \"all.rate_chg.pct_model.other_change\": \"\", \"all.rate_chg.pct_selected.other_change\": \"\", \"all.rate_chg.pct_comment.risk_adjusted_rate_change\": \"\", \"all.rate_chg.pct_model.risk_adjusted_rate_change\": \"\", \"all.rate_chg.pct_selected.risk_adjusted_rate_change\": \"\", \"all.commentary.underwriter_rationale\": \"\", \"pol.pre_uwadj.rate_on_line_offered\": 0.01, \"pol.pst_uwadj.rate_on_line_offered\": 0.01, \"pol.pre_uwadj.rate_on_line_model\": 4.61973841268366e-05, \"pol.pst_uwadj.rate_on_line_model\": 4.61973841268366e-05, \"pol.pre_uwadj.rate_on_line_technical\": 14.14631880172136, \"pol.pst_uwadj.rate_on_line_technical\": 14.14631880172136, \"pol.pre_uwadj.rate_on_line_benchmark\": 2.30986920634183e-05, \"pol.pst_uwadj.rate_on_line_benchmark\": 2.30986920634183e-05, \"pol.pre_uwadj.bpi\": 432.92494538412114, \"pol.pst_uwadj.bpi\": 432.92494538412114, \"pol.pre_uwadj.tpi\": 0.0007068976841369625, \"pol.pst_uwadj.tpi\": 0.0007068976841369625, \"pol.pre_uwadj.priced_to_plan\": 361.6744497206734, \"pol.pst_uwadj.priced_to_plan\": 361.6744497206734, \"pol.pre_uwadj.priced_loss_ratio_gross_gross\": 0.0015360630222173168, \"pol.pst_uwadj.priced_loss_ratio_gross_gross\": 0.0015360630222173168, \"pol.pre_uwadj.priced_loss_ratio_gross_net\": 0.001616908444439281, \"pol.pst_uwadj.priced_loss_ratio_gross_net\": 0.001616908444439281, \"pol.country_details\": [{\"country\": \"Singapore\", \"sum_insured\": 1000000.0, \"excess\": 0.0, \"limit\": 1000000.0, \"check\": \"ok\", \"country_2dig\": \"SG\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}, {\"country\": null, \"sum_insured\": NaN, \"excess\": NaN, \"limit\": NaN, \"check\": \"\", \"country_2dig\": \"\"}], \"tst_policy_url\": \"https://www.beazley-tst.hxrenew.com/policies/504219/options/540223\", \"dev_policy_url\": \"https://www.beazley-dev.hxrenew.com/policies/504219/options/540223\", \"prd_policy_url\": \"https://www.beazley.hxrenew.com/policies/504219/options/540223\"}",
+      "output_file": null,
+      "premium_check": null,
+      "show_download": false,
+      "show_generate_button": true,
+      "show_premium_check": null,
+      "task_data_dict": null
+    }
+  }
+]

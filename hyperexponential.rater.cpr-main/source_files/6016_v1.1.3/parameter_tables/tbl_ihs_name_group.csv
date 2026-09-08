@@ -1,0 +1,24 @@
+﻿ihs_name,crcf_group,pre_shipment_weight,pr_group_1,pr_group_2,pr_group_2_weight
+Political,excluded,0,excluded,excluded,0
+Expropriation,Legal,0.35,Contract,Political,0.125
+ContractAlteration,Legal,0.35,Contract,Political,0.125
+ContractEnforcement,Legal,0.35,Contract,Political,0.125
+ProtestsAndRiots,Security,0.1,Civil Unrest,Political Violence,0.166666666666667
+Terrorism,Security,0.1,Terrorism,Political Violence,0.333333333333333
+InterstateWar,Security,0.1,War,Political Violence,0.166666666666667
+CivilWar,Security,0.1,War,Political Violence,0.166666666666667
+BriberyAndCorruption,Operational,0.35,Contract,Political,0.125
+RegulatoryBurden,Operational,0.35,excluded,excluded,0
+LabourStrikes,Operational,0.35,Civil Unrest,Political Violence,0.166666666666667
+InfrastructureDisruption,Operational,0.35,excluded,excluded,0
+GovernmentStability,Political,0.2,Political instability,Political,0.166666666666667
+PolicyStability,Political,0.2,Political instability,Political,0.166666666666667
+StateFailure,Political,0.2,Political instability,Political,0.166666666666667
+Recession,Economic,0,excluded,excluded,0
+Inflation,Economic,0,excluded,excluded,0
+CurrencyDepreciation,Economic,0,excluded,excluded,0
+CapitalTransfer,Economic,0,Currency Inconvertability,Currency Inconvertability,1
+SovereignDefault,Economic,0,excluded,excluded,0
+UnderDevelopment,Economic,0,excluded,excluded,0
+TaxIncrease,Tax,0,excluded,excluded,0
+TaxConsistency,Tax,0,excluded,excluded,0
