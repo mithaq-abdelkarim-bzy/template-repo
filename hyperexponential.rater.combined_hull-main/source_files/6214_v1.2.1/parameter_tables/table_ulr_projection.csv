@@ -1,5 +1,0 @@
-parameter,value
-cl_dev_threshold,0.7
-attritional_ielr_portfolio,0.75
-large_return_period_portfolio,8
-avg_large_lr_portfolio,1.2

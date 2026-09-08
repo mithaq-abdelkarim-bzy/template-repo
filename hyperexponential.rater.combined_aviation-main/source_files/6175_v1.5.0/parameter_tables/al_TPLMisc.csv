@@ -1,9 +1,0 @@
-Factor,Value
-NonExposedTPLRate,1.7e-05
-TPLLowerLimit,100000000.0
-TPLLowerLimitRate,0.0002
-TPLUpperLimit,1000000000.0
-TPLMinRate,8.5e-05
-TPLTargetLR,0.6
-TPLMaximumFleetSize,100.0
-TPLMaxFleetDiscount,0.5

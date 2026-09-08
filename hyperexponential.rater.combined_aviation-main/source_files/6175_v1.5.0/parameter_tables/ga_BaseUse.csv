@@ -1,9 +1,0 @@
-Country,BusinessJet1,BusinessJet2,PistonHeli1,PistonHeli2,PistonFixed1,PistonFixed2,TurbineHeli1,TurbineHeli2,Turboprops1,Turboprops2
-Africa,Commercial,Commercial,Private / Industrial Aid,Private / Industrial Aid,Commercial,Commercial,Government / Military Use / Police,Government / Military Use / Police,Commercial,Commercial
-Asia Pacific,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Commercial,Commercial,Private / Industrial Aid,Government / Military Use / Police,Commercial,Commercial
-Europe,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Other,Other,Private / Industrial Aid,Government / Military Use / Police,Other,Other
-Latin America,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Government / Military Use / Police,Government / Military Use / Police,Private / Industrial Aid,Government / Military Use / Police,Government / Military Use / Police,Government / Military Use / Police
-North America,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Commercial,Commercial,Utility,EMS / S&R,Commercial,Commercial
-Other,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Other,Other,Private / Industrial Aid,Government / Military Use / Police,Other,Other
-Middle East,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Other,Other,Private / Industrial Aid,Government / Military Use / Police,Other,Other
-Russia,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Private / Industrial Aid,Other,Other,Private / Industrial Aid,Government / Military Use / Police,Other,Other
