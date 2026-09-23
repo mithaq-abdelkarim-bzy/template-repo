@@ -1,0 +1,19 @@
+ParameterName,Value,Comment
+ADR,0.0959788499235927,0
+CanadaDualListing,0.649938462530892,0
+China,4.49074786396994,0
+FreqSa,0.00470725125889392,0
+FreqSb,15.0650330963562,0
+FreqVa,0.00470725125889392,0
+FreqVb,15.0650330963562,0
+FreqWa,0.00470725125889392,0
+FreqWb,15.0650330963562,0
+SCAMinAbsoluteRate,0.001,0
+JobsAct,1.0,"requested by underwriting to reflect their appraisal of claims cuased by ipos (act 33) versus drug failings (Act 34). 25/8 UW decided to exclude IPO load, but still want this to be set up for monitoring in future"
+JobsAct_Sector1,1.0,(no loading initially for sector 1)
+MCapMinS,25000000000.0,this is to cap S Freq Group at this MarketCap
+MCapMinV,25000000000.0,this is to cap V Freq Group at this MarketCap
+MCapMinW,25000000000.0,this is to cap W Freq Group at this MarketCap
+MinBand5Trigger,0.01,if band 5 freq below this level  then use the band 5 freq as a floor for all market caps
+SCAFrequencyCap,0.16,0
+DerivFrequencyCap,0.17,0

@@ -1,0 +1,10 @@
+Mcap_band,ADR Group,Concat,Lower Band,Upper Band,Lower Loading,Upper Loading
+a) Less than $10bn,Level 2 and above,a) Less than $10bnLevel 2 and above,0,10000000000,0.5,0.5
+a) Less than $10bn,Listed in AUS,a) Less than $10bnListed in AUS,0,10000000000,2.0,2.0
+a) Less than $10bn,"Level 1, No-AUS Listing and No-US Listing","a) Less than $10bnLevel 1, No-AUS Listing and No-US Listing",0,10000000000,0.0,0.0
+b) $10bn - $50bn,Level 2 and above,b) $10bn - $50bnLevel 2 and above,10000000000,50000000000,0.5,1.0
+b) $10bn - $50bn,Listed in AUS,b) $10bn - $50bnListed in AUS,10000000000,50000000000,2.0,2.0
+b) $10bn - $50bn,"Level 1, No-AUS Listing and No-US Listing","b) $10bn - $50bnLevel 1, No-AUS Listing and No-US Listing",10000000000,50000000000,0.0,0.0
+c) Greater than $50bn,Level 2 and above,c) Greater than $50bnLevel 2 and above,50000000000,999999999999999,1.0,1.0
+c) Greater than $50bn,Listed in AUS,c) Greater than $50bnListed in AUS,50000000000,999999999999999,2.0,2.0
+c) Greater than $50bn,"Level 1, No-AUS Listing and No-US Listing","c) Greater than $50bnLevel 1, No-AUS Listing and No-US Listing",50000000000,999999999999999,0.0,0.0

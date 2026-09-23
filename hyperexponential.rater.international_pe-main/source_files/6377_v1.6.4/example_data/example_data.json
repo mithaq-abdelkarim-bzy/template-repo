@@ -1,0 +1,4763 @@
+[
+  {
+    "hx_core": {
+      "inception_date": "2024-08-15",
+      "expiry_date": "2025-08-14"
+    },
+    "cds": {
+      "key_industry": {
+        "code_type": null,
+        "code": null,
+        "code_name": null
+      },
+      "exposure": {
+        "aggregate": {
+          "eo_total_fees": 40000000.0,
+          "mediatech_revenue": 0.0
+        },
+        "granular": {
+          "eo_profession": "Lawyers",
+          "eo_ae_architecture_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_ae_architecture_residential": {
+            "input_pct": 0.0
+          },
+          "eo_ae_chemical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_civil_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_commercial_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_eia_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_electrical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_environmental": {
+            "input_pct": 0.0
+          },
+          "eo_ae_feasibility_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_geology_land_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_interior_design": {
+            "input_pct": 0.0
+          },
+          "eo_ae_landscape_architecture": {
+            "input_pct": 0.0
+          },
+          "eo_ae_mechanical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_project_coordination": {
+            "input_pct": 0.0
+          },
+          "eo_ae_project_management": {
+            "input_pct": 0.0
+          },
+          "eo_ae_quantity_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_residential_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_soils_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_town_planning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_valuations": {
+            "input_pct": 0.0
+          },
+          "eo_ae_other": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_civil_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_conveyance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_corporate_finance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_criminal_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_employment": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_estate_planning_probate": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_family_law": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_financial_institutions": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_formation_administration_of_companies": {
+            "input_pct": 1.0
+          },
+          "eo_lawyer_formation_administration_of_trusts": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_general_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insolvency": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_claims_handling_monitoring": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_other": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_marine_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_patentintellectual_property": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_property_development": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_provision_of_directors_officers": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_trustee_appointments": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_other": {
+            "input_pct": 0.0
+          },
+          "eo_misc_accident_investigation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_advertising_site_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_arboricultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_archaeological_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_auctioneers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_boat_agents": {
+            "input_pct": 0.0
+          },
+          "eo_misc_business_training_development_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_clerical_administration": {
+            "input_pct": 0.0
+          },
+          "eo_misc_debt_collectors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disability_and_access_audit_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disaster_recovery_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_educational_guardians": {
+            "input_pct": 0.0
+          },
+          "eo_misc_energy_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_event_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_exhibition_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_expert_witness_work": {
+            "input_pct": 0.0
+          },
+          "eo_misc_facilities_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fashion_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fire_trainers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_forestry_woodland_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_graphic_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_health_safety_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_horticultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_human_resource_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_insurance_fraud_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_inventory_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_landscape_gardeners": {
+            "input_pct": 0.0
+          },
+          "eo_misc_law_costs_draughtsman": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensed_court_enforcement_officers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensing_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_local_search_companies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_adjusters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_market_research_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_noise_abatement_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_nvq_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_ofsted_inspectors_education_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_private_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_insurance_surveyors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_maintenance_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_purchase_supply_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_quality_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_recruitment_consultants_employment_agencies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_regeneration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_relocation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_secretarial_administration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_sign_language_interpreters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_stock_takers_valuers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_telecommunications_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tracing_consultant": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trade_associations": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trading_standards_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_translators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tree_surgeons": {
+            "input_pct": 0.0
+          },
+          "eo_misc_utility_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_vat_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_other": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_bloodstock": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_cargo_goods_in_transit": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_claims_adjusting": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_commercial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_crime": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_fac_reinsurance": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_group_accident_life": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_householders": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_individual_term_life_health": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_industrial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_liability": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_aviation_hull": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_private_yacht": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_med_mal": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_mortgage_broking": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_motor": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_non_marine": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_pensions_life_investment_products": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_personal_accident": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_reinsurance_treaty": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_risk_management_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_aerospace": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_airports": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_bridgestunnels": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_chemicalpetrochemicalpipelines": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_commercial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_consultingengineeringmanufacturing": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_damsharboursjetties": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_financial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_foundationsunderpinning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_healthcaremedical": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_highways": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hospitalsschoolspublic_buildings": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hotelsresorts": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_industrialfactories": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_internetecommerce": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_machinerymechanical_design": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_nuclear": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_offshore": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_publicgovernment_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_individual_dwelling": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_multiple_dwelling": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_retailofficecommercial": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_theatresstadiumsleisure": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_trade_wholesaleretail": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_water_systemssewerage": {
+            "input_pct": 0.0
+          },
+          "mediatech_reseller_distributor": {
+            "input_pct": 0.0
+          },
+          "mediatech_archiving_records_management": {
+            "input_pct": 0.0
+          },
+          "mediatech_training_education": {
+            "input_pct": 0.0
+          },
+          "mediatech_automation_word_processing": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_1": {
+            "input_pct": 0.0
+          },
+          "mediatech_network_design_administration": {
+            "input_pct": 0.0
+          },
+          "mediatech_systems_engineering": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_installation_maintenance_support_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_graphic_design_imaging_communications_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_management_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_2": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_site_operations": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_accounting_financial_non_funds_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_3": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_payroll_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_edp_audits_feasibility_studies_needs_evaluation_implementation": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_design_non_structural": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_4": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_products_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_non_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_5": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_manufacturing_structural_design": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_financial_fund_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_scientific_and_technical": {
+            "input_pct": 0.0
+          },
+          "mediatech_system_integration_control_automation_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_hosting": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_6": {
+            "input_pct": 0.0
+          },
+          "gl_exposure_info": {
+            "occupation": null
+          },
+          "gl_revenue": [
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            },
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            },
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            }
+          ]
+        }
+      },
+      "standard_fields": {
+        "insured_name": "12345 TEST",
+        "broker": null,
+        "insured_country": null,
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_free_trade_zone": false,
+        "is_renewal": false,
+        "underwriter": "Elia Manfrin",
+        "policy_reference": "POL00002",
+        "facility_reference": null,
+        "benchmark_class": null,
+        "uw_rationale": null,
+        "trifocus": null,
+        "rating_methodology": "Rater"
+      },
+      "layers": [
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": 1000000.0,
+              "excess": null,
+              "deductible": 5000.0,
+              "aggregate_limit": {},
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": "POL00002",
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Bound",
+              "quoted_premium": 18000.0,
+              "option_selected": "Yes",
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": 2000000.0,
+              "excess": null,
+              "deductible": 5000.0,
+              "aggregate_limit": 2000000.0,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Rating",
+              "quoted_premium": 25000.0,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        }
+      ],
+      "currencies": {
+        "target_currency": null,
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ]
+      },
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "broker_contact": "",
+      "source_currency_name": "United States Dollar",
+      "coverage_selection": "E&O",
+      "rating_factors": {
+        "eo_territory": {
+          "input_value": "Singapore"
+        },
+        "eo_prior_knowledge": {
+          "input_value": "Two years"
+        },
+        "eo_cost_included": {
+          "input_value": "No"
+        },
+        "mediatech_territory": {
+          "input_value": null
+        },
+        "mediatech_prior_acts": {
+          "coverage": "Unlimited",
+          "retroactive_date": null
+        },
+        "mediatech_longevity": {
+          "business_years": "3-9 Years"
+        },
+        "mediatech_cost_included": {
+          "cost_included": "No"
+        },
+        "gl_territory": {
+          "input_value": null
+        },
+        "gl_loss": {
+          "input_value": null
+        },
+        "gl_excess_primary": {
+          "input_value": null
+        }
+      },
+      "modifiers": {
+        "eo_schedule_modifier": {
+          "input_value": 0.0
+        },
+        "eo_insurance_history": {
+          "input_value": "Other",
+          "input_rel": null
+        },
+        "eo_claim_history": {
+          "input_value": "None",
+          "input_rel": null
+        },
+        "mediatech_accredited_certified": {
+          "input_value": 0.0
+        },
+        "mediatech_standardized_written_contract": {
+          "input_value": 0.0
+        },
+        "mediatech_risk_management": {
+          "input_value": 0.0
+        },
+        "mediatech_financial_condition": {
+          "input_value": 0.0
+        },
+        "mediatech_atypical_proportion": {
+          "input_value": 0.0
+        },
+        "mediatech_media_content_review": {
+          "input_value": 0.0
+        },
+        "mediatech_privacy_controls": {
+          "input_value": 0.0
+        },
+        "mediatech_overall_quality": {
+          "input_value": 0.0
+        },
+        "mediatech_bipd": {
+          "input_value": "No",
+          "input_relativity": null
+        },
+        "mediatech_claim_experience": {
+          "input_value": "No claim activity",
+          "input_relativity": null
+        },
+        "gl_uw_adjustment": {
+          "input_value": 0.0
+        }
+      },
+      "gl_tier_notes": {
+        "show_box": false
+      },
+      "gl_local_currency": false
+    }
+  },
+  {
+    "hx_core": {
+      "inception_date": "2024-09-05",
+      "expiry_date": "2025-09-04"
+    },
+    "cds": {
+      "key_industry": {
+        "code_type": null,
+        "code": null,
+        "code_name": null
+      },
+      "exposure": {
+        "aggregate": {
+          "eo_total_fees": 0.0,
+          "mediatech_revenue": 0.0
+        },
+        "granular": {
+          "eo_profession": null,
+          "eo_ae_architecture_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_ae_architecture_residential": {
+            "input_pct": 0.0
+          },
+          "eo_ae_chemical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_civil_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_commercial_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_eia_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_electrical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_environmental": {
+            "input_pct": 0.0
+          },
+          "eo_ae_feasibility_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_geology_land_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_interior_design": {
+            "input_pct": 0.0
+          },
+          "eo_ae_landscape_architecture": {
+            "input_pct": 0.0
+          },
+          "eo_ae_mechanical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_project_coordination": {
+            "input_pct": 0.0
+          },
+          "eo_ae_project_management": {
+            "input_pct": 0.0
+          },
+          "eo_ae_quantity_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_residential_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_soils_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_town_planning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_valuations": {
+            "input_pct": 0.0
+          },
+          "eo_ae_other": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_civil_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_conveyance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_corporate_finance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_criminal_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_employment": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_estate_planning_probate": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_family_law": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_financial_institutions": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_formation_administration_of_companies": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_formation_administration_of_trusts": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_general_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insolvency": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_claims_handling_monitoring": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_other": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_marine_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_patentintellectual_property": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_property_development": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_provision_of_directors_officers": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_trustee_appointments": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_other": {
+            "input_pct": 0.0
+          },
+          "eo_misc_accident_investigation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_advertising_site_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_arboricultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_archaeological_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_auctioneers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_boat_agents": {
+            "input_pct": 0.0
+          },
+          "eo_misc_business_training_development_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_clerical_administration": {
+            "input_pct": 0.0
+          },
+          "eo_misc_debt_collectors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disability_and_access_audit_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disaster_recovery_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_educational_guardians": {
+            "input_pct": 0.0
+          },
+          "eo_misc_energy_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_event_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_exhibition_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_expert_witness_work": {
+            "input_pct": 0.0
+          },
+          "eo_misc_facilities_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fashion_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fire_trainers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_forestry_woodland_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_graphic_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_health_safety_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_horticultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_human_resource_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_insurance_fraud_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_inventory_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_landscape_gardeners": {
+            "input_pct": 0.0
+          },
+          "eo_misc_law_costs_draughtsman": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensed_court_enforcement_officers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensing_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_local_search_companies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_adjusters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_market_research_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_noise_abatement_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_nvq_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_ofsted_inspectors_education_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_private_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_insurance_surveyors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_maintenance_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_purchase_supply_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_quality_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_recruitment_consultants_employment_agencies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_regeneration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_relocation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_secretarial_administration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_sign_language_interpreters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_stock_takers_valuers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_telecommunications_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tracing_consultant": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trade_associations": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trading_standards_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_translators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tree_surgeons": {
+            "input_pct": 0.0
+          },
+          "eo_misc_utility_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_vat_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_other": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_bloodstock": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_cargo_goods_in_transit": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_claims_adjusting": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_commercial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_crime": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_fac_reinsurance": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_group_accident_life": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_householders": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_individual_term_life_health": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_industrial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_liability": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_aviation_hull": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_private_yacht": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_med_mal": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_mortgage_broking": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_motor": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_non_marine": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_pensions_life_investment_products": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_personal_accident": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_reinsurance_treaty": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_risk_management_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_aerospace": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_airports": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_bridgestunnels": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_chemicalpetrochemicalpipelines": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_commercial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_consultingengineeringmanufacturing": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_damsharboursjetties": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_financial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_foundationsunderpinning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_healthcaremedical": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_highways": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hospitalsschoolspublic_buildings": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hotelsresorts": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_industrialfactories": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_internetecommerce": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_machinerymechanical_design": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_nuclear": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_offshore": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_publicgovernment_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_individual_dwelling": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_multiple_dwelling": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_retailofficecommercial": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_theatresstadiumsleisure": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_trade_wholesaleretail": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_water_systemssewerage": {
+            "input_pct": 0.0
+          },
+          "mediatech_reseller_distributor": {
+            "input_pct": 0.0
+          },
+          "mediatech_archiving_records_management": {
+            "input_pct": 0.0
+          },
+          "mediatech_training_education": {
+            "input_pct": 0.0
+          },
+          "mediatech_automation_word_processing": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_1": {
+            "input_pct": 0.0
+          },
+          "mediatech_network_design_administration": {
+            "input_pct": 0.0
+          },
+          "mediatech_systems_engineering": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_installation_maintenance_support_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_graphic_design_imaging_communications_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_management_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_2": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_site_operations": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_accounting_financial_non_funds_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_3": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_payroll_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_edp_audits_feasibility_studies_needs_evaluation_implementation": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_design_non_structural": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_4": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_products_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_non_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_5": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_manufacturing_structural_design": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_financial_fund_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_scientific_and_technical": {
+            "input_pct": 0.0
+          },
+          "mediatech_system_integration_control_automation_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_hosting": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_6": {
+            "input_pct": 0.0
+          },
+          "gl_exposure_info": {
+            "occupation": "HEALTH PRODUCTS"
+          },
+          "gl_revenue": [
+            {
+              "tier_input": "Tier 1",
+              "revenue_input": 10000000.0,
+              "exposure_type": "Manufacturer"
+            },
+            {
+              "tier_input": "Tier 2",
+              "revenue_input": 5000000.0,
+              "exposure_type": "Distributor"
+            },
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            }
+          ]
+        }
+      },
+      "standard_fields": {
+        "insured_name": "Insured18",
+        "broker": null,
+        "insured_country": null,
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_free_trade_zone": false,
+        "is_renewal": false,
+        "underwriter": null,
+        "policy_reference": "POL00008",
+        "facility_reference": null,
+        "benchmark_class": null,
+        "uw_rationale": null,
+        "trifocus": null,
+        "rating_methodology": "Rater"
+      },
+      "layers": [
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": 3500000.0,
+              "excess": null,
+              "deductible": 35000.0,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": "POL00008",
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Bound",
+              "option_selected": "Yes",
+              "quoted_premium": 14000.0,
+              "defence_outside_limit": "None",
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": 2000000.0,
+              "excess": null,
+              "deductible": 500000.0,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Rating",
+              "quoted_premium": 15000.0,
+              "defence_outside_limit": "250,000",
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        }
+      ],
+      "currencies": {
+        "target_currency": null,
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ]
+      },
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "broker_contact": "",
+      "source_currency_name": "Euro",
+      "coverage_selection": "GL",
+      "rate_change": {
+        "has_fetch_not_run": true,
+        "has_rarc_not_run": true
+      },
+      "rating_factors": {
+        "eo_territory": {
+          "input_value": null
+        },
+        "eo_prior_knowledge": {
+          "input_value": "Two years"
+        },
+        "eo_cost_included": {
+          "input_value": "No"
+        },
+        "mediatech_territory": {
+          "input_value": null
+        },
+        "mediatech_prior_acts": {
+          "coverage": "Unlimited",
+          "retroactive_date": null
+        },
+        "mediatech_longevity": {
+          "business_years": "3-9 Years"
+        },
+        "mediatech_cost_included": {
+          "cost_included": "No"
+        },
+        "gl_territory": {
+          "input_value": "France"
+        },
+        "gl_loss": {
+          "input_value": "No Claims in 3-5 years"
+        },
+        "gl_excess_primary": {
+          "input_value": "Primary"
+        }
+      },
+      "modifiers": {
+        "eo_schedule_modifier": {
+          "input_value": 0.0
+        },
+        "eo_insurance_history": {
+          "input_value": "Other",
+          "input_rel": null
+        },
+        "eo_claim_history": {
+          "input_value": "None",
+          "input_rel": null
+        },
+        "mediatech_accredited_certified": {
+          "input_value": 0.0
+        },
+        "mediatech_standardized_written_contract": {
+          "input_value": 0.0
+        },
+        "mediatech_risk_management": {
+          "input_value": 0.0
+        },
+        "mediatech_financial_condition": {
+          "input_value": 0.0
+        },
+        "mediatech_atypical_proportion": {
+          "input_value": 0.0
+        },
+        "mediatech_media_content_review": {
+          "input_value": 0.0
+        },
+        "mediatech_privacy_controls": {
+          "input_value": 0.0
+        },
+        "mediatech_overall_quality": {
+          "input_value": 0.0
+        },
+        "mediatech_bipd": {
+          "input_value": "No",
+          "input_relativity": null
+        },
+        "mediatech_claim_experience": {
+          "input_value": "No claim activity",
+          "input_relativity": null
+        },
+        "gl_uw_adjustment": {
+          "input_value": 0.0
+        }
+      },
+      "gl_tier_notes": {
+        "show_box": false
+      },
+      "gl_local_currency": false
+    },
+    "model_state": {
+      "landing_page_info": "Click 'Import Expiring Policy Data' in the top right corner then click 'Start Policy'"
+    }
+  },
+  {
+    "hx_core": {
+      "inception_date": "2024-09-05",
+      "expiry_date": "2025-09-04"
+    },
+    "cds": {
+      "key_industry": {
+        "code_type": null,
+        "code": null,
+        "code_name": null
+      },
+      "exposure": {
+        "aggregate": {
+          "eo_total_fees": 0.0,
+          "mediatech_revenue": 900000.0
+        },
+        "granular": {
+          "eo_profession": null,
+          "eo_ae_architecture_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_ae_architecture_residential": {
+            "input_pct": 0.0
+          },
+          "eo_ae_chemical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_civil_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_commercial_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_eia_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_electrical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_environmental": {
+            "input_pct": 0.0
+          },
+          "eo_ae_feasibility_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_geology_land_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_interior_design": {
+            "input_pct": 0.0
+          },
+          "eo_ae_landscape_architecture": {
+            "input_pct": 0.0
+          },
+          "eo_ae_mechanical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_project_coordination": {
+            "input_pct": 0.0
+          },
+          "eo_ae_project_management": {
+            "input_pct": 0.0
+          },
+          "eo_ae_quantity_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_residential_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_soils_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_town_planning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_valuations": {
+            "input_pct": 0.0
+          },
+          "eo_ae_other": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_civil_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_conveyance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_corporate_finance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_criminal_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_employment": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_estate_planning_probate": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_family_law": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_financial_institutions": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_formation_administration_of_companies": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_formation_administration_of_trusts": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_general_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insolvency": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_claims_handling_monitoring": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_other": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_marine_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_patentintellectual_property": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_property_development": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_provision_of_directors_officers": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_trustee_appointments": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_other": {
+            "input_pct": 0.0
+          },
+          "eo_misc_accident_investigation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_advertising_site_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_arboricultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_archaeological_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_auctioneers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_boat_agents": {
+            "input_pct": 0.0
+          },
+          "eo_misc_business_training_development_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_clerical_administration": {
+            "input_pct": 0.0
+          },
+          "eo_misc_debt_collectors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disability_and_access_audit_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disaster_recovery_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_educational_guardians": {
+            "input_pct": 0.0
+          },
+          "eo_misc_energy_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_event_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_exhibition_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_expert_witness_work": {
+            "input_pct": 0.0
+          },
+          "eo_misc_facilities_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fashion_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fire_trainers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_forestry_woodland_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_graphic_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_health_safety_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_horticultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_human_resource_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_insurance_fraud_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_inventory_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_landscape_gardeners": {
+            "input_pct": 0.0
+          },
+          "eo_misc_law_costs_draughtsman": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensed_court_enforcement_officers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensing_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_local_search_companies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_adjusters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_market_research_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_noise_abatement_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_nvq_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_ofsted_inspectors_education_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_private_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_insurance_surveyors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_maintenance_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_purchase_supply_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_quality_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_recruitment_consultants_employment_agencies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_regeneration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_relocation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_secretarial_administration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_sign_language_interpreters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_stock_takers_valuers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_telecommunications_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tracing_consultant": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trade_associations": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trading_standards_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_translators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tree_surgeons": {
+            "input_pct": 0.0
+          },
+          "eo_misc_utility_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_vat_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_other": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_bloodstock": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_cargo_goods_in_transit": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_claims_adjusting": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_commercial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_crime": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_fac_reinsurance": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_group_accident_life": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_householders": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_individual_term_life_health": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_industrial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_liability": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_aviation_hull": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_private_yacht": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_med_mal": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_mortgage_broking": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_motor": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_non_marine": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_pensions_life_investment_products": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_personal_accident": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_reinsurance_treaty": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_risk_management_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_aerospace": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_airports": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_bridgestunnels": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_chemicalpetrochemicalpipelines": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_commercial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_consultingengineeringmanufacturing": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_damsharboursjetties": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_financial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_foundationsunderpinning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_healthcaremedical": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_highways": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hospitalsschoolspublic_buildings": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hotelsresorts": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_industrialfactories": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_internetecommerce": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_machinerymechanical_design": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_nuclear": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_offshore": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_publicgovernment_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_individual_dwelling": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_multiple_dwelling": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_retailofficecommercial": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_theatresstadiumsleisure": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_trade_wholesaleretail": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_water_systemssewerage": {
+            "input_pct": 0.0
+          },
+          "mediatech_reseller_distributor": {
+            "input_pct": 0.0
+          },
+          "mediatech_archiving_records_management": {
+            "input_pct": 0.0
+          },
+          "mediatech_training_education": {
+            "input_pct": 0.0
+          },
+          "mediatech_automation_word_processing": {
+            "input_pct": 0.5
+          },
+          "mediatech_consulting_administrative_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_1": {
+            "input_pct": 0.0
+          },
+          "mediatech_network_design_administration": {
+            "input_pct": 0.0
+          },
+          "mediatech_systems_engineering": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_installation_maintenance_support_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_graphic_design_imaging_communications_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_standard_exposure": {
+            "input_pct": 0.5
+          },
+          "mediatech_internet_access_provider_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_management_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_2": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_site_operations": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_accounting_financial_non_funds_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_3": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_payroll_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_edp_audits_feasibility_studies_needs_evaluation_implementation": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_design_non_structural": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_4": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_products_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_non_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_5": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_manufacturing_structural_design": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_financial_fund_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_scientific_and_technical": {
+            "input_pct": 0.0
+          },
+          "mediatech_system_integration_control_automation_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_hosting": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_6": {
+            "input_pct": 0.0
+          },
+          "gl_exposure_info": {
+            "occupation": null
+          },
+          "gl_revenue": [
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            },
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            },
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            }
+          ]
+        }
+      },
+      "standard_fields": {
+        "insured_name": "Insured18",
+        "broker": null,
+        "insured_country": null,
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_free_trade_zone": false,
+        "is_renewal": false,
+        "underwriter": null,
+        "policy_reference": "POL00009",
+        "facility_reference": null,
+        "benchmark_class": null,
+        "uw_rationale": null,
+        "trifocus": null,
+        "rating_methodology": "Rater"
+      },
+      "layers": [
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": 1000000.0,
+              "excess": null,
+              "deductible": 5000.0,
+              "aggregate_limit": 1000000.0,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": "POL00009",
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Quoted",
+              "quoted_premium": 7000.0,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": 2000000.0,
+              "excess": null,
+              "deductible": 5000.0,
+              "aggregate_limit": 2000000.0,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Rating",
+              "quoted_premium": 9000.0,
+              "additional_defense_limit": 500000.0,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        }
+      ],
+      "currencies": {
+        "target_currency": null,
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ]
+      },
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "broker_contact": "",
+      "source_currency_name": "Euro",
+      "coverage_selection": "Media Tech",
+      "rate_change": {
+        "has_fetch_not_run": true,
+        "has_rarc_not_run": true
+      },
+      "rating_factors": {
+        "eo_territory": {
+          "input_value": null
+        },
+        "eo_prior_knowledge": {
+          "input_value": "Two years"
+        },
+        "eo_cost_included": {
+          "input_value": "No"
+        },
+        "mediatech_territory": {
+          "input_value": "Germany"
+        },
+        "mediatech_prior_acts": {
+          "coverage": "Unlimited",
+          "retroactive_date": null
+        },
+        "mediatech_longevity": {
+          "business_years": "Less than 1 Year"
+        },
+        "mediatech_cost_included": {
+          "cost_included": "No"
+        },
+        "gl_territory": {
+          "input_value": null
+        },
+        "gl_loss": {
+          "input_value": null
+        },
+        "gl_excess_primary": {
+          "input_value": null
+        }
+      },
+      "modifiers": {
+        "eo_schedule_modifier": {
+          "input_value": 0.0
+        },
+        "eo_insurance_history": {
+          "input_value": "Other",
+          "input_rel": null
+        },
+        "eo_claim_history": {
+          "input_value": "None",
+          "input_rel": null
+        },
+        "mediatech_accredited_certified": {
+          "input_value": 0.0
+        },
+        "mediatech_standardized_written_contract": {
+          "input_value": 0.0
+        },
+        "mediatech_risk_management": {
+          "input_value": 0.0
+        },
+        "mediatech_financial_condition": {
+          "input_value": 0.0
+        },
+        "mediatech_atypical_proportion": {
+          "input_value": 0.0
+        },
+        "mediatech_media_content_review": {
+          "input_value": 0.0
+        },
+        "mediatech_privacy_controls": {
+          "input_value": 0.0
+        },
+        "mediatech_overall_quality": {
+          "input_value": 0.0
+        },
+        "mediatech_bipd": {
+          "input_value": "No",
+          "input_relativity": null
+        },
+        "mediatech_claim_experience": {
+          "input_value": "No claim activity",
+          "input_relativity": null
+        },
+        "gl_uw_adjustment": {
+          "input_value": 0.0
+        }
+      },
+      "gl_tier_notes": {
+        "show_box": false
+      },
+      "gl_local_currency": false
+    },
+    "model_state": {
+      "landing_page_info": "Click 'Import Expiring Policy Data' in the top right corner then click 'Start Policy'"
+    }
+  },
+  {
+    "hx_core": {
+      "inception_date": "2024-09-18",
+      "expiry_date": "2025-09-18"
+    },
+    "cds": {
+      "key_industry": {
+        "code_type": null,
+        "code": null,
+        "code_name": null
+      },
+      "exposure": {
+        "aggregate": {
+          "eo_total_fees": 120000000.0,
+          "mediatech_revenue": 0.0
+        },
+        "granular": {
+          "eo_profession": "Engineers",
+          "eo_ae_architecture_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_ae_architecture_residential": {
+            "input_pct": 0.0
+          },
+          "eo_ae_chemical_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_civil_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_commercial_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_eia_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_electrical_engineering": {
+            "input_pct": 0.35
+          },
+          "eo_ae_environmental": {
+            "input_pct": 0.0
+          },
+          "eo_ae_feasibility_studies": {
+            "input_pct": 0.0
+          },
+          "eo_ae_geology_land_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_interior_design": {
+            "input_pct": 0.05
+          },
+          "eo_ae_landscape_architecture": {
+            "input_pct": 0.0
+          },
+          "eo_ae_mechanical_engineering": {
+            "input_pct": 0.5
+          },
+          "eo_ae_project_coordination": {
+            "input_pct": 0.0
+          },
+          "eo_ae_project_management": {
+            "input_pct": 0.0
+          },
+          "eo_ae_quantity_surveying": {
+            "input_pct": 0.0
+          },
+          "eo_ae_residential_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_soils_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_engineering": {
+            "input_pct": 0.0
+          },
+          "eo_ae_structural_surveys": {
+            "input_pct": 0.0
+          },
+          "eo_ae_town_planning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_valuations": {
+            "input_pct": 0.0
+          },
+          "eo_ae_other": {
+            "input_pct": 0.1
+          },
+          "eo_lawyer_civil_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_conveyance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_corporate_finance": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_criminal_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_employment": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_estate_planning_probate": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_family_law": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_financial_institutions": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_formation_administration_of_companies": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_formation_administration_of_trusts": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_general_commercial": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insolvency": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_claims_handling_monitoring": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_insurance_other": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_marine_litigation": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_patentintellectual_property": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_property_development": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_provision_of_directors_officers": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_trustee_appointments": {
+            "input_pct": 0.0
+          },
+          "eo_lawyer_other": {
+            "input_pct": 0.0
+          },
+          "eo_misc_accident_investigation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_advertising_site_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_arboricultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_archaeological_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_auctioneers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_boat_agents": {
+            "input_pct": 0.0
+          },
+          "eo_misc_business_training_development_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_clerical_administration": {
+            "input_pct": 0.0
+          },
+          "eo_misc_debt_collectors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disability_and_access_audit_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_disaster_recovery_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_educational_guardians": {
+            "input_pct": 0.0
+          },
+          "eo_misc_energy_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_event_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_exhibition_organisers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_expert_witness_work": {
+            "input_pct": 0.0
+          },
+          "eo_misc_facilities_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fashion_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_fire_trainers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_forestry_woodland_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_graphic_designers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_health_safety_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_horticultural_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_human_resource_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_insurance_fraud_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_inventory_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_landscape_gardeners": {
+            "input_pct": 0.0
+          },
+          "eo_misc_law_costs_draughtsman": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensed_court_enforcement_officers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_licensing_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_local_search_companies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_adjusters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_loss_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_management_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_market_research_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_noise_abatement_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_nvq_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_ofsted_inspectors_education_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_private_investigators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_insurance_surveyors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_property_maintenance_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_purchase_supply_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_quality_assessors": {
+            "input_pct": 0.0
+          },
+          "eo_misc_recruitment_consultants_employment_agencies": {
+            "input_pct": 0.0
+          },
+          "eo_misc_regeneration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_relocation_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_secretarial_administration_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_sign_language_interpreters": {
+            "input_pct": 0.0
+          },
+          "eo_misc_stock_takers_valuers": {
+            "input_pct": 0.0
+          },
+          "eo_misc_telecommunications_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tracing_consultant": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trade_associations": {
+            "input_pct": 0.0
+          },
+          "eo_misc_trading_standards_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_translators": {
+            "input_pct": 0.0
+          },
+          "eo_misc_tree_surgeons": {
+            "input_pct": 0.0
+          },
+          "eo_misc_utility_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_vat_consultants": {
+            "input_pct": 0.0
+          },
+          "eo_misc_other": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_bloodstock": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_cargo_goods_in_transit": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_claims_adjusting": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_commercial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_crime": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_fac_reinsurance": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_group_accident_life": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_householders": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_individual_term_life_health": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_industrial_property": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_liability": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_aviation_hull": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_marine_private_yacht": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_med_mal": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_mortgage_broking": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_motor": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_non_marine": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_pensions_life_investment_products": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_personal_accident": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_reinsurance_treaty": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_risk_management_consultancy": {
+            "input_pct": 0.0
+          },
+          "eo_insbroker_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_aerospace": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_airports": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_bridgestunnels": {
+            "input_pct": 0.01
+          },
+          "eo_ae_operation_chemicalpetrochemicalpipelines": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_commercial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_consultingengineeringmanufacturing": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_damsharboursjetties": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_financial_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_foundationsunderpinning": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_healthcaremedical": {
+            "input_pct": 0.15
+          },
+          "eo_ae_operation_highways": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hospitalsschoolspublic_buildings": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_hotelsresorts": {
+            "input_pct": 0.14
+          },
+          "eo_ae_operation_industrialfactories": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_internetecommerce": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_machinerymechanical_design": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_nuclear": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_offshore": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_other": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_publicgovernment_clients": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_individual_dwelling": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_residential_multiple_dwelling": {
+            "input_pct": 0.3
+          },
+          "eo_ae_operation_retailofficecommercial": {
+            "input_pct": 0.4
+          },
+          "eo_ae_operation_theatresstadiumsleisure": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_trade_wholesaleretail": {
+            "input_pct": 0.0
+          },
+          "eo_ae_operation_water_systemssewerage": {
+            "input_pct": 0.0
+          },
+          "mediatech_reseller_distributor": {
+            "input_pct": 0.0
+          },
+          "mediatech_archiving_records_management": {
+            "input_pct": 0.0
+          },
+          "mediatech_training_education": {
+            "input_pct": 0.0
+          },
+          "mediatech_automation_word_processing": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_1": {
+            "input_pct": 0.0
+          },
+          "mediatech_network_design_administration": {
+            "input_pct": 0.0
+          },
+          "mediatech_systems_engineering": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_installation_maintenance_support_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_graphic_design_imaging_communications_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_management_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_low_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_2": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_site_operations": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_standard_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_accounting_financial_non_funds_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_consulting_administrative_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_prepackaged_software_products_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_technology_hardware_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_access_provider_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_3": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_payroll_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_edp_audits_feasibility_studies_needs_evaluation_implementation": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_design_non_structural": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_consulting": {
+            "input_pct": 0.0
+          },
+          "mediatech_telecommunication_consulting_services_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_custom_software_development_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_data_processing_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_advertising_media_consulting_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_internet_based_services_products_high_exposure": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_4": {
+            "input_pct": 0.0
+          },
+          "mediatech_computer_security_products_services": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_non_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_5": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_computer_aided_manufacturing_structural_design": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_medical_management_diagnostic": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_financial_fund_transfer": {
+            "input_pct": 0.0
+          },
+          "mediatech_software_hardware_scientific_and_technical": {
+            "input_pct": 0.0
+          },
+          "mediatech_system_integration_control_automation_systems": {
+            "input_pct": 0.0
+          },
+          "mediatech_hosting": {
+            "input_pct": 0.0
+          },
+          "mediatech_other_class_6": {
+            "input_pct": 0.0
+          },
+          "gl_exposure_info": {
+            "occupation": null
+          },
+          "gl_revenue": [
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            },
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            },
+            {
+              "tier_input": null,
+              "revenue_input": 0.0,
+              "exposure_type": null
+            }
+          ]
+        }
+      },
+      "standard_fields": {
+        "insured_name": "12345 TEST",
+        "broker": null,
+        "insured_country": null,
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_free_trade_zone": false,
+        "is_renewal": false,
+        "underwriter": "Elia Manfrin",
+        "policy_reference": "POL00002",
+        "facility_reference": null,
+        "benchmark_class": null,
+        "uw_rationale": null,
+        "trifocus": null,
+        "rating_methodology": "Rater"
+      },
+      "layers": [
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": 100000000.0,
+              "excess": null,
+              "deductible": 1500000.0,
+              "aggregate_limit": 100000000.0,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": "POL00002",
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Bound",
+              "option_selected": "Yes",
+              "quoted_premium": 850000.0,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": 2000000.0,
+              "excess": null,
+              "deductible": 5000.0,
+              "aggregate_limit": 2000000.0,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": 0.25,
+              "written_line": 1.0,
+              "premium": null,
+              "status": "Rating",
+              "quoted_premium": 25000.0,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        },
+        {
+          "limit": 0.0,
+          "excess": null,
+          "deductible": 0.0,
+          "aggregate_limit": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "brokerage": 0.0,
+          "written_line": 1.0,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "coverages": {
+            "eo": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "bpi_case_priced": 0.0
+            },
+            "mediatech": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_limit": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "additional_defense_limit": null,
+              "bpi_case_priced": 0.0
+            },
+            "gl": {
+              "limit": null,
+              "excess": null,
+              "deductible": null,
+              "aggregate_excess": null,
+              "aggregate_deductible": null,
+              "currency": null,
+              "section_reference": null,
+              "brokerage": null,
+              "written_line": 1.0,
+              "premium": null,
+              "status": null,
+              "quoted_premium": null,
+              "defence_outside_limit": null,
+              "excess_of": null,
+              "bpi_case_priced": 0.0
+            }
+          },
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          }
+        }
+      ],
+      "currencies": {
+        "target_currency": null,
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ]
+      },
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "broker_contact": "",
+      "source_currency_name": "Baht",
+      "coverage_selection": "E&O",
+      "rating_factors": {
+        "eo_territory": {
+          "input_value": "Thailand"
+        },
+        "eo_prior_knowledge": {
+          "input_value": "RDI"
+        },
+        "eo_cost_included": {
+          "input_value": "Yes"
+        },
+        "mediatech_territory": {
+          "input_value": null
+        },
+        "mediatech_prior_acts": {
+          "coverage": "Unlimited",
+          "retroactive_date": null
+        },
+        "mediatech_longevity": {
+          "business_years": "3-9 Years"
+        },
+        "mediatech_cost_included": {
+          "cost_included": "No"
+        },
+        "gl_territory": {
+          "input_value": null
+        },
+        "gl_loss": {
+          "input_value": null
+        },
+        "gl_excess_primary": {
+          "input_value": null
+        }
+      },
+      "modifiers": {
+        "eo_schedule_modifier": {
+          "input_value": 0.0
+        },
+        "eo_insurance_history": {
+          "input_value": "Purchased continuously for past 5 years",
+          "input_rel": null
+        },
+        "eo_claim_history": {
+          "input_value": "None",
+          "input_rel": null
+        },
+        "mediatech_accredited_certified": {
+          "input_value": 0.0
+        },
+        "mediatech_standardized_written_contract": {
+          "input_value": 0.0
+        },
+        "mediatech_risk_management": {
+          "input_value": 0.0
+        },
+        "mediatech_financial_condition": {
+          "input_value": 0.0
+        },
+        "mediatech_atypical_proportion": {
+          "input_value": 0.0
+        },
+        "mediatech_media_content_review": {
+          "input_value": 0.0
+        },
+        "mediatech_privacy_controls": {
+          "input_value": 0.0
+        },
+        "mediatech_overall_quality": {
+          "input_value": 0.0
+        },
+        "mediatech_bipd": {
+          "input_value": "No",
+          "input_relativity": null
+        },
+        "mediatech_claim_experience": {
+          "input_value": "No claim activity",
+          "input_relativity": null
+        },
+        "gl_uw_adjustment": {
+          "input_value": 0.0
+        }
+      },
+      "gl_tier_notes": {
+        "show_box": false
+      },
+      "gl_local_currency": false
+    }
+  }
+]

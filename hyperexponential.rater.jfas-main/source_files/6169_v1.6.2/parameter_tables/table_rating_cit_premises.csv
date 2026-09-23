@@ -1,0 +1,253 @@
+type,region,country,0_1m,1_3m,3_5m,5_10m,10_20m,20m_plus
+General,Europe,Åland Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Afghanistan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Albania,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Algeria,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,American Samoa,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Andorra,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Angola,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Anguilla,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Antigua and Barbuda,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Argentina,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Armenia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Aruba,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Australia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Austria,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Azerbaijan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Bahamas,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Bahrain,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Bangladesh,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Barbados,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Belarus,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Belgium,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Belize,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Benin,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Bermuda,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Bhutan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Bolivia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,"Bonaire, Sint Eustatius and Saba",0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Bosnia and Herzegovina,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Botswana,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Antarctica,Bouvet Island (Bouvetoya),0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Brazil,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,British Indian Ocean Territory (Chagos Archipelago),0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,British Virgin Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Brunei,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Bulgaria,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Burkina Faso,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Burundi,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Cambodia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Cameroon,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Canada,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Cape Verde,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Cayman Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Central African Republic,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Chad,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Chile,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,China,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Christmas Island,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Cocos (Keeling) Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Colombia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Comoros,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Congo,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Congo the,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Cook Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Costa Rica,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Cote d'Ivoire,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Croatia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Cuba,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Curacao,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Cyprus,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Czech Republic,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Denmark,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Disputed Territory,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Djibouti,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Dominica,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Dominican Republic,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Ecuador,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Egypt,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,El Salvador,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Equatorial Guinea,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Eritrea,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Estonia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Ethiopia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Falkland Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Faroe Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Fiji,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Finland,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,France,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,French Guiana,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,French Polynesia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Antarctica,French Southern Territories,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Gabon,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Gambia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Georgia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Germany,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Ghana,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Gibraltar,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Greece,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Greenland,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Grenada,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Guadeloupe,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Guam,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Guatemala,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Guernsey,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Guinea,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Guinea-Bissau,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Guyana,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Haiti,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Antarctica,Heard Island and McDonald Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Vatican City,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Honduras,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Hong Kong,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Hungary,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Iceland,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,India,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Indonesia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Iran,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Iraq,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Iraq-Saudi Arabia Neutral Zone,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Ireland,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Isle of Man,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Israel,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Italy,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Jamaica,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Japan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Jersey,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Jordan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Kazakhstan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Kenya,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Kiribati,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Korea,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Kuwait,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Kyrgyz Republic,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Laos,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Latvia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Lebanon,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Lesotho,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Liberia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Libya,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Liechtenstein,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Lithuania,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Luxembourg,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Macao,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Macedonia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Madagascar,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Malawi,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Malaysia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Maldives,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Mali,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Malta,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Marshall Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Martinique,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Mauritania,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Mauritius,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Mayotte,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Mexico,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Micronesia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Moldova,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Monaco,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Mongolia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Montenegro,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Montserrat,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Morocco,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Mozambique,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Myanmar,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Namibia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Nauru,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Nepal,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Netherlands Antilles,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Netherlands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,New Caledonia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,New Zealand,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Nicaragua,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Niger,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Nigeria,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Niue,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Norfolk Island,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Northern Mariana Islands the,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Norway,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Oman,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Pakistan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Palau,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,"Palestinian Territory, Occupied",0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Panama,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Papua New Guinea,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Paraguay,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Peru,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Philippines,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Pitcairn Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Poland,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Portugal,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Puerto Rico,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Qatar,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Reunion,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Romania,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Russia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Rwanda,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Saint Barthelemy,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Saint Helena,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Saint Kitts and Nevis,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Saint Lucia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Saint Martin,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Saint Pierre and Miquelon,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Saint Vincent and the Grenadines,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,"Samoa, Independent State of",0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,San Marino,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Sao Tome and Principe,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Saudi Arabia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Senegal,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Serbia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Seychelles,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Sierra Leone,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Singapore,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Sint Maarten (Netherlands),0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Slovakia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Slovenia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Solomon Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Slomalia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,South Africa,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Antarctica,South Georgia and the South Sandwich Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,South Sudan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Spain,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Spratly Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Sri Lanka,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Sudan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Suriname,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Svalbard & Jan Mayen Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Swaziland,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Sweden,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Switzerland,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Syria,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Taiwan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Tajikistan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Tanzania,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Thailand,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Timor-Leste,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Togo,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Tokelau,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Tonga,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Trinidad and Tobago,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Tunisia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Turkey,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Turkmenistan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,Turks and Caicos Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Tuvalu,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Uganda,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,Ukraine,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,UAE,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Europe,UK,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,United Nations Neutral Zone,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,United States Minor Outlying Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,USA,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,North America,United States Virgin Islands,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Uruguay,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Uzbekistan,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Vanuatu,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,South America,Venezuela,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Vietnam,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Oceania,Wallis and Futuna,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Western Sahara,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Asia,Yemen,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Zambia,0.006,0.0045,0.0035,0.0025,0.0015,0.001
+General,Africa,Zimbabwe,0.006,0.0045,0.0035,0.0025,0.0015,0.001

@@ -1,0 +1,3 @@
+Lookup code,Values,AOP,WS,EQ,Excess FL,PAF,Wildfire,WaterDamage,Hail,Wind,Other,RoofDamageLeak,Theft,Lightning,Fire,IceSnowDamage,PowerSurge,WinterStorm
+Fire AlarmYes,Yes,1,1,1,1,0.95,1,1,1,1,1,1,1,1,1,1,1,1
+Fire AlarmNo,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

@@ -1,8 +1,0 @@
-supply_chain_label,factor,supply_chain_name
-Not Applicable,1.0,not_applicable
-Supplier,1.1,supplier
-Manufacturer,1.0,manufacturer
-Contract Manufacturer,1.25,contract_manufacturer
-Custom Private Label,0.85,custom_private_label
-Generic Private Label,0.75,generic_private_label
-Distributor Only,0.65,distributor_only

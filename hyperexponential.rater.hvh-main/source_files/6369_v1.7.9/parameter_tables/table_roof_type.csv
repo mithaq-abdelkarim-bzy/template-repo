@@ -1,0 +1,12 @@
+Lookup code,Values,AOP,WS,EQ,Excess FL,Liability,Equipment breakdown,PAF,Wildfire,WaterDamage,Hail,Wind,Other,RoofDamageLeak,Theft,Lightning,Fire,IceSnowDamage,PowerSurge,WinterStorm
+Unknown,Unknown,1,1.0,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1
+Metal Sheathing with exposed fasteners,Metal Sheathing with exposed fasteners,1,0.8,0.8,1,1,1,1,0.8,1,1,1,1,1,1,1,1,1,1,1
+Metal Sheathing with concealed fasteners,Metal Sheathing with concealed fasteners,1,0.8,0.8,1,1,1,1,0.8,1,1,1,1,1,1,1,1,1,1,1
+Built-up roof or single-ply membrane roof with the presence of gutters,Built-up roof or single-ply membrane roof with the presence of gutters,1,1.0,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1
+Built-up roof or single-ply membrane roof without the presence of gutters,Built-up roof or single-ply membrane roof without the presence of gutters,1,1.0,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1
+Concrete/clay tiles,Concrete/clay tiles,1,0.9,0.9,1,1,1,1,0.9,1,1,1,1,1,1,1,1,1,1,1
+Wood Shakes,Wood Shakes,1,1.0,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1
+Normal Shingle (55mph),Normal Shingle (55mph),1,1.0,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1
+Normal Shingle (55 mph) with Secondary Water Resistance (SWR),Normal Shingle (55 mph) with Secondary Water Resistance (SWR),1,1.0,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1
+Shingle rated for high wind speeds (110 mph),Shingle rated for high wind speeds (110 mph),1,0.95,0.95,1,1,1,1,0.95,1,1,1,1,1,1,1,1,1,1,1
+Shingle rated for high wind speeds (110 mph) with Secondary Water Resistance (SWR),Shingle rated for high wind speeds (110 mph) with Secondary Water Resistance (SWR),1,0.95,0.95,1,1,1,1,0.95,1,1,1,1,1,1,1,1,1,1,1

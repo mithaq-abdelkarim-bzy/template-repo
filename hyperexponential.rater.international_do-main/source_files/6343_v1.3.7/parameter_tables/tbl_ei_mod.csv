@@ -1,0 +1,7 @@
+ParameterName,Value,Comment
+p_load,0.379310344827586,"assumed proportion of SCA claims with an investigation
+"
+def_load,0.5,"assumed load on defense cost factor for non-dismissed claims with investigation
+"
+defdismissal_load,0.75,assumed load on defense cost for dismissals
+ei_minprem,0.001,minimum ROL

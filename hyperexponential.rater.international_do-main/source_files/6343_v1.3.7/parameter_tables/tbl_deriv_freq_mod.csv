@@ -1,0 +1,7 @@
+ParameterName,Value,Comment
+DERI.ADR,0.17,0
+DerivativeScaleFactor,1.30402574108063,0
+DerivativeMarketStandAlone,50.0,these are deriviative only cases. Tag Along and other related are driven off SCA and Reg
+ShockLoadFreq,0.01,use severe distribution on these occasions
+DerivativeDismissalRate,0.75,for stand-alone derivatives only
+DerivativeDefenseCostMultiplier,5.0,cost of defending multiple directors independently

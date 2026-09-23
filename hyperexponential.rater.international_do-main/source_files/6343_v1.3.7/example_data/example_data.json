@@ -1,0 +1,1621 @@
+[
+  {
+    "cds": {
+      "broker_contact": "Aon Belgium - St\u00e9fanie Deley",
+      "currencies": {
+        "source_currency": "EUR"
+      },
+      "exposure": {
+        "aggregate": {
+          "accumulated_profitability": {
+            "value": 0
+          },
+          "asset_turnover": {
+            "value": 0.195981602759864
+          },
+          "book_value_liability_ratio": {
+            "value": 0
+          },
+          "credit_score": "BBB+",
+          "current_assets": 589392000,
+          "current_liabilities": 686862000,
+          "current_ratio": {
+            "value": 0.858093765559894
+          },
+          "ebit": 171957000,
+          "ignore_ipo": "No",
+          "net_sales": 704830000,
+          "period_data": 12,
+          "return_on_assets": {
+            "value": 0.0478135273268419
+          },
+          "row_ftes": 10,
+          "total_assets": 3596409000,
+          "total_liabilities": 2845553000,
+          "us_ftes": 0,
+          "z_score": {
+            "value": 0.32471411038066
+          }
+        }
+      },
+      "large_cap": {
+        "layers": [
+          {
+            "adr_standalone": 0,
+            "benchmark_premium": 23696.6907330885,
+            "bpi": 1.5191994698961,
+            "brokerage": 0,
+            "contagion": 0,
+            "deductible": 100000,
+            "expected_loss_cost": 16587.683513162,
+            "expected_loss_cost_att": 13436.0236456612,
+            "expected_loss_cost_cat": 3151.65986750077,
+            "intl_large_company": 9282.50999665338,
+            "intl_standalone": 7305.17351650858,
+            "limit": 10000000,
+            "pflr": 0.460768986476721,
+            "quoted_premium_100": 36000,
+            "roc": 0.758982574766073,
+            "side_ab_discount": 0.05,
+            "side_selection": "AB",
+            "slip_leader": "Zurich",
+            "technical_premium": 23930.2402340888,
+            "technical_premium_pre_uw_adj": 22022.0462870582,
+            "tpi": 1.50437269529445,
+            "tpi_pre_uw_adj": 1.63472547149972,
+            "uw_adj_impact": 0.0915169362398136,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 0,
+            "benchmark_premium": 8468.59658595205,
+            "bpi": 3.63106208778548,
+            "brokerage": 0,
+            "contagion": 0,
+            "deductible": 100000,
+            "excess": 10000000,
+            "expected_loss_cost": 5928.01761016643,
+            "expected_loss_cost_att": 4801.69426423481,
+            "expected_loss_cost_cat": 1126.32334593162,
+            "intl_large_company": 2685.46398110114,
+            "intl_standalone": 3242.5536290653,
+            "limit": 10000000,
+            "pflr": 0.192781060493217,
+            "quoted_premium_100": 30750,
+            "roc": 2.61966034029431,
+            "side_ab_discount": 0.05,
+            "side_selection": "AB",
+            "slip_leader": "Allianz",
+            "technical_premium": 9304.78568295231,
+            "technical_premium_pre_uw_adj": 8605.82645536862,
+            "tpi": 3.30475102251289,
+            "tpi_pre_uw_adj": 3.57316059758759,
+            "uw_adj_impact": 0.0940156405029349,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 0,
+            "benchmark_premium": 5605.42119663124,
+            "bpi": 4.28156942326182,
+            "brokerage": 0,
+            "contagion": 0,
+            "cover_in_uw_authority": "Yes",
+            "deductible": 100000,
+            "excess": 20000000,
+            "expected_loss_cost": 3923.79483764187,
+            "expected_loss_cost_att": 3178.27381848991,
+            "expected_loss_cost_cat": 745.521019151955,
+            "intl_large_company": 1451.28754461374,
+            "intl_standalone": 2472.50729302812,
+            "limit": 10000000,
+            "pflr": 0.163491451568411,
+            "quoted_premium_100": 24000,
+            "roc": 3.01767226379489,
+            "side_ab_discount": 0.05,
+            "side_selection": "AB",
+            "slip_leader": "Beazley",
+            "technical_premium": 6554.91816021189,
+            "technical_premium_pre_uw_adj": 6087.4658729857,
+            "tpi": 3.66137294370494,
+            "tpi_pre_uw_adj": 3.9425272355948,
+            "uw_adj_impact": 0.0950852487777374,
+            "written_line": 1
+          },
+          {
+            "adr_standalone": 0,
+            "benchmark_premium": 4308.91824382089,
+            "bpi": 4.93163220965566,
+            "brokerage": 0,
+            "contagion": 0,
+            "deductible": 100000,
+            "excess": 30000000,
+            "expected_loss_cost": 3016.24277067462,
+            "expected_loss_cost_att": 2443.15664424644,
+            "expected_loss_cost_cat": 573.086126428178,
+            "intl_large_company": 940.950172657008,
+            "intl_standalone": 2075.29259801761,
+            "limit": 10000000,
+            "pflr": 0.141940836267041,
+            "quoted_premium_100": 21250,
+            "roc": 3.39123508596178,
+            "side_ab_discount": 0.05,
+            "side_selection": "AB",
+            "slip_leader": "CNA Hardy",
+            "technical_premium": 5309.72327052126,
+            "technical_premium_pre_uw_adj": 4948.0835297627,
+            "tpi": 4.00209180730315,
+            "tpi_pre_uw_adj": 4.29459201167105,
+            "uw_adj_impact": 0.0957540520417441,
+            "written_line": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          }
+        ]
+      },
+      "layers": [
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 1
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 2
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {
+              "model_calculated": 1,
+              "uw_override": 1
+            },
+            "limit_change": {},
+            "other_change": {},
+            "risk_adjusted_rate_change": 1,
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 3
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 4
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 5
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 6
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 7
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 8
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 9
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 10
+          }
+        }
+      ],
+      "mmp": {
+        "cll": {
+          "agg_aoc_limit": "Agg",
+          "brokerage": 0.2,
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 1000000
+          },
+          "option_2": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 3000000
+          },
+          "option_3": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 5000000
+          },
+          "option_4": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 10000000
+          },
+          "written_line": 1
+        },
+        "dno": {
+          "agg_aoc_limit": "Agg",
+          "benchmark_premium": 29620.8634163606,
+          "bpi": 0,
+          "brokerage": 0.2,
+          "coverage": "ABC",
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_limit": 1000000,
+            "technical_premium": 11630.9821036904,
+            "aggregate_deductible": 50000
+          },
+          "option_2": {
+            "aggregate_limit": 3000000,
+            "technical_premium": 8193.64770026486,
+            "aggregate_deductible": 50000
+          },
+          "option_3": {
+            "aggregate_limit": 5000000,
+            "technical_premium": 6637.15408815158,
+            "aggregate_deductible": 50000
+          },
+          "option_4": {
+            "aggregate_limit": 10000000,
+            "technical_premium": 1464.15875706678,
+            "aggregate_deductible": 50000
+          },
+          "technical_premium": 29537.644694098,
+          "tpi": 0,
+          "written_line": 1
+        },
+        "epl": {
+          "agg_aoc_limit": "Agg",
+          "brokerage": 0.2,
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 1000000
+          },
+          "option_2": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 3000000
+          },
+          "option_3": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 5000000
+          },
+          "option_4": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 10000000
+          },
+          "written_line": 1
+        },
+        "total": {
+          "benchmark_premium": 29620.8634163606,
+          "bpi": 0,
+          "brokerage": 0,
+          "quoted_premium_100": 0,
+          "slip_leader": "Beazley",
+          "technical_premium": 29537.644694098,
+          "tpi": 0,
+          "written_line": 0
+        }
+      },
+      "modifiers": {
+        "business_financial_model_factors": {
+          "comment": "Overall solid financials, post-covid recovery looking solid + good performance at their current state.",
+          "value": 0.1
+        },
+        "business_financial_model_factors_side_a": {
+          "comment": "Overall solid financials, post-covid recovery looking solid + good performance at their current state.",
+          "value": 0.1
+        },
+        "esg_factors": {
+          "value": 0
+        },
+        "esg_factors_side_a": {
+          "value": 0
+        },
+        "financial_stability_side_a_factors": {
+          "value": 0
+        },
+        "indemnification_side_a_factors": {
+          "value": 0
+        },
+        "management_corp_gov_factors": {
+          "comment": "Brussels Airport Company (BAC) has two direct shareholders: the BAISA consortium and the Belgian federal government through the Federal Holding and Investment Company (FPIM/SFPI). BAISA owns 75% of the shares, FPIM/SFPI 25%.\r\n\r\nThe BAISA consortium consists of the Canadian pension fund Ontario Teachers Pension Plan (OTTP), the Dutch pension fund APG, the Australian investor QIC, the Swiss investor Swiss Life, the financial markets partner of the New South Wales public sector in Australia TCorp and the Japanese Government Pension Investment Fund (GPIF).\r\n\r\nThe Board of Directors consists of 11 members. In addition to the Chairman and CEO, the Board comprises 6 members appointed by the consortium of private investors and 3 members appointed by the Belgian State.\r\n\r\nThe management committee of Brussels Airport Company consists of 7 members.",
+          "value": 0
+        },
+        "management_corp_gov_factors_side_a": {
+          "comment": "Brussels Airport Company (BAC) has two direct shareholders: the BAISA consortium and the Belgian federal government through the Federal Holding and Investment Company (FPIM/SFPI). BAISA owns 75% of the shares, FPIM/SFPI 25%.\r\n\r\nThe BAISA consortium consists of the Canadian pension fund Ontario Teachers Pension Plan (OTTP), the Dutch pension fund APG, the Australian investor QIC, the Swiss investor Swiss Life, the financial markets partner of the New South Wales public sector in Australia TCorp and the Japanese Government Pension Investment Fund (GPIF).\r\n\r\nThe Board of Directors consists of 11 members. In addition to the Chairman and CEO, the Board comprises 6 members appointed by the consortium of private investors and 3 members appointed by the Belgian State.\r\n\r\nThe management committee of Brussels Airport Company consists of 7 members.",
+          "value": 0
+        },
+        "mergers_and_acquisitions_factors": {
+          "comment": "Took a stake of 50% in Skeydrone SA (company specialized in drones)",
+          "value": 0.05
+        },
+        "regulatory_factors": {
+          "value": 0
+        },
+        "significant_event_factors": {
+          "comment": "Claims free",
+          "value": 0
+        },
+        "significant_event_factors_side_a": {
+          "comment": "Claims free",
+          "value": 0
+        },
+        "stock_market_factors": {
+          "comment": "Private company",
+          "value": 0
+        },
+        "stock_market_factors_side_a": {
+          "comment": "Private company",
+          "value": 0
+        },
+        "territory_of_operation_factors": {
+          "value": 0
+        }
+      },
+      "rating_factors": {
+        "risk_information": {
+          "country_of_domicile": "BELGIUM",
+          "industry_class_sic_code": "Transportation - Airfreight & Logistics - AIRPORTS, FLYING FIELDS, & SERVICES - 4581",
+          "main_operating_country": "BELGIUM",
+          "ownership_type": "Private",
+          "primary_listing_location": "BELGIUM",
+          "search_sic": "Class",
+          "us_adr_exposure": "No"
+        }
+      },
+      "rating_summary": {
+        "side_a_fifty_percentile": {
+          "at_cost_only": 2419676.12537072,
+          "inclusive_dismissals": 0
+        },
+        "side_a_seventyfive_percentile": {
+          "at_cost_only": 6220929.60021806,
+          "inclusive_dismissals": 2419676.12537072
+        },
+        "side_abc_fifty_percentile": {
+          "at_cost_only": 1888423.43598772,
+          "inclusive_dismissals": 0
+        },
+        "side_abc_seventyfive_percentile": {
+          "at_cost_only": 4855091.60813068,
+          "inclusive_dismissals": 1888423.43598772
+        }
+      },
+      "risk_information": {
+        "cedant_name": "NA",
+        "cips_policy": "No",
+        "company_description": "National airport of Belgium. \r\n\r\nBrussels Airport Company NV/SA operates an airport in Belgium. Brussels Airport Company NV/SA was formerly known as Brussels Airport Holding SA/NV and changed its name to The Brussels Airport Company SA/NV in July 2013. Brussels Airport Company NV/SA was founded in 1914 and is based in Brussels, Belgium.",
+        "core_account": "B",
+        "direct_ri": "Direct",
+        "macquarie_flag": "No",
+        "mmp_flag": 0,
+        "platform": "European Insurance Company"
+      },
+      "standard_fields": {
+        "broker": "AON AUSTRIA",
+        "insured_name": "BRUSSELS AIRPORT COMPANY",
+        "is_renewal": true,
+        "underwriter": "Adam Parr"
+      },
+      "uw_rationale": {
+        "bpi_comment": "- strong BPI (428% 2025)\r\n- RC 89,59%\r\n- partially state owned\r\n- a crucial function for Belgium so low bancrupsy risk\r\n- good contact with the broker",
+        "broker_discussion": "Renewal 2025: initial discussion with broker, likely to renew as expiry if no LTA. If 2Y LTA (Y1: -10%, Y2: flat). Primary offered 3Y LTA, we offered 2Y LTA (Y1: -10%, Y2: flat) and next year at renewal we will roll over the existing LTA and offered new 2Y LTA (flat).\r\n\r\nRenewal 2024:\r\n2Y LTA honoured (none of the exit claused had been triggered)\r\nSide AB 10 xs 20 @ 26,790 (net commission)\r\n\r\nBroker want to have the following options quoted\r\n- normal renewal at a 5% discount\r\n- renewal with an LTA 2 years a 13% discount.\r\n- in France the broker received 15% brokerage Aon Belgium works on a Fee so there is space to issue a discount.",
+        "esg": "- ESG team confirm the company being eligible with the 3 providers.\r\n- BAC is focusing on becoming a carbon-free airport and wanting to be circular in regards of waste management\r\n- Bac has a focus on focus on green energy, this with solar pannels and carports aiming to create 27 MWp in 2027 to contribute to green energy\r\n- Further they are still focussing on their scopes 1,2,3 emissions and trying to reduce them",
+        "other_factors": "2025: 2023 financials available saved on Citrix. Turnover increased by 28% vs 2022.\r\n- Checked on shareholders: \r\n1) The shareholders are a consortium of private investors (BAISA: 75%) and the Belgian State (25%).The consortium is formed by APG (Dutch pension fund: 16.8% stake), QIC (Australian investor: 16.8% stake) and Swiss life (2.4% stake). BAISA is formed by the consortium (36%) and Ontario Teachers\u00b4 Pension Plan which holds 39%.\r\n2) Within the BAISA consortium there is Sky Holding Belgium Fund managed by PMV (Belgian investment company) which holds a minority stakeholder in BAC (no info found on any ODL position appointed from PMV into BAC board) but it is an indirect shareholder of BAC and as such I do not see aggregation issues. \r\n3) We are on risk on Swiss life but as mentioned below it is an indirect shareholder of BAC with a minority stake of 2.6%. I do not see aggregation issues.\r\n\r\n2024: 2022 fiancials from S&Q\r\n\r\npolicy was closed in France via a french broker. The policy is no shiftig to Belgium Aon so we are asked to take over the policy.",
+        "unusual_coverage": "2025: \r\nend of the 2Y LTA. Offered 2Y LTA (Y1: -10% and Y2: flat) + next year at renewal a roll over (Y1: flat; Y2: flat). ANV signed off saved on filed.\r\nRC: 89,59%\r\nBPI: 428%\r\n\r\n2024: \r\n- wording as expiry. Y2 LTA honoured.\r\n- RC: 100,32% (slight increase on the assets)\r\n\r\nLTA will propably taken on Zurich wording"
+      }
+    },
+    "hx_core": {
+      "expiry_date": "2027-01-01",
+      "inception_date": "2026-01-01"
+    }
+  },
+  {
+    "cds": {
+      "broker_contact": "Airbus Group Riskmanagement",
+      "currencies": {
+        "source_currency": "EUR"
+      },
+      "exposure": {
+        "aggregate": {
+          "accumulated_profitability": {
+            "value": 0.144621671194075
+          },
+          "adr_level": "Level 1",
+          "asset_turnover": {
+            "value": 0.535782003358795
+          },
+          "book_value_liability_ratio": {
+            "value": 0.179844225097473
+          },
+          "credit_score": "A",
+          "current_assets": 69432000000,
+          "current_liabilities": 60623000000,
+          "current_market_cap": 164945409189.55,
+          "current_ratio": {
+            "value": 1.14530788644574
+          },
+          "ebit": 4804000000,
+          "equity": 19696000000,
+          "fifty_two_week_high": 164945409189.55,
+          "fifty_two_week_low": 104845458758.06,
+          "ignore_ipo": "No",
+          "insider_shareholder_details": "Guillaume M.J.D Faury - 0.01%",
+          "insider_shareholder_share": 0.0001,
+          "institutional_ownership_share": 0.3568,
+          "ipo_date": "2000-07-09",
+          "main_exchange": "ENXTPA",
+          "market_cap_2_year_high": 164945409189.55,
+          "net_debt_equity_ratio": {
+            "value": 0
+          },
+          "net_sales": 69230000000,
+          "period_data": 12,
+          "period_ended": "2024-12-31",
+          "retained_earnings": 18687000000,
+          "return_on_assets": {
+            "value": 0.037178921625533
+          },
+          "roe": {
+            "value": 0
+          },
+          "row_ftes": 10,
+          "total_assets": 129213000000,
+          "total_liabilities": 109517000000,
+          "us_ftes": 0,
+          "us_listing_share": 0.01,
+          "z_score": {
+            "value": 0.897135419657142
+          }
+        }
+      },
+      "key_industry": {
+        "ticker": "TSCO"
+      },
+      "large_cap": {
+        "layers": [
+          {
+            "adr_standalone": 768405.445170006,
+            "benchmark_premium": 2290274.57089587,
+            "bpi": 1.52820104823979,
+            "brokerage": 0,
+            "contagion": 24419.5321992175,
+            "deductible": 250000,
+            "expected_loss_cost": 1603192.19962711,
+            "expected_loss_cost_att": 1298585.68169796,
+            "expected_loss_cost_cat": 304606.517929151,
+            "intl_large_company": 752285.114007737,
+            "intl_standalone": 58082.1082501513,
+            "limit": 20000000,
+            "notes": "22 % reduction",
+            "pflr": 0.458054914179175,
+            "quoted_premium_100": 3500000,
+            "roc": 0.806987690412318,
+            "side_ab_discount": 0,
+            "side_selection": "ABC",
+            "slip_leader": "Allianz",
+            "technical_premium": 2200810.12110649,
+            "technical_premium_pre_uw_adj": 2197225.21177643,
+            "tpi": 1.59032347517573,
+            "tpi_pre_uw_adj": 1.59291818664792,
+            "uw_adj_impact": 0.00163243231640031,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 708609.127487916,
+            "benchmark_premium": 2196232.66574962,
+            "bpi": 0.774052779794963,
+            "brokerage": 0,
+            "contagion": 39590.2512029467,
+            "deductible": 250000,
+            "excess": 20000000,
+            "expected_loss_cost": 1537362.86602474,
+            "expected_loss_cost_att": 1245263.92148004,
+            "expected_loss_cost_cat": 292098.9445447,
+            "intl_large_company": 748661.656497908,
+            "intl_standalone": 40501.8308359669,
+            "limit": 30000000,
+            "notes": "37 % reduction",
+            "pflr": 0.90433109766161,
+            "quoted_premium_100": 1700000,
+            "roc": 0.0221822690315902,
+            "side_ab_discount": 0,
+            "side_selection": "ABC",
+            "slip_leader": "Chubb",
+            "technical_premium": 2110489.84883017,
+            "technical_premium_pre_uw_adj": 2109424.9060074,
+            "tpi": 0.805500202212437,
+            "tpi_pre_uw_adj": 0.805906858859301,
+            "uw_adj_impact": 0.000505130328428249,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 750330.860657487,
+            "benchmark_premium": 2556502.33079137,
+            "bpi": 0.508507261793728,
+            "brokerage": 0,
+            "contagion": 79178.1641434404,
+            "deductible": 250000,
+            "excess": 50000000,
+            "expected_loss_cost": 1789551.63155396,
+            "expected_loss_cost_att": 1449536.8215587,
+            "expected_loss_cost_cat": 340014.809995252,
+            "intl_large_company": 914107.728456615,
+            "intl_standalone": 45934.8782964132,
+            "limit": 50000000,
+            "notes": "38 % reduction",
+            "pflr": 1.37657817811843,
+            "quoted_premium_100": 1300000,
+            "roc": -0.254171439307774,
+            "side_ab_discount": 0,
+            "side_selection": "ABC",
+            "slip_leader": "AIG",
+            "technical_premium": 2456502.13121496,
+            "technical_premium_pre_uw_adj": 2455849.97853524,
+            "tpi": 0.529207763950537,
+            "tpi_pre_uw_adj": 0.529348295442447,
+            "uw_adj_impact": 0.000265677415378862,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 479244.333135156,
+            "benchmark_premium": 536995.233271942,
+            "bpi": 0.410618170028216,
+            "brokerage": 0,
+            "contagion": 77138.2422225527,
+            "cover_in_uw_authority": "Yes",
+            "deductible": 250000,
+            "excess": 100000000,
+            "expected_loss_cost": 1252988.87763453,
+            "expected_loss_cost_att": 1014920.99088397,
+            "expected_loss_cost_cat": 238067.886750561,
+            "intl_large_company": 660749.217191912,
+            "intl_standalone": 35857.0850849116,
+            "limit": 50000000,
+            "notes": "target: 38 % reduction",
+            "pflr": 1.70474677229188,
+            "quoted_premium_100": 735000,
+            "roc": -0.355408108080731,
+            "side_ab_discount": 0,
+            "side_selection": "ABC",
+            "slip_leader": "Beazley",
+            "technical_premium": 516915.40518845,
+            "technical_premium_pre_uw_adj": 516825.483408623,
+            "tpi": 0.426568830773409,
+            "tpi_pre_uw_adj": 0.42664304891805,
+            "uw_adj_impact": 0.000174383894148589,
+            "written_line": 0.3
+          },
+          {
+            "adr_standalone": 334840.08270005,
+            "benchmark_premium": 1339198.71975704,
+            "bpi": 0.403226191926144,
+            "brokerage": 0,
+            "contagion": 69379.9136344854,
+            "deductible": 250000,
+            "excess": 150000000,
+            "expected_loss_cost": 937439.10382993,
+            "expected_loss_cost_att": 759325.674102243,
+            "expected_loss_cost_cat": 178113.429727687,
+            "intl_large_company": 502785.502121261,
+            "intl_standalone": 30433.6053741337,
+            "limit": 50000000,
+            "notes": "target: 38 % reduction",
+            "pflr": 1.7359983404258,
+            "quoted_premium_100": 540000,
+            "roc": -0.363580744678877,
+            "side_ab_discount": 0,
+            "side_selection": "ABC",
+            "technical_premium": 1287372.33295556,
+            "technical_premium_pre_uw_adj": 1287197.14601827,
+            "tpi": 0.419459068815207,
+            "tpi_pre_uw_adj": 0.419516157000815,
+            "uw_adj_impact": 0.000136223499329624,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 248433.957148913,
+            "benchmark_premium": 1047226.39761656,
+            "bpi": 0.296020039893519,
+            "brokerage": 0,
+            "contagion": 60837.9027074775,
+            "deductible": 250000,
+            "excess": 200000000,
+            "expected_loss_cost": 733058.478331591,
+            "expected_loss_cost_att": 593777.367448588,
+            "expected_loss_cost_cat": 139281.110883002,
+            "intl_large_company": 396888.58869206,
+            "intl_standalone": 26898.0297831396,
+            "limit": 50000000,
+            "notes": "target: 38 % reduction",
+            "pflr": 2.36470476881158,
+            "quoted_premium_100": 310000,
+            "roc": -0.474982257561482,
+            "side_ab_discount": 0,
+            "side_selection": "ABC",
+            "technical_premium": 1006954.58097716,
+            "technical_premium_pre_uw_adj": 1006839.17299174,
+            "tpi": 0.307858969864532,
+            "tpi_pre_uw_adj": 0.30789425790701,
+            "uw_adj_impact": 0.000114757557258871,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 192836.61556811,
+            "benchmark_premium": 845769.624293398,
+            "bpi": 0.254206339202147,
+            "brokerage": 0,
+            "contagion": 52726.2069822724,
+            "deductible": 250000,
+            "excess": 250000000,
+            "expected_loss_cost": 592038.737005379,
+            "expected_loss_cost_att": 479551.376974357,
+            "expected_loss_cost_cat": 112487.360031022,
+            "intl_large_company": 322119.546879597,
+            "intl_standalone": 24356.3675753999,
+            "limit": 50000000,
+            "notes": "target: 38 % reduction",
+            "pflr": 2.75366854421106,
+            "quoted_premium_100": 215000,
+            "roc": -0.518324626873053,
+            "side_ab_discount": 0,
+            "side_selection": "ABC",
+            "technical_premium": 813470.297665809,
+            "technical_premium_pre_uw_adj": 813388.484965064,
+            "tpi": 0.264299754541655,
+            "tpi_pre_uw_adj": 0.264326338489086,
+            "uw_adj_impact": 0.000100727619385399,
+            "written_line": 0
+          },
+          {
+            "adr_standalone": 3988.93761,
+            "benchmark_premium": 29974.9265586876,
+            "bpi": 10.008364804919,
+            "brokerage": 0,
+            "contagion": 680.824615721012,
+            "deductible": 250000,
+            "excess": 300000000,
+            "expected_loss_cost": 20982.4485910813,
+            "expected_loss_cost_att": 16995.7833587759,
+            "expected_loss_cost_cat": 3986.66523230545,
+            "intl_large_company": 5105.07915319605,
+            "intl_standalone": 11207.6072121643,
+            "limit": 50000000,
+            "notes": "target: 38 % reduction",
+            "pflr": 0.0699414953036044,
+            "quoted_premium_100": 300000,
+            "roc": 9.26023342690769,
+            "side_ab_discount": 0,
+            "side_selection": "A-side DIC",
+            "technical_premium": 29960.0199190196,
+            "technical_premium_pre_uw_adj": 29960.0199190196,
+            "tpi": 10.0133444774364,
+            "tpi_pre_uw_adj": 10.0133444774364,
+            "uw_adj_impact": 0,
+            "written_line": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          }
+        ]
+      },
+      "layers": [
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.04853964058464
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_adjusted_rate_change": 0.757745671975526,
+            "risk_characteristics_change": {
+              "model_calculated": 0.978920024172214
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 1
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.06575712265597
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_characteristics_change": {
+              "model_calculated": 0.994977164707634
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 2
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.1036036746452
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_characteristics_change": {
+              "model_calculated": 0.99742375636244
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 3
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.13846948491919
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_adjusted_rate_change": 0.543863785788849,
+            "risk_characteristics_change": {
+              "model_calculated": 0.997536606223505
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 4
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.16327488046845
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_adjusted_rate_change": 0.532116279274268,
+            "risk_characteristics_change": {
+              "model_calculated": 0.997003794002832
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 5
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.18182789211062
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_adjusted_rate_change": 0.526602648097541,
+            "risk_characteristics_change": {
+              "model_calculated": 0.996218070865269
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 6
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.19598451329146
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_adjusted_rate_change": 0.516063094538263,
+            "risk_characteristics_change": {
+              "model_calculated": 0.995272621088339
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 7
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {
+              "model_calculated": 1
+            },
+            "exposure_change": {
+              "model_calculated": 1.08290873760914
+            },
+            "limit_change": {
+              "model_calculated": 1
+            },
+            "other_change": {
+              "model_calculated": 1
+            },
+            "risk_adjusted_rate_change": 0.568270061929015,
+            "risk_characteristics_change": {
+              "model_calculated": 1
+            },
+            "terms_conditions_change": {
+              "model_calculated": 1
+            },
+            "expiring_layer": 8
+          }
+        },
+        {
+          "rate_change": {}
+        },
+        {
+          "rate_change": {}
+        }
+      ],
+      "mmp": {
+        "cll": {
+          "agg_aoc_limit": "Agg",
+          "appetite_comment": "Check Health and Safety",
+          "benchmark_premium": 60823.2886392177,
+          "bpi": 0,
+          "brokerage": 0.2,
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 1000000,
+            "technical_premium": 81796.8339382234
+          },
+          "option_2": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 3000000,
+            "technical_premium": 153707.112795697
+          },
+          "option_3": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 5000000,
+            "technical_premium": 180872.106279664
+          },
+          "option_4": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 10000000,
+            "technical_premium": 228548.49098118
+          },
+          "technical_premium": 59505.2589978186,
+          "tpi": 0,
+          "written_line": 1
+        },
+        "dno": {
+          "agg_aoc_limit": "Agg",
+          "appetite_comment": "Within",
+          "benchmark_premium": 2862843.21361984,
+          "bpi": 0,
+          "brokerage": 0.2,
+          "coverage": "ABC",
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_limit": 1000000,
+            "technical_premium": 2638112.31103772,
+            "aggregate_deductible": 50000
+          },
+          "option_2": {
+            "aggregate_limit": 3000000,
+            "technical_premium": 3070627.6640187,
+            "aggregate_deductible": 50000
+          },
+          "option_3": {
+            "aggregate_limit": 5000000,
+            "technical_premium": 2150397.81785205,
+            "aggregate_deductible": 50000
+          },
+          "option_4": {
+            "aggregate_limit": 10000000,
+            "technical_premium": 1609215.41619445,
+            "aggregate_deductible": 50000
+          },
+          "technical_premium": 2750637.4957846,
+          "tpi": 0,
+          "written_line": 1
+        },
+        "epl": {
+          "agg_aoc_limit": "Agg",
+          "appetite_comment": "Within",
+          "benchmark_premium": 209.592291346475,
+          "bpi": 0,
+          "brokerage": 0.2,
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 1000000,
+            "technical_premium": 1665.45660180941
+          },
+          "option_2": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 3000000,
+            "technical_premium": 1868.89152970431
+          },
+          "option_3": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 5000000,
+            "technical_premium": 2029.77187513435
+          },
+          "option_4": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 10000000,
+            "technical_premium": 2326.86380596377
+          },
+          "technical_premium": 1290.30100329636,
+          "tpi": 0,
+          "written_line": 1
+        },
+        "total": {
+          "benchmark_premium": 2923876.09455041,
+          "bpi": 0,
+          "brokerage": 0,
+          "quoted_premium_100": 0,
+          "slip_leader": "Beazley",
+          "technical_premium": 2811433.05578571,
+          "tpi": 0,
+          "written_line": 0
+        }
+      },
+      "modifiers": {
+        "business_financial_model_factors": {
+          "value": 0
+        },
+        "business_financial_model_factors_side_a": {
+          "value": 0
+        },
+        "esg_factors": {
+          "value": 0
+        },
+        "esg_factors_side_a": {
+          "value": 0
+        },
+        "financial_stability_side_a_factors": {
+          "value": 0
+        },
+        "indemnification_side_a_factors": {
+          "value": 0
+        },
+        "management_corp_gov_factors": {
+          "value": 0
+        },
+        "management_corp_gov_factors_side_a": {
+          "value": 0
+        },
+        "mergers_and_acquisitions_factors": {
+          "comment": "some minor activities",
+          "value": 0.05
+        },
+        "regulatory_factors": {
+          "value": 0
+        },
+        "significant_event_factors": {
+          "comment": "ongoing proceedings from the past were settled at a very low level",
+          "value": 0
+        },
+        "significant_event_factors_side_a": {
+          "comment": "ongoing proceedings from the past were settled at a very low level",
+          "value": 0
+        },
+        "stock_market_factors": {
+          "value": 0
+        },
+        "stock_market_factors_side_a": {
+          "value": 0
+        },
+        "territory_of_operation_factors": {
+          "comment": "worldwide leading position",
+          "value": 0.15
+        }
+      },
+      "rating_factors": {
+        "risk_information": {
+          "country_of_domicile": "THE NETHERLANDS",
+          "industry_class_sic_code": "Aerospace & Defense - AIRCRAFT - 3721",
+          "main_operating_country": "USA",
+          "ownership_type": "Public",
+          "primary_listing_location": "FRANCE",
+          "search_sic": "Class",
+          "us_adr_exposure": "Yes"
+        }
+      },
+      "rating_summary": {
+        "side_a_fifty_percentile": {
+          "at_cost_only": 74373095.2299336,
+          "inclusive_dismissals": 0
+        },
+        "side_a_sca_freq": 0.0611678664280569,
+        "side_a_seventyfive_percentile": {
+          "at_cost_only": 167065694.217227,
+          "inclusive_dismissals": 74373095.2299336
+        },
+        "side_abc_fifty_percentile": {
+          "at_cost_only": 80011229.2202914,
+          "inclusive_dismissals": 0
+        },
+        "side_abc_seventyfive_percentile": {
+          "at_cost_only": 179733618.203605,
+          "inclusive_dismissals": 80011229.2202914
+        }
+      },
+      "risk_information": {
+        "cedant_name": "NA",
+        "cips_policy": "No",
+        "comments": "Airbus SE provides aerospace products, services, and solutions in the Netherlands and internationally. The company operates in three segments: Airbus, Airbus Helicopters, and Airbus Defence and Space segments. The Airbus segment develops, manufactures, markets, and sells commercial jet aircraft of approximately 100 seats; and regional turboprop aircraft and aircraft components, as well as provides aircraft conversion and related services. The Airbus Helicopters segment develops, manufactures, markets, and sells civil and military helicopters; and offers helicopter related services. The Airbus Defence and Space segment designs, develops, delivers, and supports military aircraft, such as combat, mission, transport, and tanker aircraft; and offers unmanned aerial systems and their associated services. It also provides civil and defense space systems for telecommunications, earth observations, navigation, science, and orbital systems; missile systems; and missile and space launcher systems, as well as services around data processing from platforms, secure communication, and cyber security. The company was formerly known as Airbus Group SE and changed its name to Airbus SE in April 2017. Airbus SE was founded in 2000 and is based in Leiden, the Netherlands.",
+        "company_description": "Airbus SE, together with its subsidiaries, engages in the design, manufacture, and delivery of aeronautics  and aerospace products, services, and solutions worldwide. It operates through three segments: Airbus, Airbus Helicopters, and Airbus Defence and Space. The Airbus segment develops, manufactures, markets, and sells commercial jet passenger aircraft, freighter aircraft, regional turboprop aircraft, and aircraft components, as well as provides aircraft conversion and related services. The Airbus Helicopters segment develops, manufactures, markets, and sells civil and military helicopters; and provides helicopter-related services. The Airbus Defence and Space segment designs, develops, delivers, and supports manned and unmanned military air systems and related services. This segment also offers civil and defence space systems for telecommunications, earth observations, navigation, and science and orbital systems; missile and space launcher systems; and services around data processing from platforms, secure communication, and cyber security. The company was formerly known as Airbus Group SE and changed its name to Airbus SE in April 2017. The company was incorporated in 1998 and is headquartered in Leiden, the Netherlands.",
+        "core_account": "A",
+        "direct_ri": "Direct",
+        "macquarie_flag": "No",
+        "mmp_flag": 0,
+        "platform": "European Insurance Company"
+      },
+      "standard_fields": {
+        "broker": "AON AUSTRIA",
+        "insured_name": "AIRBUS SE",
+        "is_renewal": true,
+        "underwriter": "Adam Parr"
+      },
+      "uw_rationale": {
+        "bpi_comment": "On risk since 2018\r\nGood client relationship with good personal contact to Markus Scheu, main contact on the inhouse brokers side\r\nAim to renew with current marekts, but only if keeping target premiums\r\nongoing positive trend on the claims site\r\nlimit adequate and & in line with risk appetite\r\nquote subject to no notifications until binding the account\r\nno sanctions concerns + sanctions clause agreed\r\nno notifications\r\nreduction painfull with low BPI and RC but premium level still reasonable",
+        "broker_discussion": "As usual, all current insurers (France, UK and Germany) were represented at this year's UW Meeting in Toulouse, but there were also a few new players aorund.\r\n\r\nThe client is once again confronting the markets with clear demands for a hughe premium reduction. We were able to keep this within limits up to and including 2023, but since the last renewal, the current market situation and the interest of other insurers in this account have made it possible for the client to achieve the target premiums. Guillaume's clear and unambiguous message was that, particularly due to the attachment of xs 100m and the fact that the underlying layers have accepted the targets, there will be no deviation from these and it is hoped that the risk carriers will be able to accept them in order to maintain their position in the programme.",
+        "esg": "Ongoing approach to sustainability based on 3 pillars\r\nRepRisk Rating \r\nClear strategy to decorbonise Airbus which is integrated in the corporate strategy, by i. e.\r\n\u2022  Fleet replacement\r\n\u2022  Optimizing flight routes\r\n\u2022  Sustainable aviation fuel (SAF)\r\n\u2022  To bring a hydrogen-powered aircraft to market by 2035",
+        "other_factors": "In 2021, Airbus had to accept drastic premium increases due to the tough market and driven by COVID and its presumed negative impact on the aviation industry.\r\nIn retrospect, however, the premium increases were clearly excessive. The client's demand for further premium reductions is therefore understandable and, admittedly, realistic given the positive developments. In fact, even with the further reduction, the premium level is still above the 2019/2020 level.",
+        "unusual_coverage": "Primary, first, second and third xs layer already bound with hughe premium reductions & accepting target premiums.\r\nABC cover\r\nwording adequate and as expiring, includes a sanction clause"
+      }
+    },
+    "hx_core": {
+      "expiry_date": "2027-01-01",
+      "inception_date": "2026-01-01"
+    }
+  },
+  {
+    "cds": {
+      "broker_contact": "Valentina Cardellini",
+      "currencies": {
+        "source_currency": "EUR"
+      },
+      "exposure": {
+        "aggregate": {
+          "accumulated_profitability": {
+            "value": 0
+          },
+          "asset_turnover": {
+            "value": 1.49333333333333
+          },
+          "ignore_ipo": "No",
+          "net_sales": 336000000,
+          "period_data": 12,
+          "return_on_assets": {
+            "value": 0
+          },
+          "row_ftes": 10,
+          "total_assets": 225000000,
+          "us_ftes": 0
+        }
+      },
+      "large_cap": {
+        "layers": [
+          {
+            "adr_standalone": 0,
+            "benchmark_premium": 7384.8081649124,
+            "bpi": 1.15101161874268,
+            "brokerage": 0.2,
+            "contagion": 0,
+            "expected_loss_cost": 4135.49257235095,
+            "expected_loss_cost_att": 3349.74898360427,
+            "expected_loss_cost_cat": 785.74358874668,
+            "intl_large_company": 0,
+            "intl_standalone": 4135.49257235095,
+            "limit": 5000000,
+            "pflr": 0.608160672404551,
+            "quoted_premium_100": 8500,
+            "roc": 0.343728143372877,
+            "side_ab_discount": 0,
+            "side_selection": "AB",
+            "technical_premium": 8556.71906968462,
+            "technical_premium_pre_uw_adj": 6845.3752557477,
+            "tpi": 0.993371399806081,
+            "tpi_pre_uw_adj": 0.993371399806081,
+            "uw_adj_impact": 0,
+            "written_line": 1
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          },
+          {
+            "technical_premium_pre_uw_adj": 1171.32700565343,
+            "tpi_pre_uw_adj": 0
+          }
+        ]
+      },
+      "layers": [
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 1
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 2
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 3
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 4
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 5
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 6
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 7
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 8
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 9
+          }
+        },
+        {
+          "rate_change": {
+            "deductible_change": {},
+            "exposure_change": {},
+            "limit_change": {},
+            "other_change": {},
+            "risk_characteristics_change": {},
+            "terms_conditions_change": {},
+            "expiring_layer": 10
+          }
+        }
+      ],
+      "mmp": {
+        "cll": {
+          "agg_aoc_limit": "Agg",
+          "appetite_comment": "Check Health and Safety",
+          "benchmark_premium": 4000,
+          "bpi": 0,
+          "brokerage": 0.2,
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 1000000
+          },
+          "option_2": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 3000000
+          },
+          "option_3": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 5000000
+          },
+          "option_4": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 10000000
+          },
+          "technical_premium": 4000,
+          "tpi": 0,
+          "written_line": 1
+        },
+        "dno": {
+          "agg_aoc_limit": "Agg",
+          "appetite_comment": "Within",
+          "benchmark_premium": 7384.8081649124,
+          "bpi": 0,
+          "brokerage": 0.2,
+          "coverage": "ABC",
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_limit": 1000000,
+            "technical_premium": 1464.15875706678,
+            "aggregate_deductible": 50000
+          },
+          "option_2": {
+            "aggregate_limit": 3000000,
+            "technical_premium": 1464.15875706678,
+            "aggregate_deductible": 50000
+          },
+          "option_3": {
+            "aggregate_limit": 5000000,
+            "technical_premium": 1464.15875706678,
+            "aggregate_deductible": 50000
+          },
+          "option_4": {
+            "aggregate_limit": 10000000,
+            "technical_premium": 1464.15875706678,
+            "aggregate_deductible": 50000
+          },
+          "technical_premium": 8181.56347117157,
+          "tpi": 0,
+          "written_line": 1
+        },
+        "epl": {
+          "agg_aoc_limit": "Agg",
+          "appetite_comment": "Within",
+          "benchmark_premium": 216.260919225,
+          "bpi": 0,
+          "brokerage": 0.2,
+          "deductible": 50000,
+          "excess": 0,
+          "limit": 1000000,
+          "option_1": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 1000000,
+            "technical_premium": 1671.8613240953
+          },
+          "option_2": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 3000000,
+            "technical_premium": 1881.76897015607
+          },
+          "option_3": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 5000000,
+            "technical_premium": 2047.76806852187
+          },
+          "option_4": {
+            "aggregate_deductible": 50000,
+            "aggregate_limit": 10000000,
+            "technical_premium": 2354.31261576045
+          },
+          "technical_premium": 1296.70572558225,
+          "tpi": 0,
+          "written_line": 1
+        },
+        "total": {
+          "benchmark_premium": 11601.0690841374,
+          "bpi": 0,
+          "brokerage": 0,
+          "quoted_premium_100": 0,
+          "slip_leader": "Beazley",
+          "technical_premium": 13478.2691967538,
+          "tpi": 0,
+          "written_line": 0
+        }
+      },
+      "modifiers": {
+        "business_financial_model_factors": {
+          "value": 0
+        },
+        "business_financial_model_factors_side_a": {
+          "value": 0
+        },
+        "esg_factors": {
+          "value": 0
+        },
+        "esg_factors_side_a": {
+          "value": 0
+        },
+        "financial_stability_side_a_factors": {
+          "value": 0
+        },
+        "indemnification_side_a_factors": {
+          "value": 0
+        },
+        "management_corp_gov_factors": {
+          "value": 0
+        },
+        "management_corp_gov_factors_side_a": {
+          "value": 0
+        },
+        "mergers_and_acquisitions_factors": {
+          "value": 0
+        },
+        "regulatory_factors": {
+          "value": 0
+        },
+        "significant_event_factors": {
+          "value": 0
+        },
+        "significant_event_factors_side_a": {
+          "value": 0
+        },
+        "stock_market_factors": {
+          "value": 0
+        },
+        "stock_market_factors_side_a": {
+          "value": 0
+        },
+        "territory_of_operation_factors": {
+          "value": 0
+        }
+      },
+      "rating_factors": {
+        "risk_information": {
+          "country_of_domicile": "ITALY",
+          "industry_class_sic_code": "Transportation - Road & Rail - LOCAL TRUCKING, WITHOUT STORAGE - 4212",
+          "main_operating_country": "ITALY",
+          "ownership_type": "Private",
+          "primary_listing_location": "ITALY",
+          "search_sic": "Class",
+          "us_adr_exposure": "No"
+        }
+      },
+      "rating_summary": {
+        "side_a_fifty_percentile": {
+          "at_cost_only": 2869606.53100265,
+          "inclusive_dismissals": 0
+        },
+        "side_a_sca_freq": 0.000633936208210954,
+        "side_a_seventyfive_percentile": {
+          "at_cost_only": 6141072.2556469,
+          "inclusive_dismissals": 2869606.53100265
+        },
+        "side_abc_fifty_percentile": {
+          "at_cost_only": 2869606.53100265,
+          "inclusive_dismissals": 0
+        },
+        "side_abc_seventyfive_percentile": {
+          "at_cost_only": 6141072.2556469,
+          "inclusive_dismissals": 2869606.53100265
+        }
+      },
+      "risk_information": {
+        "cedant_name": "NA",
+        "cips_policy": "No",
+        "direct_ri": "Direct",
+        "macquarie_flag": "No",
+        "mmp_flag": 0,
+        "platform": "European Insurance Company"
+      },
+      "standard_fields": {
+        "broker": "AON AUSTRIA",
+        "insured_name": "Arco Spedizioni Spa",
+        "is_renewal": false,
+        "underwriter": "Adam Parr"
+      }
+    },
+    "hx_core": {
+      "expiry_date": "2026-11-21",
+      "inception_date": "2025-11-21"
+    }
+  }
+]

@@ -1,4 +1,0 @@
-"_id","_root._id","date","loss","coverage","limited_coverage","limited_deductible","net_direct_loss_incurred","exceeds_500k","exceeds_500k_num","adjusted_loss"
-0,0,"2000-01-01",0.0,"Basic Bond",500000.0,500000.0,0.0,"No",0,0.0
-1,1,"2000-01-01",0.0,"Basic Bond",500000.0,100000.0,0.0,"No",0,0.0
-2,2,"2000-01-01",0.0,"Basic Bond",500000.0,250000.0,0.0,"No",0,0.0

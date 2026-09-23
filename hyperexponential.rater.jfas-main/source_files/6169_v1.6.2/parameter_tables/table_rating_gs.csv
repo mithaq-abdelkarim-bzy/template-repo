@@ -1,0 +1,757 @@
+type,region,country,relativity,param_a,param_b
+Metals,Europe,Åland Islands,1,0.1471,-0.276
+Metals,Asia,Afghanistan,0.75,0.1471,-0.276
+Metals,Europe,Albania,1,0.1471,-0.276
+Metals,Africa,Algeria,1.5,0.1471,-0.276
+Metals,Oceania,American Samoa,0.75,0.1471,-0.276
+Metals,Europe,Andorra,1,0.1471,-0.276
+Metals,Africa,Angola,1.5,0.1471,-0.276
+Metals,North America,Anguilla,1,0.1471,-0.276
+Metals,North America,Antigua and Barbuda,1,0.1471,-0.276
+Metals,South America,Argentina,2,0.1471,-0.276
+Metals,Europe,Armenia,1,0.1471,-0.276
+Metals,North America,Aruba,1,0.1471,-0.276
+Metals,Oceania,Australia,0.75,0.1471,-0.276
+Metals,Europe,Austria,1,0.1471,-0.276
+Metals,Europe,Azerbaijan,1,0.1471,-0.276
+Metals,North America,Bahamas,1,0.1471,-0.276
+Metals,Asia,Bahrain,0.75,0.1471,-0.276
+Metals,Asia,Bangladesh,0.75,0.1471,-0.276
+Metals,North America,Barbados,1,0.1471,-0.276
+Metals,Europe,Belarus,1,0.1471,-0.276
+Metals,Europe,Belgium,1,0.1471,-0.276
+Metals,North America,Belize,1,0.1471,-0.276
+Metals,Africa,Benin,1.5,0.1471,-0.276
+Metals,North America,Bermuda,1,0.1471,-0.276
+Metals,Asia,Bhutan,0.75,0.1471,-0.276
+Metals,South America,Bolivia,2,0.1471,-0.276
+Metals,North America,"Bonaire, Sint Eustatius and Saba",1,0.1471,-0.276
+Metals,Europe,Bosnia and Herzegovina,1,0.1471,-0.276
+Metals,Africa,Botswana,1.5,0.1471,-0.276
+Metals,Antarctica,Bouvet Island (Bouvetoya),1,0.1471,-0.276
+Metals,South America,Brazil,2,0.1471,-0.276
+Metals,Asia,British Indian Ocean Territory (Chagos Archipelago),0.75,0.1471,-0.276
+Metals,North America,British Virgin Islands,1,0.1471,-0.276
+Metals,Asia,Brunei,0.75,0.1471,-0.276
+Metals,Europe,Bulgaria,1,0.1471,-0.276
+Metals,Africa,Burkina Faso,1.5,0.1471,-0.276
+Metals,Africa,Burundi,1.5,0.1471,-0.276
+Metals,Asia,Cambodia,0.75,0.1471,-0.276
+Metals,Africa,Cameroon,1.5,0.1471,-0.276
+Metals,North America,Canada,1,0.1471,-0.276
+Metals,Africa,Cape Verde,1.5,0.1471,-0.276
+Metals,North America,Cayman Islands,1,0.1471,-0.276
+Metals,Africa,Central African Republic,1.5,0.1471,-0.276
+Metals,Africa,Chad,1.5,0.1471,-0.276
+Metals,South America,Chile,2,0.1471,-0.276
+Metals,Asia,China,0.75,0.1471,-0.276
+Metals,Asia,Christmas Island,0.75,0.1471,-0.276
+Metals,Asia,Cocos (Keeling) Islands,0.75,0.1471,-0.276
+Metals,South America,Colombia,2,0.1471,-0.276
+Metals,Africa,Comoros,1.5,0.1471,-0.276
+Metals,Africa,Congo,1.5,0.1471,-0.276
+Metals,Africa,Congo the,1.5,0.1471,-0.276
+Metals,Oceania,Cook Islands,0.75,0.1471,-0.276
+Metals,North America,Costa Rica,1,0.1471,-0.276
+Metals,Africa,Cote d'Ivoire,1.5,0.1471,-0.276
+Metals,Europe,Croatia,1,0.1471,-0.276
+Metals,North America,Cuba,1,0.1471,-0.276
+Metals,North America,Curacao,1,0.1471,-0.276
+Metals,Europe,Cyprus,1,0.1471,-0.276
+Metals,Europe,Czech Republic,1,0.1471,-0.276
+Metals,Europe,Denmark,1,0.1471,-0.276
+Metals,Oceania,Disputed Territory,0.75,0.1471,-0.276
+Metals,Africa,Djibouti,1.5,0.1471,-0.276
+Metals,North America,Dominica,1,0.1471,-0.276
+Metals,North America,Dominican Republic,1,0.1471,-0.276
+Metals,South America,Ecuador,2,0.1471,-0.276
+Metals,Africa,Egypt,1.5,0.1471,-0.276
+Metals,North America,El Salvador,1,0.1471,-0.276
+Metals,Africa,Equatorial Guinea,1.5,0.1471,-0.276
+Metals,Africa,Eritrea,1.5,0.1471,-0.276
+Metals,Europe,Estonia,1,0.1471,-0.276
+Metals,Africa,Ethiopia,1.5,0.1471,-0.276
+Metals,South America,Falkland Islands,2,0.1471,-0.276
+Metals,Europe,Faroe Islands,1,0.1471,-0.276
+Metals,Oceania,Fiji,0.75,0.1471,-0.276
+Metals,Europe,Finland,1,0.1471,-0.276
+Metals,Europe,France,1,0.1471,-0.276
+Metals,South America,French Guiana,2,0.1471,-0.276
+Metals,Oceania,French Polynesia,0.75,0.1471,-0.276
+Metals,Antarctica,French Southern Territories,1,0.1471,-0.276
+Metals,Africa,Gabon,1.5,0.1471,-0.276
+Metals,Africa,Gambia,1.5,0.1471,-0.276
+Metals,Europe,Georgia,1,0.1471,-0.276
+Metals,Europe,Germany,1,0.1471,-0.276
+Metals,Africa,Ghana,1.5,0.1471,-0.276
+Metals,Europe,Gibraltar,1,0.1471,-0.276
+Metals,Europe,Greece,1,0.1471,-0.276
+Metals,North America,Greenland,1,0.1471,-0.276
+Metals,North America,Grenada,1,0.1471,-0.276
+Metals,North America,Guadeloupe,1,0.1471,-0.276
+Metals,Oceania,Guam,0.75,0.1471,-0.276
+Metals,North America,Guatemala,1,0.1471,-0.276
+Metals,Europe,Guernsey,1,0.1471,-0.276
+Metals,Africa,Guinea,1.5,0.1471,-0.276
+Metals,Africa,Guinea-Bissau,1.5,0.1471,-0.276
+Metals,South America,Guyana,2,0.1471,-0.276
+Metals,North America,Haiti,1,0.1471,-0.276
+Metals,Antarctica,Heard Island and McDonald Islands,1,0.1471,-0.276
+Metals,Europe,Vatican City,1,0.1471,-0.276
+Metals,North America,Honduras,1,0.1471,-0.276
+Metals,Asia,Hong Kong,0.75,0.1471,-0.276
+Metals,Europe,Hungary,1,0.1471,-0.276
+Metals,Europe,Iceland,1,0.1471,-0.276
+Metals,Asia,India,0.75,0.1471,-0.276
+Metals,Asia,Indonesia,0.75,0.1471,-0.276
+Metals,Asia,Iran,0.75,0.1471,-0.276
+Metals,Asia,Iraq,0.75,0.1471,-0.276
+Metals,Asia,Iraq-Saudi Arabia Neutral Zone,0.75,0.1471,-0.276
+Metals,Europe,Ireland,1,0.1471,-0.276
+Metals,Europe,Isle of Man,1,0.1471,-0.276
+Metals,Asia,Israel,0.75,0.1471,-0.276
+Metals,Europe,Italy,1,0.1471,-0.276
+Metals,North America,Jamaica,1,0.1471,-0.276
+Metals,Asia,Japan,0.75,0.1471,-0.276
+Metals,Europe,Jersey,1,0.1471,-0.276
+Metals,Asia,Jordan,0.75,0.1471,-0.276
+Metals,Europe,Kazakhstan,1,0.1471,-0.276
+Metals,Africa,Kenya,1.5,0.1471,-0.276
+Metals,Oceania,Kiribati,0.75,0.1471,-0.276
+Metals,Asia,Korea,0.75,0.1471,-0.276
+Metals,Asia,Kuwait,0.75,0.1471,-0.276
+Metals,Asia,Kyrgyz Republic,0.75,0.1471,-0.276
+Metals,Asia,Laos,0.75,0.1471,-0.276
+Metals,Europe,Latvia,1,0.1471,-0.276
+Metals,Asia,Lebanon,0.75,0.1471,-0.276
+Metals,Africa,Lesotho,1.5,0.1471,-0.276
+Metals,Africa,Liberia,1.5,0.1471,-0.276
+Metals,Africa,Libya,1.5,0.1471,-0.276
+Metals,Europe,Liechtenstein,1,0.1471,-0.276
+Metals,Europe,Lithuania,1,0.1471,-0.276
+Metals,Europe,Luxembourg,1,0.1471,-0.276
+Metals,Asia,Macao,0.75,0.1471,-0.276
+Metals,Europe,Macedonia,1,0.1471,-0.276
+Metals,Africa,Madagascar,1.5,0.1471,-0.276
+Metals,Africa,Malawi,1.5,0.1471,-0.276
+Metals,Asia,Malaysia,0.75,0.1471,-0.276
+Metals,Asia,Maldives,0.75,0.1471,-0.276
+Metals,Africa,Mali,1.5,0.1471,-0.276
+Metals,Europe,Malta,1,0.1471,-0.276
+Metals,Oceania,Marshall Islands,0.75,0.1471,-0.276
+Metals,North America,Martinique,1,0.1471,-0.276
+Metals,Africa,Mauritania,1.5,0.1471,-0.276
+Metals,Africa,Mauritius,1.5,0.1471,-0.276
+Metals,Africa,Mayotte,1.5,0.1471,-0.276
+Metals,North America,Mexico,1,0.1471,-0.276
+Metals,Oceania,Micronesia,0.75,0.1471,-0.276
+Metals,Europe,Moldova,1,0.1471,-0.276
+Metals,Europe,Monaco,1,0.1471,-0.276
+Metals,Asia,Mongolia,0.75,0.1471,-0.276
+Metals,Europe,Montenegro,1,0.1471,-0.276
+Metals,North America,Montserrat,1,0.1471,-0.276
+Metals,Africa,Morocco,1.5,0.1471,-0.276
+Metals,Africa,Mozambique,1.5,0.1471,-0.276
+Metals,Asia,Myanmar,0.75,0.1471,-0.276
+Metals,Africa,Namibia,1.5,0.1471,-0.276
+Metals,Oceania,Nauru,0.75,0.1471,-0.276
+Metals,Asia,Nepal,0.75,0.1471,-0.276
+Metals,North America,Netherlands Antilles,1,0.1471,-0.276
+Metals,Europe,Netherlands,1,0.1471,-0.276
+Metals,Oceania,New Caledonia,0.75,0.1471,-0.276
+Metals,Oceania,New Zealand,0.75,0.1471,-0.276
+Metals,North America,Nicaragua,1,0.1471,-0.276
+Metals,Africa,Niger,1.5,0.1471,-0.276
+Metals,Africa,Nigeria,1.5,0.1471,-0.276
+Metals,Oceania,Niue,0.75,0.1471,-0.276
+Metals,Oceania,Norfolk Island,0.75,0.1471,-0.276
+Metals,Oceania,Northern Mariana Islands the,0.75,0.1471,-0.276
+Metals,Europe,Norway,1,0.1471,-0.276
+Metals,Asia,Oman,0.75,0.1471,-0.276
+Metals,Asia,Pakistan,0.75,0.1471,-0.276
+Metals,Oceania,Palau,0.75,0.1471,-0.276
+Metals,Asia,"Palestinian Territory, Occupied",0.75,0.1471,-0.276
+Metals,North America,Panama,1,0.1471,-0.276
+Metals,Oceania,Papua New Guinea,0.75,0.1471,-0.276
+Metals,South America,Paraguay,2,0.1471,-0.276
+Metals,South America,Peru,2,0.1471,-0.276
+Metals,Asia,Philippines,0.75,0.1471,-0.276
+Metals,Oceania,Pitcairn Islands,0.75,0.1471,-0.276
+Metals,Europe,Poland,1,0.1471,-0.276
+Metals,Europe,Portugal,1,0.1471,-0.276
+Metals,North America,Puerto Rico,1,0.1471,-0.276
+Metals,Asia,Qatar,0.75,0.1471,-0.276
+Metals,Africa,Reunion,1.5,0.1471,-0.276
+Metals,Europe,Romania,1,0.1471,-0.276
+Metals,Europe,Russia,1,0.1471,-0.276
+Metals,Africa,Rwanda,1.5,0.1471,-0.276
+Metals,North America,Saint Barthelemy,1,0.1471,-0.276
+Metals,Africa,Saint Helena,1.5,0.1471,-0.276
+Metals,North America,Saint Kitts and Nevis,1,0.1471,-0.276
+Metals,North America,Saint Lucia,1,0.1471,-0.276
+Metals,North America,Saint Martin,1,0.1471,-0.276
+Metals,North America,Saint Pierre and Miquelon,1,0.1471,-0.276
+Metals,North America,Saint Vincent and the Grenadines,1,0.1471,-0.276
+Metals,Oceania,"Samoa, Independent State of",0.75,0.1471,-0.276
+Metals,Europe,San Marino,1,0.1471,-0.276
+Metals,Africa,Sao Tome and Principe,1.5,0.1471,-0.276
+Metals,Asia,Saudi Arabia,0.75,0.1471,-0.276
+Metals,Africa,Senegal,1.5,0.1471,-0.276
+Metals,Europe,Serbia,1,0.1471,-0.276
+Metals,Africa,Seychelles,1.5,0.1471,-0.276
+Metals,Africa,Sierra Leone,1.5,0.1471,-0.276
+Metals,Asia,Singapore,0.75,0.1471,-0.276
+Metals,North America,Sint Maarten (Netherlands),1,0.1471,-0.276
+Metals,Europe,Slovakia,1,0.1471,-0.276
+Metals,Europe,Slovenia,1,0.1471,-0.276
+Metals,Oceania,Solomon Islands,0.75,0.1471,-0.276
+Metals,Africa,Slomalia,1.5,0.1471,-0.276
+Metals,Africa,South Africa,1.5,0.1471,-0.276
+Metals,Antarctica,South Georgia and the South Sandwich Islands,1,0.1471,-0.276
+Metals,Africa,South Sudan,1.5,0.1471,-0.276
+Metals,Europe,Spain,1,0.1471,-0.276
+Metals,Asia,Spratly Islands,0.75,0.1471,-0.276
+Metals,Asia,Sri Lanka,0.75,0.1471,-0.276
+Metals,Africa,Sudan,1.5,0.1471,-0.276
+Metals,South America,Suriname,2,0.1471,-0.276
+Metals,Europe,Svalbard & Jan Mayen Islands,1,0.1471,-0.276
+Metals,Africa,Swaziland,1.5,0.1471,-0.276
+Metals,Europe,Sweden,1,0.1471,-0.276
+Metals,Europe,Switzerland,1,0.1471,-0.276
+Metals,Asia,Syria,0.75,0.1471,-0.276
+Metals,Asia,Taiwan,0.75,0.1471,-0.276
+Metals,Asia,Tajikistan,0.75,0.1471,-0.276
+Metals,Africa,Tanzania,1.5,0.1471,-0.276
+Metals,Asia,Thailand,0.75,0.1471,-0.276
+Metals,Asia,Timor-Leste,0.75,0.1471,-0.276
+Metals,Africa,Togo,1.5,0.1471,-0.276
+Metals,Oceania,Tokelau,0.75,0.1471,-0.276
+Metals,Oceania,Tonga,0.75,0.1471,-0.276
+Metals,North America,Trinidad and Tobago,1,0.1471,-0.276
+Metals,Africa,Tunisia,1.5,0.1471,-0.276
+Metals,Europe,Turkey,1,0.1471,-0.276
+Metals,Asia,Turkmenistan,0.75,0.1471,-0.276
+Metals,North America,Turks and Caicos Islands,1,0.1471,-0.276
+Metals,Oceania,Tuvalu,0.75,0.1471,-0.276
+Metals,Africa,Uganda,1.5,0.1471,-0.276
+Metals,Europe,Ukraine,1,0.1471,-0.276
+Metals,Asia,UAE,0.75,0.1471,-0.276
+Metals,Europe,UK,1,0.1471,-0.276
+Metals,Asia,United Nations Neutral Zone,0.75,0.1471,-0.276
+Metals,Oceania,United States Minor Outlying Islands,0.75,0.1471,-0.276
+Metals,USA,USA,1,0.1471,-0.276
+Metals,North America,United States Virgin Islands,1,0.1471,-0.276
+Metals,South America,Uruguay,2,0.1471,-0.276
+Metals,Asia,Uzbekistan,0.75,0.1471,-0.276
+Metals,Oceania,Vanuatu,0.75,0.1471,-0.276
+Metals,South America,Venezuela,2,0.1471,-0.276
+Metals,Asia,Vietnam,0.75,0.1471,-0.276
+Metals,Oceania,Wallis and Futuna,0.75,0.1471,-0.276
+Metals,Africa,Western Sahara,1.5,0.1471,-0.276
+Metals,Asia,Yemen,0.75,0.1471,-0.276
+Metals,Africa,Zambia,1.5,0.1471,-0.276
+Metals,Africa,Zimbabwe,1.5,0.1471,-0.276
+Cash,Europe,Åland Islands,1,0.0237,-0.196
+Cash,Asia,Afghanistan,0.75,0.0237,-0.196
+Cash,Europe,Albania,1,0.0237,-0.196
+Cash,Africa,Algeria,1.5,0.0237,-0.196
+Cash,Oceania,American Samoa,0.75,0.0237,-0.196
+Cash,Europe,Andorra,1,0.0237,-0.196
+Cash,Africa,Angola,1.5,0.0237,-0.196
+Cash,North America,Anguilla,1,0.0237,-0.196
+Cash,North America,Antigua and Barbuda,1,0.0237,-0.196
+Cash,South America,Argentina,2,0.0237,-0.196
+Cash,Europe,Armenia,1,0.0237,-0.196
+Cash,North America,Aruba,1,0.0237,-0.196
+Cash,Oceania,Australia,0.75,0.0237,-0.196
+Cash,Europe,Austria,1,0.0237,-0.196
+Cash,Europe,Azerbaijan,1,0.0237,-0.196
+Cash,North America,Bahamas,1,0.0237,-0.196
+Cash,Asia,Bahrain,0.75,0.0237,-0.196
+Cash,Asia,Bangladesh,0.75,0.0237,-0.196
+Cash,North America,Barbados,1,0.0237,-0.196
+Cash,Europe,Belarus,1,0.0237,-0.196
+Cash,Europe,Belgium,1,0.0237,-0.196
+Cash,North America,Belize,1,0.0237,-0.196
+Cash,Africa,Benin,1.5,0.0237,-0.196
+Cash,North America,Bermuda,1,0.0237,-0.196
+Cash,Asia,Bhutan,0.75,0.0237,-0.196
+Cash,South America,Bolivia,2,0.0237,-0.196
+Cash,North America,"Bonaire, Sint Eustatius and Saba",1,0.0237,-0.196
+Cash,Europe,Bosnia and Herzegovina,1,0.0237,-0.196
+Cash,Africa,Botswana,1.5,0.0237,-0.196
+Cash,Antarctica,Bouvet Island (Bouvetoya),1,0.0237,-0.196
+Cash,South America,Brazil,2,0.0237,-0.196
+Cash,Asia,British Indian Ocean Territory (Chagos Archipelago),0.75,0.0237,-0.196
+Cash,North America,British Virgin Islands,1,0.0237,-0.196
+Cash,Asia,Brunei,0.75,0.0237,-0.196
+Cash,Europe,Bulgaria,1,0.0237,-0.196
+Cash,Africa,Burkina Faso,1.5,0.0237,-0.196
+Cash,Africa,Burundi,1.5,0.0237,-0.196
+Cash,Asia,Cambodia,0.75,0.0237,-0.196
+Cash,Africa,Cameroon,1.5,0.0237,-0.196
+Cash,North America,Canada,1,0.0237,-0.196
+Cash,Africa,Cape Verde,1.5,0.0237,-0.196
+Cash,North America,Cayman Islands,1,0.0237,-0.196
+Cash,Africa,Central African Republic,1.5,0.0237,-0.196
+Cash,Africa,Chad,1.5,0.0237,-0.196
+Cash,South America,Chile,2,0.0237,-0.196
+Cash,Asia,China,0.75,0.0237,-0.196
+Cash,Asia,Christmas Island,0.75,0.0237,-0.196
+Cash,Asia,Cocos (Keeling) Islands,0.75,0.0237,-0.196
+Cash,South America,Colombia,2,0.0237,-0.196
+Cash,Africa,Comoros,1.5,0.0237,-0.196
+Cash,Africa,Congo,1.5,0.0237,-0.196
+Cash,Africa,Congo the,1.5,0.0237,-0.196
+Cash,Oceania,Cook Islands,0.75,0.0237,-0.196
+Cash,North America,Costa Rica,1,0.0237,-0.196
+Cash,Africa,Cote d'Ivoire,1.5,0.0237,-0.196
+Cash,Europe,Croatia,1,0.0237,-0.196
+Cash,North America,Cuba,1,0.0237,-0.196
+Cash,North America,Curacao,1,0.0237,-0.196
+Cash,Europe,Cyprus,1,0.0237,-0.196
+Cash,Europe,Czech Republic,1,0.0237,-0.196
+Cash,Europe,Denmark,1,0.0237,-0.196
+Cash,Oceania,Disputed Territory,0.75,0.0237,-0.196
+Cash,Africa,Djibouti,1.5,0.0237,-0.196
+Cash,North America,Dominica,1,0.0237,-0.196
+Cash,North America,Dominican Republic,1,0.0237,-0.196
+Cash,South America,Ecuador,2,0.0237,-0.196
+Cash,Africa,Egypt,1.5,0.0237,-0.196
+Cash,North America,El Salvador,1,0.0237,-0.196
+Cash,Africa,Equatorial Guinea,1.5,0.0237,-0.196
+Cash,Africa,Eritrea,1.5,0.0237,-0.196
+Cash,Europe,Estonia,1,0.0237,-0.196
+Cash,Africa,Ethiopia,1.5,0.0237,-0.196
+Cash,South America,Falkland Islands,2,0.0237,-0.196
+Cash,Europe,Faroe Islands,1,0.0237,-0.196
+Cash,Oceania,Fiji,0.75,0.0237,-0.196
+Cash,Europe,Finland,1,0.0237,-0.196
+Cash,Europe,France,1,0.0237,-0.196
+Cash,South America,French Guiana,2,0.0237,-0.196
+Cash,Oceania,French Polynesia,0.75,0.0237,-0.196
+Cash,Antarctica,French Southern Territories,1,0.0237,-0.196
+Cash,Africa,Gabon,1.5,0.0237,-0.196
+Cash,Africa,Gambia,1.5,0.0237,-0.196
+Cash,Europe,Georgia,1,0.0237,-0.196
+Cash,Europe,Germany,1,0.0237,-0.196
+Cash,Africa,Ghana,1.5,0.0237,-0.196
+Cash,Europe,Gibraltar,1,0.0237,-0.196
+Cash,Europe,Greece,1,0.0237,-0.196
+Cash,North America,Greenland,1,0.0237,-0.196
+Cash,North America,Grenada,1,0.0237,-0.196
+Cash,North America,Guadeloupe,1,0.0237,-0.196
+Cash,Oceania,Guam,0.75,0.0237,-0.196
+Cash,North America,Guatemala,1,0.0237,-0.196
+Cash,Europe,Guernsey,1,0.0237,-0.196
+Cash,Africa,Guinea,1.5,0.0237,-0.196
+Cash,Africa,Guinea-Bissau,1.5,0.0237,-0.196
+Cash,South America,Guyana,2,0.0237,-0.196
+Cash,North America,Haiti,1,0.0237,-0.196
+Cash,Antarctica,Heard Island and McDonald Islands,1,0.0237,-0.196
+Cash,Europe,Vatican City,1,0.0237,-0.196
+Cash,North America,Honduras,1,0.0237,-0.196
+Cash,Asia,Hong Kong,0.75,0.0237,-0.196
+Cash,Europe,Hungary,1,0.0237,-0.196
+Cash,Europe,Iceland,1,0.0237,-0.196
+Cash,Asia,India,0.75,0.0237,-0.196
+Cash,Asia,Indonesia,0.75,0.0237,-0.196
+Cash,Asia,Iran,0.75,0.0237,-0.196
+Cash,Asia,Iraq,0.75,0.0237,-0.196
+Cash,Asia,Iraq-Saudi Arabia Neutral Zone,0.75,0.0237,-0.196
+Cash,Europe,Ireland,1,0.0237,-0.196
+Cash,Europe,Isle of Man,1,0.0237,-0.196
+Cash,Asia,Israel,0.75,0.0237,-0.196
+Cash,Europe,Italy,1,0.0237,-0.196
+Cash,North America,Jamaica,1,0.0237,-0.196
+Cash,Asia,Japan,0.75,0.0237,-0.196
+Cash,Europe,Jersey,1,0.0237,-0.196
+Cash,Asia,Jordan,0.75,0.0237,-0.196
+Cash,Europe,Kazakhstan,1,0.0237,-0.196
+Cash,Africa,Kenya,1.5,0.0237,-0.196
+Cash,Oceania,Kiribati,0.75,0.0237,-0.196
+Cash,Asia,Korea,0.75,0.0237,-0.196
+Cash,Asia,Kuwait,0.75,0.0237,-0.196
+Cash,Asia,Kyrgyz Republic,0.75,0.0237,-0.196
+Cash,Asia,Laos,0.75,0.0237,-0.196
+Cash,Europe,Latvia,1,0.0237,-0.196
+Cash,Asia,Lebanon,0.75,0.0237,-0.196
+Cash,Africa,Lesotho,1.5,0.0237,-0.196
+Cash,Africa,Liberia,1.5,0.0237,-0.196
+Cash,Africa,Libya,1.5,0.0237,-0.196
+Cash,Europe,Liechtenstein,1,0.0237,-0.196
+Cash,Europe,Lithuania,1,0.0237,-0.196
+Cash,Europe,Luxembourg,1,0.0237,-0.196
+Cash,Asia,Macao,0.75,0.0237,-0.196
+Cash,Europe,Macedonia,1,0.0237,-0.196
+Cash,Africa,Madagascar,1.5,0.0237,-0.196
+Cash,Africa,Malawi,1.5,0.0237,-0.196
+Cash,Asia,Malaysia,0.75,0.0237,-0.196
+Cash,Asia,Maldives,0.75,0.0237,-0.196
+Cash,Africa,Mali,1.5,0.0237,-0.196
+Cash,Europe,Malta,1,0.0237,-0.196
+Cash,Oceania,Marshall Islands,0.75,0.0237,-0.196
+Cash,North America,Martinique,1,0.0237,-0.196
+Cash,Africa,Mauritania,1.5,0.0237,-0.196
+Cash,Africa,Mauritius,1.5,0.0237,-0.196
+Cash,Africa,Mayotte,1.5,0.0237,-0.196
+Cash,North America,Mexico,1,0.0237,-0.196
+Cash,Oceania,Micronesia,0.75,0.0237,-0.196
+Cash,Europe,Moldova,1,0.0237,-0.196
+Cash,Europe,Monaco,1,0.0237,-0.196
+Cash,Asia,Mongolia,0.75,0.0237,-0.196
+Cash,Europe,Montenegro,1,0.0237,-0.196
+Cash,North America,Montserrat,1,0.0237,-0.196
+Cash,Africa,Morocco,1.5,0.0237,-0.196
+Cash,Africa,Mozambique,1.5,0.0237,-0.196
+Cash,Asia,Myanmar,0.75,0.0237,-0.196
+Cash,Africa,Namibia,1.5,0.0237,-0.196
+Cash,Oceania,Nauru,0.75,0.0237,-0.196
+Cash,Asia,Nepal,0.75,0.0237,-0.196
+Cash,North America,Netherlands Antilles,1,0.0237,-0.196
+Cash,Europe,Netherlands,1,0.0237,-0.196
+Cash,Oceania,New Caledonia,0.75,0.0237,-0.196
+Cash,Oceania,New Zealand,0.75,0.0237,-0.196
+Cash,North America,Nicaragua,1,0.0237,-0.196
+Cash,Africa,Niger,1.5,0.0237,-0.196
+Cash,Africa,Nigeria,1.5,0.0237,-0.196
+Cash,Oceania,Niue,0.75,0.0237,-0.196
+Cash,Oceania,Norfolk Island,0.75,0.0237,-0.196
+Cash,Oceania,Northern Mariana Islands the,0.75,0.0237,-0.196
+Cash,Europe,Norway,1,0.0237,-0.196
+Cash,Asia,Oman,0.75,0.0237,-0.196
+Cash,Asia,Pakistan,0.75,0.0237,-0.196
+Cash,Oceania,Palau,0.75,0.0237,-0.196
+Cash,Asia,"Palestinian Territory, Occupied",0.75,0.0237,-0.196
+Cash,North America,Panama,1,0.0237,-0.196
+Cash,Oceania,Papua New Guinea,0.75,0.0237,-0.196
+Cash,South America,Paraguay,2,0.0237,-0.196
+Cash,South America,Peru,2,0.0237,-0.196
+Cash,Asia,Philippines,0.75,0.0237,-0.196
+Cash,Oceania,Pitcairn Islands,0.75,0.0237,-0.196
+Cash,Europe,Poland,1,0.0237,-0.196
+Cash,Europe,Portugal,1,0.0237,-0.196
+Cash,North America,Puerto Rico,1,0.0237,-0.196
+Cash,Asia,Qatar,0.75,0.0237,-0.196
+Cash,Africa,Reunion,1.5,0.0237,-0.196
+Cash,Europe,Romania,1,0.0237,-0.196
+Cash,Europe,Russia,1,0.0237,-0.196
+Cash,Africa,Rwanda,1.5,0.0237,-0.196
+Cash,North America,Saint Barthelemy,1,0.0237,-0.196
+Cash,Africa,Saint Helena,1.5,0.0237,-0.196
+Cash,North America,Saint Kitts and Nevis,1,0.0237,-0.196
+Cash,North America,Saint Lucia,1,0.0237,-0.196
+Cash,North America,Saint Martin,1,0.0237,-0.196
+Cash,North America,Saint Pierre and Miquelon,1,0.0237,-0.196
+Cash,North America,Saint Vincent and the Grenadines,1,0.0237,-0.196
+Cash,Oceania,"Samoa, Independent State of",0.75,0.0237,-0.196
+Cash,Europe,San Marino,1,0.0237,-0.196
+Cash,Africa,Sao Tome and Principe,1.5,0.0237,-0.196
+Cash,Asia,Saudi Arabia,0.75,0.0237,-0.196
+Cash,Africa,Senegal,1.5,0.0237,-0.196
+Cash,Europe,Serbia,1,0.0237,-0.196
+Cash,Africa,Seychelles,1.5,0.0237,-0.196
+Cash,Africa,Sierra Leone,1.5,0.0237,-0.196
+Cash,Asia,Singapore,0.75,0.0237,-0.196
+Cash,North America,Sint Maarten (Netherlands),1,0.0237,-0.196
+Cash,Europe,Slovakia,1,0.0237,-0.196
+Cash,Europe,Slovenia,1,0.0237,-0.196
+Cash,Oceania,Solomon Islands,0.75,0.0237,-0.196
+Cash,Africa,Slomalia,1.5,0.0237,-0.196
+Cash,Africa,South Africa,1.5,0.0237,-0.196
+Cash,Antarctica,South Georgia and the South Sandwich Islands,1,0.0237,-0.196
+Cash,Africa,South Sudan,1.5,0.0237,-0.196
+Cash,Europe,Spain,1,0.0237,-0.196
+Cash,Asia,Spratly Islands,0.75,0.0237,-0.196
+Cash,Asia,Sri Lanka,0.75,0.0237,-0.196
+Cash,Africa,Sudan,1.5,0.0237,-0.196
+Cash,South America,Suriname,2,0.0237,-0.196
+Cash,Europe,Svalbard & Jan Mayen Islands,1,0.0237,-0.196
+Cash,Africa,Swaziland,1.5,0.0237,-0.196
+Cash,Europe,Sweden,1,0.0237,-0.196
+Cash,Europe,Switzerland,1,0.0237,-0.196
+Cash,Asia,Syria,0.75,0.0237,-0.196
+Cash,Asia,Taiwan,0.75,0.0237,-0.196
+Cash,Asia,Tajikistan,0.75,0.0237,-0.196
+Cash,Africa,Tanzania,1.5,0.0237,-0.196
+Cash,Asia,Thailand,0.75,0.0237,-0.196
+Cash,Asia,Timor-Leste,0.75,0.0237,-0.196
+Cash,Africa,Togo,1.5,0.0237,-0.196
+Cash,Oceania,Tokelau,0.75,0.0237,-0.196
+Cash,Oceania,Tonga,0.75,0.0237,-0.196
+Cash,North America,Trinidad and Tobago,1,0.0237,-0.196
+Cash,Africa,Tunisia,1.5,0.0237,-0.196
+Cash,Europe,Turkey,1,0.0237,-0.196
+Cash,Asia,Turkmenistan,0.75,0.0237,-0.196
+Cash,North America,Turks and Caicos Islands,1,0.0237,-0.196
+Cash,Oceania,Tuvalu,0.75,0.0237,-0.196
+Cash,Africa,Uganda,1.5,0.0237,-0.196
+Cash,Europe,Ukraine,1,0.0237,-0.196
+Cash,Asia,UAE,0.75,0.0237,-0.196
+Cash,Europe,UK,1,0.0237,-0.196
+Cash,Asia,United Nations Neutral Zone,0.75,0.0237,-0.196
+Cash,Oceania,United States Minor Outlying Islands,0.75,0.0237,-0.196
+Cash,USA,USA,1,0.0237,-0.196
+Cash,North America,United States Virgin Islands,1,0.0237,-0.196
+Cash,South America,Uruguay,2,0.0237,-0.196
+Cash,Asia,Uzbekistan,0.75,0.0237,-0.196
+Cash,Oceania,Vanuatu,0.75,0.0237,-0.196
+Cash,South America,Venezuela,2,0.0237,-0.196
+Cash,Asia,Vietnam,0.75,0.0237,-0.196
+Cash,Oceania,Wallis and Futuna,0.75,0.0237,-0.196
+Cash,Africa,Western Sahara,1.5,0.0237,-0.196
+Cash,Asia,Yemen,0.75,0.0237,-0.196
+Cash,Africa,Zambia,1.5,0.0237,-0.196
+Cash,Africa,Zimbabwe,1.5,0.0237,-0.196
+Securities,Europe,Åland Islands,1,0.1471,-0.276
+Securities,Asia,Afghanistan,0.75,0.1471,-0.276
+Securities,Europe,Albania,1,0.1471,-0.276
+Securities,Africa,Algeria,1.5,0.1471,-0.276
+Securities,Oceania,American Samoa,0.75,0.1471,-0.276
+Securities,Europe,Andorra,1,0.1471,-0.276
+Securities,Africa,Angola,1.5,0.1471,-0.276
+Securities,North America,Anguilla,1,0.1471,-0.276
+Securities,North America,Antigua and Barbuda,1,0.1471,-0.276
+Securities,South America,Argentina,2,0.1471,-0.276
+Securities,Europe,Armenia,1,0.1471,-0.276
+Securities,North America,Aruba,1,0.1471,-0.276
+Securities,Oceania,Australia,0.75,0.1471,-0.276
+Securities,Europe,Austria,1,0.1471,-0.276
+Securities,Europe,Azerbaijan,1,0.1471,-0.276
+Securities,North America,Bahamas,1,0.1471,-0.276
+Securities,Asia,Bahrain,0.75,0.1471,-0.276
+Securities,Asia,Bangladesh,0.75,0.1471,-0.276
+Securities,North America,Barbados,1,0.1471,-0.276
+Securities,Europe,Belarus,1,0.1471,-0.276
+Securities,Europe,Belgium,1,0.1471,-0.276
+Securities,North America,Belize,1,0.1471,-0.276
+Securities,Africa,Benin,1.5,0.1471,-0.276
+Securities,North America,Bermuda,1,0.1471,-0.276
+Securities,Asia,Bhutan,0.75,0.1471,-0.276
+Securities,South America,Bolivia,2,0.1471,-0.276
+Securities,North America,"Bonaire, Sint Eustatius and Saba",1,0.1471,-0.276
+Securities,Europe,Bosnia and Herzegovina,1,0.1471,-0.276
+Securities,Africa,Botswana,1.5,0.1471,-0.276
+Securities,Antarctica,Bouvet Island (Bouvetoya),1,0.1471,-0.276
+Securities,South America,Brazil,2,0.1471,-0.276
+Securities,Asia,British Indian Ocean Territory (Chagos Archipelago),0.75,0.1471,-0.276
+Securities,North America,British Virgin Islands,1,0.1471,-0.276
+Securities,Asia,Brunei,0.75,0.1471,-0.276
+Securities,Europe,Bulgaria,1,0.1471,-0.276
+Securities,Africa,Burkina Faso,1.5,0.1471,-0.276
+Securities,Africa,Burundi,1.5,0.1471,-0.276
+Securities,Asia,Cambodia,0.75,0.1471,-0.276
+Securities,Africa,Cameroon,1.5,0.1471,-0.276
+Securities,North America,Canada,1,0.1471,-0.276
+Securities,Africa,Cape Verde,1.5,0.1471,-0.276
+Securities,North America,Cayman Islands,1,0.1471,-0.276
+Securities,Africa,Central African Republic,1.5,0.1471,-0.276
+Securities,Africa,Chad,1.5,0.1471,-0.276
+Securities,South America,Chile,2,0.1471,-0.276
+Securities,Asia,China,0.75,0.1471,-0.276
+Securities,Asia,Christmas Island,0.75,0.1471,-0.276
+Securities,Asia,Cocos (Keeling) Islands,0.75,0.1471,-0.276
+Securities,South America,Colombia,2,0.1471,-0.276
+Securities,Africa,Comoros,1.5,0.1471,-0.276
+Securities,Africa,Congo,1.5,0.1471,-0.276
+Securities,Africa,Congo the,1.5,0.1471,-0.276
+Securities,Oceania,Cook Islands,0.75,0.1471,-0.276
+Securities,North America,Costa Rica,1,0.1471,-0.276
+Securities,Africa,Cote d'Ivoire,1.5,0.1471,-0.276
+Securities,Europe,Croatia,1,0.1471,-0.276
+Securities,North America,Cuba,1,0.1471,-0.276
+Securities,North America,Curacao,1,0.1471,-0.276
+Securities,Europe,Cyprus,1,0.1471,-0.276
+Securities,Europe,Czech Republic,1,0.1471,-0.276
+Securities,Europe,Denmark,1,0.1471,-0.276
+Securities,Oceania,Disputed Territory,0.75,0.1471,-0.276
+Securities,Africa,Djibouti,1.5,0.1471,-0.276
+Securities,North America,Dominica,1,0.1471,-0.276
+Securities,North America,Dominican Republic,1,0.1471,-0.276
+Securities,South America,Ecuador,2,0.1471,-0.276
+Securities,Africa,Egypt,1.5,0.1471,-0.276
+Securities,North America,El Salvador,1,0.1471,-0.276
+Securities,Africa,Equatorial Guinea,1.5,0.1471,-0.276
+Securities,Africa,Eritrea,1.5,0.1471,-0.276
+Securities,Europe,Estonia,1,0.1471,-0.276
+Securities,Africa,Ethiopia,1.5,0.1471,-0.276
+Securities,South America,Falkland Islands,2,0.1471,-0.276
+Securities,Europe,Faroe Islands,1,0.1471,-0.276
+Securities,Oceania,Fiji,0.75,0.1471,-0.276
+Securities,Europe,Finland,1,0.1471,-0.276
+Securities,Europe,France,1,0.1471,-0.276
+Securities,South America,French Guiana,2,0.1471,-0.276
+Securities,Oceania,French Polynesia,0.75,0.1471,-0.276
+Securities,Antarctica,French Southern Territories,1,0.1471,-0.276
+Securities,Africa,Gabon,1.5,0.1471,-0.276
+Securities,Africa,Gambia,1.5,0.1471,-0.276
+Securities,Europe,Georgia,1,0.1471,-0.276
+Securities,Europe,Germany,1,0.1471,-0.276
+Securities,Africa,Ghana,1.5,0.1471,-0.276
+Securities,Europe,Gibraltar,1,0.1471,-0.276
+Securities,Europe,Greece,1,0.1471,-0.276
+Securities,North America,Greenland,1,0.1471,-0.276
+Securities,North America,Grenada,1,0.1471,-0.276
+Securities,North America,Guadeloupe,1,0.1471,-0.276
+Securities,Oceania,Guam,0.75,0.1471,-0.276
+Securities,North America,Guatemala,1,0.1471,-0.276
+Securities,Europe,Guernsey,1,0.1471,-0.276
+Securities,Africa,Guinea,1.5,0.1471,-0.276
+Securities,Africa,Guinea-Bissau,1.5,0.1471,-0.276
+Securities,South America,Guyana,2,0.1471,-0.276
+Securities,North America,Haiti,1,0.1471,-0.276
+Securities,Antarctica,Heard Island and McDonald Islands,1,0.1471,-0.276
+Securities,Europe,Vatican City,1,0.1471,-0.276
+Securities,North America,Honduras,1,0.1471,-0.276
+Securities,Asia,Hong Kong,0.75,0.1471,-0.276
+Securities,Europe,Hungary,1,0.1471,-0.276
+Securities,Europe,Iceland,1,0.1471,-0.276
+Securities,Asia,India,0.75,0.1471,-0.276
+Securities,Asia,Indonesia,0.75,0.1471,-0.276
+Securities,Asia,Iran,0.75,0.1471,-0.276
+Securities,Asia,Iraq,0.75,0.1471,-0.276
+Securities,Asia,Iraq-Saudi Arabia Neutral Zone,0.75,0.1471,-0.276
+Securities,Europe,Ireland,1,0.1471,-0.276
+Securities,Europe,Isle of Man,1,0.1471,-0.276
+Securities,Asia,Israel,0.75,0.1471,-0.276
+Securities,Europe,Italy,1,0.1471,-0.276
+Securities,North America,Jamaica,1,0.1471,-0.276
+Securities,Asia,Japan,0.75,0.1471,-0.276
+Securities,Europe,Jersey,1,0.1471,-0.276
+Securities,Asia,Jordan,0.75,0.1471,-0.276
+Securities,Europe,Kazakhstan,1,0.1471,-0.276
+Securities,Africa,Kenya,1.5,0.1471,-0.276
+Securities,Oceania,Kiribati,0.75,0.1471,-0.276
+Securities,Asia,Korea,0.75,0.1471,-0.276
+Securities,Asia,Kuwait,0.75,0.1471,-0.276
+Securities,Asia,Kyrgyz Republic,0.75,0.1471,-0.276
+Securities,Asia,Laos,0.75,0.1471,-0.276
+Securities,Europe,Latvia,1,0.1471,-0.276
+Securities,Asia,Lebanon,0.75,0.1471,-0.276
+Securities,Africa,Lesotho,1.5,0.1471,-0.276
+Securities,Africa,Liberia,1.5,0.1471,-0.276
+Securities,Africa,Libya,1.5,0.1471,-0.276
+Securities,Europe,Liechtenstein,1,0.1471,-0.276
+Securities,Europe,Lithuania,1,0.1471,-0.276
+Securities,Europe,Luxembourg,1,0.1471,-0.276
+Securities,Asia,Macao,0.75,0.1471,-0.276
+Securities,Europe,Macedonia,1,0.1471,-0.276
+Securities,Africa,Madagascar,1.5,0.1471,-0.276
+Securities,Africa,Malawi,1.5,0.1471,-0.276
+Securities,Asia,Malaysia,0.75,0.1471,-0.276
+Securities,Asia,Maldives,0.75,0.1471,-0.276
+Securities,Africa,Mali,1.5,0.1471,-0.276
+Securities,Europe,Malta,1,0.1471,-0.276
+Securities,Oceania,Marshall Islands,0.75,0.1471,-0.276
+Securities,North America,Martinique,1,0.1471,-0.276
+Securities,Africa,Mauritania,1.5,0.1471,-0.276
+Securities,Africa,Mauritius,1.5,0.1471,-0.276
+Securities,Africa,Mayotte,1.5,0.1471,-0.276
+Securities,North America,Mexico,1,0.1471,-0.276
+Securities,Oceania,Micronesia,0.75,0.1471,-0.276
+Securities,Europe,Moldova,1,0.1471,-0.276
+Securities,Europe,Monaco,1,0.1471,-0.276
+Securities,Asia,Mongolia,0.75,0.1471,-0.276
+Securities,Europe,Montenegro,1,0.1471,-0.276
+Securities,North America,Montserrat,1,0.1471,-0.276
+Securities,Africa,Morocco,1.5,0.1471,-0.276
+Securities,Africa,Mozambique,1.5,0.1471,-0.276
+Securities,Asia,Myanmar,0.75,0.1471,-0.276
+Securities,Africa,Namibia,1.5,0.1471,-0.276
+Securities,Oceania,Nauru,0.75,0.1471,-0.276
+Securities,Asia,Nepal,0.75,0.1471,-0.276
+Securities,North America,Netherlands Antilles,1,0.1471,-0.276
+Securities,Europe,Netherlands,1,0.1471,-0.276
+Securities,Oceania,New Caledonia,0.75,0.1471,-0.276
+Securities,Oceania,New Zealand,0.75,0.1471,-0.276
+Securities,North America,Nicaragua,1,0.1471,-0.276
+Securities,Africa,Niger,1.5,0.1471,-0.276
+Securities,Africa,Nigeria,1.5,0.1471,-0.276
+Securities,Oceania,Niue,0.75,0.1471,-0.276
+Securities,Oceania,Norfolk Island,0.75,0.1471,-0.276
+Securities,Oceania,Northern Mariana Islands the,0.75,0.1471,-0.276
+Securities,Europe,Norway,1,0.1471,-0.276
+Securities,Asia,Oman,0.75,0.1471,-0.276
+Securities,Asia,Pakistan,0.75,0.1471,-0.276
+Securities,Oceania,Palau,0.75,0.1471,-0.276
+Securities,Asia,"Palestinian Territory, Occupied",0.75,0.1471,-0.276
+Securities,North America,Panama,1,0.1471,-0.276
+Securities,Oceania,Papua New Guinea,0.75,0.1471,-0.276
+Securities,South America,Paraguay,2,0.1471,-0.276
+Securities,South America,Peru,2,0.1471,-0.276
+Securities,Asia,Philippines,0.75,0.1471,-0.276
+Securities,Oceania,Pitcairn Islands,0.75,0.1471,-0.276
+Securities,Europe,Poland,1,0.1471,-0.276
+Securities,Europe,Portugal,1,0.1471,-0.276
+Securities,North America,Puerto Rico,1,0.1471,-0.276
+Securities,Asia,Qatar,0.75,0.1471,-0.276
+Securities,Africa,Reunion,1.5,0.1471,-0.276
+Securities,Europe,Romania,1,0.1471,-0.276
+Securities,Europe,Russia,1,0.1471,-0.276
+Securities,Africa,Rwanda,1.5,0.1471,-0.276
+Securities,North America,Saint Barthelemy,1,0.1471,-0.276
+Securities,Africa,Saint Helena,1.5,0.1471,-0.276
+Securities,North America,Saint Kitts and Nevis,1,0.1471,-0.276
+Securities,North America,Saint Lucia,1,0.1471,-0.276
+Securities,North America,Saint Martin,1,0.1471,-0.276
+Securities,North America,Saint Pierre and Miquelon,1,0.1471,-0.276
+Securities,North America,Saint Vincent and the Grenadines,1,0.1471,-0.276
+Securities,Oceania,"Samoa, Independent State of",0.75,0.1471,-0.276
+Securities,Europe,San Marino,1,0.1471,-0.276
+Securities,Africa,Sao Tome and Principe,1.5,0.1471,-0.276
+Securities,Asia,Saudi Arabia,0.75,0.1471,-0.276
+Securities,Africa,Senegal,1.5,0.1471,-0.276
+Securities,Europe,Serbia,1,0.1471,-0.276
+Securities,Africa,Seychelles,1.5,0.1471,-0.276
+Securities,Africa,Sierra Leone,1.5,0.1471,-0.276
+Securities,Asia,Singapore,0.75,0.1471,-0.276
+Securities,North America,Sint Maarten (Netherlands),1,0.1471,-0.276
+Securities,Europe,Slovakia,1,0.1471,-0.276
+Securities,Europe,Slovenia,1,0.1471,-0.276
+Securities,Oceania,Solomon Islands,0.75,0.1471,-0.276
+Securities,Africa,Slomalia,1.5,0.1471,-0.276
+Securities,Africa,South Africa,1.5,0.1471,-0.276
+Securities,Antarctica,South Georgia and the South Sandwich Islands,1,0.1471,-0.276
+Securities,Africa,South Sudan,1.5,0.1471,-0.276
+Securities,Europe,Spain,1,0.1471,-0.276
+Securities,Asia,Spratly Islands,0.75,0.1471,-0.276
+Securities,Asia,Sri Lanka,0.75,0.1471,-0.276
+Securities,Africa,Sudan,1.5,0.1471,-0.276
+Securities,South America,Suriname,2,0.1471,-0.276
+Securities,Europe,Svalbard & Jan Mayen Islands,1,0.1471,-0.276
+Securities,Africa,Swaziland,1.5,0.1471,-0.276
+Securities,Europe,Sweden,1,0.1471,-0.276
+Securities,Europe,Switzerland,1,0.1471,-0.276
+Securities,Asia,Syria,0.75,0.1471,-0.276
+Securities,Asia,Taiwan,0.75,0.1471,-0.276
+Securities,Asia,Tajikistan,0.75,0.1471,-0.276
+Securities,Africa,Tanzania,1.5,0.1471,-0.276
+Securities,Asia,Thailand,0.75,0.1471,-0.276
+Securities,Asia,Timor-Leste,0.75,0.1471,-0.276
+Securities,Africa,Togo,1.5,0.1471,-0.276
+Securities,Oceania,Tokelau,0.75,0.1471,-0.276
+Securities,Oceania,Tonga,0.75,0.1471,-0.276
+Securities,North America,Trinidad and Tobago,1,0.1471,-0.276
+Securities,Africa,Tunisia,1.5,0.1471,-0.276
+Securities,Europe,Turkey,1,0.1471,-0.276
+Securities,Asia,Turkmenistan,0.75,0.1471,-0.276
+Securities,North America,Turks and Caicos Islands,1,0.1471,-0.276
+Securities,Oceania,Tuvalu,0.75,0.1471,-0.276
+Securities,Africa,Uganda,1.5,0.1471,-0.276
+Securities,Europe,Ukraine,1,0.1471,-0.276
+Securities,Asia,UAE,0.75,0.1471,-0.276
+Securities,Europe,UK,1,0.1471,-0.276
+Securities,Asia,United Nations Neutral Zone,0.75,0.1471,-0.276
+Securities,Oceania,United States Minor Outlying Islands,0.75,0.1471,-0.276
+Securities,USA,USA,1,0.1471,-0.276
+Securities,North America,United States Virgin Islands,1,0.1471,-0.276
+Securities,South America,Uruguay,2,0.1471,-0.276
+Securities,Asia,Uzbekistan,0.75,0.1471,-0.276
+Securities,Oceania,Vanuatu,0.75,0.1471,-0.276
+Securities,South America,Venezuela,2,0.1471,-0.276
+Securities,Asia,Vietnam,0.75,0.1471,-0.276
+Securities,Oceania,Wallis and Futuna,0.75,0.1471,-0.276
+Securities,Africa,Western Sahara,1.5,0.1471,-0.276
+Securities,Asia,Yemen,0.75,0.1471,-0.276
+Securities,Africa,Zambia,1.5,0.1471,-0.276
+Securities,Africa,Zimbabwe,1.5,0.1471,-0.276

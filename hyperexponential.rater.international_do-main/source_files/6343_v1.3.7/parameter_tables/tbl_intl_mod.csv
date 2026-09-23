@@ -1,0 +1,20 @@
+ParameterName,Value,Comment
+InternationalContagion,0.1,loading for claims that are made for common evenet outside US
+MaxContagionLoad,1.5,maximum loading allowed for contagion where ADR% is small
+ContagionScaleMC,150000000.0,for contagion factor scaling
+ContagionScaleMin,0.5,lower cap of contagion scaling factor
+ContagionScaleMax,1.0,upper cap of contagion scaling factor
+ContagionFrequency,0.1,assumed probability of an Intl loss given a US loss
+LargeComanySize,25000000000.0,value of maximum gradient
+LargeCompanyRecognitionPower,1.2,recognition rate
+PrivateCompanyFactor,0.5,from intl rater
+PrivateLargeFactor,0.25,factor for large element of private company
+MaxELR_International,0.5,target ELR
+MinELR_International,0.0,default to current assumption in International
+mu_standalone_Low,14.603765689298,for charts
+mu_standalone_Medium,14.8696854811255,for charts
+mu_standalone_High,15.166285908203,for charts
+mu_standalone_Very High,16.2487326961919,for charts
+mu_standalone_Extreme,17.1526658957363,for charts
+si_standalone,1.128,for charts
+UWAdjMin,0.5,for UW adjustment

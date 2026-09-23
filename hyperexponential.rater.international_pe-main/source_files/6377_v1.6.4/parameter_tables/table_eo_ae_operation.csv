@@ -1,0 +1,27 @@
+ae_operations,profession,profession_class,ae_operations_name,factor
+Aerospace,2,Architects and Engineers,eo_ae_operation_aerospace,1.25
+Airports,2,Architects and Engineers,eo_ae_operation_airports,3
+Bridges/Tunnels,2,Architects and Engineers,eo_ae_operation_bridgestunnels,2.25
+Chemical/Petrochemical/Pipelines,2,Architects and Engineers,eo_ae_operation_chemicalpetrochemicalpipelines,3.75
+Commercial Clients,2,Architects and Engineers,eo_ae_operation_commercial_clients,0.8
+Consulting/Engineering/Manufacturing,2,Architects and Engineers,eo_ae_operation_consultingengineeringmanufacturing,0.8
+Dams/Harbours/Jetties,2,Architects and Engineers,eo_ae_operation_damsharboursjetties,3
+Financial Clients,2,Architects and Engineers,eo_ae_operation_financial_clients,0.9
+Foundations/Underpinning,2,Architects and Engineers,eo_ae_operation_foundationsunderpinning,3.75
+Healthcare/Medical,2,Architects and Engineers,eo_ae_operation_healthcaremedical,0.9
+Highways,2,Architects and Engineers,eo_ae_operation_highways,0.75
+Hospitals/Schools/Public Buildings,2,Architects and Engineers,eo_ae_operation_hospitalsschoolspublic_buildings,1.5
+Hotels/Resorts,2,Architects and Engineers,eo_ae_operation_hotelsresorts,1.875
+Industrial/factories,2,Architects and Engineers,eo_ae_operation_industrialfactories,2.25
+Internet/E-Commerce,2,Architects and Engineers,eo_ae_operation_internetecommerce,1.15
+Machinery/Mechanical Design,2,Architects and Engineers,eo_ae_operation_machinerymechanical_design,1.5
+Nuclear,2,Architects and Engineers,eo_ae_operation_nuclear,4.5
+Offshore,2,Architects and Engineers,eo_ae_operation_offshore,3.75
+Other (Please Specify),2,Architects and Engineers,eo_ae_operation_other,1.5
+Public/Government Clients,2,Architects and Engineers,eo_ae_operation_publicgovernment_clients,0.9
+Residential Individual Dwelling,2,Architects and Engineers,eo_ae_operation_residential_individual_dwelling,0.75
+Residential Multiple Dwelling,2,Architects and Engineers,eo_ae_operation_residential_multiple_dwelling,1.73
+Retail/Office/Commercial,2,Architects and Engineers,eo_ae_operation_retailofficecommercial,1.5
+Theatres/Stadiums/Leisure,2,Architects and Engineers,eo_ae_operation_theatresstadiumsleisure,1.875
+Trade Wholesale/Retail,2,Architects and Engineers,eo_ae_operation_trade_wholesaleretail,0.8
+Water Systems/Sewerage,2,Architects and Engineers,eo_ae_operation_water_systemssewerage,2.25

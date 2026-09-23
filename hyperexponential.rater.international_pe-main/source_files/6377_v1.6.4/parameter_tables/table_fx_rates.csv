@@ -1,0 +1,149 @@
+ccy,fx_rate,ccy_name
+USD,1,United States Dollar
+EUR,0.904521,Euro
+GBP,0.77688,Great British Pound
+CHF,0.876476,Swiss (Franc)
+AED,3.67239,Uae (Dirham)
+AFN,85.17573,Afghani
+ALL,92.596178,Lek
+AMD,369.136576,Dram
+ANG,1.790009,Netherlands Antillian (Guilder)
+AOA,824.370028,Kwanza
+ARS,263.868319,Argentine (Peso)
+AUD,1.484618,Australian (Dollar)
+AWG,1.791718,Aruban (Guilder)
+AZN,1.700047,Azerbaijanian (Manat)
+BAM,1.769111,Convertible Mark
+BBD,2,Barbados (Dollar)
+BDT,107.343226,Taka
+BGN,1.769111,Lev
+BHD,0.374534,Bahraini (Dinar)
+BIF,2802.214108,Burundi (Franc)
+BMD,1,Bermudian (Dollar)
+BND,1.336311,Brunei (Dollar)
+BOB,6.723975,New (Boliviano)
+BRL,4.811762,Real
+BSD,1,Bahamian (Dollar)
+BTN,82.166408,Ngultrum
+BWP,13.145587,Pula
+BZD,1.968847,Belize (Dollar)
+CAD,1.322405,Canadian Dollar
+CLP,811.119251,Chilean (Peso)
+CNY,7.197716,Yuan Renminbi
+COP,4081.607676,Colombian (Peso)
+CRC,529.217216,Costa Rican (Colan)
+CUP,0.997933,Cuban (Peso)
+CVE,99.740134,Cape Verde (Escudo)
+CZK,21.57528,Czech (Koruna)
+DJF,177.712088,Djibouti (Franc)
+DKK,6.738114,Danish (Krone)
+DOP,55.281464,Dominican Republic (Peso Oro)
+DZD,134.675186,Algerian (Dinar)
+EGP,30.85216,Egytian (Pound)
+ETB,54.63541,Birr
+FJD,2.20463,Fiji (Dollar)
+FKP,0.77688,Falkland (Pound)
+GEL,2.560131,Lari
+GHS,11.298555,Cedi
+GIP,0.77688,Gibraltar (Pound)
+GMD,59.334058,Dalasi
+GNF,8529.696939,Guinean (Franc)
+GTQ,7.658328,Quetzal
+GYD,200.988735,Guyana (Dollar)
+HKD,7.821162,Hong Kong (Dollar)
+HNL,24.326212,Lempira
+HRK,6.815336,Kuna
+HTG,137.007691,Gourde
+HUF,341.594779,Forint
+IDR,15040.70012,Rupiah
+ILS,3.656541,Shekel
+INR,82.166408,Indian (Rupee)
+IQD,1293.570541,Iraqi (Dinar)
+IRR,42014.38176,Iranian (Rial)
+ISK,132.821784,Icelandic (Krana)
+JMD,152.683732,Jamaican (Dollar)
+JOD,0.708981,Jordanian (Dinar)
+JPY,141.405764,Yen
+KES,140.428294,Kenyan (Shilling)
+KGS,87.699658,Kyrgyzstan (Som)
+KHR,4070.132691,Cambodian (Riel)
+KMF,445.009245,Comorian (Franc)
+KRW,1287.147374,South Korean (Won)
+KWD,0.306168,Kuwaiti (Dinar)
+KYD,0.833359,Cayman Islands (Dollar)
+KZT,444.11894,Tenge
+LAK,18904.09082,Kip
+LBP,15000.17884,Lebanese (Pound)
+LKR,316.121349,Sri Lankan (Rupee)
+LRD,181.494329,Liberian (Dollar)
+LSL,18.328076,Loti
+LYD,4.750466,Libyan (Dinar)
+MAD,9.651025,Moroccan (Dirham)
+MDL,17.800497,Moldovan (Leu)
+MGA,4471.696473,Malagasy (Ariary)
+MKD,55.228403,Macedonian (Denar)
+MMK,2078.76344,Kyat
+MNT,2620.031231,Tugrik
+MOP,8.05578,Pataca
+MRO,354.691656,Ouguiya
+MUR,44.435131,Mauritius (Rupee)
+MVR,15.262741,Rufiyaa
+MWK,1042.875311,Malawian (Kwacha)
+MXN,16.962088,Mexican (Peso)
+MYR,4.602781,Ringgit
+MZN,63.200746,Metical
+NAD,18.328076,Namibian (Dollar)
+NGN,776.080252,Naira
+NIO,36.121271,Cardoba Oro
+NOK,10.324037,Norwegian (Krone)
+NPR,129.827921,Nepalese (Rupee)
+NZD,1.605811,New Zealand (Dollar)
+OMR,0.383856,Omani (Rial)
+PAB,1,Balboa
+PEN,3.565957,Peruvian (Nuevo Sol)
+PGK,3.504351,Kina
+PHP,54.915631,Philippines (Peso)
+PKR,280.728325,Pakistani (Rupee)
+PLN,4.021675,Zloty
+PYG,7147.572094,Guarani
+QAR,3.61661,Qatari (Riyal)
+RON,4.467293,Romanian New (Leu)
+RSD,105.897607,Serbian (Dinar)
+RUB,90.350451,Russian Federation (Rouble)
+RWF,1154.790009,Rwanda (Franc)
+SAR,3.748135,Saudi (Riyal)
+SBD,8.293816,Solomon Islands (Dollar)
+SCR,12.626942,Seychelles (Rupee)
+SDG,598.865522,Sudanese (Pound)
+SEK,10.543661,Swedish (Krona)
+SGD,1.336311,Singapore (Dollar)
+SHP,0.77688,St Helena (Pound)
+SLL,19750.2354,Leone
+SOS,559.473431,Somali (Shilling)
+SRD,37.722965,Surinam (Dollar)
+STD,22049.75357,Dobra
+SVC,8.750078,El Salvador (Colan)
+SYP,512.801119,Syrian (Pound)
+SZL,18.328076,Lilangeni
+THB,34.720479,Baht
+TND,3.057178,Tunisian (Dinar)
+TOP,2.304692,Pa Anga
+TRY,26.33771,Turkish (Lira)
+TTD,6.64551,Trinidad And Tobago (Dollar)
+TWD,31.157862,"Taiwan, New (Dollar)"
+TZS,2430.631137,Tanzanian (Shilling)
+UAH,36.601538,Hryvnia
+UGX,3646.660659,Ugandan (Shilling)
+UYU,37.4617,Uruguayo (Peso)
+UZS,11545.7831,Uzbekistan (Sum)
+VEF,2930681.611,Bolivar Fuerte
+VND,23649.01647,Dang
+VUV,112.141314,Vatu
+WST,2.659571,Tala
+XAF,593.345712,Cfa Beac (Franc)
+XCD,2.700047,East Caribbean (Dollar)
+XOF,593.345712,Cfa Bceao (Franc)
+XPF,107.941423,Cfp (Franc)
+YER,249.813083,Yemeni (Riyal)
+ZAR,18.328076,Rand
+ZMW,18.139062,Zambian Kwacha

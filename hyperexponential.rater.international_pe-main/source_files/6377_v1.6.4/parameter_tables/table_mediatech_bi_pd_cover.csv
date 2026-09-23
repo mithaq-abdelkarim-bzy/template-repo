@@ -1,0 +1,3 @@
+contingent_bi_pd,min,max,default
+Yes,0.03,0.15,0.05
+No,0,0,0

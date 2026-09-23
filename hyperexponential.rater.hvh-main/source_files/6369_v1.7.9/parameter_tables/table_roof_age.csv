@@ -1,0 +1,4 @@
+Lookup code,Values,AOP,WS,EQ,Excess FL,Liability,Equipment breakdown,PAF,Wildfire,WaterDamage,Hail,Wind,Other,RoofDamageLeak,Theft,Lightning,Fire,IceSnowDamage,PowerSurge,WinterStorm
+AGE_0_5,0,1,0.8,0.8,1,1,1,1,0.8,1,1,1,1,1,1,1,1,1,1,1
+AGE_6_10,6,1,1.0,1.0,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1,1
+AGE_11_PLUS,11,1,1.1,1.1,1,1,1,1,1.1,1,1,1,1,1,1,1,1,1,1,1

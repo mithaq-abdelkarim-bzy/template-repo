@@ -1,0 +1,51 @@
+class,peril_group,peril_type,rate
+Jeweller's Block,Additional Perils,Peak Season Increase,0.01
+Jeweller's Block,Additional Perils,PDH,0.005
+Jeweller's Block,Additional Perils,FFF/ Contents,0.0075
+Jeweller's Block,Additional Perils,Show windows ,0.005
+Jeweller's Block,Additional Perils,Defective title,0.01
+Jeweller's Block,Additional Perils,Processing,0.01
+Jeweller's Block,Additional Perils,Employee infidelity,0.01
+Jeweller's Block,Additional Perils,3rd Party infidelity,0.02
+Jeweller's Block,Additional Perils,Consignments / 3rd pty,0.015
+Jeweller's Block,Additional Perils,Wearing Limit,0.01
+Jeweller's Block,Shipping,Fed-Ex / UPS,0.001
+Jeweller's Block,Shipping,Reg Mail,0.0015
+Jeweller's Block,Shipping,Armored Car,0.0005
+Jeweller's Block,Shipping,Stay risk whilst in transit,0.00025
+Jeweller's Block,Shipping,Confiscation and Exp,0.00025
+Jeweller's Block,Shipping,Exhibitions with A/C,0.0005
+Jeweller's Block,Shipping,Exhibitions without A/C,0.001
+Jeweller's Block,Shipping,Personal Conveyance,0.00005
+Jeweller's Block,Ancillary Covers,Public Liability,0.0015
+Jeweller's Block,Ancillary Covers,Employers Liability,0.0015
+Jeweller's Block,Ancillary Covers,Buildings,0.0015
+Jeweller's Block,Ancillary Covers,Terrorism,0.0005
+Fine Art,Defective Title,Additional Perils,0.01
+Fine Art,Computers/Laptops,Additional Perils,0.015
+Fine Art,Glass,Additional Perils,0.04
+Fine Art,Jewellery in safe,Additional Perils,0.0045
+Fine Art,Jewellery worn,Additional Perils,0.015
+Fine Art,Library/Reference,Additional Perils,0.0035
+Fine Art,Money,Additional Perils,0.01
+Fine Art,Office Contents,Additional Perils,0.0035
+Fine Art,BI,Ancillary Covers,0.00125
+Fine Art,Buildings,Ancillary Covers,0.002
+Fine Art,Terrorism,Ancillary Covers,0.0002
+Fine Art,Nat cat,Exhibitions,0.00004
+Fine Art,Stay,Exhibitions,0.00006
+Fine Art,Terrorism,Exhibitions,0.0000167
+Fine Art,Transits within city,Exhibitions,0.000075
+Fine Art,Transits within country,Exhibitions,0.0001
+Fine Art,Transits within EU,Exhibitions,0.000125
+Fine Art,Transits EU - USA,Exhibitions,0.0002
+Fine Art,Transits ROW,Exhibitions,0.00025
+Fine Art,Base Premium,Liabilities,500
+Fine Art,5-10 employees,Liabilities,20
+Fine Art,10-20 employees,Liabilities,15
+Fine Art,20+ employees,Liabilities,10
+Fine Art,Woodworkers,Liabilities,0.015
+Fine Art,Warehouseman,Liabilities,0.01
+Fine Art,Drivers,Liabilities,0.005
+Fine Art,Metalworkers & Polishers,Liabilities,0.0015
+Fine Art,Public Liability,Liabilities,250

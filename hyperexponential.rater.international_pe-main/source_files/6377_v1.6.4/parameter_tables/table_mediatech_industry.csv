@@ -1,0 +1,57 @@
+industry_description,class_name,industry_name
+Reseller/Distributor,1,mediatech_reseller_distributor
+Archiving/Records Management,1,mediatech_archiving_records_management
+Training/Education,1,mediatech_training_education
+Automation/Word Processing,1,mediatech_automation_word_processing
+Consulting & Administrative Services (Low Exposure),1,mediatech_consulting_administrative_services_low_exposure
+Prepackaged Software Products/Services (Low Exposure),1,mediatech_prepackaged_software_products_services_low_exposure
+Technology Hardware (Low Exposure),1,mediatech_technology_hardware_low_exposure
+Internet Access Provider (Low Exposure),1,mediatech_internet_access_provider_low_exposure
+Other Class 1,1,mediatech_other_class_1
+Network Design & Administration,2,mediatech_network_design_administration
+Systems Engineering,2,mediatech_systems_engineering
+Consulting & Administrative Services (Standard Exposure),2,mediatech_consulting_administrative_services_standard_exposure
+"Installation, Maintenance & Support Services",2,mediatech_installation_maintenance_support_services
+Prepackaged Software Products/Services (Standard Exposure),2,mediatech_prepackaged_software_products_services_standard_exposure
+"Graphic Design, Imaging & Communications Consulting",2,mediatech_graphic_design_imaging_communications_consulting
+Technology Hardware (Standard Exposure),2,mediatech_technology_hardware_standard_exposure
+Internet Access Provider (Standard Exposure),2,mediatech_internet_access_provider_standard_exposure
+Software/Hardware Management Systems,2,mediatech_software_hardware_management_systems
+Telecommunication Consulting/Services (Low Exposure),2,mediatech_telecommunication_consulting_services_low_exposure
+Custom Software Development (Low Exposure),2,mediatech_custom_software_development_low_exposure
+Data Processing (Low Exposure),2,mediatech_data_processing_low_exposure
+Advertising/Media Consulting (Low Exposure),2,mediatech_advertising_media_consulting_low_exposure
+Internet-Based Services/Products (Low Exposure),2,mediatech_internet_based_services_products_low_exposure
+Other Class 2,2,mediatech_other_class_2
+Internet-Based Services/Products (Standard Exposure),3,mediatech_internet_based_services_products_standard_exposure
+Telecommunication Consulting/Services (Standard Exposure),3,mediatech_telecommunication_consulting_services_standard_exposure
+Site Operations,3,mediatech_site_operations
+Custom Software Development (Standard Exposure),3,mediatech_custom_software_development_standard_exposure
+Data Processing (Standard Exposure),3,mediatech_data_processing_standard_exposure
+Advertising/Media Consulting (Standard Exposure),3,mediatech_advertising_media_consulting_standard_exposure
+Software/Hardware Accounting/Financial (Non-funds transfer),3,mediatech_software_hardware_accounting_financial_non_funds_transfer
+Consulting & Administrative Services (High Exposure),3,mediatech_consulting_administrative_services_high_exposure
+Prepackaged Software Products/Services (High Exposure),3,mediatech_prepackaged_software_products_services_high_exposure
+Technology Hardware (High Exposure),3,mediatech_technology_hardware_high_exposure
+Internet Access Provider (High Exposure),3,mediatech_internet_access_provider_high_exposure
+Other Class 3,3,mediatech_other_class_3
+Software/Hardware - Payroll Systems,4,mediatech_software_hardware_payroll_systems
+EDP Audits/Feasibility Studies/Needs Evaluation/Implementation ,4,mediatech_edp_audits_feasibility_studies_needs_evaluation_implementation
+Software/Hardware-Computer Aided Design (Non-structural) ,4,mediatech_software_hardware_computer_aided_design_non_structural
+Computer Security Consulting,4,mediatech_computer_security_consulting
+Telecommunication Consulting/Services (High Exposure),4,mediatech_telecommunication_consulting_services_high_exposure
+Custom Software Development (High Exposure),4,mediatech_custom_software_development_high_exposure
+Data Processing (High Exposure),4,mediatech_data_processing_high_exposure
+Advertising/Media Consulting (High Exposure),4,mediatech_advertising_media_consulting_high_exposure
+Internet-Based Services/Products (High Exposure),4,mediatech_internet_based_services_products_high_exposure
+Other Class 4,4,mediatech_other_class_4
+Computer Security Products/Services,5,mediatech_computer_security_products_services
+Software/Hardware-Medical Management (Non-diagnostic) ,5,mediatech_software_hardware_medical_management_non_diagnostic
+Other Class 5,5,mediatech_other_class_5
+Software/Hardware-Computer Aided Manufacturing/Structural Design,6,mediatech_software_hardware_computer_aided_manufacturing_structural_design
+Software/Hardware-Medical Management (Diagnostic) ,6,mediatech_software_hardware_medical_management_diagnostic
+Software/Hardware-Financial (Fund Transfer),6,mediatech_software_hardware_financial_fund_transfer
+Software/Hardware-Scientific and Technical ,6,mediatech_software_hardware_scientific_and_technical
+System Integration Control & Automation Systems,6,mediatech_system_integration_control_automation_systems
+Hosting,6,mediatech_hosting
+Other Class 6,6,mediatech_other_class_6

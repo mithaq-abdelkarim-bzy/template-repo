@@ -1,0 +1,4 @@
+insurance_history_list,insurance_history_respond,lower_bound,upper_bound,default
+Purchased continuously for past 5 years,Specified,1,1,1
+Haven't bought insurance,Specified,1,1,1
+Other,Other,1,1.5,1

@@ -1,0 +1,9 @@
+schedule_factor,min,max,schedule_name
+Accredited/Certified Key Employees,-0.1,0,mediatech_accredited_certified
+Use of Standardized Written Contract,-0.1,0,mediatech_standardized_written_contract
+Risk Management Procedures/Controls,-0.15,0.15,mediatech_risk_management
+Financial Condition,-0.25,0.25,mediatech_financial_condition
+Atypical proportion of revenue derived from a single client,0,0.15,mediatech_atypical_proportion
+Media/content review & control procedures,-0.2,0.2,mediatech_media_content_review
+Privacy controls & procedures,-0.2,0.2,mediatech_privacy_controls
+Overall Quality of Operational Structure,-0.1,0.1,mediatech_overall_quality

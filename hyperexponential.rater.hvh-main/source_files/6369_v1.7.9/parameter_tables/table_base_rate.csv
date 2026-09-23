@@ -1,0 +1,55 @@
+Lookup code,Values,AOP,WS,EQ,Excess FL,Liability,Equipment breakdown,PAF,Wildfire,WaterDamage,Hail,Wind,Other,RoofDamageLeak,Theft,Lightning,Fire,IceSnowDamage,PowerSurge,WinterStorm
+Base Rate,Base Rate,1,1,0.004499334452904847,0.00022651365243853047,0.00012171196712987312,1,1.0,3.778100601989898e-05,0.0009757877185043435,8.452205314639774e-05,0.00015875959172235085,0.0003145943527864572,6.744884430802391e-05,1.8085923820006794e-06,3.834289457142039e-05,0.000874859480016895,5.4055222237530995e-06,2.889379018620197e-06,5.287659954220656e-05
+Base Premium Coverage A Limit0,0,1,1,1.0,1.0,1.0,39,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base Premium Coverage A Limit500000,500000,1,1,1.0,1.0,1.0,59,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base Premium Coverage A Limit1000000,1000000,1,1,1.0,1.0,1.0,110,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base Premium Coverage A Limit2000000,2000000,1,1,1.0,1.0,1.0,180,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base Premium Coverage A Limit5000000,5000000,1,1,1.0,1.0,1.0,333,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base Premium Coverage A Limit10000000,10000000,1,1,1.0,1.0,1.0,450,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base Premium Coverage A Limit15000000,15000000,1,1,1.0,1.0,1.0,500,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base Premium Coverage A Limit999999999,999999999,1,1,1.0,1.0,1.0,500,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateAntique FurnitureBlanket,Antique FurnitureBlanket,1,1,1.0,1.0,1.0,1,0.00625,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateBaseball/ Sports Cards & Comic booksBlanket,Baseball/ Sports Cards & Comic booksBlanket,1,1,1.0,1.0,1.0,1,0.009375,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateBooksBlanket,BooksBlanket,1,1,1.0,1.0,1.0,1,0.00625,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateCamerasBlanket,CamerasBlanket,1,1,1.0,1.0,1.0,1,0.025,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateCoinsBlanket,CoinsBlanket,1,1,1.0,1.0,1.0,1,0.0106,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateFine ArtBlanket,Fine ArtBlanket,1,1,1.0,1.0,1.0,1,0.0075,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateFursBlanket,FursBlanket,1,1,1.0,1.0,1.0,1,0.0075,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateGunsBlanket,GunsBlanket,1,1,1.0,1.0,1.0,1,0.0125,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateHandbagsBlanket,HandbagsBlanket,1,1,1.0,1.0,1.0,1,0.0375,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateJewellery & WatchesBlanket,Jewellery & WatchesBlanket,1,1,1.0,1.0,1.0,1,0.02,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateMemorabiliaBlanket,MemorabiliaBlanket,1,1,1.0,1.0,1.0,1,0.0075,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateMusical InstrumentsBlanket,Musical InstrumentsBlanket,1,1,1.0,1.0,1.0,1,0.011875,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateRugsBlanket,RugsBlanket,1,1,1.0,1.0,1.0,1,0.00375,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateSilverwareBlanket,SilverwareBlanket,1,1,1.0,1.0,1.0,1,0.01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateStampsBlanket,StampsBlanket,1,1,1.0,1.0,1.0,1,0.00625,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateWine & CigarsBlanket,Wine & CigarsBlanket,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateGold/ Silver BullionBank Vault,Gold/ Silver BullionBank Vault,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateGold/ Silver BullionHome Safe,Gold/ Silver BullionHome Safe,1,1,1.0,1.0,1.0,1,0.00625,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateFine ArtScheduled - Fragile,Fine ArtScheduled - Fragile,1,1,1.0,1.0,1.0,1,0.006,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateFine ArtScheduled - Non Fragile,Fine ArtScheduled - Non Fragile,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateAntique FurnitureScheduled,Antique FurnitureScheduled,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateAudio/ Visual EquipmentScheduled,Audio/ Visual EquipmentScheduled,1,1,1.0,1.0,1.0,1,0.01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateBaseball/ Sports Cards & Comic booksScheduled,Baseball/ Sports Cards & Comic booksScheduled,1,1,1.0,1.0,1.0,1,0.0075,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateBicyclesScheduled,BicyclesScheduled,1,1,1.0,1.0,1.0,1,0.06,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateBooksScheduled,BooksScheduled,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateCoinsScheduled,CoinsScheduled,1,1,1.0,1.0,1.0,1,0.0085,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateComputersScheduled,ComputersScheduled,1,1,1.0,1.0,1.0,1,0.03,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateFursScheduled,FursScheduled,1,1,1.0,1.0,1.0,1,0.01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateGolf ClubsScheduled,Golf ClubsScheduled,1,1,1.0,1.0,1.0,1,0.02,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateGunsScheduled,GunsScheduled,1,1,1.0,1.0,1.0,1,0.01,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateHandbagsScheduled,HandbagsScheduled,1,1,1.0,1.0,1.0,1,0.03,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateMemorabiliaScheduled,MemorabiliaScheduled,1,1,1.0,1.0,1.0,1,0.006,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateMisc.Scheduled,Misc.Scheduled,1,1,1.0,1.0,1.0,1,0.03,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateRugsScheduled,RugsScheduled,1,1,1.0,1.0,1.0,1,0.003,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateSilverwareScheduled,SilverwareScheduled,1,1,1.0,1.0,1.0,1,0.008,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateStampsScheduled,StampsScheduled,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateWine & CigarsScheduled,Wine & CigarsScheduled,1,1,1.0,1.0,1.0,1,0.004,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateGolf ClubsScheduled - Golf Carts - Excluding Collision,Golf ClubsScheduled - Golf Carts - Excluding Collision,1,1,1.0,1.0,1.0,1,0.025,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateJewellery & WatchesScheduled - Jewellery,Jewellery & WatchesScheduled - Jewellery,1,1,1.0,1.0,1.0,1,0.016,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateJewellery & WatchesScheduled Jewellery/Watches - Bank vault only,Jewellery & WatchesScheduled Jewellery/Watches - Bank vault only,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateCamerasScheduled - Personal Use,CamerasScheduled - Personal Use,1,1,1.0,1.0,1.0,1,0.0095,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateMusical InstrumentsScheduled - Personal Use,Musical InstrumentsScheduled - Personal Use,1,1,1.0,1.0,1.0,1,0.005,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateCamerasScheduled - Professional Use,CamerasScheduled - Professional Use,1,1,1.0,1.0,1.0,1,0.02,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateMusical InstrumentsScheduled - Professional Use,Musical InstrumentsScheduled - Professional Use,1,1,1.0,1.0,1.0,1,0.0095,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Base RateJewellery & WatchesScheduled - Watches,Jewellery & WatchesScheduled - Watches,1,1,1.0,1.0,1.0,1,0.0185,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

@@ -1,0 +1,424 @@
+{
+  "insured_names": {
+    "insured_name": "str"
+  },
+  "lst_yn": {
+    "yesno": "str"
+  },
+  "lst_ynna": {
+    "YesNo": "str"
+  },
+  "lst_core_account": {
+    "CoreAccount": "str"
+  },
+  "lst_claim_status": {
+    "ClaimStatus": "str"
+  },
+  "lst_clearence_status": {
+    "ClearenceStatus": "str"
+  },
+  "lst_nondates": {
+    "NonDates": "str"
+  },
+  "lst_nondates_effective": {
+    "NonDatesEffectiveDate": "str"
+  },
+  "lst_deal_status": {
+    "DealStatus": "str"
+  },
+  "lst_ccy": {
+    "Currency code": "str"
+  },
+  "tbl_sic": {
+    "Sic Code": "str",
+    "Sic Code2 (SIC first)": "str"
+  },
+  "lst_country": {
+    "country": "str"
+  },
+  "lst_ownership": {
+    "value": "str"
+  },
+  "lst_broker": {
+    "Value": "str"
+  },
+  "lst_cover_type": {
+    "Value": "str"
+  },
+  "lst_slip_lead": {
+    "Markets": "str"
+  },
+  "lst_platform": {
+    "platform": "str"
+  },
+  "lst_direct_ri": {
+    "directri": "str"
+  },
+  "lst_adr": {
+    "Platform": "str"
+  },
+  "lst_credit_rating": {
+    "Platform": "str"
+  },
+  "lst_period_data": {
+    "Period Data": "int"
+  },
+  "lst_esg_status": {
+    "esg syndicate status": "str"
+  },
+  "lst_dic": {
+    "DIC Factors - Side A": "str"
+  },
+  "lst_adr_sponsored": {
+    "Value": "str"
+  },
+  "lst_pe_backer": {
+    "value": "str"
+  },
+  "tbl_parameter_version": {
+    "Key": "str",
+    "Description": "str",
+    "Value": "int"
+  },
+  "tbl_ccy": {
+    "Currency code": "str",
+    "Units per USD": "float"
+  },
+  "tbl_sic_freq": {
+    "Effective_Dt": "int",
+    "SIC": "int",
+    "Sector_Desc": "str",
+    "Sector": "int",
+    "Message": "str",
+    "Comment": "str",
+    "freqband5": "int",
+    "f5Adj": "float",
+    "InternationalIndustry": "str",
+    "SICClass": "str",
+    "dup": "int",
+    "N_SIC": "int",
+    "NAICS": "int",
+    "NAICS Title": "str",
+    "MMPEPL_COBMap": "str",
+    "EPL_COBFactor": "float",
+    "MMP - High Risk Segments": "str"
+  },
+  "tbl_sca_freq_group": {
+    "Sector": "int",
+    "FrequencyGroup": "str"
+  },
+  "tbl_sca_freq_dismissal": {
+    "Sector": "int",
+    "DismissalRate": "float"
+  },
+  "tbl_sca_lag_factor_0": {
+    "Lag": "int",
+    "Sector": "int",
+    "Factor": "float",
+    "Comment": "str"
+  },
+  "tbl_sca_lag_factor_1": {
+    "Lag": "int",
+    "Sector": "int",
+    "Factor": "float",
+    "Comment": "str"
+  },
+  "tbl_sca_freq_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_sca_sev_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_ma_freq_band": {
+    "Band": "int",
+    "Relativity_Lo": "float",
+    "Relativity_Hi": "float"
+  },
+  "tbl_ma_freq_sector": {
+    "Sector": "int",
+    "Relativity": "float"
+  },
+  "tbl_ma_freq_mod": {
+    "ParameterName": "str",
+    "Value": "float"
+  },
+  "tbl_ma_sev_mod": {
+    "ParameterName": "str",
+    "Value": "float"
+  },
+  "tbl_reg_freq_band": {
+    "Band": "int",
+    "Relativity_Lo": "float",
+    "Relativity_Hi": "float"
+  },
+  "tbl_reg_freq_sector": {
+    "Sector": "int",
+    "Relativity": "int"
+  },
+  "tbl_reg_freq_mod": {
+    "ParameterName": "str",
+    "Value": "float"
+  },
+  "tbl_reg_sev_band": {
+    "Band": "int",
+    "Relativity": "float"
+  },
+  "tbl_reg_sev_sector": {
+    "Sector": "int",
+    "Relativity": "int"
+  },
+  "tbl_reg_sev_mod": {
+    "ParameterName": "str",
+    "Value": "float"
+  },
+  "tbl_deriv_freq_band": {
+    "Band_Lo": "int",
+    "Band_Hi": "int",
+    "Relativity_Lo": "float",
+    "Relativity_Hi": "float"
+  },
+  "tbl_deriv_freq_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_deriv_sev_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_interaction_mod": {
+    "ParameterName": "str",
+    "Value": "float"
+  },
+  "tbl_other_dismissal_mod": {
+    "ParameterName": "str",
+    "Value": "float"
+  },
+  "tbl_monitoring_cost_mod": {
+    "ParameterName": "str",
+    "Value": "float"
+  },
+  "tbl_sca_defense_cost": {
+    "Indemnity": "int",
+    "Factor": "float",
+    "CumF": "float",
+    "CostInBand": "int",
+    "CumCostInBand": "int"
+  },
+  "tbl_sca_defense_cost_dismissal": {
+    "MarketCap_Lo": "int",
+    "MarketCap_Hi": "int",
+    "Index": "int",
+    "Cost_Lo": "float",
+    "Cost_Hi": "float"
+  },
+  "tbl_plaintiff_fees": {
+    "MarketCap": "int",
+    "Cost": "int"
+  },
+  "tbl_state_indemnification": {
+    "State": "str",
+    "Reference": "str",
+    "Value": "float"
+  },
+  "tbl_indemnification_ref": {
+    "Reference": "str",
+    "Value": "float"
+  },
+  "tbl_side_a_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_pricing_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_ma_retention": {
+    "MarketCap": "int",
+    "MARetention": "int"
+  },
+  "tbl_market_ilf": {
+    "MarketCap_Lo": "int",
+    "MarketCap_Hi": "int",
+    "ILF_Lo": "float",
+    "ILF_Hi": "float"
+  },
+  "tbl_ei_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_ei_band": {
+    "Band": "int",
+    "Relativity": "float"
+  },
+  "tbl_intl_mod": {
+    "ParameterName": "str",
+    "Value": "float",
+    "Comment": "str"
+  },
+  "tbl_intl_countries": {
+    "Country": "str",
+    "Factor": "float",
+    "ILFBand": "str",
+    "SideBSelectedDiscount": "float",
+    "SideAProposed": "float",
+    "Message": "str",
+    "Message Adjust": "str",
+    "EPL Factor": "float"
+  },
+  "tbl_intl_cover_type": {
+    "CoverageType": "str",
+    "Factor": "float"
+  },
+  "tbl_intl_industry": {
+    "Industry": "str",
+    "Factor": "float"
+  },
+  "tbl_intl_base_premium": {
+    "Mcap_Lo": "float",
+    "Mcap_Hi": "int",
+    "Cost_Lo": "int",
+    "Cost_Hi": "int"
+  },
+  "tbl_intl_ilf": {
+    "ILFBand": "str",
+    "PowerFactor": "float"
+  },
+  "tbl_side_a_bankruptcy": {
+    "Rating": "str",
+    "BankruptcyScore": "float"
+  },
+  "tbl_mcap_band": {
+    "Mcap_Lo": "float",
+    "MCap_Hi": "float",
+    "index_Lo": "float",
+    "index_Hi": "float"
+  },
+  "tbl_side_a_dic_factor": {
+    "DIC Factors - Side A": "str",
+    "Value": "float"
+  },
+  "tbl_bp_assumptions": {
+    "Business Plan Assumptions": "str",
+    "Unnamed: 1": "float"
+  },
+  "tbl_cat_load": {
+    "Explicit Cat Load": "str",
+    "Value": "float"
+  },
+  "tbl_volatility_trading": {
+    "Band": "str",
+    "GLM ModelRelativity": "float",
+    "\"Mid\"-point": "str",
+    "Lower": "float",
+    "Upper": "float",
+    "SelectedRelativityLower": "float",
+    "SelectedRelativityUpper": "float"
+  },
+  "tbl_min_trading_volume": {
+    "Band": "str",
+    "GLM ModelRelativity": "float",
+    "\"Mid\"-point": "str",
+    "Lower": "float",
+    "Upper": "float",
+    "SelectedRelativityLower": "float",
+    "SelectedRelativityUpper": "float"
+  },
+  "tbl_exec_under_50": {
+    "Band": "str",
+    "GLM ModelRelativity": "float",
+    "\"Mid\"-point": "str",
+    "Lower": "float",
+    "Upper": "float",
+    "SelectedRelativityLower": "float",
+    "SelectedRelativityUpper": "float"
+  },
+  "tbl_high_risk_segment": {
+    "Mcap_band": "str",
+    "ADR Group": "str",
+    "Concat": "str",
+    "Lower Band": "float",
+    "Upper Band": "float",
+    "Lower Loading": "float",
+    "Upper Loading": "float"
+  },
+  "lst_mmp_dno_coverage": {
+    "MMP Coverage": "str"
+  },
+  "lst_mmp_aggaoc_option": {
+    "Coverage": "str"
+  },
+  "tbl_mmp_appetite": {
+    "SIC": "int",
+    "Sector_Desc": "str",
+    "InternationalIndustry": "str",
+    "SICClass": "str",
+    "Directors & Officers (D&O)": "str",
+    "Any One Claim (AOC)": "str",
+    "Employer Practice Liability (EPL)": "str",
+    "Corporate Legal Liability (CLL)": "str",
+    "Crime": "str",
+    "Pension Trustee Liability (PTL)": "str"
+  },
+  "tbl_mmp_cll_min_prem": {
+    "Sublimit Lower Bound": "int",
+    "Sublimit Higher Bound": "int",
+    "Min Premium": "int"
+  },
+  "tbl_mmp_epl_base": {
+    "Min": "int",
+    "Max": "float",
+    "Rate per Employee in Band": "float",
+    "Max Rate in Band": "int",
+    "Rate Running Total": "int"
+  },
+  "tbl_mmp_epl_ilf": {
+    "Limit Low": "int",
+    "Limit High": "int",
+    "Factor": "float"
+  },
+  "tbl_mmp_epl_guide_deductible": {
+    "# of Employees Low": "float",
+    "# of Employees High": "float",
+    "Percentage": "float",
+    "Min": "int"
+  },
+  "tbl_mmp_epl_deductible_mod": {
+    "Ratio Low": "float",
+    "Ratio High": "float",
+    "Modifier": "float"
+  },
+  "tbl_mod_bounds": {
+    "Mod": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "tbl_insured_name": {
+    "FirmName": "str"
+  },
+  "tbl_financial_metrics_rag": {
+    "metric": "str",
+    "sign": "str",
+    "red": "float",
+    "amber": "float"
+  },
+  "tbl_underwriter": {
+    "Underwriters": "str",
+    "Beazley Branch": "str"
+  },
+  "lst_underwriting_assistant": {
+    "Underwriter Assistant": "str"
+  },
+  "tbl_reg_mod_scalar": {
+    "Name": "str",
+    "Value": "float"
+  }
+}

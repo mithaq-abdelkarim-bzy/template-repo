@@ -1,0 +1,16 @@
+Lookup code,Values,PAF
+PAFHazardLoadWSC1,WSC1,1
+PAFHazardLoadWSC2,WSC2,1
+PAFHazardLoadWSC3,WSC3,1
+PAFHazardLoadWSI1,WSI1,1
+PAFHazardLoadWSI2,WSI2,1
+PAFHazardLoadWSI3,WSI3,1
+PAFHazardLoadEQ6,EQ6,1
+PAFHazardLoadEQ5,EQ5,1
+PAFHazardLoadEQ4,EQ4,1
+PAFHazardLoadEQ3,EQ3,1
+PAFHazardLoadEQ2,EQ2,1
+PAFHazardLoadEQ1,EQ1,1
+PAFHazardLoadExcess FL1,Excess FL1,1
+PAFHazardLoadExcess FL2,Excess FL2,1
+PAFHazardLoadExcess FL3,Excess FL3,1

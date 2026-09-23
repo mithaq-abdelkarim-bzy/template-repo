@@ -1,0 +1,10 @@
+Name,Mode,CDS level,Coverage,Relative path,Rater Defined?,Type,Default,Label hx
+core_account,Input,cds,,/core_account,Y,str,,Core Account
+platform,Input,cds,,/platform,Y,str,Lloyd's,Platform
+afb_primary_wording_manuscript,Input,cds,,/afb_primary_wording_manuscript,Y,bool,,AFB Primary and Wording Manuscript
+long_term_agreement,Input,cds,,/long_term_agreement,Y,bool,,Long Term Agreement
+esg_syndicate,Input,cds,,/esg_syndicate,Y,str,,ESG Syndicate Status
+direct_ri,Input,cds,,/direct_ri,Y,str,Direct,Direct/RI
+esg_net_premium,Input,cds,,/esg_net_premium,Y,float,,ESG Net Written Premium (USD)
+cedant_name,Input,cds,,/cedant_name,Y,str,,Cedant Name
+any_one_claim,Input,cds,,/any_one_claim,Y,bool,,Any One Claim (AOC)

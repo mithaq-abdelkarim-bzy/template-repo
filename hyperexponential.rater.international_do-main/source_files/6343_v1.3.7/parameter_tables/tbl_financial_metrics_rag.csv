@@ -1,0 +1,10 @@
+﻿metric,sign,red,amber
+current_ratio,<,1,1.5
+accumulated_profitability,<,0.1,0.25
+return_on_assets,<,0.05,0.1
+book_value_liability_ratio,<,0.2,0.5
+asset_turnover,<,0.4,1
+z_score,<,1.23,2.9
+roe,<,0,0.15
+net_debt_equity_ratio,>,2,1.05
+cash_conversion,<,0.7,1.15

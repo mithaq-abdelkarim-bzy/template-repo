@@ -1,0 +1,49 @@
+key,elsewhere_region,relativity
+AfricaElsewhere,North America,5
+AfricaElsewhere,South America,5
+AfricaElsewhere,Europe,5
+AfricaElsewhere,Asia,5
+AfricaElsewhere,Africa,1
+AfricaElsewhere,Oceania,5
+AsiaElsewhere,North America,5
+AsiaElsewhere,South America,5
+AsiaElsewhere,Europe,5
+AsiaElsewhere,Asia,1
+AsiaElsewhere,Africa,5
+AsiaElsewhere,Oceania,5
+EuropeElsewhere,North America,5
+EuropeElsewhere,South America,5
+EuropeElsewhere,Europe,1
+EuropeElsewhere,Asia,5
+EuropeElsewhere,Africa,5
+EuropeElsewhere,Oceania,5
+North AmericaElsewhere,North America,1
+North AmericaElsewhere,South America,5
+North AmericaElsewhere,Europe,5
+North AmericaElsewhere,Asia,5
+North AmericaElsewhere,Africa,5
+North AmericaElsewhere,Oceania,5
+OceaniaElsewhere,North America,5
+OceaniaElsewhere,South America,5
+OceaniaElsewhere,Europe,5
+OceaniaElsewhere,Asia,5
+OceaniaElsewhere,Africa,5
+OceaniaElsewhere,Oceania,1
+South AmericaElsewhere,North America,5
+South AmericaElsewhere,South America,1
+South AmericaElsewhere,Europe,5
+South AmericaElsewhere,Asia,5
+South AmericaElsewhere,Africa,5
+South AmericaElsewhere,Oceania,5
+UKElsewhere,North America,5
+UKElsewhere,South America,5
+UKElsewhere,Europe,1
+UKElsewhere,Asia,5
+UKElsewhere,Africa,5
+UKElsewhere,Oceania,5
+USAElsewhere,North America,1
+USAElsewhere,South America,1
+USAElsewhere,Europe,1
+USAElsewhere,Asia,1
+USAElsewhere,Africa,1
+USAElsewhere,Oceania,1

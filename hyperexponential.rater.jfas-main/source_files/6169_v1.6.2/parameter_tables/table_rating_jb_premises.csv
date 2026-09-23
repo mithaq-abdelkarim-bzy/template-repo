@@ -1,0 +1,760 @@
+type,region,country,500000,1000000,1500000,2000000,3000000,5000000,10000000
+Retail,Worldwide,Worldwide,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Wholesale,Worldwide,Worldwide,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Worldwide,Worldwide,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Retail,Europe,Åland Islands,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Afghanistan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Albania,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Algeria,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,American Samoa,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Andorra,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Angola,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Anguilla,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Antigua and Barbuda,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,South America,Argentina,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Europe,Armenia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,North America,Aruba,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Oceania,Australia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Austria,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Azerbaijan,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,North America,Bahamas,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Asia,Bahrain,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Bangladesh,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Barbados,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Europe,Belarus,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Belgium,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Retail,North America,Belize,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Benin,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Bermuda,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Asia,Bhutan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Bolivia,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,North America,"Bonaire, Sint Eustatius and Saba",0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Europe,Bosnia and Herzegovina,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Botswana,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Antarctica,Bouvet Island (Bouvetoya),0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Retail,South America,Brazil,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Asia,British Indian Ocean Territory (Chagos Archipelago),0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,British Virgin Islands,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Asia,Brunei,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Bulgaria,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Burkina Faso,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Burundi,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Cambodia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Cameroon,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Canada,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Cape Verde,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Cayman Islands,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Central African Republic,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Chad,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Chile,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Asia,China,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Retail,Asia,Christmas Island,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Cocos (Keeling) Islands,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Colombia,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Africa,Comoros,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Congo,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Congo the,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Cook Islands,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Costa Rica,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Cote d'Ivoire,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Croatia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,North America,Cuba,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Curacao,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Europe,Cyprus,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Czech Republic,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Denmark,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Oceania,Disputed Territory,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Djibouti,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Dominica,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Dominican Republic,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,South America,Ecuador,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Africa,Egypt,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,El Salvador,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Equatorial Guinea,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Eritrea,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Estonia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Ethiopia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Falkland Islands,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Europe,Faroe Islands,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Oceania,Fiji,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Finland,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,France,0.015,0.01,0.009375,0.00875,0.0075,0.005,0.0025
+Retail,South America,French Guiana,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Oceania,French Polynesia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Antarctica,French Southern Territories,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Retail,Africa,Gabon,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Gambia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Georgia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Germany,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Retail,Africa,Ghana,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Gibraltar,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Greece,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,North America,Greenland,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Grenada,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Guadeloupe,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Oceania,Guam,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Guatemala,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Europe,Guernsey,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Guinea,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Guinea-Bissau,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Guyana,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,North America,Haiti,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Antarctica,Heard Island and McDonald Islands,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Retail,Europe,Vatican City,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,North America,Honduras,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Asia,Hong Kong,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Retail,Europe,Hungary,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Iceland,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,India,0.0015,0.0015,0.00125,0.00125,0.001,0.001,0.001
+Retail,Asia,Indonesia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Iran,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Iraq,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Iraq-Saudi Arabia Neutral Zone,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Ireland,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Isle of Man,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Israel,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Italy,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Retail,North America,Jamaica,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Asia,Japan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Jersey,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Jordan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Kazakhstan,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Kenya,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Kiribati,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Korea,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Kuwait,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Kyrgyz Republic,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Laos,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Latvia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Lebanon,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Lesotho,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Liberia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Libya,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Liechtenstein,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Lithuania,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Luxembourg,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Macao,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Macedonia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Madagascar,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Malawi,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Malaysia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Maldives,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Mali,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Malta,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Oceania,Marshall Islands,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Martinique,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Mauritania,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Mauritius,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Mayotte,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Mexico,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Oceania,Micronesia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Moldova,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Monaco,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Mongolia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Montenegro,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,North America,Montserrat,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Morocco,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Mozambique,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Myanmar,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Namibia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Nauru,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Nepal,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Netherlands Antilles,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Europe,Netherlands,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Oceania,New Caledonia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,New Zealand,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Nicaragua,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Niger,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Nigeria,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Niue,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Norfolk Island,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Northern Mariana Islands the,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Norway,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Oman,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Pakistan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Palau,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,"Palestinian Territory, Occupied",0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Panama,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Oceania,Papua New Guinea,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Paraguay,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,South America,Peru,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Asia,Philippines,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Pitcairn Islands,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Poland,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Portugal,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,North America,Puerto Rico,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Asia,Qatar,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Reunion,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Romania,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Russia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Rwanda,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Saint Barthelemy,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Saint Helena,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Saint Kitts and Nevis,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Saint Lucia,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Saint Martin,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Saint Pierre and Miquelon,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,Saint Vincent and the Grenadines,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Oceania,"Samoa, Independent State of",0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,San Marino,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Sao Tome and Principe,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Saudi Arabia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Senegal,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Serbia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Seychelles,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Sierra Leone,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Singapore,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Retail,North America,Sint Maarten (Netherlands),0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Europe,Slovakia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Slovenia,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Oceania,Solomon Islands,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Slomalia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,South Africa,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Antarctica,South Georgia and the South Sandwich Islands,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Retail,Africa,South Sudan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Spain,0.009,0.0054,0.0036,0.00288,0.00216,0.00144,0.00108
+Retail,Asia,Spratly Islands,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Sri Lanka,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Sudan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Suriname,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Europe,Svalbard & Jan Mayen Islands,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Africa,Swaziland,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Sweden,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Europe,Switzerland,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,Syria,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Taiwan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Tajikistan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Tanzania,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Thailand,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Timor-Leste,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Togo,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Tokelau,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Tonga,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Trinidad and Tobago,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Africa,Tunisia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Turkey,0.00275,0.002,0.00175,0.0015,0.00133,0.001,0.00075
+Retail,Asia,Turkmenistan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,Turks and Caicos Islands,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,Oceania,Tuvalu,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Uganda,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,Ukraine,0.0125,0.0075,0.005,0.004,0.003,0.002,0.0015
+Retail,Asia,UAE,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Europe,UK,0.0175,0.0175,0.0175,0.0175,0.0175,0.0175,0.0175
+Retail,Asia,United Nations Neutral Zone,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,United States Minor Outlying Islands,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,North America,USA,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,North America,United States Virgin Islands,0.0175,0.01,0.0075,0.0055,0.0045,0.004,0.0035
+Retail,South America,Uruguay,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Asia,Uzbekistan,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Vanuatu,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,South America,Venezuela,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Retail,Asia,Vietnam,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Oceania,Wallis and Futuna,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Western Sahara,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Asia,Yemen,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Zambia,0.003,0.0025,0.002,0.0015,0.001,0.001,0.001
+Retail,Africa,Zimbabwe,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Åland Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Afghanistan,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Albania,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Algeria,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,American Samoa,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Andorra,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Angola,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Anguilla,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Antigua and Barbuda,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Argentina,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Armenia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,North America,Aruba,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Australia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Austria,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Azerbaijan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,North America,Bahamas,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Bahrain,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Bangladesh,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Barbados,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Belarus,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Wholesale,Europe,Belgium,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Belize,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Benin,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Bermuda,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Bhutan,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Bolivia,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,"Bonaire, Sint Eustatius and Saba",0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Bosnia and Herzegovina,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Botswana,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Wholesale,Antarctica,Bouvet Island (Bouvetoya),0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Brazil,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,British Indian Ocean Territory (Chagos Archipelago),0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,British Virgin Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Brunei,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Bulgaria,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Burkina Faso,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Burundi,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Cambodia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Cameroon,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Canada,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Cape Verde,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Cayman Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Central African Republic,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Chad,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Chile,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Wholesale,Asia,China,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Christmas Island,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Cocos (Keeling) Islands,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Colombia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Comoros,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Congo,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Congo the,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Cook Islands,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Costa Rica,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Cote d'Ivoire,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Croatia,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Cuba,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Curacao,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Cyprus,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Europe,Czech Republic,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Denmark,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Disputed Territory,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Djibouti,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Dominica,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Dominican Republic,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Ecuador,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Egypt,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,El Salvador,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Equatorial Guinea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Eritrea,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Estonia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Ethiopia,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Falkland Islands,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Faroe Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Fiji,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Finland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,France,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,French Guiana,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,French Polynesia,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Wholesale,Antarctica,French Southern Territories,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Gabon,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Gambia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Georgia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Europe,Germany,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Ghana,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Gibraltar,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Greece,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Greenland,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Grenada,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Guadeloupe,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Guam,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Guatemala,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Guernsey,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Guinea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Guinea-Bissau,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Guyana,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Haiti,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Wholesale,Antarctica,Heard Island and McDonald Islands,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Vatican City,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Honduras,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Wholesale,Asia,Hong Kong,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Hungary,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Iceland,0.001,0.001,0.001,0.001,0.001,0.001,0.001
+Wholesale,Asia,India,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Indonesia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Iran,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Iraq,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Iraq-Saudi Arabia Neutral Zone,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Ireland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Isle of Man,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Israel,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Wholesale,Europe,Italy,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Jamaica,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Japan,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Jersey,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Jordan,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Kazakhstan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Kenya,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Kiribati,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Korea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Kuwait,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Kyrgyz Republic,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Laos,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Latvia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Lebanon,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Lesotho,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Liberia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Libya,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Liechtenstein,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Lithuania,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Luxembourg,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Macao,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Macedonia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Madagascar,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Malawi,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Malaysia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Maldives,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Mali,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Malta,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Marshall Islands,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Martinique,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Mauritania,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Mauritius,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Mayotte,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Mexico,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Micronesia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Moldova,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Monaco,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Mongolia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Montenegro,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Montserrat,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Morocco,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Mozambique,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Myanmar,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Namibia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Nauru,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Nepal,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Netherlands Antilles,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Netherlands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,New Caledonia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,New Zealand,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Nicaragua,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Niger,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Nigeria,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Niue,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Norfolk Island,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Northern Mariana Islands the,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Norway,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Oman,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Pakistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Palau,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,"Palestinian Territory, Occupied",0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Panama,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Papua New Guinea,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Paraguay,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Peru,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Philippines,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Pitcairn Islands,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Poland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Portugal,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Puerto Rico,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Qatar,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Reunion,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Romania,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Russia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Rwanda,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Saint Barthelemy,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Saint Helena,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Saint Kitts and Nevis,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Saint Lucia,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Saint Martin,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Saint Pierre and Miquelon,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Saint Vincent and the Grenadines,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,"Samoa, Independent State of",0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,San Marino,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Sao Tome and Principe,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Saudi Arabia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Senegal,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Serbia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Seychelles,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Sierra Leone,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Wholesale,Asia,Singapore,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Sint Maarten (Netherlands),0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Slovakia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Slovenia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Solomon Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Slomalia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,South Africa,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Wholesale,Antarctica,South Georgia and the South Sandwich Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,South Sudan,0.009,0.0054,0.0036,0.00288,0.00216,0.00144,0.00108
+Wholesale,Europe,Spain,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Spratly Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Sri Lanka,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Sudan,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Suriname,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Svalbard & Jan Mayen Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Swaziland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Sweden,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Switzerland,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Syria,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Taiwan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Tajikistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Tanzania,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Thailand,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Timor-Leste,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Togo,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Tokelau,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Tonga,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Trinidad and Tobago,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Tunisia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Turkey,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Asia,Turkmenistan,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,Turks and Caicos Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Tuvalu,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Uganda,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Europe,Ukraine,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,UAE,0.0175,0.0175,0.0175,0.0175,0.0175,0.0175,0.0175
+Wholesale,Europe,UK,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,United Nations Neutral Zone,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,United States Minor Outlying Islands,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,USA,0.015,0.0085,0.0065,0.005,0.00375,0.002,0.00125
+Wholesale,North America,United States Virgin Islands,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Uruguay,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Uzbekistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Vanuatu,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Wholesale,South America,Venezuela,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Vietnam,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Oceania,Wallis and Futuna,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Western Sahara,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Asia,Yemen,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Wholesale,Africa,Zambia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Wholesale,Africa,Zimbabwe,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Åland Islands,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Afghanistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Albania,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Algeria,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,American Samoa,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Andorra,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Angola,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Anguilla,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Antigua and Barbuda,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,South America,Argentina,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Europe,Armenia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,North America,Aruba,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Oceania,Australia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Austria,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Azerbaijan,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,North America,Bahamas,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Asia,Bahrain,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Bangladesh,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Barbados,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Europe,Belarus,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Belgium,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Manufacturing,North America,Belize,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Benin,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Bermuda,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Asia,Bhutan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Bolivia,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,North America,"Bonaire, Sint Eustatius and Saba",0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Europe,Bosnia and Herzegovina,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Botswana,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Antarctica,Bouvet Island (Bouvetoya),0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Manufacturing,South America,Brazil,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Asia,British Indian Ocean Territory (Chagos Archipelago),0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,British Virgin Islands,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Asia,Brunei,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Bulgaria,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Burkina Faso,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Burundi,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Cambodia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Cameroon,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Canada,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Cape Verde,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Cayman Islands,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Central African Republic,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Chad,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Chile,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Asia,China,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Manufacturing,Asia,Christmas Island,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Cocos (Keeling) Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Colombia,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Africa,Comoros,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Congo,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Congo the,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Cook Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Costa Rica,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Cote d'Ivoire,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Croatia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,North America,Cuba,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Curacao,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Europe,Cyprus,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Czech Republic,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Denmark,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Oceania,Disputed Territory,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Djibouti,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Dominica,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Dominican Republic,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,South America,Ecuador,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Africa,Egypt,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,El Salvador,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Equatorial Guinea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Eritrea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Estonia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Ethiopia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Falkland Islands,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Europe,Faroe Islands,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Oceania,Fiji,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Finland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,France,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,South America,French Guiana,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Oceania,French Polynesia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Antarctica,French Southern Territories,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Manufacturing,Africa,Gabon,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Gambia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Georgia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Germany,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Manufacturing,Africa,Ghana,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Gibraltar,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Greece,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,North America,Greenland,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Grenada,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Guadeloupe,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Oceania,Guam,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Guatemala,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Europe,Guernsey,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Guinea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Guinea-Bissau,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Guyana,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,North America,Haiti,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Antarctica,Heard Island and McDonald Islands,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Manufacturing,Europe,Vatican City,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,North America,Honduras,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Asia,Hong Kong,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Manufacturing,Europe,Hungary,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Iceland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,India,0.001,0.001,0.001,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Indonesia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Iran,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Iraq,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Iraq-Saudi Arabia Neutral Zone,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Ireland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Isle of Man,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Israel,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Italy,0.0063,0.00378,0.00252,0.002016,0.001512,0.001008,0.000756
+Manufacturing,North America,Jamaica,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Asia,Japan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Jersey,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Jordan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Kazakhstan,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Kenya,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Kiribati,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Korea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Kuwait,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Kyrgyz Republic,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Laos,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Latvia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Lebanon,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Lesotho,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Liberia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Libya,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Liechtenstein,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Lithuania,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Luxembourg,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Macao,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Macedonia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Madagascar,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Malawi,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Malaysia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Maldives,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Mali,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Malta,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Oceania,Marshall Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Martinique,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Mauritania,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Mauritius,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Mayotte,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Mexico,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Oceania,Micronesia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Moldova,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Monaco,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Mongolia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Montenegro,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,North America,Montserrat,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Morocco,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Mozambique,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Myanmar,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Namibia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Nauru,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Nepal,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Netherlands Antilles,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Europe,Netherlands,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Oceania,New Caledonia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,New Zealand,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Nicaragua,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Niger,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Nigeria,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Niue,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Norfolk Island,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Northern Mariana Islands the,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Norway,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Oman,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Pakistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Palau,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,"Palestinian Territory, Occupied",0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Panama,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Oceania,Papua New Guinea,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Paraguay,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,South America,Peru,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Asia,Philippines,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Pitcairn Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Poland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Portugal,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,North America,Puerto Rico,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Asia,Qatar,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Reunion,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Romania,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Russia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Rwanda,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Saint Barthelemy,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Saint Helena,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Saint Kitts and Nevis,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Saint Lucia,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Saint Martin,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Saint Pierre and Miquelon,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,Saint Vincent and the Grenadines,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Oceania,"Samoa, Independent State of",0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,San Marino,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Sao Tome and Principe,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Saudi Arabia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Senegal,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Serbia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Seychelles,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Sierra Leone,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Singapore,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Manufacturing,North America,Sint Maarten (Netherlands),0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Europe,Slovakia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Slovenia,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Oceania,Solomon Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Slomalia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,South Africa,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Antarctica,South Georgia and the South Sandwich Islands,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Manufacturing,Africa,South Sudan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Spain,0.009,0.0054,0.0036,0.00288,0.00216,0.00144,0.00108
+Manufacturing,Asia,Spratly Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Sri Lanka,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Sudan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Suriname,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Europe,Svalbard & Jan Mayen Islands,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Africa,Swaziland,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Sweden,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Europe,Switzerland,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Syria,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Taiwan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Tajikistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Tanzania,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Thailand,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Timor-Leste,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Togo,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Tokelau,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Tonga,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Trinidad and Tobago,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Africa,Tunisia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Turkey,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,Turkmenistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,Turks and Caicos Islands,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,Oceania,Tuvalu,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Uganda,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,Ukraine,0.01,0.0075,0.006875,0.00625,0.005,0.0035,0.0025
+Manufacturing,Asia,UAE,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Europe,UK,0.0175,0.0175,0.0175,0.0175,0.0175,0.0175,0.0175
+Manufacturing,Asia,United Nations Neutral Zone,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,United States Minor Outlying Islands,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,North America,USA,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,North America,United States Virgin Islands,0.0125,0.0075,0.006,0.0045,0.0035,0.00175,0.00125
+Manufacturing,South America,Uruguay,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Asia,Uzbekistan,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Vanuatu,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,South America,Venezuela,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Manufacturing,Asia,Vietnam,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Oceania,Wallis and Futuna,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Western Sahara,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Asia,Yemen,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Zambia,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
+Manufacturing,Africa,Zimbabwe,0.0025,0.002,0.0015,0.001,0.001,0.001,0.001
