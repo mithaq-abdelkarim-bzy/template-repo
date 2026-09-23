@@ -1,0 +1,37 @@
+category,exposure_measure,obe_or_fte,obe_equivalent,formatted_obe_or_fte
+Beds,Acute Care,1.0,1,1.0
+Beds,Pediatric,1.0,1,1.0
+Beds,Bassinet,1.0,1,1.0
+Beds,ICU,1.0,1,1.0
+Beds,NICU,5.0,1,5.0
+Beds,Obstetric,1.0,1,1.0
+Beds,Alcohol / Drug,0.4,1,0.4
+Beds,Psychiatric,0.5,1,0.5
+Beds,Rehabilitation,0.3,1,0.3
+Beds,Skilled Nursing,0.2,1,0.2
+Beds,Long Term Care,0.07,1,0.07
+Procedures,Inpatient Surgery,0.0167,1,0.0167
+Procedures,Outpatient Surgery,0.004,1,0.004
+Procedures,Birth,0.125,1,0.125
+Procedures,Outpatient Visit,0.0005,1,0.0005
+Procedures,Lab & Pathology,0.0005,1,0.0005
+Procedures,Emergency Room,0.001,1,0.001
+Procedures,Home Health Visits,0.00015,1,0.00015
+Employed Doctors,Class 0,0.8,2,0.8
+Employed Doctors,Class 1,1.0,2,1.0
+Employed Doctors,Class 2,1.5,2,1.5
+Employed Doctors,Class 3,2.0,2,2.0
+Employed Doctors,Class 4,3.0,2,3.0
+Employed Doctors,Class 5,4.0,2,4.0
+Employed Doctors,Class 6,5.2,2,5.2
+Employed Doctors,Class 7,6.2,2,6.2
+Employed Doctors,Class 8,8.2,2,8.2
+Residents,Class 0,0.8,1,0.8
+Residents,Class 1,1.0,1,1.0
+Residents,Class 2,1.5,1,1.5
+Residents,Class 3,2.0,1,2.0
+Residents,Class 4,3.0,1,3.0
+Residents,Class 5,4.0,1,4.0
+Residents,Class 6,5.2,1,5.2
+Residents,Class 7,6.2,1,6.2
+Residents,Class 8,8.2,1,8.2

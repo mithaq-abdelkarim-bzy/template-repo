@@ -1,0 +1,65 @@
+cob,exposure_base_exposure_measure,product,exposure_base,exposure_measure_agg_group,exposure_measure,base_rate,format,formatted_base_rate
+HN : Nutraceuticals,Topicals // Receipts,Nutraguard,Topicals,Receipts,Receipts,0.00163,4 decimal places,0.002
+HN : Nutraceuticals,Veterinary Supplements // Receipts,Nutraguard,Veterinary Supplements,Receipts,Receipts,0.0012225,4 decimal places,0.0015
+HN : Nutraceuticals,Vitamins/Minerals // Receipts,Nutraguard,Vitamins/Minerals,Receipts,Receipts,0.00142625,4 decimal places,0.0018
+HN : Nutraceuticals,Immune/Digestive/Cardio/Joint Support // Receipts,Nutraguard,Immune/Digestive/Cardio/Joint Support,Receipts,Receipts,0.00183375,4 decimal places,0.0023
+HN : Nutraceuticals,Herbs/Botanicals // Receipts,Nutraguard,Herbs/Botanicals,Receipts,Receipts,0.002445,4 decimal places,0.003
+HN : Nutraceuticals,Protein // Receipts,Nutraguard,Protein,Receipts,Receipts,0.0020375,4 decimal places,0.0025
+HN : Nutraceuticals,Weight Loss/Body Building/Sport Nutrition // Receipts,Nutraguard,Weight Loss/Body Building/Sport Nutrition,Receipts,Receipts,0.00387125,4 decimal places,0.0048
+HN : Nutraceuticals,Sexual Enhancement // Receipts,Nutraguard,Sexual Enhancement,Receipts,Receipts,0.0044825,4 decimal places,0.0055
+HN : Nutraceuticals,Energy Drinks // Receipts,Nutraguard,Energy Drinks,Receipts,Receipts,0.004075,4 decimal places,0.005
+HN : Nutraceuticals,Food/Beverage (Excl Energy Drinks) // Receipts,Nutraguard,Food/Beverage (Excl Energy Drinks),Receipts,Receipts,0.002445,4 decimal places,0.003
+HN : Nutraceuticals,Personal Care Products (Incl. Cosmetics) // Receipts,Nutraguard,Personal Care Products (Incl. Cosmetics),Receipts,Receipts,0.0036675,4 decimal places,0.0045
+HN : Nutraceuticals,Nutra - Other Low // Receipts,Nutraguard,Nutra - Other Low,Receipts,Receipts,0.0012225,4 decimal places,0.0015
+HN : Nutraceuticals,Nutra - Other Middle // Receipts,Nutraguard,Nutra - Other Middle,Receipts,Receipts,0.00264875,4 decimal places,0.0033
+HN : Nutraceuticals,Nutra - Other High // Receipts,Nutraguard,Nutra - Other High,Receipts,Receipts,0.004075,4 decimal places,0.005
+HZ : Medical Cannabis,Medical Cannabis // Receipts,BioSecure,Medical Cannabis,Receipts,Receipts,0.0012225,4 decimal places,0.0015
+HD : Medical Devices,Organs // Receipts,BioSecure,Organs,Receipts,Receipts,0.0026895,4 decimal places,0.0033
+HD : Medical Devices,Tissue/Bone // Receipts,BioSecure,Tissue/Bone,Receipts,Receipts,0.0020375,4 decimal places,0.0025
+AJ : Pharmaceuticals,Blood Products // Receipts,BioSecure,Blood Products,Receipts,Receipts,0.0044825,4 decimal places,0.0055
+AJ : Pharmaceuticals,Prescription Injectables/Oral // Receipts,BioSecure,Prescription Injectables/Oral,Receipts,Receipts,0.002445,4 decimal places,0.003
+AJ : Pharmaceuticals,Prescription Topicals // Receipts,BioSecure,Prescription Topicals,Receipts,Receipts,0.0020375,4 decimal places,0.0025
+AJ : Pharmaceuticals,Hormones & Steroids // Receipts,BioSecure,Hormones & Steroids,Receipts,Receipts,0.0036675,4 decimal places,0.0045
+AJ : Pharmaceuticals,Over the Counter (OTC) // Receipts,BioSecure,Over the Counter (OTC),Receipts,Receipts,0.00326,4 decimal places,0.004
+AJ : Pharmaceuticals,Imaging Agents // Receipts,BioSecure,Imaging Agents,Receipts,Receipts,0.002119,4 decimal places,0.0026
+AJ : Pharmaceuticals,Biological Product (Except Diagnostic) (2836) // Receipts,BioSecure,Biological Product (Except Diagnostic) (2836),Receipts,Receipts,0.002771,4 decimal places,0.0034
+AJ : Pharmaceuticals,Vaccine - Live Virus // Receipts,BioSecure,Vaccine - Live Virus,Receipts,Receipts,0.003423,4 decimal places,0.0042
+AJ : Pharmaceuticals,Vaccine - Killed Virus // Receipts,BioSecure,Vaccine - Killed Virus,Receipts,Receipts,0.002445,4 decimal places,0.003
+AJ : Pharmaceuticals,Veterinary Prescription // Receipts,BioSecure,Veterinary Prescription,Receipts,Receipts,0.00163,4 decimal places,0.002
+AJ : Pharmaceuticals,Pharmaceuticals - Other Low // Receipts,BioSecure,Pharmaceuticals - Other Low,Receipts,Receipts,0.00183375,4 decimal places,0.0023
+AJ : Pharmaceuticals,Pharmaceuticals - Other Medium // Receipts,BioSecure,Pharmaceuticals - Other Medium,Receipts,Receipts,0.00305625,4 decimal places,0.0038
+AJ : Pharmaceuticals,Pharmaceuticals - Other High // Receipts,BioSecure,Pharmaceuticals - Other High,Receipts,Receipts,0.00427875,4 decimal places,0.0053
+HD : Medical Devices,Surgical Instruments - General // Receipts,BioSecure,Surgical Instruments - General,Receipts,Receipts,0.0015485,4 decimal places,0.0019
+HD : Medical Devices,Surgical Instruments - High Risk // Receipts,BioSecure,Surgical Instruments - High Risk,Receipts,Receipts,0.002445,4 decimal places,0.003
+HD : Medical Devices,Lasers - Surgical / Electromedical Light Therapy // Receipts,BioSecure,Lasers - Surgical / Electromedical Light Therapy,Receipts,Receipts,0.002608,4 decimal places,0.0032
+HD : Medical Devices,Lasers - Ophthalmology // Receipts,BioSecure,Lasers - Ophthalmology,Receipts,Receipts,0.00305625,4 decimal places,0.0038
+HD : Medical Devices,Lasers - Dermatology // Receipts,BioSecure,Lasers - Dermatology,Receipts,Receipts,0.00427875,4 decimal places,0.0053
+HD : Medical Devices,Mobility Equipment // Receipts,BioSecure,Mobility Equipment,Receipts,Receipts,0.00427875,4 decimal places,0.0053
+HD : Medical Devices,Scientific and Laboratory Instruments // Receipts,BioSecure,Scientific and Laboratory Instruments,Receipts,Receipts,0.0015485,4 decimal places,0.0019
+HD : Medical Devices,Consumable Medical Products/Supplies // Receipts,BioSecure,Consumable Medical Products/Supplies,Receipts,Receipts,0.0012225,4 decimal places,0.0015
+HD : Medical Devices,Implants - Active // Receipts,BioSecure,Implants - Active,Receipts,Receipts,0.00427875,4 decimal places,0.0053
+HD : Medical Devices,Implants - Non-Active // Receipts,BioSecure,Implants - Non-Active,Receipts,Receipts,0.00336595,4 decimal places,0.0041
+HD : Medical Devices,Respirators (Not including ventilators) // Receipts,BioSecure,Respirators (Not including ventilators),Receipts,Receipts,0.002445,4 decimal places,0.003
+HD : Medical Devices,"Prosthetics, Orthotics, Artificial Limbs // Receipts",BioSecure,"Prosthetics, Orthotics, Artificial Limbs",Receipts,Receipts,0.00305625,4 decimal places,0.0038
+HD : Medical Devices,Dental Appliances (Non-Implantable) // Receipts,BioSecure,Dental Appliances (Non-Implantable),Receipts,Receipts,0.00183375,4 decimal places,0.0023
+HD : Medical Devices,X Ray Apparatus (3844) // Receipts,BioSecure,X Ray Apparatus (3844),Receipts,Receipts,0.00215975,4 decimal places,0.0027
+HD : Medical Devices,Electromedical / Therapeutic Apparatus (3845) // Receipts,BioSecure,Electromedical / Therapeutic Apparatus (3845),Receipts,Receipts,0.00305625,4 decimal places,0.0038
+HD : Medical Devices,Medical Devices - Other Low // Receipts,BioSecure,Medical Devices - Other Low,Receipts,Receipts,0.00183375,4 decimal places,0.0023
+HD : Medical Devices,Medical Devices - Other Medium // Receipts,BioSecure,Medical Devices - Other Medium,Receipts,Receipts,0.00305625,4 decimal places,0.0038
+HD : Medical Devices,Medical Devices - Other High // Receipts,BioSecure,Medical Devices - Other High,Receipts,Receipts,0.00427875,4 decimal places,0.0053
+HC : Clinical Research and Site Management,R&D in Biotechnology (8732) // Receipts,BioSecure,R&D in Biotechnology (8732),Receipts,Receipts,0.0012225,4 decimal places,0.0015
+HC : Clinical Research and Site Management,Clinical Research - Other Low // Receipts,BioSecure,Clinical Research - Other Low,Receipts,Receipts,0.00183375,4 decimal places,0.0023
+HC : Clinical Research and Site Management,Clinical Research - Other Medium // Receipts,BioSecure,Clinical Research - Other Medium,Receipts,Receipts,0.00305625,4 decimal places,0.0038
+HC : Clinical Research and Site Management,Clinical Research - Other High // Receipts,BioSecure,Clinical Research - Other High,Receipts,Receipts,0.00427875,4 decimal places,0.0053
+HI : Sponsored Clinical Trials,Phase I  // Participants,BioSecure,Phase I ,Participants,Participants,81.5,Number with comma separator,100
+HI : Sponsored Clinical Trials,Phase II // Participants,BioSecure,Phase II,Participants,Participants,32.6,Number with comma separator,40
+HI : Sponsored Clinical Trials,Phase III // Participants,BioSecure,Phase III,Participants,Participants,20.375,Number with comma separator,25
+HI : Sponsored Clinical Trials,Phase IV / Observational // Participants,BioSecure,Phase IV / Observational,Participants,Participants,12.225,Number with comma separator,15
+HC : Clinical Research and Site Management,Preclinical Revenues // Receipts,BioSecure,Preclinical Revenues,Receipts,Receipts,0.000815,4 decimal places,0.001
+HC : Clinical Research and Site Management,Clinical Revenues // Receipts,BioSecure,Clinical Revenues,Receipts,Receipts,0.002445,4 decimal places,0.003
+HC : Clinical Research and Site Management,Clinical Research Associates // Staff,BioSecure,Clinical Research Associates,Staff,Staff,81.5,Number with comma separator,100
+HC : Clinical Research and Site Management,Clinical Research Monitors // Staff,BioSecure,Clinical Research Monitors,Staff,Staff,122.25,Number with comma separator,150
+HC : Clinical Research and Site Management,Physicians // Staff,BioSecure,Physicians,Staff,Staff,815.0,Number with comma separator,"1,000"
+HC : Clinical Research and Site Management,Principal Investigators // Staff,BioSecure,Principal Investigators,Staff,Staff,611.25,Number with comma separator,750
+HC : Clinical Research and Site Management,Clinical Research Coordinators // Staff,BioSecure,Clinical Research Coordinators,Staff,Staff,203.75,Number with comma separator,250
+HC : Clinical Research and Site Management,Clinical Trials - Other // Staff,BioSecure,Clinical Trials - Other,Staff,Staff,81.5,Number with comma separator,100

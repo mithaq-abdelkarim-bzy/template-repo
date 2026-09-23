@@ -1,0 +1,524 @@
+{
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_basic_experience_rating": {
+    "Clean Years": "str",
+    "Adjustment": "float"
+  },
+  "table_claims_inflation": {
+    "year": "int",
+    "claims_inflation": "float"
+  },
+  "table_currency": {
+    "currency": "str"
+  },
+  "table_development_method": {
+    "development": "float",
+    "method": "str"
+  },
+  "table_development_patterns": {
+    "years": "int",
+    "development": "float"
+  },
+  "table_exposure_inflation": {
+    "year": "int",
+    "exposure_inflation": "float"
+  },
+  "table_premium_rate_change": {
+    "year": "int",
+    "rate_change": "float"
+  },
+  "table_choice_of_law": {
+    "us_international": "str",
+    "choice_of_law": "str",
+    "default_currency": "str"
+  },
+  "table_insured_name": {
+    "firm_name": "str"
+  },
+  "table_account_scoring": {
+    "account_scoring_label": "str",
+    "account_scoring_name": "str"
+  },
+  "table_venue_us": {
+    "venue_label": "str",
+    "factor": "float",
+    "venue_name": "str"
+  },
+  "table_venue_international": {
+    "venue_label": "str",
+    "factor": "float",
+    "venue_name": "str"
+  },
+  "table_gmm_product_class": {
+    "product": "str",
+    "cob_code_description": "str",
+    "cob_class": "str"
+  },
+  "table_glsn_product_class": {
+    "product": "str",
+    "cob_code_description": "str"
+  },
+  "table_glsn_form": {
+    "form": "str"
+  },
+  "table_glsn_supply_chain": {
+    "supply_chain_label": "str",
+    "factor": "float",
+    "supply_chain_name": "str"
+  },
+  "table_glsn_base_rate_commission": {
+    "base_rate_standard_commission": "float"
+  },
+  "table_glsn_clinical_trial": {
+    "clinical_trial_label": "str",
+    "factor": "float",
+    "clinical_trail_name": "str"
+  },
+  "table_gmm_exposure_classes": {
+    "class_exposure_measure": "str",
+    "product": "str",
+    "class": "str",
+    "exposure_measure_agg_group": "str",
+    "exposure_measure": "str",
+    "base_rate": "float",
+    "format": "str",
+    "formatted_base_rate": "str"
+  },
+  "table_glsn_exposure_classes": {
+    "cob": "str",
+    "exposure_base_exposure_measure": "str",
+    "product": "str",
+    "exposure_base": "str",
+    "exposure_measure_agg_group": "str",
+    "exposure_measure": "str",
+    "base_rate": "float",
+    "format": "str",
+    "formatted_base_rate": "str"
+  },
+  "table_glsn_aggregation_type": {
+    "type": "str"
+  },
+  "table_glsn_danger_ingred_1": {
+    "ingredient_label": "str",
+    "ingredient_name": "str"
+  },
+  "table_glsn_danger_ingred_2": {
+    "ingredient_label": "str",
+    "ingredient_name": "str"
+  },
+  "table_tech_eo": {
+    "industry_class_label": "str",
+    "industry_class_name": "str",
+    "class_group": "int"
+  },
+  "table_tech_eo_contingent_bi_pd": {
+    "contingent_bi_pd": "str",
+    "factor": "float"
+  },
+  "table_cyber_notified_individual": {
+    "notified_individuals_limit": "int"
+  },
+  "table_cyber_legal": {
+    "legal_forensic_limit": "int"
+  },
+  "table_cyber_add_breach": {
+    "additional_breach_costs_limit": "int"
+  },
+  "table_cyber_policy_agg_limit": {
+    "policy_agg_limit_of_liability": "int"
+  },
+  "table_cyber_data_network": {
+    "data_network_limit": "int"
+  },
+  "table_cyber_defense_penalties": {
+    "defense_penalties_limit": "int"
+  },
+  "table_cyber_card_liability": {
+    "card_liability_limit": "int"
+  },
+  "table_cyber_legal_retention": {
+    "legal_forensic_retention": "int"
+  },
+  "table_cyber_subretention": {
+    "legal_subretention": "int"
+  },
+  "table_cyber_agg_retention": {
+    "policy_agg_retention": "int"
+  },
+  "table_cyber_loss_rating": {
+    "loss_ratio": "str",
+    "default": "float",
+    "lower_bound": "float",
+    "upper_bound": "float"
+  },
+  "table_cyber_schedule_rating": {
+    "description_label": "str",
+    "min": "float",
+    "max": "float",
+    "description_name": "str"
+  },
+  "table_gmm_umbrella": {
+    "umbrella_label": "str",
+    "umbrella_name": "str"
+  },
+  "table_glsn_umbrella": {
+    "umbrella_label": "str",
+    "umbrella_name": "str"
+  },
+  "table_gmm_schedule_mods": {
+    "description_label": "str",
+    "min": "str",
+    "max": "str",
+    "description_name": "str"
+  },
+  "table_glsn_schedule_mods": {
+    "description_label": "str",
+    "min": "str",
+    "max": "str",
+    "description_name": "str"
+  },
+  "table_gmm_size_discount": {
+    "revenue_lower": "float",
+    "revenue_upper": "float",
+    "credit": "float",
+    "discount": "float"
+  },
+  "table_glsn_size_discount_rev": {
+    "revenue_lower": "float",
+    "revenue_upper": "float",
+    "life_sciences": "float",
+    "nutra": "float"
+  },
+  "table_glsn_size_discount_part": {
+    "number_of_participants_lower": "float",
+    "number_of_participants_higher": "float",
+    "discount": "float"
+  },
+  "table_triage_doctors_residents": {
+    "specialty": "str",
+    "iso_code": "str",
+    "iso_class": "str",
+    "class_grouped": "str",
+    "obe_per_doctor": "float",
+    "obe_per_resident": "float"
+  },
+  "table_triage_obe": {
+    "category": "str",
+    "exposure_measure": "str",
+    "obe_or_fte": "float",
+    "obe_equivalent": "int",
+    "formatted_obe_or_fte": "str"
+  },
+  "table_triage_base_rate": {
+    "base_rate_per_obe": "int"
+  },
+  "table_gmm_surcharge": {
+    "coverage_label": "str",
+    "coverage_name": "str",
+    "us_international": "str",
+    "product": "str",
+    "class": "str",
+    "surcharge": "float"
+  },
+  "table_gmm_retroactive": {
+    "retro_years": "int",
+    "factor": "float"
+  },
+  "table_gmm_deductible_credits": {
+    "deductible": "int",
+    "factor": "float"
+  },
+  "table_gmm_indemnity_ded_split": {
+    "indemnity_defence_split": "float"
+  },
+  "table_gmm_ilfs": {
+    "lev": "int",
+    "ilf": "float"
+  },
+  "table_gmm_base_limit_pl": {
+    "basic_limit_pl": "int"
+  },
+  "table_gmm_agg_to_eec": {
+    "agg_eec": "int",
+    "factor": "float"
+  },
+  "table_gmm_policy_agg": {
+    "ratio_pol_agg_to_sum_individual": "float",
+    "factor": "float"
+  },
+  "table_gmm_tria_min": {
+    "tria_min_prem": "int"
+  },
+  "table_gmm_costs_in_addition": {
+    "costs_in_addition": "str",
+    "debit": "float"
+  },
+  "table_gmm_auto_hnoa_base_rate": {
+    "auto_base_prem": "int"
+  },
+  "table_gmm_spanish_minimum_cob": {
+    "code": "str",
+    "minimum": "int"
+  },
+  "table_gmm_spain_class": {
+    "spain_class": "str",
+    "minimum": "int"
+  },
+  "table_gmm_minimum_premium": {
+    "product": "str",
+    "cob_class": "str",
+    "cob_code": "str",
+    "us_international": "str",
+    "minimum_premium": "float"
+  },
+  "table_gmm_excess_agg_to_eel": {
+    "agg_to_eel_ratio": "int",
+    "factor": "float"
+  },
+  "table_gmm_priced_to_net_lr": {
+    "loss_ratio": "float"
+  },
+  "table_benchmark_lr": {
+    "loss_ratio": "float"
+  },
+  "table_glsn_surcharge": {
+    "us_international": "str",
+    "product": "str",
+    "class": "str",
+    "product_liability": "int",
+    "eo": "int",
+    "healthcare_professional_liability": "int",
+    "general_liability": "float",
+    "sexual_abuse": "float",
+    "employee_benefits_liability": "float",
+    "employers_liability": "float",
+    "well_tech_eo_media": "float",
+    "product_recall": "float",
+    "stop_gap": "float",
+    "tria": "float",
+    "punitive_damages": "float"
+  },
+  "table_glsn_retroactive": {
+    "retro_years": "int",
+    "factor": "float"
+  },
+  "table_glsn_policy_agg": {
+    "ratio_pol_agg_to_sum_individual": "float",
+    "factor": "float"
+  },
+  "table_glsn_agg_retention": {
+    "ratio_pol_agg_to_sum_individual": "float",
+    "life_science": "float",
+    "nutra": "float"
+  },
+  "table_glsn_parametric_ilfs": {
+    "parameter": "str",
+    "biosecure": "float",
+    "nutraguard": "float"
+  },
+  "table_glsn_ilfs": {
+    "lev": "int",
+    "biosecure": "float",
+    "nutragard": "float",
+    "general_liability": "float"
+  },
+  "table_glsn_agg_to_eec": {
+    "agg_eec": "int",
+    "biosecure": "float",
+    "nutraguard": "float"
+  },
+  "table_glsn_excess_agg_to_eec": {
+    "agg_eec": "int",
+    "biosecure": "float",
+    "nutraguard": "float"
+  },
+  "table_tech_eo_base_rate": {
+    "revenue": "float",
+    "1_lower": "float",
+    "1_upper": "float",
+    "2_lower": "float",
+    "2_upper": "float",
+    "3_lower": "float",
+    "3_upper": "float",
+    "4_lower": "float",
+    "4_upper": "float",
+    "next": "float"
+  },
+  "table_tech_eo_constants": {
+    "factor_name": "str",
+    "factor": "float"
+  },
+  "table_tech_eo_guideline_retention": {
+    "revenue_low": "float",
+    "revenue_high": "float",
+    "slope": "float",
+    "intercept": "float"
+  },
+  "table_tech_eo_retention_ratio": {
+    "lower": "float",
+    "higher": "float",
+    "factor": "float"
+  },
+  "table_tech_eo_ilf_revenue": {
+    "revenue_lower": "float",
+    "revenue_upper": "float",
+    "column_lower": "float",
+    "column_upper": "float"
+  },
+  "table_tech_eo_ilf_factors": {
+    "per_occurence_limit": "float",
+    "next_per_occurence_limit": "float",
+    "revenue_100m": "float",
+    "revenue_250m": "float"
+  },
+  "table_tech_eo_agg_limit": {
+    "limit_ratio": "float",
+    "next_limit_ratio": "float",
+    "value_at_start": "float",
+    "value_at_end": "float"
+  },
+  "table_cyber_base_premium_bbr": {
+    "revenue_start": "float",
+    "revenue_end": "float",
+    "size_of_band": "float",
+    "base_premium": "float"
+  },
+  "table_cyber_base_premium_infosec": {
+    "revenue_start": "float",
+    "revenue_end": "float",
+    "size_of_band": "float",
+    "base_premium": "float"
+  },
+  "table_cyber_constants": {
+    "factor_name": "str",
+    "factor": "float"
+  },
+  "table_cyber_base_rate_bbr": {
+    "revenue_start": "float",
+    "revenue_end": "float",
+    "size_of_band": "float",
+    "base_rate": "float"
+  },
+  "table_cyber_base_rate_infosec": {
+    "revenue_start": "float",
+    "revenue_end": "float",
+    "size_of_band": "float",
+    "base_rate": "float"
+  },
+  "table_cyber_agg_limit_ilf": {
+    "limit": "float",
+    "next_limit": "float",
+    "low": "float",
+    "high": "float"
+  },
+  "table_cyber_notified_guideline": {
+    "revenue_from": "float",
+    "revenue_to": "float",
+    "slope": "float",
+    "intercept": "float",
+    "min": "float",
+    "max": "float"
+  },
+  "table_cyber_notified_retention_ratio": {
+    "retention_ratio_lower": "float",
+    "retention_ratio_upper": "float",
+    "modifier_lower": "float",
+    "modifier_upper": "float"
+  },
+  "table_cyber_aggregate_retention_guideline": {
+    "revenue_from": "float",
+    "revenue_to": "float",
+    "slope": "float",
+    "intercept": "float",
+    "min": "float",
+    "max": "float"
+  },
+  "table_cyber_agg_retention_ratio_modifier": {
+    "ratio_lower": "float",
+    "ratio_higher": "float",
+    "bbr_modifier_lower": "float",
+    "bbr_modifier_upper": "float",
+    "infosec_modifier_lower": "float",
+    "infosec_modifier_upper": "float"
+  },
+  "table_cyber_privacy_breach_response": {
+    "open_low": "float",
+    "open_high": "float",
+    "default": "float"
+  },
+  "table_cyber_payment_card_limit": {
+    "answer_low": "float",
+    "answer_high": "float",
+    "credit": "float"
+  },
+  "table_cyber_additional_coverages_deleted": {
+    "delete_coverage_name": "str",
+    "factor": "float"
+  },
+  "table_cyber_bi_pd": {
+    "option": "str",
+    "debit": "float"
+  },
+  "table_cyber_regulatory_defence": {
+    "low": "float",
+    "high": "float",
+    "default": "float"
+  },
+  "table_glsn_significant_coverage": {
+    "Level": "str",
+    "1": "float",
+    "2": "float",
+    "3": "float"
+  },
+  "table_glsn_tria_min": {
+    "tria_min_prem": "int"
+  },
+  "table_glsn_minimum_premium": {
+    "Level": "str",
+    "Parameter": "int",
+    "Description": "str"
+  },
+  "table_glsn_priced_to_net_lr": {
+    "loss_ratio": "float"
+  },
+  "table_minimum_excess_premium": {
+    "Minimum Premium RoL": "float"
+  },
+  "table_umbrella_gmm_curves": {
+    "umbrella_covers": "str",
+    "umbrella_name": "str",
+    "occurrence_load": "float",
+    "aggregate_load": "float",
+    "implied_load_freq": "float",
+    "curve": "str",
+    "mu": "float",
+    "sigma": "float"
+  },
+  "table_umbrella_glsn_curves": {
+    "umbrella_covers": "str",
+    "umbrella_name": "str",
+    "occurrence_load": "float",
+    "aggregate_load": "float",
+    "implied_load_freq": "float",
+    "curve": "str",
+    "mu": "float",
+    "sigma": "float"
+  },
+  "table_cyber_territory_factor": {
+    "Level": "str",
+    "Factor": "float"
+  },
+  "table_glsn_override_terms": {
+    "override_name": "str",
+    "override_label": "str"
+  }
+}

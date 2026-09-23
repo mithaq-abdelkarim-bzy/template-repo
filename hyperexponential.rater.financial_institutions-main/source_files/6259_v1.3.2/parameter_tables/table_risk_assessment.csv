@@ -1,0 +1,22 @@
+risk_assessment_question,level_1,level_2,level_3,level_4,level_5
+Policy wording,-0.2,0,0.25,0,0
+Claims History - Crime & PI,0.65,0.35,0.2,0.1,0
+Claims History - D&O,0.65,0.35,0.2,0.1,0
+Quality of risk management,-0.25,0,0.25,0,0
+Strength of financials,-0.1,0,0.1,0,0
+Quality of technological infrastructure,-0.1,0,0.1,0,0
+Quality of physical controls,-0.1,0,0.1,0,0
+Employees includes agents,0.25,0,0,0,0
+Regulatory risk,-0.05,0,0.1,0,0
+Quality of claims handling,-0.1,0,0.1,0,0
+Complexity of insured's products/services,-0.2,0,0.2,0,0
+Quality of business continuity plans,-0.1,0,0.1,0,0
+Regulatory Body,0.2,0,0,0,0
+Extent of leveraged gearing,0,0.2,0.4,0,0
+Investment performance,-0.2,0,0.2,0,0
+Net inflow/outflows,-0.1,0,0.1,0,0
+Satisfactory external annual valuation (PE/VC/Real Estate),0,0.2,0,0,0
+Loan covenant breach,0,0.1,0,0,0
+Portfolio companies already purchase D&O cover,-0.1,0,0,0,0
+Data centre strategy,0,0.1,0,0,0
+Technology Outsourcing,0,0.1,0,0,0

@@ -1,0 +1,14 @@
+umbrella_label,umbrella_name
+Auto Liability,auto_liability
+Employers Liability,employers_liability
+General Liability,general_liability
+Foreign Liability,foreign_liability
+Aircraft (Non-Owned),aircraft_nonowned
+Aircraft (Owned),aircraft_owned
+Garage Keepers Liability,garage_keepers_liability
+Liquor Law Liability,liquor_law_liability
+Watercraft (Non-Owned),watercraft_non_owned
+Watercraft (Owned),watercraft_owned
+Foreign Employers Liability,foreign_employers_liability
+Foreign General Liability,foreign_general_liability
+Foreign Auto Liability,foreign_auto_liability

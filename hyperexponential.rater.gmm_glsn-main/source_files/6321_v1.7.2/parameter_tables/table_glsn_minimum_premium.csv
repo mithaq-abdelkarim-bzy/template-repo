@@ -1,0 +1,8 @@
+Level,Parameter,Description
+MinimumPremiumBaseEECLim,2000000,Base EEC limit
+MinimumPremiumBase,10000,Min prem at base
+MinimumPremiumEECLimStep,1000000,Each increase of this above EEC will mean…
+MinimumPremiumEECMinStep,5000,…this increase in minimum premium
+MinimumPremiumBaseAGGLim,2000000,Base AGG limit
+MinimumPremiumAGGLimStep,1000000,Each increase of this above AGGL will mean…
+MinimumPremiumAGGMinStep,2500,… this increase in minimum premium

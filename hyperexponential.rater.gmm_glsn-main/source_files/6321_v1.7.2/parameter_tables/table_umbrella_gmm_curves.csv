@@ -1,0 +1,15 @@
+umbrella_covers,umbrella_name,occurrence_load,aggregate_load,implied_load_freq,curve,mu,sigma
+Auto Liability,auto_liability,1.00000,1.00000,0.00000,TR,12.32000,1.24000
+Employers Liability,employers_liability,1.00000,1.00000,0.00000,TR,12.32000,1.24000
+Foreign Liability,foreign_liability,1.00000,1.00000,0.00000,TR,12.32000,1.24000
+Aircraft (Non-Owned),aircraft_nonowned,1.00000,1.00000,0.00000,U,6.66020,4.32680
+Aircraft (Owned),aircraft_owned,1.00000,1.00000,0.00000,U,6.66020,4.32680
+Auto - Ambulance,auto_ambulance,1.05000,1.10000,0.11000,L,13.36000,1.04000
+Educators Liability,educators_liability,1.00000,1.00000,0.00000,U,6.66020,4.32680
+Garage Keepers Liability,garage_keepers_liability,1.00000,1.00000,0.00000,TR,12.32000,1.24000
+Helipad,helipad,1.05000,1.10000,1.13000,U,6.66020,4.32680
+Liquor Law Liability,liquor_law_liability,1.00000,1.00000,0.00000,TR,12.32000,1.24000
+Managed Care E&O - Health Plan,managed_care_eo_health_plan,1.00000,1.00000,0.00000,U,6.66020,4.32680
+Managed Care E&O - Non-Health Plan,managed_care_eo_nonhealth_plan,1.00000,1.00000,0.00000,U,6.66020,4.32680
+Watercraft (Non-Owned),watercraft_nonowned,1.00000,1.00000,0.00000,TR,12.32000,1.24000
+Watercraft (Owned),watercraft_owned,1.00000,1.00000,0.00000,TR,12.32000,1.24000

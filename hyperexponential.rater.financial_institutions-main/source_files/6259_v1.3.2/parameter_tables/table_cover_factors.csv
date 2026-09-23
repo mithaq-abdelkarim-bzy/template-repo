@@ -1,0 +1,6 @@
+type,param,value
+ReinstatementFactor,0,0.05
+LimShared,0,0
+LimShared,1,0
+LimShared,2,-0.3
+LimShared,3,-0.4

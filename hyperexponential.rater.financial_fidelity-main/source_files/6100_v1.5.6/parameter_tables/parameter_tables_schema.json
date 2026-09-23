@@ -1,0 +1,151 @@
+{
+  "modifier_limits": {
+    "modifier": "str",
+    "minimum": "float",
+    "maximum": "float"
+  },
+  "InstitutionTypes": {
+    "institution_type": "str",
+    "form": "str",
+    "form_parent": "int"
+  },
+  "BasicUnitOfCoverage": {
+    "assets": "float",
+    "basic_unit_of_coverage": "float"
+  },
+  "ExposureUnitsPartA": {
+    "coverage": "float",
+    "exposure_units": "float"
+  },
+  "ExposureUnitsPartB": {
+    "number_of_employees": "float",
+    "exposure_units": "float"
+  },
+  "ExposureUnitsPartC": {
+    "coverage": "float",
+    "multiplier": "float"
+  },
+  "LossCosts": {
+    "Coverage Type": "str",
+    "Form 14": "float",
+    "Form 15": "float",
+    "Form 15 (Finance)": "float",
+    "Form 15 (Small Loan)": "float",
+    "Form 23": "float",
+    "Form 24": "float",
+    "Form 24 (Savings Bank)": "float",
+    "Form 24 (SLA)": "float",
+    "Form 25": "float"
+  },
+  "LossCostsEExcluding": {
+    "Loan to Deposit Ratio": "float",
+    "Form 14": "float",
+    "Form 15": "float",
+    "Form 15 (Finance)": "float",
+    "Form 15 (Small Loan)": "float",
+    "Form 23": "float",
+    "Form 24": "float",
+    "Form 24 (Savings Bank)": "float",
+    "Form 24 (SLA)": "float",
+    "Form 25": "float"
+  },
+  "LossCostsEIncluding": {
+    "Loan to Deposit Ratio": "float",
+    "Form 14": "float",
+    "Form 15": "float",
+    "Form 15 (Finance)": "float",
+    "Form 15 (Small Loan)": "float",
+    "Form 23": "float",
+    "Form 24": "float",
+    "Form 24 (Savings Bank)": "float",
+    "Form 24 (SLA)": "float",
+    "Form 25": "float"
+  },
+  "Coverages": {
+    "Coverage Type": "str",
+    "Form 14": "str",
+    "Form 15": "str",
+    "Form 15 (Finance)": "str",
+    "Form 15 (Small Loan)": "str",
+    "Form 23": "str",
+    "Form 24": "str",
+    "Form 24 (Savings Bank)": "str",
+    "Form 24 (SLA)": "str",
+    "Form 25": "str",
+    "Coverage Variable": "str"
+  },
+  "DataSetup": {
+    "CoverNum": "int",
+    "CoverName": "str",
+    "CoverVbl": "str",
+    "CoverSchema": "str",
+    "CoverSchema2": "str"
+  },
+  "ExposureUnitsPartD": {
+    "Additional Location": "str",
+    "US": "float",
+    "Other": "float"
+  },
+  "RatableEmployees": {
+    "Assets": "float",
+    "Ratable Employees": "int"
+  },
+  "LiabilityDepositoryLossCost": {
+    "Limit": "float",
+    "Loss Cost": "float"
+  },
+  "LossPropertyDamagesAdditionalLocations": {
+    "Additional Locations": "float",
+    "Charge Each in Layer": "float",
+    "Total Charge Start of Layer": "float"
+  },
+  "BasicBondMinimumCoverage": {
+    "Assets": "float",
+    "Form 14": "float",
+    "Form 15": "float",
+    "Form 15 (Finance)": "float",
+    "Form 15 (Small Loan)": "float",
+    "Form 23": "float",
+    "Form 24": "float",
+    "Form 24 (Savings Bank)": "float",
+    "Form 24 (SLA)": "float",
+    "Form 25": "float"
+  },
+  "MinMaxCoverage": {
+    "Cover": "str",
+    "Min Coverage": "float",
+    "Max Coverage": "float",
+    "Min Deductible": "float",
+    "Max Deductible": "float"
+  },
+  "GlobalParams": {
+    "Variable": "str",
+    "Value": "float"
+  },
+  "SubjectLossCost": {
+    "Subject Loss Cost": "float",
+    "Premium Modifier": "float",
+    "Adjusted Loss Multiplier": "float",
+    "Maximum Single Loss": "float",
+    "Note": "str"
+  },
+  "StateLookup": {
+    "State": "str",
+    "LCM": "float",
+    "Admitted": "str",
+    "Uses LCRP-1": "str",
+    "Allows (a) Rating": "str",
+    "Allows Schedule Rating": "str",
+    "Premium Threshold for Schedule Rating": "float",
+    "Rating Note": "str",
+    "Schedule Mod Minimum": "float",
+    "Schedule Mod Maximum": "float",
+    "Premium Threshold for LCRP-1": "float"
+  },
+  "underwriter_list": {
+    "UnderwriterName": "str"
+  },
+  "currency": {
+    "currency": "str"
+  }
+}

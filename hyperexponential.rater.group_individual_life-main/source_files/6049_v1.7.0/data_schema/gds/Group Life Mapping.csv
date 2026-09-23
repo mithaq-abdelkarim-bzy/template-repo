@@ -1,0 +1,104 @@
+﻿Name,Mode,CDS level,Coverage,Relative path,Rater Defined?,Type,Default,Label hx
+cover_type,input,cds/layers/coverages,death,/death/cover_type,Y,str,,Deaths covered
+accidental_death_adj,input,cds/layers/coverages,death,/death/accidental_death_adj,Y,str,,Accidental death adjustment
+sick_affluence,input,cds/layers/coverages,death,/death/sick_affluence,Y,bool,False,Sickness - affluence correction
+sick_weight_to_nationality,input,cds/layers/coverages,death,/death/sick_weight_to_nationality,Y,float,,Sickness rate - weight to nationality
+accidental_death_rate,input,cds/layers/coverages,death,/death/accidental_death_rate,Y,str,,Proportion of deaths which are accidents
+model_premium_pre_uw_adj,output,cds/layers/coverages,death,/death/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers/coverages,death,/death/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,input,cds/layers/coverages,death,/death/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers/coverages,death,/death/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers/coverages,death,/death/model_premium,N,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers/coverages,death,/death/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers/coverages,death,/death/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,input,cds/layers/coverages,death,/death/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers/coverages,death,/death/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers/coverages,death,/death/quoted_premium,N,float,,Commercially Achieved Premium
+is_covered,input,cds/layers/coverages,additional_death,/additional_death/is_covered,Y,bool,False,Additional death benefit?
+model_premium_pre_uw_adj,output,cds/layers/coverages,additional_death,/additional_death/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers/coverages,additional_death,/additional_death/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,input,cds/layers/coverages,additional_death,/additional_death/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers/coverages,additional_death,/additional_death/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers/coverages,additional_death,/additional_death/model_premium,N,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers/coverages,additional_death,/additional_death/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers/coverages,additional_death,/additional_death/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,input,cds/layers/coverages,additional_death,/additional_death/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers/coverages,additional_death,/additional_death/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers/coverages,additional_death,/additional_death/quoted_premium,N,float,,Commercially Achieved Premium
+is_covered,input,cds/layers/coverages,terminal_illness,/terminal_illness/is_covered,Y,bool,False,Terminal illness?
+model_premium_pre_uw_adj,output,cds/layers/coverages,terminal_illness,/terminal_illness/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers/coverages,terminal_illness,/terminal_illness/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,input,cds/layers/coverages,terminal_illness,/terminal_illness/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers/coverages,terminal_illness,/terminal_illness/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers/coverages,terminal_illness,/terminal_illness/model_premium,N,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers/coverages,terminal_illness,/terminal_illness/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers/coverages,terminal_illness,/terminal_illness/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,input,cds/layers/coverages,terminal_illness,/terminal_illness/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers/coverages,terminal_illness,/terminal_illness/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers/coverages,terminal_illness,/terminal_illness/quoted_premium,N,float,,Commercially Achieved Premium
+is_covered,input,cds/layers/coverages,critical_illness,/critical_illness/is_covered,Y,bool,False,Critical illness?
+benefit,input,cds/layers/coverages,critical_illness,/critical_illness/benefit,Y,str,,Benefit
+benefit_amount,input,cds/layers/coverages,critical_illness,/critical_illness/benefit_amount,Y,float,,Benefit amount
+cap,input,cds/layers/coverages,critical_illness,/critical_illness/cap,Y,float,,Cap (amount):
+model_premium_pre_uw_adj,output,cds/layers/coverages,critical_illness,/critical_illness/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers/coverages,critical_illness,/critical_illness/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,input,cds/layers/coverages,critical_illness,/critical_illness/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers/coverages,critical_illness,/critical_illness/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers/coverages,critical_illness,/critical_illness/model_premium,N,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers/coverages,critical_illness,/critical_illness/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers/coverages,critical_illness,/critical_illness/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,input,cds/layers/coverages,critical_illness,/critical_illness/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers/coverages,critical_illness,/critical_illness/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers/coverages,critical_illness,/critical_illness/quoted_premium,N,float,,Commercially Achieved Premium
+is_covered,input,cds/layers/coverages,repat_exp,/repat_exp/is_covered,Y,bool,False,Repat exp?
+limit,input,cds/layers/coverages,repat_exp,/repat_exp/limit,N,float,,Limit per person
+model_premium_pre_uw_adj,output,cds/layers/coverages,repat_exp,/repat_exp/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers/coverages,repat_exp,/repat_exp/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,input,cds/layers/coverages,repat_exp,/repat_exp/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers/coverages,repat_exp,/repat_exp/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers/coverages,repat_exp,/repat_exp/model_premium,N,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers/coverages,repat_exp,/repat_exp/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers/coverages,repat_exp,/repat_exp/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,input,cds/layers/coverages,repat_exp,/repat_exp/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers/coverages,repat_exp,/repat_exp/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers/coverages,repat_exp,/repat_exp/quoted_premium,N,float,,Commercially Achieved Premium
+model_premium_pre_uw_adj,output,cds/layers,,/totals/total_ex_pc_ncb/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers,,/totals/total_ex_pc_ncb/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,output,cds/layers,,/totals/total_ex_pc_ncb/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers,,/totals/total_ex_pc_ncb/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers,,/totals/total_ex_pc_ncb/model_premium,Y,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers,,/totals/total_ex_pc_ncb/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers,,/totals/total_ex_pc_ncb/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,output,cds/layers,,/totals/total_ex_pc_ncb/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers,,/totals/total_ex_pc_ncb/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers,,/totals/total_ex_pc_ncb/quoted_premium,Y,float,,Commercially Achieved Premium
+model_premium_pre_uw_adj,output,cds/layers,,/totals/pc/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers,,/totals/pc/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,output,cds/layers,,/totals/pc/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers,,/totals/pc/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers,,/totals/pc/model_premium,Y,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers,,/totals/pc/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers,,/totals/pc/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,output,cds/layers,,/totals/pc/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers,,/totals/pc/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers,,/totals/pc/quoted_premium,Y,float,,Commercially Achieved Premium
+model_premium_pre_uw_adj,output,cds/layers,,/totals/ncb/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers,,/totals/ncb/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,output,cds/layers,,/totals/ncb/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers,,/totals/ncb/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers,,/totals/ncb/model_premium,Y,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers,,/totals/ncb/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers,,/totals/ncb/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,output,cds/layers,,/totals/ncb/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers,,/totals/ncb/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers,,/totals/ncb/quoted_premium,Y,float,,Commercially Achieved Premium
+model_premium_pre_uw_adj,output,cds/layers,,/totals/total/model_premium_pre_uw_adj,Y,float,,Modelled Premium
+model_rate_pre_uw_adj,output,cds/layers,,/totals/total/model_rate_pre_uw_adj,Y,float,,Modelled Rate per mille of death benefit
+uw_adj,output,cds/layers,,/totals/total/uw_adj,Y,float,,U/W Risk Adjustment
+model_rate,output,cds/layers,,/totals/total/model_rate,Y,float,,U/W Adj modelled Rate per mille
+model_premium,output,cds/layers,,/totals/total/model_premium,Y,float,,U/W Adj modelled Premium
+model_premium_post_exp,output,cds/layers,,/totals/total/model_premium_post_exp,Y,float,,Premium post experience
+model_rate_post_exp,output,cds/layers,,/totals/total/model_rate_post_exp,Y,float,,Premium Rate per mille
+quoted_rate,output,cds/layers,,/totals/total/quoted_rate,Y,float,,Commercial Rate per mille of death benefit
+commercial_adj,output,cds/layers,,/totals/total/commercial_adj,Y,float,,Implied Commercial Adjustment
+quoted_premium,output,cds/layers,,/totals/total/quoted_premium,Y,float,,Commercially Achieved Premium

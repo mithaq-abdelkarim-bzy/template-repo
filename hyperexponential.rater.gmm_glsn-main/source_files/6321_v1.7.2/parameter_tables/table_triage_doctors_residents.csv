@@ -1,0 +1,154 @@
+specialty,iso_code,iso_class,class_grouped,obe_per_doctor,obe_per_resident
+Abdominal Surgery,80166,Class 6,H,10.4,5.2
+Acupuncture (Physicians) - Minor Invasive Procedures ,80437,Class 4,M,6.0,3.0
+Aerospace Medicine,80133,Class 0,L,1.6,0.8
+Allergy,80254,Class 1,L,2.0,1.0
+Anesthesiology - Surgery ,80181,Class 5,M,8.0,4.0
+Audiology,,Class 1,L,2.0,1.0
+"Bariatric, Major Surgery",80184,Class 6,H,10.4,5.2
+Broncho-Esophagology,80101,Class 4,M,6.0,3.0
+Cardiac - Surgery ,80141,Class 6,H,10.4,5.2
+Cardiology,,Class 1,L,2.0,1.0
+Cardiovascular Disease - Minor Surgery,80281,Class 3,L,4.0,2.0
+Cardiovascular Disease - No Surgery,80255,Class 1,L,2.0,1.0
+Cardiovascular Disease - Surgery ,80150,Class 7,H,12.4,6.2
+Catheterization (not otherwise classified),80422,Class 3,L,4.0,2.0
+Colon and Rectal - Surgery,80115,Class 4,M,6.0,3.0
+Colonoscopy (Physicians) - Minor Invasive Procedures ,80443,Class 4,M,6.0,3.0
+CRNA,,Class 2,L,3.0,1.5
+Cytopathology - Minor surgery,80305,Class 3,L,4.0,2.0
+Cytopathology - No surgery,80306,Class 1,L,2.0,1.0
+Dentists Not otherwise classified,80211,Class 0,L,1.6,0.8
+Dentistry,80210,Class 1,L,2.0,1.0
+Dermatology - Major Surgery,80295,Class 4,M,6.0,3.0
+Dermatology - Minor Surgery,80296,Class 2,L,3.0,1.5
+Dermatology - No Surgery,80297,Class 0,L,1.6,0.8
+Diabetes - Minor Surgery,80271,Class 3,L,4.0,2.0
+Diabetes - No Surgery,80237,Class 1,L,2.0,1.0
+Emergency Medicine,80424,Class 2,L,3.0,1.5
+Emergency Medicine - No Major Surgery,80102,Class 4,M,6.0,3.0
+Emergency Medicine - Surgery ,80157,Class 6,H,10.4,5.2
+Endocrinology - Minor Surgery,80272,Class 3,L,4.0,2.0
+Endocrinology - No Surgery,80238,Class 1,L,2.0,1.0
+Endocrinology (Physicians) - Surgery ,80103,Class 5,M,8.0,4.0
+Family or General Practice - Major Surgery,80419,Class 5,M,8.0,4.0
+Family Physicians - No Surgery,80420,Class 1,L,2.0,1.0
+Family Physicians (GP) - Minor Surgery - No OB,80421,Class 3,L,4.0,2.0
+Family Practice - Minor Surgery,80273,Class 3,L,4.0,2.0
+Family Practice - No Surgery,80239,Class 1,L,2.0,1.0
+Family Practice - with OB,80467,Class 4,M,6.0,3.0
+Gastroenterology - Minor Surgery,80274,Class 3,L,4.0,2.0
+Gastroenterology - No Surgery,80241,Class 1,L,2.0,1.0
+Gastroenterology (Physicians) - Surgery ,80104,Class 5,M,8.0,4.0
+General Practice - Minor Surgery,80275,Class 3,L,4.0,2.0
+General Practice - No Surgery,80242,Class 1,L,2.0,1.0
+General Preventive Medicine - No Surgery,80135,Class 0,L,1.6,0.8
+General Surgery (not otherwise classified),80143,Class 6,H,10.4,5.2
+Geriatrics - Minor Surgery,80276,Class 3,L,4.0,2.0
+Geriatrics - No Surgery,80243,Class 1,L,2.0,1.0
+Geriatrics (Physicians) - Surgery  ,80105,Class 5,M,8.0,4.0
+GP Surgery (not primarily engaged in surgery),80117,Class 4,M,6.0,3.0
+Gynecology - Minor Surgery,80277,Class 3,L,4.0,2.0
+Gynecology - No Surgery,80244,Class 1,L,2.0,1.0
+Gynecology - Surgery ,80167,Class 6,H,10.4,5.2
+Hand - Surgery ,80169,Class 6,H,10.4,5.2
+Head and Neck - Surgery ,80170,Class 6,H,10.4,5.2
+Hematology - Minor Surgery,80278,Class 3,L,4.0,2.0
+Hematology - No Surgery,80245,Class 1,L,2.0,1.0
+Hospitalist,80222,Class 1,L,2.0,1.0
+Hypnosis,80232,Class 0,L,1.6,0.8
+Industrial Medicine,,Class 1,L,2.0,1.0
+Infectious Disease - Minor Surgery,80279,Class 3,L,4.0,2.0
+Infectious Disease - No Surgery,80246,Class 1,L,2.0,1.0
+Intensive Care Medicine - Minor Surgery,80283,Class 3,L,4.0,2.0
+Intensive Medicine,,Class 2,L,3.0,1.5
+Intensivist/Urgent Care,80815,Class 1,L,2.0,1.0
+Internal Medicine - Minor Surgery,80284,Class 3,L,4.0,2.0
+Internal Medicine - No Surgery,80257,Class 1,L,2.0,1.0
+Laparoscopy (Physicians) - Minor Invasive Procedures ,80440,Class 4,M,6.0,3.0
+Laryngology - Minor Surgery,80285,Class 3,L,4.0,2.0
+Laryngology - No Surgery,80258,Class 1,L,2.0,1.0
+Laryngology - Surgery ,80106,Class 5,M,8.0,4.0
+Legal Medicine and Forensic Medicine,80240,Class 0,L,1.6,0.8
+Lymphangiography (Physicians) - Minor Invasive Procedures ,80434,Class 4,M,6.0,3.0
+Medical Directors,,Class 1,L,2.0,1.0
+Myelography (Physicians) - Minor Invasive Procedures ,80428,Class 4,M,6.0,3.0
+Needle Biopsy (Physicians) - Minor Invasive Procedures ,80446,Class 4,M,6.0,3.0
+Neonatology,80804,Class 3,L,4.0,2.0
+Neoplastic (Physicians) - Surgery  ,80107,Class 5,M,8.0,4.0
+Neoplastic Disease - Minor Surgery,80286,Class 3,L,4.0,2.0
+Neoplastic Disease - No Surgery,80259,Class 1,L,2.0,1.0
+Nephrology - Minor Surgery,80287,Class 3,L,4.0,2.0
+Nephrology - No Surgery,80260,Class 1,L,2.0,1.0
+Nephrology (Physicians) - Surgery  ,80108,Class 5,M,8.0,4.0
+Neurology (including Child) - Minor Surgery,80288,Class 3,L,4.0,2.0
+Neurology (including Child) - No Surgery,80298,Class 1,L,2.0,1.0
+Neurology Surgery  (including child),80152,Class 8,H,16.4,8.2
+Nuclear Medicine,80262,Class 1,L,2.0,1.0
+Nutrition,80248,Class 0,L,1.6,0.8
+Obstetrics - Surgery ,80168,Class 8,H,16.4,8.2
+Obstetrics/Gynecology - Surgery ,80153,Class 8,H,16.4,8.2
+Occupational Medicine,80134,Class 1,L,2.0,1.0
+Oncology - Minor Surgery,80301,Class 3,L,4.0,2.0
+Oncology - No Surgery,80302,Class 1,L,2.0,1.0
+Oncology - Surgery,80164,Class 5,M,8.0,4.0
+Opthalmology - Minor Surgery,80289,Class 2,L,3.0,1.5
+Opthalmology - No Surgery,80263,Class 0,L,1.6,0.8
+Opthalmology - Surgery ,80114,Class 3,L,4.0,2.0
+Optometrists,80994,Class 1,L,2.0,1.0
+Oral and Maxillofacial Surgery,,Class 5,M,8.0,4.0
+Orthopedic Excl. Spinal Surgery - MJS,80354,Class 6,H,10.4,5.2
+Orthopedic Incl. Spinal Surgery - MJS,80154,Class 7,H,12.4,6.2
+Otology - Minor Surgery,80290,Class 3,L,4.0,2.0
+Otology - No Surgery,80264,Class 1,L,2.0,1.0
+Otology - Surgery ,80158,Class 5,M,8.0,4.0
+Otorhinolaryngology - Minor Surgery,80291,Class 3,L,4.0,2.0
+Otorhinolaryngology - No Surgery,80265,Class 1,L,2.0,1.0
+Otorhinolaryngology - Surgery ,80159,Class 5,M,8.0,4.0
+Otorhinolaryngology Surgery - Plastic ,80155,Class 6,H,10.4,5.2
+Pain Management - No Surgery,80182,Class 1,L,2.0,1.0
+Pathology - Minor Surgery,80303,Class 2,L,3.0,1.5
+Pathology - No Surgery,80304,Class 0,L,1.6,0.8
+Pediatrics - Minor Surgery,80293,Class 3,L,4.0,2.0
+Pediatrics - No Surgery,80267,Class 1,L,2.0,1.0
+Pediatrics - Surgery,80180,Class 5,M,8.0,4.0
+Perinatology,,Class 1,L,2.0,1.0
+Pharmacology - Clinical,80234,Class 0,L,1.6,0.8
+Physical Medicine and Rehabilitation,80208,Class 1,L,2.0,1.0
+Physicians (not otherwise classified)  - No Surgery,80268,Class 1,L,2.0,1.0
+Physicians (not otherwise classified) - Minor Surgery,80294,Class 3,L,4.0,2.0
+Physicians (not otherwise classified) - No Major Surgery,delete?,Class 3,L,4.0,2.0
+Plastic Surgery  (not otherwise classified),80156,Class 6,H,10.4,5.2
+Podiatrist - Major Surgery,80813,Class 3,L,4.0,2.0
+Podiatrist - Minor Surgery,80812,Class 2,L,3.0,1.5
+Podiatrist - No Surgery,80811,Class 1,L,2.0,1.0
+Profusionist,,Class 1,L,2.0,1.0
+Psychiatry (including Child),80229,Class 0,L,1.6,0.8
+Psychoanalysis,80250,Class 0,L,1.6,0.8
+Psychology,,Class 1,L,2.0,1.0
+Psychosomatic Medicine,80251,Class 0,L,1.6,0.8
+Public Health,80236,Class 0,L,1.6,0.8
+Pulmonary Disease - No Surgery,80269,Class 1,L,2.0,1.0
+Radiation Oncologist,80817,Class 1,L,2.0,1.0
+Radiation Therapy - Major Surgery,80163,Class 4,M,6.0,3.0
+Radiation Therapy - not otherwise classified,80425,Class 2,L,3.0,1.5
+Radiology - Minor Surgery,80280,Class 2,L,3.0,1.5
+Radiology - No Surgery,80253,Class 0,L,1.6,0.8
+Radiology - Interventional,80360,Class 1,L,2.0,1.0
+Radiology - Therapeutic - Minor Surgery,80358,Class 2,L,3.0,1.5
+Radiology - Therapeutic - No Surgery,80359,Class 0,L,1.6,0.8
+Radiopaque Dye Injection,80449,Class 4,M,6.0,3.0
+Rheumatology - No Surgery,80252,Class 1,L,2.0,1.0
+Rhinology - Minor Surgery,80270,Class 3,L,4.0,2.0
+Rhinology - No Surgery,80247,Class 1,L,2.0,1.0
+Rhinology (Physicians) - Surgery  ,80160,Class 5,M,8.0,4.0
+Shock Therapy ,80431,Class 2,L,3.0,1.5
+Sports Medicine - Minor surgery,80204,Class 2,L,3.0,1.5
+Sports Medicine - No surgery,80205,Class 0,L,1.6,0.8
+Thoracic Surgery ,80144,Class 7,H,12.4,6.2
+Traumatic Surgery ,80171,Class 7,H,12.4,6.2
+Urological Surgery,80145,Class 4,M,6.0,3.0
+Urology - No surgery,80121,Class 1,L,2.0,1.0
+Urology,80120,Class 3,L,4.0,2.0
+Vascular Surgery ,80146,Class 7,H,12.4,6.2
+Physicians Assitant,,Class 0,L,1.6,0.8

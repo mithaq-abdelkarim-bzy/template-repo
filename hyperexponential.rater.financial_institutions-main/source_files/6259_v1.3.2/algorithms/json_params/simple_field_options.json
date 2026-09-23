@@ -1,0 +1,40 @@
+{
+  "risk_information": {
+    "ownership_type": ["Public", "Private"],
+    "platform": ["Lloyd's", "Beazley Insurance dac"],
+    "direct_ri": ["Direct", "RI"]
+  },
+  "exposure_details": {
+    "us_listing": ["NA", "Level 1", "Level 2", "Level 3", "Full Listing"],
+    "splits_entered_as/employees": ["Percentage", "Value"],
+    "splits_entered_as/revenues": ["Percentage", "Value"],
+    "splits_entered_as/assets": ["Percentage", "Value"]
+  },
+  "cover_details": {
+    "do_type": ["ABC", "AB", "A"],
+    "crime_retroactive_date": ["TBD", "Policy Inception", "Other - 1 year", "Other - 2 years", "Other - 3 years", "Other - 4 years", "Full Retro"],
+    "pi_retroactive_date": ["TBD", "Policy Inception", "Other - 1 year", "Other - 2 years", "Other - 3 years", "Other - 4 years", "Full Retro"],
+    "do_retroactive_date": ["TBD", "Policy Inception", "Other - 1 year", "Other - 2 years", "Other - 3 years", "Other - 4 years", "Full Retro"],
+    "details_reinstatements": ["NA", "Direct", "Round the clock"]
+  },
+  "rating_summary": {
+    "status": ["None", "Quote", "Bound"]
+  },
+  "risk_assessment": {
+    "policy_wording": ["Limited cover", "Standard market wording", "Broad cover"],
+    "claims_history_cpi": ["Poor loss record", "Some activity - no major claims", "Activity near attachment", "Activity well below attachment", "Clean"],
+    "claims_history_do": ["Poor loss record", "Some activity - no major claims", "Activity near attachment", "Activity well below attachment", "Clean"],
+    "risk_management": ["Strong", "Average", "Below average"],
+    "strength_of_financial": ["Strong", "Average", "Below average"],
+    "technological_infrastructure": ["Strong", "Average", "Below average"],
+    "quality_of_control": ["Strong", "Average", "Below average"],
+    "regulatory_risk": ["Low risk", "Medium risk", "High risk"],
+    "quality_of_claims_handling": ["Strong", "Average", "Below average"],
+    "product_complexity": ["Low risk", "Medium risk", "High risk"],
+    "quality_of_bcp": ["Strong", "Average", "Below average"],
+    "extent_of_leveraged_gearing": ["No leverage", "Up to 200%", "Greater than 200%"],
+    "quality_of_performance_non_pevc": ["Strong", "Average", "Below average"],
+    "redemption_gates": ["+25% AUM", "Between -25% and +25% AUM", "-25% AUM"],
+    "difference_in_conditions": ["Weak" ,"Average", "Strong"]
+  }
+}

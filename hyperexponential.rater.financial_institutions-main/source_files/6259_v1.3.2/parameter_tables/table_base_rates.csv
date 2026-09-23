@@ -1,0 +1,1618 @@
+industry,sub_industry,region,rate,coverage
+Banks,Acquiring bank,Africa,0.046920395,crime
+Banks,Acquiring bank,Arab States,0.021908816,crime
+Banks,Acquiring bank,Asia,0.026714216,crime
+Banks,Acquiring bank,Oceania,0.075626683,crime
+Banks,Acquiring bank,Europe,0.056717975,crime
+Banks,Acquiring bank,Former Soviet Republics,0.028357759,crime
+Banks,Acquiring bank,USA,0.056717975,crime
+Banks,Acquiring bank,Canada,0.026479644,crime
+Banks,Acquiring bank,South/Latin America,0.014564531,crime
+Banks,Acquiring bank,Caribbean,0.026985854,crime
+Banks,Acquiring bank,RoW,0.056717975,crime
+Banks,Building societies,Africa,0.046920395,crime
+Banks,Building societies,Arab States,0.021908816,crime
+Banks,Building societies,Asia,0.026714216,crime
+Banks,Building societies,Oceania,0.075626683,crime
+Banks,Building societies,Europe,0.056717975,crime
+Banks,Building societies,Former Soviet Republics,0.028357759,crime
+Banks,Building societies,USA,0.056717975,crime
+Banks,Building societies,Canada,0.026479644,crime
+Banks,Building societies,South/Latin America,0.014564531,crime
+Banks,Building societies,Caribbean,0.026985854,crime
+Banks,Building societies,RoW,0.056717975,crime
+Banks,Central banks,Africa,0.046920395,crime
+Banks,Central banks,Arab States,0.021908816,crime
+Banks,Central banks,Asia,0.026714216,crime
+Banks,Central banks,Oceania,0.075626683,crime
+Banks,Central banks,Europe,0.056717975,crime
+Banks,Central banks,Former Soviet Republics,0.028357759,crime
+Banks,Central banks,USA,0.056717975,crime
+Banks,Central banks,Canada,0.026479644,crime
+Banks,Central banks,South/Latin America,0.014564531,crime
+Banks,Central banks,Caribbean,0.026985854,crime
+Banks,Central banks,RoW,0.056717975,crime
+Banks,Commercial banks,Africa,0.062143028,crime
+Banks,Commercial banks,Arab States,0.0290168099847577,crime
+Banks,Commercial banks,Asia,0.005896875,crime
+Banks,Commercial banks,Oceania,0.100162649,crime
+Banks,Commercial banks,Europe,0.045071573,crime
+Banks,Commercial banks,Former Soviet Republics,0.037558017,crime
+Banks,Commercial banks,USA,0.075119288,crime
+Banks,Commercial banks,Canada,0.035070575,crime
+Banks,Commercial banks,South/Latin America,0.019289779,crime
+Banks,Commercial banks,Caribbean,0.064333831,crime
+Banks,Commercial banks,RoW,0.075119288,crime
+Banks,Credit unions,Africa,0.046920395,crime
+Banks,Credit unions,Arab States,0.021908816,crime
+Banks,Credit unions,Asia,0.026714216,crime
+Banks,Credit unions,Oceania,0.075626683,crime
+Banks,Credit unions,Europe,0.056717975,crime
+Banks,Credit unions,Former Soviet Republics,0.028357759,crime
+Banks,Credit unions,USA,0.056717975,crime
+Banks,Credit unions,Canada,0.026479644,crime
+Banks,Credit unions,South/Latin America,0.014564531,crime
+Banks,Credit unions,Caribbean,0.026985854,crime
+Banks,Credit unions,RoW,0.056717975,crime
+Banks,Development bank,Africa,0.046920395,crime
+Banks,Development bank,Arab States,0.021908816,crime
+Banks,Development bank,Asia,0.026714216,crime
+Banks,Development bank,Oceania,0.075626683,crime
+Banks,Development bank,Europe,0.056717975,crime
+Banks,Development bank,Former Soviet Republics,0.028357759,crime
+Banks,Development bank,USA,0.056717975,crime
+Banks,Development bank,Canada,0.026479644,crime
+Banks,Development bank,South/Latin America,0.014564531,crime
+Banks,Development bank,Caribbean,0.026985854,crime
+Banks,Development bank,RoW,0.056717975,crime
+Banks,Financing companies/house,Africa,0.046920395,crime
+Banks,Financing companies/house,Arab States,0.021908816,crime
+Banks,Financing companies/house,Asia,0.026714216,crime
+Banks,Financing companies/house,Oceania,0.075626683,crime
+Banks,Financing companies/house,Europe,0.056717975,crime
+Banks,Financing companies/house,Former Soviet Republics,0.028357759,crime
+Banks,Financing companies/house,USA,0.056717975,crime
+Banks,Financing companies/house,Canada,0.026479644,crime
+Banks,Financing companies/house,South/Latin America,0.014564531,crime
+Banks,Financing companies/house,Caribbean,0.026985854,crime
+Banks,Financing companies/house,RoW,0.056717975,crime
+Banks,Investment banks,Africa,0.046920395,crime
+Banks,Investment banks,Arab States,0.021908816,crime
+Banks,Investment banks,Asia,0.026714216,crime
+Banks,Investment banks,Oceania,0.075626683,crime
+Banks,Investment banks,Europe,0.056717975,crime
+Banks,Investment banks,Former Soviet Republics,0.028357759,crime
+Banks,Investment banks,USA,0.056717975,crime
+Banks,Investment banks,Canada,0.026479644,crime
+Banks,Investment banks,South/Latin America,0.014564531,crime
+Banks,Investment banks,Caribbean,0.026985854,crime
+Banks,Investment banks,RoW,0.056717975,crime
+Banks,Private banks,Africa,0.046920395,crime
+Banks,Private banks,Arab States,0.021908816,crime
+Banks,Private banks,Asia,0.026714216,crime
+Banks,Private banks,Oceania,0.075626683,crime
+Banks,Private banks,Europe,0.028358987409376,crime
+Banks,Private banks,Former Soviet Republics,0.028358987,crime
+Banks,Private banks,USA,0.0567179748187521,crime
+Banks,Private banks,Canada,0.0264796438623407,crime
+Banks,Private banks,South/Latin America,0.014564531,crime
+Banks,Private banks,Caribbean,0.0269858537152906,crime
+Banks,Private banks,RoW,0.0567179748187521,crime
+Banks,Retail banks,Africa,0.046920395,crime
+Banks,Retail banks,Arab States,0.021908816,crime
+Banks,Retail banks,Asia,0.026714216,crime
+Banks,Retail banks,Oceania,0.075626683,crime
+Banks,Retail banks,Europe,0.056717975,crime
+Banks,Retail banks,Former Soviet Republics,0.028357759,crime
+Banks,Retail banks,USA,0.056717975,crime
+Banks,Retail banks,Canada,0.026479644,crime
+Banks,Retail banks,South/Latin America,0.014564531,crime
+Banks,Retail banks,Caribbean,0.026985854,crime
+Banks,Retail banks,RoW,0.056717975,crime
+Banks,Universal bank,Africa,0.046920395,crime
+Banks,Universal bank,Arab States,0.021908816,crime
+Banks,Universal bank,Asia,0.026714216,crime
+Banks,Universal bank,Oceania,0.075626683,crime
+Banks,Universal bank,Europe,0.028358987,crime
+Banks,Universal bank,Former Soviet Republics,0.028357759,crime
+Banks,Universal bank,USA,0.056717975,crime
+Banks,Universal bank,Canada,0.026479644,crime
+Banks,Universal bank,South/Latin America,0.014564531,crime
+Banks,Universal bank,Caribbean,0.026985854,crime
+Banks,Universal bank,RoW,0.056717975,crime
+Insurance companies,Captives,Africa,0.021945287,crime
+Insurance companies,Captives,Arab States,0.010247042,crime
+Insurance companies,Captives,Asia,0.012494591,crime
+Insurance companies,Captives,Oceania,0.035371597,crime
+Insurance companies,Captives,Europe,0.026527744,crime
+Insurance companies,Captives,Former Soviet Republics,0.013263298,crime
+Insurance companies,Captives,USA,0.026527744,crime
+Insurance companies,Captives,Canada,0.012384878,crime
+Insurance companies,Captives,South/Latin America,0.006812023,crime
+Insurance companies,Captives,Caribbean,0.01262164,crime
+Insurance companies,Captives,RoW,0.026527744,crime
+Insurance companies,Composite,Africa,0.021945287,crime
+Insurance companies,Composite,Arab States,0.010247042,crime
+Insurance companies,Composite,Asia,0.012494591,crime
+Insurance companies,Composite,Oceania,0.035371597,crime
+Insurance companies,Composite,Europe,0.026527744,crime
+Insurance companies,Composite,Former Soviet Republics,0.013263298,crime
+Insurance companies,Composite,USA,0.026527744,crime
+Insurance companies,Composite,Canada,0.012384878,crime
+Insurance companies,Composite,South/Latin America,0.006812023,crime
+Insurance companies,Composite,Caribbean,0.01262164,crime
+Insurance companies,Composite,RoW,0.026527744,crime
+Insurance companies,Life,Africa,0.021945287,crime
+Insurance companies,Life,Arab States,0.010247042,crime
+Insurance companies,Life,Asia,0.012494591,crime
+Insurance companies,Life,Oceania,0.035371597,crime
+Insurance companies,Life,Europe,0.026527744,crime
+Insurance companies,Life,Former Soviet Republics,0.013263298,crime
+Insurance companies,Life,USA,0.026527744,crime
+Insurance companies,Life,Canada,0.012384878,crime
+Insurance companies,Life,South/Latin America,0.006812023,crime
+Insurance companies,Life,Caribbean,0.01262164,crime
+Insurance companies,Life,RoW,0.026527744,crime
+Insurance companies,Mga,Africa,0.021945287,crime
+Insurance companies,Mga,Arab States,0.010247042,crime
+Insurance companies,Mga,Asia,0.012494591,crime
+Insurance companies,Mga,Oceania,0.035371597,crime
+Insurance companies,Mga,Europe,0.026527744,crime
+Insurance companies,Mga,Former Soviet Republics,0.013263298,crime
+Insurance companies,Mga,USA,0.026527744,crime
+Insurance companies,Mga,Canada,0.012384878,crime
+Insurance companies,Mga,South/Latin America,0.006812023,crime
+Insurance companies,Mga,Caribbean,0.01262164,crime
+Insurance companies,Mga,RoW,0.026527744,crime
+Insurance companies,P&c,Africa,0.021945287,crime
+Insurance companies,P&c,Arab States,0.010247042,crime
+Insurance companies,P&c,Asia,0.012494591,crime
+Insurance companies,P&c,Oceania,0.035371597,crime
+Insurance companies,P&c,Europe,0.026527744,crime
+Insurance companies,P&c,Former Soviet Republics,0.013263298,crime
+Insurance companies,P&c,USA,0.026527744,crime
+Insurance companies,P&c,Canada,0.006192439,crime
+Insurance companies,P&c,South/Latin America,0.006812023,crime
+Insurance companies,P&c,Caribbean,0.01262164,crime
+Insurance companies,P&c,RoW,0.026527744,crime
+Insurance companies,Reinsurance,Africa,0.021945287,crime
+Insurance companies,Reinsurance,Arab States,0.010247042,crime
+Insurance companies,Reinsurance,Asia,0.012494591,crime
+Insurance companies,Reinsurance,Oceania,0.035371597,crime
+Insurance companies,Reinsurance,Europe,0.026527744,crime
+Insurance companies,Reinsurance,Former Soviet Republics,0.013263298,crime
+Insurance companies,Reinsurance,USA,0.026527744,crime
+Insurance companies,Reinsurance,Canada,0.012384878,crime
+Insurance companies,Reinsurance,South/Latin America,0.006812023,crime
+Insurance companies,Reinsurance,Caribbean,0.01262164,crime
+Insurance companies,Reinsurance,RoW,0.026527744,crime
+Insurance companies,Mutual,Africa,0.021945287,crime
+Insurance companies,Mutual,Arab States,0.010247042,crime
+Insurance companies,Mutual,Asia,0.012494591,crime
+Insurance companies,Mutual,Oceania,0.035371597,crime
+Insurance companies,Mutual,Europe,0.026527744,crime
+Insurance companies,Mutual,Former Soviet Republics,0.013263298,crime
+Insurance companies,Mutual,USA,0.026527744,crime
+Insurance companies,Mutual,Canada,0.012384878,crime
+Insurance companies,Mutual,South/Latin America,0.006812023,crime
+Insurance companies,Mutual,Caribbean,0.01262164,crime
+Insurance companies,Mutual,RoW,0.026527744,crime
+Financial infrastructure & exchanges,Clearing house,Africa,0.043605427,crime
+Financial infrastructure & exchanges,Clearing house,Arab States,0.020360939,crime
+Financial infrastructure & exchanges,Clearing house,Asia,0.024826833,crime
+Financial infrastructure & exchanges,Clearing house,Oceania,0.07028359,crime
+Financial infrastructure & exchanges,Clearing house,Europe,0.052710799,crime
+Financial infrastructure & exchanges,Clearing house,Former Soviet Republics,0.026354258,crime
+Financial infrastructure & exchanges,Clearing house,USA,0.052710799,crime
+Financial infrastructure & exchanges,Clearing house,Canada,0.024608833,crime
+Financial infrastructure & exchanges,Clearing house,South/Latin America,0.013535534,crime
+Financial infrastructure & exchanges,Clearing house,Caribbean,0.025079279,crime
+Financial infrastructure & exchanges,Clearing house,RoW,0.052710799,crime
+Financial infrastructure & exchanges,Custodian,Africa,0.043605427,crime
+Financial infrastructure & exchanges,Custodian,Arab States,0.020360939,crime
+Financial infrastructure & exchanges,Custodian,Asia,0.024826833,crime
+Financial infrastructure & exchanges,Custodian,Oceania,0.07028359,crime
+Financial infrastructure & exchanges,Custodian,Europe,0.052710799,crime
+Financial infrastructure & exchanges,Custodian,Former Soviet Republics,0.026354258,crime
+Financial infrastructure & exchanges,Custodian,USA,0.052710799,crime
+Financial infrastructure & exchanges,Custodian,Canada,0.024608833,crime
+Financial infrastructure & exchanges,Custodian,South/Latin America,0.013535534,crime
+Financial infrastructure & exchanges,Custodian,Caribbean,0.025079279,crime
+Financial infrastructure & exchanges,Custodian,RoW,0.052710799,crime
+Financial infrastructure & exchanges,Depository,Africa,0.043605427,crime
+Financial infrastructure & exchanges,Depository,Arab States,0.020360939,crime
+Financial infrastructure & exchanges,Depository,Asia,0.024826833,crime
+Financial infrastructure & exchanges,Depository,Oceania,0.07028359,crime
+Financial infrastructure & exchanges,Depository,Europe,0.052710799,crime
+Financial infrastructure & exchanges,Depository,Former Soviet Republics,0.026354258,crime
+Financial infrastructure & exchanges,Depository,USA,0.052710799,crime
+Financial infrastructure & exchanges,Depository,Canada,0.024608833,crime
+Financial infrastructure & exchanges,Depository,South/Latin America,0.013535534,crime
+Financial infrastructure & exchanges,Depository,Caribbean,0.025079279,crime
+Financial infrastructure & exchanges,Depository,RoW,0.052710799,crime
+Financial infrastructure & exchanges,Exchange,Africa,0.043605427,crime
+Financial infrastructure & exchanges,Exchange,Arab States,0.020360939,crime
+Financial infrastructure & exchanges,Exchange,Asia,0.024826833,crime
+Financial infrastructure & exchanges,Exchange,Oceania,0.07028359,crime
+Financial infrastructure & exchanges,Exchange,Europe,0.052710799,crime
+Financial infrastructure & exchanges,Exchange,Former Soviet Republics,0.026354258,crime
+Financial infrastructure & exchanges,Exchange,USA,0.052710799,crime
+Financial infrastructure & exchanges,Exchange,Canada,0.024608833,crime
+Financial infrastructure & exchanges,Exchange,South/Latin America,0.013535534,crime
+Financial infrastructure & exchanges,Exchange,Caribbean,0.025079279,crime
+Financial infrastructure & exchanges,Exchange,RoW,0.052710799,crime
+Financial infrastructure & exchanges,Payments infrastructure,Africa,0.043605427,crime
+Financial infrastructure & exchanges,Payments infrastructure,Arab States,0.020360939,crime
+Financial infrastructure & exchanges,Payments infrastructure,Asia,0.024826833,crime
+Financial infrastructure & exchanges,Payments infrastructure,Oceania,0.07028359,crime
+Financial infrastructure & exchanges,Payments infrastructure,Europe,0.052710799,crime
+Financial infrastructure & exchanges,Payments infrastructure,Former Soviet Republics,0.026354258,crime
+Financial infrastructure & exchanges,Payments infrastructure,USA,0.052710799,crime
+Financial infrastructure & exchanges,Payments infrastructure,Canada,0.024608833,crime
+Financial infrastructure & exchanges,Payments infrastructure,South/Latin America,0.013535534,crime
+Financial infrastructure & exchanges,Payments infrastructure,Caribbean,0.025079279,crime
+Financial infrastructure & exchanges,Payments infrastructure,RoW,0.052710799,crime
+Financial infrastructure & exchanges,Trading platform,Africa,0.043605427,crime
+Financial infrastructure & exchanges,Trading platform,Arab States,0.020360939,crime
+Financial infrastructure & exchanges,Trading platform,Asia,0.024826833,crime
+Financial infrastructure & exchanges,Trading platform,Oceania,0.07028359,crime
+Financial infrastructure & exchanges,Trading platform,Europe,0.052710799,crime
+Financial infrastructure & exchanges,Trading platform,Former Soviet Republics,0.026354258,crime
+Financial infrastructure & exchanges,Trading platform,USA,0.052710799,crime
+Financial infrastructure & exchanges,Trading platform,Canada,0.024608833,crime
+Financial infrastructure & exchanges,Trading platform,South/Latin America,0.013535534,crime
+Financial infrastructure & exchanges,Trading platform,Caribbean,0.025079279,crime
+Financial infrastructure & exchanges,Trading platform,RoW,0.052710799,crime
+Investment managers,Fund of funds,Africa,0.103054286,crime
+Investment managers,Fund of funds,Arab States,0.048119745,crime
+Investment managers,Fund of funds,Asia,0.058674155,crime
+Investment managers,Fund of funds,Oceania,0.166103756,crime
+Investment managers,Fund of funds,Europe,0.124573342,crime
+Investment managers,Fund of funds,Former Soviet Republics,0.062283973,crime
+Investment managers,Fund of funds,USA,0.124573342,crime
+Investment managers,Fund of funds,Canada,0.058158948,crime
+Investment managers,Fund of funds,South/Latin America,0.009596705,crime
+Investment managers,Fund of funds,Caribbean,0.059270769,crime
+Investment managers,Fund of funds,RoW,0.124573342,crime
+Investment managers,Hedge funds (long/short),Africa,0.103054286,crime
+Investment managers,Hedge funds (long/short),Arab States,0.048119745,crime
+Investment managers,Hedge funds (long/short),Asia,0.058674155,crime
+Investment managers,Hedge funds (long/short),Oceania,0.166103756,crime
+Investment managers,Hedge funds (long/short),Europe,0.124573342,crime
+Investment managers,Hedge funds (long/short),Former Soviet Republics,0.062283973,crime
+Investment managers,Hedge funds (long/short),USA,0.124573342,crime
+Investment managers,Hedge funds (long/short),Canada,0.058158948,crime
+Investment managers,Hedge funds (long/short),South/Latin America,0.031989018,crime
+Investment managers,Hedge funds (long/short),Caribbean,0.059270769,crime
+Investment managers,Hedge funds (long/short),RoW,0.124573342,crime
+Investment managers,Investment fund,Africa,0.103054286,crime
+Investment managers,Investment fund,Arab States,0.048119745,crime
+Investment managers,Investment fund,Asia,0.058674155,crime
+Investment managers,Investment fund,Oceania,0.166103756,crime
+Investment managers,Investment fund,Europe,0.124573342,crime
+Investment managers,Investment fund,Former Soviet Republics,0.062283973,crime
+Investment managers,Investment fund,USA,0.124573342,crime
+Investment managers,Investment fund,Canada,0.058158948,crime
+Investment managers,Investment fund,South/Latin America,0.031989018,crime
+Investment managers,Investment fund,Caribbean,0.059270769,crime
+Investment managers,Investment fund,RoW,0.124573342,crime
+Investment managers,Investment trust,Africa,0.103054286,crime
+Investment managers,Investment trust,Arab States,0.048119745,crime
+Investment managers,Investment trust,Asia,0.058674155,crime
+Investment managers,Investment trust,Oceania,0.166103756,crime
+Investment managers,Investment trust,Europe,0.124573342,crime
+Investment managers,Investment trust,Former Soviet Republics,0.062283973,crime
+Investment managers,Investment trust,USA,0.124573342,crime
+Investment managers,Investment trust,Canada,0.058158948,crime
+Investment managers,Investment trust,South/Latin America,0.031989018,crime
+Investment managers,Investment trust,Caribbean,0.059270769,crime
+Investment managers,Investment trust,RoW,0.124573342,crime
+Investment managers,Long only,Africa,0.103054286,crime
+Investment managers,Long only,Arab States,0.048119745,crime
+Investment managers,Long only,Asia,0.058674155,crime
+Investment managers,Long only,Oceania,0.166103756,crime
+Investment managers,Long only,Europe,0.124573342,crime
+Investment managers,Long only,Former Soviet Republics,0.062283973,crime
+Investment managers,Long only,USA,0.124573342,crime
+Investment managers,Long only,Canada,0.058158948,crime
+Investment managers,Long only,South/Latin America,0.031989018,crime
+Investment managers,Long only,Caribbean,0.059270769,crime
+Investment managers,Long only,RoW,0.124573342,crime
+Investment managers,Multi-strategy,Africa,0.103054286,crime
+Investment managers,Multi-strategy,Arab States,0.048119745,crime
+Investment managers,Multi-strategy,Asia,0.058674155,crime
+Investment managers,Multi-strategy,Oceania,0.166103756,crime
+Investment managers,Multi-strategy,Europe,0.124573342,crime
+Investment managers,Multi-strategy,Former Soviet Republics,0.062283973,crime
+Investment managers,Multi-strategy,USA,0.124573342,crime
+Investment managers,Multi-strategy,Canada,0.058158948,crime
+Investment managers,Multi-strategy,South/Latin America,0.006397804,crime
+Investment managers,Multi-strategy,Caribbean,0.059270769,crime
+Investment managers,Multi-strategy,RoW,0.124573342,crime
+Investment managers,Private equity,Africa,0.103054286,crime
+Investment managers,Private equity,Arab States,0.048119745,crime
+Investment managers,Private equity,Asia,0.058674155,crime
+Investment managers,Private equity,Oceania,0.166103756,crime
+Investment managers,Private equity,Europe,0.124573342,crime
+Investment managers,Private equity,Former Soviet Republics,0.062283973,crime
+Investment managers,Private equity,USA,0.124573342,crime
+Investment managers,Private equity,Canada,0.058158948,crime
+Investment managers,Private equity,South/Latin America,0.031989018,crime
+Investment managers,Private equity,Caribbean,0.059270769,crime
+Investment managers,Private equity,RoW,0.124573342,crime
+Investment managers,Real estate,Africa,0.103054286,crime
+Investment managers,Real estate,Arab States,0.048119745,crime
+Investment managers,Real estate,Asia,0.058674155,crime
+Investment managers,Real estate,Oceania,0.166103756,crime
+Investment managers,Real estate,Europe,0.124573342,crime
+Investment managers,Real estate,Former Soviet Republics,0.062283973,crime
+Investment managers,Real estate,USA,0.124573342,crime
+Investment managers,Real estate,Canada,0.058158948,crime
+Investment managers,Real estate,South/Latin America,0.127956072,crime
+Investment managers,Real estate,Caribbean,0.059270769,crime
+Investment managers,Real estate,RoW,0.124573342,crime
+Investment managers,Venture capital,Africa,0.103054286,crime
+Investment managers,Venture capital,Arab States,0.048119745,crime
+Investment managers,Venture capital,Asia,0.058674155,crime
+Investment managers,Venture capital,Oceania,0.166103756,crime
+Investment managers,Venture capital,Europe,0.124573342,crime
+Investment managers,Venture capital,Former Soviet Republics,0.062283973,crime
+Investment managers,Venture capital,USA,0.124573342,crime
+Investment managers,Venture capital,Canada,0.058158948,crime
+Investment managers,Venture capital,South/Latin America,0.031989018,crime
+Investment managers,Venture capital,Caribbean,0.059270769,crime
+Investment managers,Venture capital,RoW,0.124573342,crime
+Investment managers,Pension fund,Africa,0.103054286,crime
+Investment managers,Pension fund,Arab States,0.048119745,crime
+Investment managers,Pension fund,Asia,0.058674155,crime
+Investment managers,Pension fund,Oceania,0.166103756,crime
+Investment managers,Pension fund,Europe,0.124573342,crime
+Investment managers,Pension fund,Former Soviet Republics,0.062283973,crime
+Investment managers,Pension fund,USA,0.124573342,crime
+Investment managers,Pension fund,Canada,0.058158948,crime
+Investment managers,Pension fund,South/Latin America,0.031989018,crime
+Investment managers,Pension fund,Caribbean,0.059270769,crime
+Investment managers,Pension fund,RoW,0.124573342,crime
+Investment managers,Multi-family office,Africa,0.103054286,crime
+Investment managers,Multi-family office,Arab States,0.048119745,crime
+Investment managers,Multi-family office,Asia,0.058674155,crime
+Investment managers,Multi-family office,Oceania,0.166103756,crime
+Investment managers,Multi-family office,Europe,0.124573342,crime
+Investment managers,Multi-family office,Former Soviet Republics,0.062283973,crime
+Investment managers,Multi-family office,USA,0.124573342,crime
+Investment managers,Multi-family office,Canada,0.058158948,crime
+Investment managers,Multi-family office,South/Latin America,0.031989018,crime
+Investment managers,Multi-family office,Caribbean,0.059270769,crime
+Investment managers,Multi-family office,RoW,0.124573342,crime
+Investment managers,Single family office,Africa,0.103054286,crime
+Investment managers,Single family office,Arab States,0.048119745,crime
+Investment managers,Single family office,Asia,0.058674155,crime
+Investment managers,Single family office,Oceania,0.166103756,crime
+Investment managers,Single family office,Europe,0.124573342,crime
+Investment managers,Single family office,Former Soviet Republics,0.062283973,crime
+Investment managers,Single family office,USA,0.124573342,crime
+Investment managers,Single family office,Canada,0.058158948,crime
+Investment managers,Single family office,South/Latin America,0.031989018,crime
+Investment managers,Single family office,Caribbean,0.059270769,crime
+Investment managers,Single family office,RoW,0.124573342,crime
+Other,Npl servicer,Africa,0.04597168,crime
+Other,Npl servicer,Arab States,0.021465828,crime
+Other,Npl servicer,Asia,0.026174064,crime
+Other,Npl servicer,Oceania,0.074097537,crime
+Other,Npl servicer,Europe,0.055571156,crime
+Other,Npl servicer,Former Soviet Republics,0.027784374,crime
+Other,Npl servicer,USA,0.055571156,crime
+Other,Npl servicer,Canada,0.025944234,crime
+Other,Npl servicer,South/Latin America,0.014270041,crime
+Other,Npl servicer,Caribbean,0.026440209,crime
+Other,Npl servicer,RoW,0.055571156,crime
+Other,Securitization services,Africa,0.04597168,crime
+Other,Securitization services,Arab States,0.021465828,crime
+Other,Securitization services,Asia,0.026174064,crime
+Other,Securitization services,Oceania,0.074097537,crime
+Other,Securitization services,Europe,0.055571156,crime
+Other,Securitization services,Former Soviet Republics,0.027784374,crime
+Other,Securitization services,USA,0.055571156,crime
+Other,Securitization services,Canada,0.025944234,crime
+Other,Securitization services,South/Latin America,0.014270041,crime
+Other,Securitization services,Caribbean,0.026440209,crime
+Other,Securitization services,RoW,0.055571156,crime
+Other,Business process outsourcing,Africa,0.04597168,crime
+Other,Business process outsourcing,Arab States,0.021465828,crime
+Other,Business process outsourcing,Asia,0.026174064,crime
+Other,Business process outsourcing,Oceania,0.074097537,crime
+Other,Business process outsourcing,Europe,0.055571156,crime
+Other,Business process outsourcing,Former Soviet Republics,0.027784374,crime
+Other,Business process outsourcing,USA,0.055571156,crime
+Other,Business process outsourcing,Canada,0.025944234,crime
+Other,Business process outsourcing,South/Latin America,0.014270041,crime
+Other,Business process outsourcing,Caribbean,0.026440209,crime
+Other,Business process outsourcing,RoW,0.055571156,crime
+Other,Commodities brokers/dealer,Africa,0.04597168,crime
+Other,Commodities brokers/dealer,Arab States,0.021465828,crime
+Other,Commodities brokers/dealer,Asia,0.026174064,crime
+Other,Commodities brokers/dealer,Oceania,0.074097537,crime
+Other,Commodities brokers/dealer,Europe,0.055571156,crime
+Other,Commodities brokers/dealer,Former Soviet Republics,0.027784374,crime
+Other,Commodities brokers/dealer,USA,0.055571156,crime
+Other,Commodities brokers/dealer,Canada,0.025944234,crime
+Other,Commodities brokers/dealer,South/Latin America,0.014270041,crime
+Other,Commodities brokers/dealer,Caribbean,0.026440209,crime
+Other,Commodities brokers/dealer,RoW,0.055571156,crime
+Other,Corporate finance houses/boutiques,Africa,0.04597168,crime
+Other,Corporate finance houses/boutiques,Arab States,0.021465828,crime
+Other,Corporate finance houses/boutiques,Asia,0.026174064,crime
+Other,Corporate finance houses/boutiques,Oceania,0.074097537,crime
+Other,Corporate finance houses/boutiques,Europe,0.055571156,crime
+Other,Corporate finance houses/boutiques,Former Soviet Republics,0.027784374,crime
+Other,Corporate finance houses/boutiques,USA,0.055571156,crime
+Other,Corporate finance houses/boutiques,Canada,0.025944234,crime
+Other,Corporate finance houses/boutiques,South/Latin America,0.014270041,crime
+Other,Corporate finance houses/boutiques,Caribbean,0.026440209,crime
+Other,Corporate finance houses/boutiques,RoW,0.055571156,crime
+Other,Fin tech,Africa,0.04597168,crime
+Other,Fin tech,Arab States,0.021465828,crime
+Other,Fin tech,Asia,0.026174064,crime
+Other,Fin tech,Oceania,0.074097537,crime
+Other,Fin tech,Europe,0.055571156,crime
+Other,Fin tech,Former Soviet Republics,0.027784374,crime
+Other,Fin tech,USA,0.055571156,crime
+Other,Fin tech,Canada,0.025944234,crime
+Other,Fin tech,South/Latin America,0.014270041,crime
+Other,Fin tech,Caribbean,0.026440209,crime
+Other,Fin tech,RoW,0.055571156,crime
+Other,Financial/mortgage advisors,Africa,0.04597168,crime
+Other,Financial/mortgage advisors,Arab States,0.021465828,crime
+Other,Financial/mortgage advisors,Asia,0.026174064,crime
+Other,Financial/mortgage advisors,Oceania,0.074097537,crime
+Other,Financial/mortgage advisors,Europe,0.055571156,crime
+Other,Financial/mortgage advisors,Former Soviet Republics,0.027784374,crime
+Other,Financial/mortgage advisors,USA,0.055571156,crime
+Other,Financial/mortgage advisors,Canada,0.025944234,crime
+Other,Financial/mortgage advisors,South/Latin America,0.014270041,crime
+Other,Financial/mortgage advisors,Caribbean,0.026440209,crime
+Other,Financial/mortgage advisors,RoW,0.055571156,crime
+Other,Miscellaneous,Africa,0.04597168,crime
+Other,Miscellaneous,Arab States,0.021465828,crime
+Other,Miscellaneous,Asia,0.026174064,crime
+Other,Miscellaneous,Oceania,0.074097537,crime
+Other,Miscellaneous,Europe,0.055571156,crime
+Other,Miscellaneous,Former Soviet Republics,0.027784374,crime
+Other,Miscellaneous,USA,0.055571156,crime
+Other,Miscellaneous,Canada,0.025944234,crime
+Other,Miscellaneous,South/Latin America,0.008562025,crime
+Other,Miscellaneous,Caribbean,0.026440209,crime
+Other,Miscellaneous,RoW,0.055571156,crime
+Other,Peer to peer  / market place lender,Africa,0.04597168,crime
+Other,Peer to peer  / market place lender,Arab States,0.021465828,crime
+Other,Peer to peer  / market place lender,Asia,0.026174064,crime
+Other,Peer to peer  / market place lender,Oceania,0.074097537,crime
+Other,Peer to peer  / market place lender,Europe,0.055571156,crime
+Other,Peer to peer  / market place lender,Former Soviet Republics,0.027784374,crime
+Other,Peer to peer  / market place lender,USA,0.055571156,crime
+Other,Peer to peer  / market place lender,Canada,0.025944234,crime
+Other,Peer to peer  / market place lender,South/Latin America,0.014270041,crime
+Other,Peer to peer  / market place lender,Caribbean,0.026440209,crime
+Other,Peer to peer  / market place lender,RoW,0.055571156,crime
+Other,Pension administrator,Africa,0.04597168,crime
+Other,Pension administrator,Arab States,0.021465828,crime
+Other,Pension administrator,Asia,0.026174064,crime
+Other,Pension administrator,Oceania,0.074097537,crime
+Other,Pension administrator,Europe,0.055571156,crime
+Other,Pension administrator,Former Soviet Republics,0.027785578,crime
+Other,Pension administrator,USA,0.027784374,crime
+Other,Pension administrator,Canada,0.055571156,crime
+Other,Pension administrator,South/Latin America,0.025944234,crime
+Other,Pension administrator,Caribbean,0.014270041,crime
+Other,Pension administrator,RoW,0.026440209,crime
+Other,Stock brokers/dealers,Africa,0.04597168,crime
+Other,Stock brokers/dealers,Arab States,0.021465828,crime
+Other,Stock brokers/dealers,Asia,0.026174064,crime
+Other,Stock brokers/dealers,Oceania,0.074097537,crime
+Other,Stock brokers/dealers,Europe,0.055571156,crime
+Other,Stock brokers/dealers,Former Soviet Republics,0.027784374,crime
+Other,Stock brokers/dealers,USA,0.055571156,crime
+Other,Stock brokers/dealers,Canada,0.025944234,crime
+Other,Stock brokers/dealers,South/Latin America,0.014270041,crime
+Other,Stock brokers/dealers,Caribbean,0.026440209,crime
+Other,Stock brokers/dealers,RoW,0.055571156,crime
+Other,Trust administrator,Africa,0.04597168,crime
+Other,Trust administrator,Arab States,0.021465828,crime
+Other,Trust administrator,Asia,0.026174064,crime
+Other,Trust administrator,Oceania,0.074097537,crime
+Other,Trust administrator,Europe,0.055571156,crime
+Other,Trust administrator,Former Soviet Republics,0.027784374,crime
+Other,Trust administrator,USA,0.055571156,crime
+Other,Trust administrator,Canada,0.025944234,crime
+Other,Trust administrator,South/Latin America,0.014270041,crime
+Other,Trust administrator,Caribbean,0.026440209,crime
+Other,Trust administrator,RoW,0.055571156,crime
+Other,Wealth manager,Africa,0.04597168,crime
+Other,Wealth manager,Arab States,0.021465828,crime
+Other,Wealth manager,Asia,0.026174064,crime
+Other,Wealth manager,Oceania,0.074097537,crime
+Other,Wealth manager,Europe,0.055571156,crime
+Other,Wealth manager,Former Soviet Republics,0.027784374,crime
+Other,Wealth manager,USA,0.055571156,crime
+Other,Wealth manager,Canada,0.025944234,crime
+Other,Wealth manager,South/Latin America,0.014270041,crime
+Other,Wealth manager,Caribbean,0.026440209,crime
+Other,Wealth manager,RoW,0.055571156,crime
+Banks,Acquiring bank,Africa,0.030216667,pi
+Banks,Acquiring bank,Arab States,0.010578429,pi
+Banks,Acquiring bank,Asia,0.028036082,pi
+Banks,Acquiring bank,Oceania,0.043505858,pi
+Banks,Acquiring bank,Europe,0.076720644,pi
+Banks,Acquiring bank,Former Soviet Republics,0.030688258,pi
+Banks,Acquiring bank,USA,0.014969396,pi
+Banks,Acquiring bank,Canada,0.043369604,pi
+Banks,Acquiring bank,South/Latin America,0.021550596,pi
+Banks,Acquiring bank,Caribbean,0.024997213,pi
+Banks,Acquiring bank,RoW,0.030688258,pi
+Banks,Building societies,Africa,0.030216667,pi
+Banks,Building societies,Arab States,0.010578429,pi
+Banks,Building societies,Asia,0.028036082,pi
+Banks,Building societies,Oceania,0.043505858,pi
+Banks,Building societies,Europe,0.076720644,pi
+Banks,Building societies,Former Soviet Republics,0.030688258,pi
+Banks,Building societies,USA,0.014969396,pi
+Banks,Building societies,Canada,0.043369604,pi
+Banks,Building societies,South/Latin America,0.021550596,pi
+Banks,Building societies,Caribbean,0.024997213,pi
+Banks,Building societies,RoW,0.030688258,pi
+Banks,Central banks,Africa,0.030216667,pi
+Banks,Central banks,Arab States,0.010578429,pi
+Banks,Central banks,Asia,0.028036082,pi
+Banks,Central banks,Oceania,0.043505858,pi
+Banks,Central banks,Europe,0.076720644,pi
+Banks,Central banks,Former Soviet Republics,0.030688258,pi
+Banks,Central banks,USA,0.014969396,pi
+Banks,Central banks,Canada,0.043369604,pi
+Banks,Central banks,South/Latin America,0.021550596,pi
+Banks,Central banks,Caribbean,0.024997213,pi
+Banks,Central banks,RoW,0.030688258,pi
+Banks,Commercial banks,Africa,0.03669087,pi
+Banks,Commercial banks,Arab States,0.0128449564724163,pi
+Banks,Commercial banks,Asia,0.011347691,pi
+Banks,Commercial banks,Oceania,0.052827394,pi
+Banks,Commercial banks,Europe,0.023289689,pi
+Banks,Commercial banks,Former Soviet Republics,0.037263503,pi
+Banks,Commercial banks,USA,0.018176729,pi
+Banks,Commercial banks,Canada,0.052661946,pi
+Banks,Commercial banks,South/Latin America,0.002616801,pi
+Banks,Commercial banks,Caribbean,0.030353099,pi
+Banks,Commercial banks,RoW,0.037263503,pi
+Banks,Credit unions,Africa,0.030216667,pi
+Banks,Credit unions,Arab States,0.010578429,pi
+Banks,Credit unions,Asia,0.028036082,pi
+Banks,Credit unions,Oceania,0.043505858,pi
+Banks,Credit unions,Europe,0.076720644,pi
+Banks,Credit unions,Former Soviet Republics,0.030688258,pi
+Banks,Credit unions,USA,0.014969396,pi
+Banks,Credit unions,Canada,0.043369604,pi
+Banks,Credit unions,South/Latin America,0.017240477,pi
+Banks,Credit unions,Caribbean,0.024997213,pi
+Banks,Credit unions,RoW,0.030688258,pi
+Banks,Development bank,Africa,0.030216667,pi
+Banks,Development bank,Arab States,0.010578429,pi
+Banks,Development bank,Asia,0.028036082,pi
+Banks,Development bank,Oceania,0.043505858,pi
+Banks,Development bank,Europe,0.025573548,pi
+Banks,Development bank,Former Soviet Republics,0.030688258,pi
+Banks,Development bank,USA,0.014969396,pi
+Banks,Development bank,Canada,0.043369604,pi
+Banks,Development bank,South/Latin America,0.021550596,pi
+Banks,Development bank,Caribbean,0.024997213,pi
+Banks,Development bank,RoW,0.030688258,pi
+Banks,Financing companies/house,Africa,0.030216667,pi
+Banks,Financing companies/house,Arab States,0.010578429,pi
+Banks,Financing companies/house,Asia,0.028036082,pi
+Banks,Financing companies/house,Oceania,0.043505858,pi
+Banks,Financing companies/house,Europe,0.076720644,pi
+Banks,Financing companies/house,Former Soviet Republics,0.030688258,pi
+Banks,Financing companies/house,USA,0.014969396,pi
+Banks,Financing companies/house,Canada,0.043369604,pi
+Banks,Financing companies/house,South/Latin America,0.021550596,pi
+Banks,Financing companies/house,Caribbean,0.024997213,pi
+Banks,Financing companies/house,RoW,0.030688258,pi
+Banks,Investment banks,Africa,0.030216667,pi
+Banks,Investment banks,Arab States,0.010578429,pi
+Banks,Investment banks,Asia,0.028036082,pi
+Banks,Investment banks,Oceania,0.043505858,pi
+Banks,Investment banks,Europe,0.076720644,pi
+Banks,Investment banks,Former Soviet Republics,0.030688258,pi
+Banks,Investment banks,USA,0.014969396,pi
+Banks,Investment banks,Canada,0.043369604,pi
+Banks,Investment banks,South/Latin America,0.021550596,pi
+Banks,Investment banks,Caribbean,0.024997213,pi
+Banks,Investment banks,RoW,0.030688258,pi
+Banks,Private banks,Africa,0.030216667,pi
+Banks,Private banks,Arab States,0.010578429,pi
+Banks,Private banks,Asia,0.028036082,pi
+Banks,Private banks,Oceania,0.043505858,pi
+Banks,Private banks,Europe,0.076720644,pi
+Banks,Private banks,Former Soviet Republics,0.030688258,pi
+Banks,Private banks,USA,0.014969396,pi
+Banks,Private banks,Canada,0.043369604,pi
+Banks,Private banks,South/Latin America,0.021550596,pi
+Banks,Private banks,Caribbean,0.024997213,pi
+Banks,Private banks,RoW,0.030688258,pi
+Banks,Retail banks,Africa,0.030216667,pi
+Banks,Retail banks,Arab States,0.010578429,pi
+Banks,Retail banks,Asia,0.028036082,pi
+Banks,Retail banks,Oceania,0.043505858,pi
+Banks,Retail banks,Europe,0.076720644,pi
+Banks,Retail banks,Former Soviet Republics,0.030688258,pi
+Banks,Retail banks,USA,0.014969396,pi
+Banks,Retail banks,Canada,0.043369604,pi
+Banks,Retail banks,South/Latin America,0.021550596,pi
+Banks,Retail banks,Caribbean,0.024997213,pi
+Banks,Retail banks,RoW,0.030688258,pi
+Banks,Universal bank,Africa,0.030216667,pi
+Banks,Universal bank,Arab States,0.010578429,pi
+Banks,Universal bank,Asia,0.028036082,pi
+Banks,Universal bank,Oceania,0.043505858,pi
+Banks,Universal bank,Europe,0.076720644,pi
+Banks,Universal bank,Former Soviet Republics,0.030688258,pi
+Banks,Universal bank,USA,0.014969396,pi
+Banks,Universal bank,Canada,0.043369604,pi
+Banks,Universal bank,South/Latin America,0.021550596,pi
+Banks,Universal bank,Caribbean,0.024997213,pi
+Banks,Universal bank,RoW,0.030688258,pi
+Insurance companies,Captives,Africa,0.020410991,pi
+Insurance companies,Captives,Arab States,0.0071456,pi
+Insurance companies,Captives,Asia,0.018938032,pi
+Insurance companies,Captives,Oceania,0.029387677,pi
+Insurance companies,Captives,Europe,0.051823861,pi
+Insurance companies,Captives,Former Soviet Republics,0.020729544,pi
+Insurance companies,Captives,USA,0.010111645,pi
+Insurance companies,Captives,Canada,0.029295639,pi
+Insurance companies,Captives,South/Latin America,0.014557165,pi
+Insurance companies,Captives,Caribbean,0.084426566,pi
+Insurance companies,Captives,RoW,0.020729544,pi
+Insurance companies,Composite,Africa,0.020410991,pi
+Insurance companies,Composite,Arab States,0.0071456,pi
+Insurance companies,Composite,Asia,0.018938032,pi
+Insurance companies,Composite,Oceania,0.029387677,pi
+Insurance companies,Composite,Europe,0.012955965,pi
+Insurance companies,Composite,Former Soviet Republics,0.020729544,pi
+Insurance companies,Composite,USA,0.010111645,pi
+Insurance companies,Composite,Canada,0.029295639,pi
+Insurance companies,Composite,South/Latin America,0.014557165,pi
+Insurance companies,Composite,Caribbean,0.084426566,pi
+Insurance companies,Composite,RoW,0.020729544,pi
+Insurance companies,Life,Africa,0.020410991,pi
+Insurance companies,Life,Arab States,0.0071456,pi
+Insurance companies,Life,Asia,0.018938032,pi
+Insurance companies,Life,Oceania,0.029387677,pi
+Insurance companies,Life,Europe,0.02591193,pi
+Insurance companies,Life,Former Soviet Republics,0.020729544,pi
+Insurance companies,Life,USA,0.010111645,pi
+Insurance companies,Life,Canada,0.029295639,pi
+Insurance companies,Life,South/Latin America,0.014557165,pi
+Insurance companies,Life,Caribbean,0.084426566,pi
+Insurance companies,Life,RoW,0.020729544,pi
+Insurance companies,Mga,Africa,0.020410991,pi
+Insurance companies,Mga,Arab States,0.0071456,pi
+Insurance companies,Mga,Asia,0.018938032,pi
+Insurance companies,Mga,Oceania,0.029387677,pi
+Insurance companies,Mga,Europe,0.02591193,pi
+Insurance companies,Mga,Former Soviet Republics,0.020729544,pi
+Insurance companies,Mga,USA,0.010111645,pi
+Insurance companies,Mga,Canada,0.029295639,pi
+Insurance companies,Mga,South/Latin America,0.014557165,pi
+Insurance companies,Mga,Caribbean,0.084426566,pi
+Insurance companies,Mga,RoW,0.020729544,pi
+Insurance companies,P&c,Africa,0.020410991,pi
+Insurance companies,P&c,Arab States,0.0071456,pi
+Insurance companies,P&c,Asia,0.018938032,pi
+Insurance companies,P&c,Oceania,0.029387677,pi
+Insurance companies,P&c,Europe,0.010364772,pi
+Insurance companies,P&c,Former Soviet Republics,0.020729544,pi
+Insurance companies,P&c,USA,0.010111645,pi
+Insurance companies,P&c,Canada,0.029295639,pi
+Insurance companies,P&c,South/Latin America,0.014557165,pi
+Insurance companies,P&c,Caribbean,0.084426566,pi
+Insurance companies,P&c,RoW,0.020729544,pi
+Insurance companies,Reinsurance,Africa,0.020410991,pi
+Insurance companies,Reinsurance,Arab States,0.0071456,pi
+Insurance companies,Reinsurance,Asia,0.018938032,pi
+Insurance companies,Reinsurance,Oceania,0.029387677,pi
+Insurance companies,Reinsurance,Europe,0.051823861,pi
+Insurance companies,Reinsurance,Former Soviet Republics,0.020729544,pi
+Insurance companies,Reinsurance,USA,0.010111645,pi
+Insurance companies,Reinsurance,Canada,0.029295639,pi
+Insurance companies,Reinsurance,South/Latin America,0.014557165,pi
+Insurance companies,Reinsurance,Caribbean,0.084426566,pi
+Insurance companies,Reinsurance,RoW,0.020729544,pi
+Insurance companies,Mutual,Africa,0.020410991,pi
+Insurance companies,Mutual,Arab States,0.0071456,pi
+Insurance companies,Mutual,Asia,0.018938032,pi
+Insurance companies,Mutual,Oceania,0.029387677,pi
+Insurance companies,Mutual,Europe,0.051823861,pi
+Insurance companies,Mutual,Former Soviet Republics,0.020729544,pi
+Insurance companies,Mutual,USA,0.010111645,pi
+Insurance companies,Mutual,Canada,0.029295639,pi
+Insurance companies,Mutual,South/Latin America,0.014557165,pi
+Insurance companies,Mutual,Caribbean,0.084426566,pi
+Insurance companies,Mutual,RoW,0.020729544,pi
+Financial infrastructure & exchanges,Clearing house,Africa,0.022119832,pi
+Financial infrastructure & exchanges,Clearing house,Arab States,0.007743841,pi
+Financial infrastructure & exchanges,Clearing house,Asia,0.020523555,pi
+Financial infrastructure & exchanges,Clearing house,Oceania,0.031848061,pi
+Financial infrastructure & exchanges,Clearing house,Europe,0.056162638,pi
+Financial infrastructure & exchanges,Clearing house,Former Soviet Republics,0.022465055,pi
+Financial infrastructure & exchanges,Clearing house,USA,0.010958208,pi
+Financial infrastructure & exchanges,Clearing house,Canada,0.031748317,pi
+Financial infrastructure & exchanges,Clearing house,South/Latin America,0.015775915,pi
+Financial infrastructure & exchanges,Clearing house,Caribbean,0.018298979,pi
+Financial infrastructure & exchanges,Clearing house,RoW,0.022465055,pi
+Financial infrastructure & exchanges,Custodian,Africa,0.022119832,pi
+Financial infrastructure & exchanges,Custodian,Arab States,0.007743841,pi
+Financial infrastructure & exchanges,Custodian,Asia,0.020523555,pi
+Financial infrastructure & exchanges,Custodian,Oceania,0.031848061,pi
+Financial infrastructure & exchanges,Custodian,Europe,0.056162638,pi
+Financial infrastructure & exchanges,Custodian,Former Soviet Republics,0.022465055,pi
+Financial infrastructure & exchanges,Custodian,USA,0.010958208,pi
+Financial infrastructure & exchanges,Custodian,Canada,0.031748317,pi
+Financial infrastructure & exchanges,Custodian,South/Latin America,0.015775915,pi
+Financial infrastructure & exchanges,Custodian,Caribbean,0.018298979,pi
+Financial infrastructure & exchanges,Custodian,RoW,0.022465055,pi
+Financial infrastructure & exchanges,Depository,Africa,0.022119832,pi
+Financial infrastructure & exchanges,Depository,Arab States,0.007743841,pi
+Financial infrastructure & exchanges,Depository,Asia,0.020523555,pi
+Financial infrastructure & exchanges,Depository,Oceania,0.031848061,pi
+Financial infrastructure & exchanges,Depository,Europe,0.056162638,pi
+Financial infrastructure & exchanges,Depository,Former Soviet Republics,0.022465055,pi
+Financial infrastructure & exchanges,Depository,USA,0.010958208,pi
+Financial infrastructure & exchanges,Depository,Canada,0.031748317,pi
+Financial infrastructure & exchanges,Depository,South/Latin America,0.015775915,pi
+Financial infrastructure & exchanges,Depository,Caribbean,0.018298979,pi
+Financial infrastructure & exchanges,Depository,RoW,0.022465055,pi
+Financial infrastructure & exchanges,Exchange,Africa,0.022119832,pi
+Financial infrastructure & exchanges,Exchange,Arab States,0.007743841,pi
+Financial infrastructure & exchanges,Exchange,Asia,0.020523555,pi
+Financial infrastructure & exchanges,Exchange,Oceania,0.031848061,pi
+Financial infrastructure & exchanges,Exchange,Europe,0.056162638,pi
+Financial infrastructure & exchanges,Exchange,Former Soviet Republics,0.022465055,pi
+Financial infrastructure & exchanges,Exchange,USA,0.010958208,pi
+Financial infrastructure & exchanges,Exchange,Canada,0.031748317,pi
+Financial infrastructure & exchanges,Exchange,South/Latin America,0.015775915,pi
+Financial infrastructure & exchanges,Exchange,Caribbean,0.018298979,pi
+Financial infrastructure & exchanges,Exchange,RoW,0.022465055,pi
+Financial infrastructure & exchanges,Payments infrastructure,Africa,0.022119832,pi
+Financial infrastructure & exchanges,Payments infrastructure,Arab States,0.007743841,pi
+Financial infrastructure & exchanges,Payments infrastructure,Asia,0.020523555,pi
+Financial infrastructure & exchanges,Payments infrastructure,Oceania,0.031848061,pi
+Financial infrastructure & exchanges,Payments infrastructure,Europe,0.056162638,pi
+Financial infrastructure & exchanges,Payments infrastructure,Former Soviet Republics,0.022465055,pi
+Financial infrastructure & exchanges,Payments infrastructure,USA,0.010958208,pi
+Financial infrastructure & exchanges,Payments infrastructure,Canada,0.031748317,pi
+Financial infrastructure & exchanges,Payments infrastructure,South/Latin America,0.015775915,pi
+Financial infrastructure & exchanges,Payments infrastructure,Caribbean,0.018298979,pi
+Financial infrastructure & exchanges,Payments infrastructure,RoW,0.022465055,pi
+Financial infrastructure & exchanges,Trading platform,Africa,0.022119832,pi
+Financial infrastructure & exchanges,Trading platform,Arab States,0.007743841,pi
+Financial infrastructure & exchanges,Trading platform,Asia,0.020523555,pi
+Financial infrastructure & exchanges,Trading platform,Oceania,0.031848061,pi
+Financial infrastructure & exchanges,Trading platform,Europe,0.056162638,pi
+Financial infrastructure & exchanges,Trading platform,Former Soviet Republics,0.022465055,pi
+Financial infrastructure & exchanges,Trading platform,USA,0.010958208,pi
+Financial infrastructure & exchanges,Trading platform,Canada,0.031748317,pi
+Financial infrastructure & exchanges,Trading platform,South/Latin America,0.015775915,pi
+Financial infrastructure & exchanges,Trading platform,Caribbean,0.018298979,pi
+Financial infrastructure & exchanges,Trading platform,RoW,0.022465055,pi
+Investment managers,Fund of funds,Africa,0.015457453,pi
+Investment managers,Fund of funds,Arab States,0.005411436,pi
+Investment managers,Fund of funds,Asia,0.014341966,pi
+Investment managers,Fund of funds,Oceania,0.022255589,pi
+Investment managers,Fund of funds,Europe,0.012755191,pi
+Investment managers,Fund of funds,Former Soviet Republics,0.015698697,pi
+Investment managers,Fund of funds,USA,0.007657652,pi
+Investment managers,Fund of funds,Canada,0.022185888,pi
+Investment managers,Fund of funds,South/Latin America,0.01102429,pi
+Investment managers,Fund of funds,Caribbean,0.012787421,pi
+Investment managers,Fund of funds,RoW,0.015698697,pi
+Investment managers,Hedge funds (long/short),Africa,0.015457453,pi
+Investment managers,Hedge funds (long/short),Arab States,0.005411436,pi
+Investment managers,Hedge funds (long/short),Asia,0.014341966,pi
+Investment managers,Hedge funds (long/short),Oceania,0.022255589,pi
+Investment managers,Hedge funds (long/short),Europe,0.039246741,pi
+Investment managers,Hedge funds (long/short),Former Soviet Republics,0.015698697,pi
+Investment managers,Hedge funds (long/short),USA,0.007657652,pi
+Investment managers,Hedge funds (long/short),Canada,0.022185888,pi
+Investment managers,Hedge funds (long/short),South/Latin America,0.01102429,pi
+Investment managers,Hedge funds (long/short),Caribbean,0.012787421,pi
+Investment managers,Hedge funds (long/short),RoW,0.015698697,pi
+Investment managers,Investment fund,Africa,0.015457453,pi
+Investment managers,Investment fund,Arab States,0.005411436,pi
+Investment managers,Investment fund,Asia,0.014341966,pi
+Investment managers,Investment fund,Oceania,0.022255589,pi
+Investment managers,Investment fund,Europe,0.019623371,pi
+Investment managers,Investment fund,Former Soviet Republics,0.015698697,pi
+Investment managers,Investment fund,USA,0.007657652,pi
+Investment managers,Investment fund,Canada,0.022185888,pi
+Investment managers,Investment fund,South/Latin America,0.01102429,pi
+Investment managers,Investment fund,Caribbean,0.012787421,pi
+Investment managers,Investment fund,RoW,0.015698697,pi
+Investment managers,Investment trust,Africa,0.015457453,pi
+Investment managers,Investment trust,Arab States,0.005411436,pi
+Investment managers,Investment trust,Asia,0.014341966,pi
+Investment managers,Investment trust,Oceania,0.022255589,pi
+Investment managers,Investment trust,Europe,0.039246741,pi
+Investment managers,Investment trust,Former Soviet Republics,0.015698697,pi
+Investment managers,Investment trust,USA,0.007657652,pi
+Investment managers,Investment trust,Canada,0.022185888,pi
+Investment managers,Investment trust,South/Latin America,0.01102429,pi
+Investment managers,Investment trust,Caribbean,0.012787421,pi
+Investment managers,Investment trust,RoW,0.015698697,pi
+Investment managers,Long only,Africa,0.015457453,pi
+Investment managers,Long only,Arab States,0.005411436,pi
+Investment managers,Long only,Asia,0.014341966,pi
+Investment managers,Long only,Oceania,0.022255589,pi
+Investment managers,Long only,Europe,0.039246741,pi
+Investment managers,Long only,Former Soviet Republics,0.015698697,pi
+Investment managers,Long only,USA,0.007657652,pi
+Investment managers,Long only,Canada,0.022185888,pi
+Investment managers,Long only,South/Latin America,0.01102429,pi
+Investment managers,Long only,Caribbean,0.012787421,pi
+Investment managers,Long only,RoW,0.015698697,pi
+Investment managers,Multi-strategy,Africa,0.015457453,pi
+Investment managers,Multi-strategy,Arab States,0.005411436,pi
+Investment managers,Multi-strategy,Asia,0.014341966,pi
+Investment managers,Multi-strategy,Oceania,0.022255589,pi
+Investment managers,Multi-strategy,Europe,0.025510382,pi
+Investment managers,Multi-strategy,Former Soviet Republics,0.015698697,pi
+Investment managers,Multi-strategy,USA,0.007657652,pi
+Investment managers,Multi-strategy,Canada,0.022185888,pi
+Investment managers,Multi-strategy,South/Latin America,0.01102429,pi
+Investment managers,Multi-strategy,Caribbean,0.012787421,pi
+Investment managers,Multi-strategy,RoW,0.015698697,pi
+Investment managers,Private equity,Africa,0.015457453,pi
+Investment managers,Private equity,Arab States,0.005411436,pi
+Investment managers,Private equity,Asia,0.014341966,pi
+Investment managers,Private equity,Oceania,0.022255589,pi
+Investment managers,Private equity,Europe,0.039246741,pi
+Investment managers,Private equity,Former Soviet Republics,0.015698697,pi
+Investment managers,Private equity,USA,0.007657652,pi
+Investment managers,Private equity,Canada,0.022185888,pi
+Investment managers,Private equity,South/Latin America,0.01102429,pi
+Investment managers,Private equity,Caribbean,0.012787421,pi
+Investment managers,Private equity,RoW,0.015698697,pi
+Investment managers,Real estate,Africa,0.015457453,pi
+Investment managers,Real estate,Arab States,0.005411436,pi
+Investment managers,Real estate,Asia,0.014341966,pi
+Investment managers,Real estate,Oceania,0.022255589,pi
+Investment managers,Real estate,Europe,0.039246741,pi
+Investment managers,Real estate,Former Soviet Republics,0.015698697,pi
+Investment managers,Real estate,USA,0.007657652,pi
+Investment managers,Real estate,Canada,0.022185888,pi
+Investment managers,Real estate,South/Latin America,0.01102429,pi
+Investment managers,Real estate,Caribbean,0.012787421,pi
+Investment managers,Real estate,RoW,0.015698697,pi
+Investment managers,Venture capital,Africa,0.015457453,pi
+Investment managers,Venture capital,Arab States,0.005411436,pi
+Investment managers,Venture capital,Asia,0.014341966,pi
+Investment managers,Venture capital,Oceania,0.022255589,pi
+Investment managers,Venture capital,Europe,0.039246741,pi
+Investment managers,Venture capital,Former Soviet Republics,0.015698697,pi
+Investment managers,Venture capital,USA,0.007657652,pi
+Investment managers,Venture capital,Canada,0.022185888,pi
+Investment managers,Venture capital,South/Latin America,0.01102429,pi
+Investment managers,Venture capital,Caribbean,0.012787421,pi
+Investment managers,Venture capital,RoW,0.015698697,pi
+Investment managers,Pension fund,Africa,0.015457453,pi
+Investment managers,Pension fund,Arab States,0.005411436,pi
+Investment managers,Pension fund,Asia,0.014341966,pi
+Investment managers,Pension fund,Oceania,0.022255589,pi
+Investment managers,Pension fund,Europe,0.039246741,pi
+Investment managers,Pension fund,Former Soviet Republics,0.015698697,pi
+Investment managers,Pension fund,USA,0.007657652,pi
+Investment managers,Pension fund,Canada,0.022185888,pi
+Investment managers,Pension fund,South/Latin America,0.01102429,pi
+Investment managers,Pension fund,Caribbean,0.012787421,pi
+Investment managers,Pension fund,RoW,0.015698697,pi
+Investment managers,Multi-family office,Africa,0.019146069,pi
+Investment managers,Multi-family office,Arab States,0.006702769,pi
+Investment managers,Multi-family office,Asia,0.017764394,pi
+Investment managers,Multi-family office,Oceania,0.13783224,pi
+Investment managers,Multi-family office,Europe,0.048612204,pi
+Investment managers,Multi-family office,Former Soviet Republics,0.019444882,pi
+Investment managers,Multi-family office,USA,0.009485,pi
+Investment managers,Multi-family office,Canada,0.027480114,pi
+Investment managers,Multi-family office,South/Latin America,0.013655021,pi
+Investment managers,Multi-family office,Caribbean,0.063355549,pi
+Investment managers,Multi-family office,RoW,0.019444882,pi
+Investment managers,Single family office,Africa,0.019146069,pi
+Investment managers,Single family office,Arab States,0.006702769,pi
+Investment managers,Single family office,Asia,0.017764394,pi
+Investment managers,Single family office,Oceania,0.13783224,pi
+Investment managers,Single family office,Europe,0.048612204,pi
+Investment managers,Single family office,Former Soviet Republics,0.019444882,pi
+Investment managers,Single family office,USA,0.009485,pi
+Investment managers,Single family office,Canada,0.027480114,pi
+Investment managers,Single family office,South/Latin America,0.013655021,pi
+Investment managers,Single family office,Caribbean,0.063355549,pi
+Investment managers,Single family office,RoW,0.019444882,pi
+Other,Npl servicer,Africa,0.019146069,pi
+Other,Npl servicer,Arab States,0.006702769,pi
+Other,Npl servicer,Asia,0.017764394,pi
+Other,Npl servicer,Oceania,0.027566448,pi
+Other,Npl servicer,Europe,0.145836612,pi
+Other,Npl servicer,Former Soviet Republics,0.019444882,pi
+Other,Npl servicer,USA,0.009485,pi
+Other,Npl servicer,Canada,0.027480114,pi
+Other,Npl servicer,South/Latin America,0.013655021,pi
+Other,Npl servicer,Caribbean,0.015838887,pi
+Other,Npl servicer,RoW,0.019444882,pi
+Other,Securitization services,Africa,0.019146069,pi
+Other,Securitization services,Arab States,0.006702769,pi
+Other,Securitization services,Asia,0.017764394,pi
+Other,Securitization services,Oceania,0.027566448,pi
+Other,Securitization services,Europe,0.145836612,pi
+Other,Securitization services,Former Soviet Republics,0.019444882,pi
+Other,Securitization services,USA,0.009485,pi
+Other,Securitization services,Canada,0.027480114,pi
+Other,Securitization services,South/Latin America,0.013655021,pi
+Other,Securitization services,Caribbean,0.015838887,pi
+Other,Securitization services,RoW,0.019444882,pi
+Other,Business process outsourcing,Africa,0.019146069,pi
+Other,Business process outsourcing,Arab States,0.006702769,pi
+Other,Business process outsourcing,Asia,0.017764394,pi
+Other,Business process outsourcing,Oceania,0.027566448,pi
+Other,Business process outsourcing,Europe,0.145836612,pi
+Other,Business process outsourcing,Former Soviet Republics,0.019444882,pi
+Other,Business process outsourcing,USA,0.009485,pi
+Other,Business process outsourcing,Canada,0.027480114,pi
+Other,Business process outsourcing,South/Latin America,0.013655021,pi
+Other,Business process outsourcing,Caribbean,0.015838887,pi
+Other,Business process outsourcing,RoW,0.019444882,pi
+Other,Commodities brokers/dealer,Africa,0.019146069,pi
+Other,Commodities brokers/dealer,Arab States,0.006702769,pi
+Other,Commodities brokers/dealer,Asia,0.017764394,pi
+Other,Commodities brokers/dealer,Oceania,0.027566448,pi
+Other,Commodities brokers/dealer,Europe,0.048612204,pi
+Other,Commodities brokers/dealer,Former Soviet Republics,0.019444882,pi
+Other,Commodities brokers/dealer,USA,0.009485,pi
+Other,Commodities brokers/dealer,Canada,0.027480114,pi
+Other,Commodities brokers/dealer,South/Latin America,0.013655021,pi
+Other,Commodities brokers/dealer,Caribbean,0.015838887,pi
+Other,Commodities brokers/dealer,RoW,0.019444882,pi
+Other,Corporate finance houses/boutiques,Africa,0.019146069,pi
+Other,Corporate finance houses/boutiques,Arab States,0.006702769,pi
+Other,Corporate finance houses/boutiques,Asia,0.017764394,pi
+Other,Corporate finance houses/boutiques,Oceania,0.027566448,pi
+Other,Corporate finance houses/boutiques,Europe,0.024306102,pi
+Other,Corporate finance houses/boutiques,Former Soviet Republics,0.019444882,pi
+Other,Corporate finance houses/boutiques,USA,0.009485,pi
+Other,Corporate finance houses/boutiques,Canada,0.109920455,pi
+Other,Corporate finance houses/boutiques,South/Latin America,0.013655021,pi
+Other,Corporate finance houses/boutiques,Caribbean,0.015838887,pi
+Other,Corporate finance houses/boutiques,RoW,0.019444882,pi
+Other,Fin tech,Africa,0.019146069,pi
+Other,Fin tech,Arab States,0.006702769,pi
+Other,Fin tech,Asia,0.017764394,pi
+Other,Fin tech,Oceania,0.027566448,pi
+Other,Fin tech,Europe,0.048612204,pi
+Other,Fin tech,Former Soviet Republics,0.019444882,pi
+Other,Fin tech,USA,0.009485,pi
+Other,Fin tech,Canada,0.027480114,pi
+Other,Fin tech,South/Latin America,0.013655021,pi
+Other,Fin tech,Caribbean,0.015838887,pi
+Other,Fin tech,RoW,0.019444882,pi
+Other,Financial/mortgage advisors,Africa,0.019146069,pi
+Other,Financial/mortgage advisors,Arab States,0.006702769,pi
+Other,Financial/mortgage advisors,Asia,0.017764394,pi
+Other,Financial/mortgage advisors,Oceania,0.027566448,pi
+Other,Financial/mortgage advisors,Europe,0.048612204,pi
+Other,Financial/mortgage advisors,Former Soviet Republics,0.019444882,pi
+Other,Financial/mortgage advisors,USA,0.009485,pi
+Other,Financial/mortgage advisors,Canada,0.027480114,pi
+Other,Financial/mortgage advisors,South/Latin America,0.013655021,pi
+Other,Financial/mortgage advisors,Caribbean,0.015838887,pi
+Other,Financial/mortgage advisors,RoW,0.019444882,pi
+Other,Miscellaneous,Africa,0.019146069,pi
+Other,Miscellaneous,Arab States,0.006702769,pi
+Other,Miscellaneous,Asia,0.017764394,pi
+Other,Miscellaneous,Oceania,0.027566448,pi
+Other,Miscellaneous,Europe,0.032408136,pi
+Other,Miscellaneous,Former Soviet Republics,0.019444882,pi
+Other,Miscellaneous,USA,0.009485,pi
+Other,Miscellaneous,Canada,0.027480114,pi
+Other,Miscellaneous,South/Latin America,0.010924016,pi
+Other,Miscellaneous,Caribbean,0.015838887,pi
+Other,Miscellaneous,RoW,0.019444882,pi
+Other,Peer to peer  / market place lender,Africa,0.019146069,pi
+Other,Peer to peer  / market place lender,Arab States,0.006702769,pi
+Other,Peer to peer  / market place lender,Asia,0.017764394,pi
+Other,Peer to peer  / market place lender,Oceania,0.027566448,pi
+Other,Peer to peer  / market place lender,Europe,0.048612204,pi
+Other,Peer to peer  / market place lender,Former Soviet Republics,0.019444882,pi
+Other,Peer to peer  / market place lender,USA,0.009485,pi
+Other,Peer to peer  / market place lender,Canada,0.027480114,pi
+Other,Peer to peer  / market place lender,South/Latin America,0.013655021,pi
+Other,Peer to peer  / market place lender,Caribbean,0.015838887,pi
+Other,Peer to peer  / market place lender,RoW,0.019444882,pi
+Other,Pension administrator,Africa,0.019146069,pi
+Other,Pension administrator,Arab States,0.006702769,pi
+Other,Pension administrator,Asia,0.017764394,pi
+Other,Pension administrator,Oceania,0.027566448,pi
+Other,Pension administrator,Europe,0.024306102,pi
+Other,Pension administrator,Former Soviet Republics,0.019444882,pi
+Other,Pension administrator,USA,0.009485,pi
+Other,Pension administrator,Canada,0.027480114,pi
+Other,Pension administrator,South/Latin America,0.013655021,pi
+Other,Pension administrator,Caribbean,0.015838887,pi
+Other,Pension administrator,RoW,0.019444882,pi
+Other,Stock brokers/dealers,Africa,0.019146069,pi
+Other,Stock brokers/dealers,Arab States,0.006702769,pi
+Other,Stock brokers/dealers,Asia,0.017764394,pi
+Other,Stock brokers/dealers,Oceania,0.027566448,pi
+Other,Stock brokers/dealers,Europe,0.048612204,pi
+Other,Stock brokers/dealers,Former Soviet Republics,0.019444882,pi
+Other,Stock brokers/dealers,USA,0.009485,pi
+Other,Stock brokers/dealers,Canada,0.027480114,pi
+Other,Stock brokers/dealers,South/Latin America,0.013655021,pi
+Other,Stock brokers/dealers,Caribbean,0.015838887,pi
+Other,Stock brokers/dealers,RoW,0.019444882,pi
+Other,Trust administrator,Africa,0.019146069,pi
+Other,Trust administrator,Arab States,0.006702769,pi
+Other,Trust administrator,Asia,0.017764394,pi
+Other,Trust administrator,Oceania,0.027566448,pi
+Other,Trust administrator,Europe,0.048612204,pi
+Other,Trust administrator,Former Soviet Republics,0.019444882,pi
+Other,Trust administrator,USA,0.009485,pi
+Other,Trust administrator,Canada,0.016488068,pi
+Other,Trust administrator,South/Latin America,0.010924016,pi
+Other,Trust administrator,Caribbean,0.015838887,pi
+Other,Trust administrator,RoW,0.019444882,pi
+Other,Wealth manager,Africa,0.019146069,pi
+Other,Wealth manager,Arab States,0.006702769,pi
+Other,Wealth manager,Asia,0.017764394,pi
+Other,Wealth manager,Oceania,0.13783224,pi
+Other,Wealth manager,Europe,0.048612204,pi
+Other,Wealth manager,Former Soviet Republics,0.019444882,pi
+Other,Wealth manager,USA,0.009485,pi
+Other,Wealth manager,Canada,0.027480114,pi
+Other,Wealth manager,South/Latin America,0.013655021,pi
+Other,Wealth manager,Caribbean,0.063355549,pi
+Other,Wealth manager,RoW,0.019444882,pi
+Banks,Acquiring bank,Africa,0.008749793,do
+Banks,Acquiring bank,Arab States,0.013714127,do
+Banks,Acquiring bank,Asia,0.016154734,do
+Banks,Acquiring bank,Oceania,0.036877876,do
+Banks,Acquiring bank,Europe,0.020482212,do
+Banks,Acquiring bank,Former Soviet Republics,0.010232037,do
+Banks,Acquiring bank,USA,0.069353564,do
+Banks,Acquiring bank,Canada,0.034129994,do
+Banks,Acquiring bank,South/Latin America,0.012483772,do
+Banks,Acquiring bank,Caribbean,0.014269639,do
+Banks,Acquiring bank,RoW,0.020482212,do
+Banks,Building societies,Africa,0.008749793,do
+Banks,Building societies,Arab States,0.013714127,do
+Banks,Building societies,Asia,0.016154734,do
+Banks,Building societies,Oceania,0.036877876,do
+Banks,Building societies,Europe,0.020482212,do
+Banks,Building societies,Former Soviet Republics,0.010232037,do
+Banks,Building societies,USA,0.069353564,do
+Banks,Building societies,Canada,0.034129994,do
+Banks,Building societies,South/Latin America,0.012483772,do
+Banks,Building societies,Caribbean,0.014269639,do
+Banks,Building societies,RoW,0.020482212,do
+Banks,Central banks,Africa,0.008749793,do
+Banks,Central banks,Arab States,0.013714127,do
+Banks,Central banks,Asia,0.016154734,do
+Banks,Central banks,Oceania,0.036877876,do
+Banks,Central banks,Europe,0.020482212,do
+Banks,Central banks,Former Soviet Republics,0.010232037,do
+Banks,Central banks,USA,0.069353564,do
+Banks,Central banks,Canada,0.034129994,do
+Banks,Central banks,South/Latin America,0.012483772,do
+Banks,Central banks,Caribbean,0.014269639,do
+Banks,Central banks,RoW,0.020482212,do
+Banks,Commercial banks,Africa,0.008867338,do
+Banks,Commercial banks,Arab States,0.003474591,do
+Banks,Commercial banks,Asia,0.010914504,do
+Banks,Commercial banks,Oceania,0.022423976,do
+Banks,Commercial banks,Europe,0.02075737,do
+Banks,Commercial banks,Former Soviet Republics,0.010369494,do
+Banks,Commercial banks,USA,0.07028526,do
+Banks,Commercial banks,Canada,0.006917699,do
+Banks,Commercial banks,South/Latin America,0.012651479,do
+Banks,Commercial banks,Caribbean,0.007230669,do
+Banks,Commercial banks,RoW,0.02075737,do
+Banks,Credit unions,Africa,0.008749793,do
+Banks,Credit unions,Arab States,0.013714127,do
+Banks,Credit unions,Asia,0.016154734,do
+Banks,Credit unions,Oceania,0.036877876,do
+Banks,Credit unions,Europe,0.020482212,do
+Banks,Credit unions,Former Soviet Republics,0.010232037,do
+Banks,Credit unions,USA,0.069353564,do
+Banks,Credit unions,Canada,0.034129994,do
+Banks,Credit unions,South/Latin America,0.004993509,do
+Banks,Credit unions,Caribbean,0.014269639,do
+Banks,Credit unions,RoW,0.020482212,do
+Banks,Development bank,Africa,0.008749793,do
+Banks,Development bank,Arab States,0.013714127,do
+Banks,Development bank,Asia,0.016154734,do
+Banks,Development bank,Oceania,0.036877876,do
+Banks,Development bank,Europe,0.004096442,do
+Banks,Development bank,Former Soviet Republics,0.010232037,do
+Banks,Development bank,USA,0.069353564,do
+Banks,Development bank,Canada,0.034129994,do
+Banks,Development bank,South/Latin America,0.012483772,do
+Banks,Development bank,Caribbean,0.002853928,do
+Banks,Development bank,RoW,0.020482212,do
+Banks,Financing companies/house,Africa,0.008749793,do
+Banks,Financing companies/house,Arab States,0.013714127,do
+Banks,Financing companies/house,Asia,0.016154734,do
+Banks,Financing companies/house,Oceania,0.036877876,do
+Banks,Financing companies/house,Europe,0.020482212,do
+Banks,Financing companies/house,Former Soviet Republics,0.010232037,do
+Banks,Financing companies/house,USA,0.069353564,do
+Banks,Financing companies/house,Canada,0.034129994,do
+Banks,Financing companies/house,South/Latin America,0.012483772,do
+Banks,Financing companies/house,Caribbean,0.014269639,do
+Banks,Financing companies/house,RoW,0.020482212,do
+Banks,Investment banks,Africa,0.008749793,do
+Banks,Investment banks,Arab States,0.013714127,do
+Banks,Investment banks,Asia,0.016154734,do
+Banks,Investment banks,Oceania,0.036877876,do
+Banks,Investment banks,Europe,0.006144664,do
+Banks,Investment banks,Former Soviet Republics,0.010232037,do
+Banks,Investment banks,USA,0.069353564,do
+Banks,Investment banks,Canada,0.034129994,do
+Banks,Investment banks,South/Latin America,0.009987017,do
+Banks,Investment banks,Caribbean,0.014269639,do
+Banks,Investment banks,RoW,0.020482212,do
+Banks,Private banks,Africa,0.008749793,do
+Banks,Private banks,Arab States,0.013714127,do
+Banks,Private banks,Asia,0.016154734,do
+Banks,Private banks,Oceania,0.018438938,do
+Banks,Private banks,Europe,0.005120553,do
+Banks,Private banks,Former Soviet Republics,0.010232037,do
+Banks,Private banks,USA,0.069353564,do
+Banks,Private banks,Canada,0.034129994,do
+Banks,Private banks,South/Latin America,0.00873864,do
+Banks,Private banks,Caribbean,0.00713482,do
+Banks,Private banks,RoW,0.020482212,do
+Banks,Retail banks,Africa,0.008749793,do
+Banks,Retail banks,Arab States,0.013714127,do
+Banks,Retail banks,Asia,0.016154734,do
+Banks,Retail banks,Oceania,0.036877876,do
+Banks,Retail banks,Europe,0.020482212,do
+Banks,Retail banks,Former Soviet Republics,0.010232037,do
+Banks,Retail banks,USA,0.069353564,do
+Banks,Retail banks,Canada,0.034129994,do
+Banks,Retail banks,South/Latin America,0.012483772,do
+Banks,Retail banks,Caribbean,0.014269639,do
+Banks,Retail banks,RoW,0.020482212,do
+Banks,Universal bank,Africa,0.004374897,do
+Banks,Universal bank,Arab States,0.013714127,do
+Banks,Universal bank,Asia,0.012923787,do
+Banks,Universal bank,Oceania,0.036877876,do
+Banks,Universal bank,Europe,0.010241106,do
+Banks,Universal bank,Former Soviet Republics,0.010232037,do
+Banks,Universal bank,USA,0.069353564,do
+Banks,Universal bank,Canada,0.034129994,do
+Banks,Universal bank,South/Latin America,0.012483772,do
+Banks,Universal bank,Caribbean,0.014269639,do
+Banks,Universal bank,RoW,0.020482212,do
+Insurance companies,Captives,Africa,0.00724188,do
+Insurance companies,Captives,Arab States,0.011350676,do
+Insurance companies,Captives,Asia,0.013370676,do
+Insurance companies,Captives,Oceania,0.030522454,do
+Insurance companies,Captives,Europe,0.01695237,do
+Insurance companies,Captives,Former Soviet Republics,0.008468679,do
+Insurance companies,Captives,USA,0.05740138,do
+Insurance companies,Captives,Canada,0.028248134,do
+Insurance companies,Captives,South/Latin America,0.010332356,do
+Insurance companies,Captives,Caribbean,0.011810453,do
+Insurance companies,Captives,RoW,0.01695237,do
+Insurance companies,Composite,Africa,0.00724188,do
+Insurance companies,Composite,Arab States,0.011350676,do
+Insurance companies,Composite,Asia,0.006685338,do
+Insurance companies,Composite,Oceania,0.030522454,do
+Insurance companies,Composite,Europe,0.005933329,do
+Insurance companies,Composite,Former Soviet Republics,0.008468679,do
+Insurance companies,Composite,USA,0.05740138,do
+Insurance companies,Composite,Canada,0.14124067,do
+Insurance companies,Composite,South/Latin America,0.008265885,do
+Insurance companies,Composite,Caribbean,0.001771568,do
+Insurance companies,Composite,RoW,0.01695237,do
+Insurance companies,Life,Africa,0.00724188,do
+Insurance companies,Life,Arab States,0.011350676,do
+Insurance companies,Life,Asia,0.00534827,do
+Insurance companies,Life,Oceania,0.030522454,do
+Insurance companies,Life,Europe,0.01695237,do
+Insurance companies,Life,Former Soviet Republics,0.008468679,do
+Insurance companies,Life,USA,0.05740138,do
+Insurance companies,Life,Canada,0.028248134,do
+Insurance companies,Life,South/Latin America,0.010332356,do
+Insurance companies,Life,Caribbean,0.005905226,do
+Insurance companies,Life,RoW,0.01695237,do
+Insurance companies,Mga,Africa,0.00724188,do
+Insurance companies,Mga,Arab States,0.011350676,do
+Insurance companies,Mga,Asia,0.013370676,do
+Insurance companies,Mga,Oceania,0.030522454,do
+Insurance companies,Mga,Europe,0.01695237,do
+Insurance companies,Mga,Former Soviet Republics,0.008468679,do
+Insurance companies,Mga,USA,0.05740138,do
+Insurance companies,Mga,Canada,0.028248134,do
+Insurance companies,Mga,South/Latin America,0.010332356,do
+Insurance companies,Mga,Caribbean,0.005905226,do
+Insurance companies,Mga,RoW,0.01695237,do
+Insurance companies,P&c,Africa,0.00724188,do
+Insurance companies,P&c,Arab States,0.011350676,do
+Insurance companies,P&c,Asia,0.013370676,do
+Insurance companies,P&c,Oceania,0.030522454,do
+Insurance companies,P&c,Europe,0.008476185,do
+Insurance companies,P&c,Former Soviet Republics,0.008468679,do
+Insurance companies,P&c,USA,0.05740138,do
+Insurance companies,P&c,Canada,0.028248134,do
+Insurance companies,P&c,South/Latin America,0.010332356,do
+Insurance companies,P&c,Caribbean,0.005905226,do
+Insurance companies,P&c,RoW,0.01695237,do
+Insurance companies,Reinsurance,Africa,0.00724188,do
+Insurance companies,Reinsurance,Arab States,0.011350676,do
+Insurance companies,Reinsurance,Asia,0.013370676,do
+Insurance companies,Reinsurance,Oceania,0.030522454,do
+Insurance companies,Reinsurance,Europe,0.01695237,do
+Insurance companies,Reinsurance,Former Soviet Republics,0.008468679,do
+Insurance companies,Reinsurance,USA,0.05740138,do
+Insurance companies,Reinsurance,Canada,0.028248134,do
+Insurance companies,Reinsurance,South/Latin America,0.004132942,do
+Insurance companies,Reinsurance,Caribbean,0.001476307,do
+Insurance companies,Reinsurance,RoW,0.01695237,do
+Insurance companies,Mutual,Africa,0.00724188,do
+Insurance companies,Mutual,Arab States,0.011350676,do
+Insurance companies,Mutual,Asia,0.013370676,do
+Insurance companies,Mutual,Oceania,0.030522454,do
+Insurance companies,Mutual,Europe,0.01695237,do
+Insurance companies,Mutual,Former Soviet Republics,0.008468679,do
+Insurance companies,Mutual,USA,0.05740138,do
+Insurance companies,Mutual,Canada,0.028248134,do
+Insurance companies,Mutual,South/Latin America,0.004132942,do
+Insurance companies,Mutual,Caribbean,0.001476307,do
+Insurance companies,Mutual,RoW,0.01695237,do
+Financial infrastructure & exchanges,Clearing house,Africa,0.00463195,do
+Financial infrastructure & exchanges,Clearing house,Arab States,0.00725996,do
+Financial infrastructure & exchanges,Clearing house,Asia,0.008551964,do
+Financial infrastructure & exchanges,Clearing house,Oceania,0.019522343,do
+Financial infrastructure & exchanges,Clearing house,Europe,0.010842836,do
+Financial infrastructure & exchanges,Clearing house,Former Soviet Republics,0.005416617,do
+Financial infrastructure & exchanges,Clearing house,USA,0.036714263,do
+Financial infrastructure & exchanges,Clearing house,Canada,0.018067674,do
+Financial infrastructure & exchanges,Clearing house,South/Latin America,0.006608636,do
+Financial infrastructure & exchanges,Clearing house,Caribbean,0.007554036,do
+Financial infrastructure & exchanges,Clearing house,RoW,0.010842836,do
+Financial infrastructure & exchanges,Custodian,Africa,0.00463195,do
+Financial infrastructure & exchanges,Custodian,Arab States,0.00725996,do
+Financial infrastructure & exchanges,Custodian,Asia,0.008551964,do
+Financial infrastructure & exchanges,Custodian,Oceania,0.019522343,do
+Financial infrastructure & exchanges,Custodian,Europe,0.010842836,do
+Financial infrastructure & exchanges,Custodian,Former Soviet Republics,0.005416617,do
+Financial infrastructure & exchanges,Custodian,USA,0.036714263,do
+Financial infrastructure & exchanges,Custodian,Canada,0.018067674,do
+Financial infrastructure & exchanges,Custodian,South/Latin America,0.006608636,do
+Financial infrastructure & exchanges,Custodian,Caribbean,0.007554036,do
+Financial infrastructure & exchanges,Custodian,RoW,0.010842836,do
+Financial infrastructure & exchanges,Depository,Africa,0.00463195,do
+Financial infrastructure & exchanges,Depository,Arab States,0.00725996,do
+Financial infrastructure & exchanges,Depository,Asia,0.008551964,do
+Financial infrastructure & exchanges,Depository,Oceania,0.019522343,do
+Financial infrastructure & exchanges,Depository,Europe,0.003614279,do
+Financial infrastructure & exchanges,Depository,Former Soviet Republics,0.005416617,do
+Financial infrastructure & exchanges,Depository,USA,0.036714263,do
+Financial infrastructure & exchanges,Depository,Canada,0.018067674,do
+Financial infrastructure & exchanges,Depository,South/Latin America,0.006608636,do
+Financial infrastructure & exchanges,Depository,Caribbean,0.007554036,do
+Financial infrastructure & exchanges,Depository,RoW,0.010842836,do
+Financial infrastructure & exchanges,Exchange,Africa,0.00463195,do
+Financial infrastructure & exchanges,Exchange,Arab States,0.00725996,do
+Financial infrastructure & exchanges,Exchange,Asia,0.008551964,do
+Financial infrastructure & exchanges,Exchange,Oceania,0.019522343,do
+Financial infrastructure & exchanges,Exchange,Europe,0.010842836,do
+Financial infrastructure & exchanges,Exchange,Former Soviet Republics,0.005416617,do
+Financial infrastructure & exchanges,Exchange,USA,0.036714263,do
+Financial infrastructure & exchanges,Exchange,Canada,0.018067674,do
+Financial infrastructure & exchanges,Exchange,South/Latin America,0.006608636,do
+Financial infrastructure & exchanges,Exchange,Caribbean,0.007554036,do
+Financial infrastructure & exchanges,Exchange,RoW,0.010842836,do
+Financial infrastructure & exchanges,Payments infrastructure,Africa,0.00463195,do
+Financial infrastructure & exchanges,Payments infrastructure,Arab States,0.00725996,do
+Financial infrastructure & exchanges,Payments infrastructure,Asia,0.008551964,do
+Financial infrastructure & exchanges,Payments infrastructure,Oceania,0.019522343,do
+Financial infrastructure & exchanges,Payments infrastructure,Europe,0.005421418,do
+Financial infrastructure & exchanges,Payments infrastructure,Former Soviet Republics,0.005416617,do
+Financial infrastructure & exchanges,Payments infrastructure,USA,0.036714263,do
+Financial infrastructure & exchanges,Payments infrastructure,Canada,0.018067674,do
+Financial infrastructure & exchanges,Payments infrastructure,South/Latin America,0.004626045,do
+Financial infrastructure & exchanges,Payments infrastructure,Caribbean,0.007554036,do
+Financial infrastructure & exchanges,Payments infrastructure,RoW,0.010842836,do
+Financial infrastructure & exchanges,Trading platform,Africa,0.00463195,do
+Financial infrastructure & exchanges,Trading platform,Arab States,0.00725996,do
+Financial infrastructure & exchanges,Trading platform,Asia,0.008551964,do
+Financial infrastructure & exchanges,Trading platform,Oceania,0.019522343,do
+Financial infrastructure & exchanges,Trading platform,Europe,0.010842836,do
+Financial infrastructure & exchanges,Trading platform,Former Soviet Republics,0.005416617,do
+Financial infrastructure & exchanges,Trading platform,USA,0.036714263,do
+Financial infrastructure & exchanges,Trading platform,Canada,0.018067674,do
+Financial infrastructure & exchanges,Trading platform,South/Latin America,0.006608636,do
+Financial infrastructure & exchanges,Trading platform,Caribbean,0.007554036,do
+Financial infrastructure & exchanges,Trading platform,RoW,0.010842836,do
+Investment managers,Fund of funds,Africa,0.010188882,do
+Investment managers,Fund of funds,Arab States,0.015969706,do
+Investment managers,Fund of funds,Asia,0.018811722,do
+Investment managers,Fund of funds,Oceania,0.042943223,do
+Investment managers,Fund of funds,Europe,0.023850945,do
+Investment managers,Fund of funds,Former Soviet Republics,0.011914912,do
+Investment managers,Fund of funds,USA,0.080760225,do
+Investment managers,Fund of funds,Canada,0.039743394,do
+Investment managers,Fund of funds,South/Latin America,0.014536992,do
+Investment managers,Fund of funds,Caribbean,0.016616583,do
+Investment managers,Fund of funds,RoW,0.023850945,do
+Investment managers,Hedge funds (long/short),Africa,0.010188882,do
+Investment managers,Hedge funds (long/short),Arab States,0.008783338,do
+Investment managers,Hedge funds (long/short),Asia,0.018811722,do
+Investment managers,Hedge funds (long/short),Oceania,0.042943223,do
+Investment managers,Hedge funds (long/short),Europe,0.023850945,do
+Investment managers,Hedge funds (long/short),Former Soviet Republics,0.011914912,do
+Investment managers,Hedge funds (long/short),USA,0.080760225,do
+Investment managers,Hedge funds (long/short),Canada,0.039743394,do
+Investment managers,Hedge funds (long/short),South/Latin America,0.014536992,do
+Investment managers,Hedge funds (long/short),Caribbean,0.016616583,do
+Investment managers,Hedge funds (long/short),RoW,0.023850945,do
+Investment managers,Investment fund,Africa,0.010188882,do
+Investment managers,Investment fund,Arab States,0.007984853,do
+Investment managers,Investment fund,Asia,0.011287033,do
+Investment managers,Investment fund,Oceania,0.030060256,do
+Investment managers,Investment fund,Europe,0.005962736,do
+Investment managers,Investment fund,Former Soviet Republics,0.011914912,do
+Investment managers,Investment fund,USA,0.080760225,do
+Investment managers,Investment fund,Canada,0.039743394,do
+Investment managers,Investment fund,South/Latin America,0.011629594,do
+Investment managers,Investment fund,Caribbean,0.033233167,do
+Investment managers,Investment fund,RoW,0.023850945,do
+Investment managers,Investment trust,Africa,0.010188882,do
+Investment managers,Investment trust,Arab States,0.015969706,do
+Investment managers,Investment trust,Asia,0.018811722,do
+Investment managers,Investment trust,Oceania,0.042943223,do
+Investment managers,Investment trust,Europe,0.003816151,do
+Investment managers,Investment trust,Former Soviet Republics,0.011914912,do
+Investment managers,Investment trust,USA,0.080760225,do
+Investment managers,Investment trust,Canada,0.039743394,do
+Investment managers,Investment trust,South/Latin America,0.014536992,do
+Investment managers,Investment trust,Caribbean,0.016616583,do
+Investment managers,Investment trust,RoW,0.023850945,do
+Investment managers,Long only,Africa,0.010188882,do
+Investment managers,Long only,Arab States,0.015969706,do
+Investment managers,Long only,Asia,0.018811722,do
+Investment managers,Long only,Oceania,0.042943223,do
+Investment managers,Long only,Europe,0.023850945,do
+Investment managers,Long only,Former Soviet Republics,0.011914912,do
+Investment managers,Long only,USA,0.080760225,do
+Investment managers,Long only,Canada,0.039743394,do
+Investment managers,Long only,South/Latin America,0.014536992,do
+Investment managers,Long only,Caribbean,0.016616583,do
+Investment managers,Long only,RoW,0.023850945,do
+Investment managers,Multi-strategy,Africa,0.010188882,do
+Investment managers,Multi-strategy,Arab States,0.015969706,do
+Investment managers,Multi-strategy,Asia,0.018811722,do
+Investment managers,Multi-strategy,Oceania,0.042943223,do
+Investment managers,Multi-strategy,Europe,0.023850945,do
+Investment managers,Multi-strategy,Former Soviet Republics,0.011914912,do
+Investment managers,Multi-strategy,USA,0.080760225,do
+Investment managers,Multi-strategy,Canada,0.039743394,do
+Investment managers,Multi-strategy,South/Latin America,0.014536992,do
+Investment managers,Multi-strategy,Caribbean,0.016616583,do
+Investment managers,Multi-strategy,RoW,0.023850945,do
+Investment managers,Private equity,Africa,0.010188882,do
+Investment managers,Private equity,Arab States,0.015969706,do
+Investment managers,Private equity,Asia,0.033861099,do
+Investment managers,Private equity,Oceania,0.042943223,do
+Investment managers,Private equity,Europe,0.023850945,do
+Investment managers,Private equity,Former Soviet Republics,0.011914912,do
+Investment managers,Private equity,USA,0.080760225,do
+Investment managers,Private equity,Canada,0.039743394,do
+Investment managers,Private equity,South/Latin America,0.010175894,do
+Investment managers,Private equity,Caribbean,0.016616583,do
+Investment managers,Private equity,RoW,0.023850945,do
+Investment managers,Real estate,Africa,0.010188882,do
+Investment managers,Real estate,Arab States,0.015969706,do
+Investment managers,Real estate,Asia,0.018811722,do
+Investment managers,Real estate,Oceania,0.034354578,do
+Investment managers,Real estate,Europe,0.007155284,do
+Investment managers,Real estate,Former Soviet Republics,0.011914912,do
+Investment managers,Real estate,USA,0.080760225,do
+Investment managers,Real estate,Canada,0.039743394,do
+Investment managers,Real estate,South/Latin America,0.014536992,do
+Investment managers,Real estate,Caribbean,0.016616583,do
+Investment managers,Real estate,RoW,0.023850945,do
+Investment managers,Venture capital,Africa,0.010188882,do
+Investment managers,Venture capital,Arab States,0.015969706,do
+Investment managers,Venture capital,Asia,0.018811722,do
+Investment managers,Venture capital,Oceania,0.042943223,do
+Investment managers,Venture capital,Europe,0.023850945,do
+Investment managers,Venture capital,Former Soviet Republics,0.011914912,do
+Investment managers,Venture capital,USA,0.080760225,do
+Investment managers,Venture capital,Canada,0.039743394,do
+Investment managers,Venture capital,South/Latin America,0.014536992,do
+Investment managers,Venture capital,Caribbean,0.016616583,do
+Investment managers,Venture capital,RoW,0.023850945,do
+Investment managers,Pension fund,Africa,0.010188882,do
+Investment managers,Pension fund,Arab States,0.015969706,do
+Investment managers,Pension fund,Asia,0.018811722,do
+Investment managers,Pension fund,Oceania,0.042943223,do
+Investment managers,Pension fund,Europe,0.023850945,do
+Investment managers,Pension fund,Former Soviet Republics,0.011914912,do
+Investment managers,Pension fund,USA,0.080760225,do
+Investment managers,Pension fund,Canada,0.039743394,do
+Investment managers,Pension fund,South/Latin America,0.014536992,do
+Investment managers,Pension fund,Caribbean,0.016616583,do
+Investment managers,Pension fund,RoW,0.023850945,do
+Investment managers,Multi-family office,Africa,0.010188882,do
+Investment managers,Multi-family office,Arab States,0.015969706,do
+Investment managers,Multi-family office,Asia,0.033861099,do
+Investment managers,Multi-family office,Oceania,0.042943223,do
+Investment managers,Multi-family office,Europe,0.023850945,do
+Investment managers,Multi-family office,Former Soviet Republics,0.011914912,do
+Investment managers,Multi-family office,USA,0.080760225,do
+Investment managers,Multi-family office,Canada,0.039743394,do
+Investment managers,Multi-family office,South/Latin America,0.010175894,do
+Investment managers,Multi-family office,Caribbean,0.016616583,do
+Investment managers,Multi-family office,RoW,0.023850945,do
+Investment managers,Single family office,Africa,0.010188882,do
+Investment managers,Single family office,Arab States,0.015969706,do
+Investment managers,Single family office,Asia,0.033861099,do
+Investment managers,Single family office,Oceania,0.042943223,do
+Investment managers,Single family office,Europe,0.023850945,do
+Investment managers,Single family office,Former Soviet Republics,0.011914912,do
+Investment managers,Single family office,USA,0.080760225,do
+Investment managers,Single family office,Canada,0.039743394,do
+Investment managers,Single family office,South/Latin America,0.010175894,do
+Investment managers,Single family office,Caribbean,0.016616583,do
+Investment managers,Single family office,RoW,0.023850945,do
+Other,Npl servicer,Africa,0.004025367,do
+Other,Npl servicer,Arab States,0.006309222,do
+Other,Npl servicer,Asia,0.00743203,do
+Other,Npl servicer,Oceania,0.010179461,do
+Other,Npl servicer,Europe,0.009422898,do
+Other,Npl servicer,Former Soviet Republics,0.004707277,do
+Other,Npl servicer,USA,0.031906298,do
+Other,Npl servicer,Canada,0.015701598,do
+Other,Npl servicer,South/Latin America,0.005743193,do
+Other,Npl servicer,Caribbean,0.006564787,do
+Other,Npl servicer,RoW,0.009422898,do
+Other,Securitization services,Africa,0.004025367,do
+Other,Securitization services,Arab States,0.006309222,do
+Other,Securitization services,Asia,0.00743203,do
+Other,Securitization services,Oceania,0.010179461,do
+Other,Securitization services,Europe,0.009422898,do
+Other,Securitization services,Former Soviet Republics,0.004707277,do
+Other,Securitization services,USA,0.031906298,do
+Other,Securitization services,Canada,0.015701598,do
+Other,Securitization services,South/Latin America,0.005743193,do
+Other,Securitization services,Caribbean,0.006564787,do
+Other,Securitization services,RoW,0.009422898,do
+Other,Business process outsourcing,Africa,0.004025367,do
+Other,Business process outsourcing,Arab States,0.006309222,do
+Other,Business process outsourcing,Asia,0.00743203,do
+Other,Business process outsourcing,Oceania,0.010179461,do
+Other,Business process outsourcing,Europe,0.009422898,do
+Other,Business process outsourcing,Former Soviet Republics,0.004707277,do
+Other,Business process outsourcing,USA,0.031906298,do
+Other,Business process outsourcing,Canada,0.015701598,do
+Other,Business process outsourcing,South/Latin America,0.005743193,do
+Other,Business process outsourcing,Caribbean,0.006564787,do
+Other,Business process outsourcing,RoW,0.009422898,do
+Other,Commodities brokers/dealer,Africa,0.004025367,do
+Other,Commodities brokers/dealer,Arab States,0.006309222,do
+Other,Commodities brokers/dealer,Asia,0.00743203,do
+Other,Commodities brokers/dealer,Oceania,0.016965768,do
+Other,Commodities brokers/dealer,Europe,0.009422898,do
+Other,Commodities brokers/dealer,Former Soviet Republics,0.004707277,do
+Other,Commodities brokers/dealer,USA,0.031906298,do
+Other,Commodities brokers/dealer,Canada,0.015701598,do
+Other,Commodities brokers/dealer,South/Latin America,0.005743193,do
+Other,Commodities brokers/dealer,Caribbean,0.006564787,do
+Other,Commodities brokers/dealer,RoW,0.009422898,do
+Other,Corporate finance houses/boutiques,Africa,0.004025367,do
+Other,Corporate finance houses/boutiques,Arab States,0.006309222,do
+Other,Corporate finance houses/boutiques,Asia,0.00743203,do
+Other,Corporate finance houses/boutiques,Oceania,0.016965768,do
+Other,Corporate finance houses/boutiques,Europe,0.009422898,do
+Other,Corporate finance houses/boutiques,Former Soviet Republics,0.004707277,do
+Other,Corporate finance houses/boutiques,USA,0.031906298,do
+Other,Corporate finance houses/boutiques,Canada,0.015701598,do
+Other,Corporate finance houses/boutiques,South/Latin America,0.005743193,do
+Other,Corporate finance houses/boutiques,Caribbean,0.006564787,do
+Other,Corporate finance houses/boutiques,RoW,0.009422898,do
+Other,Fin tech,Africa,0.004025367,do
+Other,Fin tech,Arab States,0.006309222,do
+Other,Fin tech,Asia,0.00743203,do
+Other,Fin tech,Oceania,0.016965768,do
+Other,Fin tech,Europe,0.009422898,do
+Other,Fin tech,Former Soviet Republics,0.004707277,do
+Other,Fin tech,USA,0.031906298,do
+Other,Fin tech,Canada,0.078507988,do
+Other,Fin tech,South/Latin America,0.005743193,do
+Other,Fin tech,Caribbean,0.006564787,do
+Other,Fin tech,RoW,0.009422898,do
+Other,Financial/mortgage advisors,Africa,0.004025367,do
+Other,Financial/mortgage advisors,Arab States,0.006309222,do
+Other,Financial/mortgage advisors,Asia,0.00743203,do
+Other,Financial/mortgage advisors,Oceania,0.016965768,do
+Other,Financial/mortgage advisors,Europe,0.009422898,do
+Other,Financial/mortgage advisors,Former Soviet Republics,0.004707277,do
+Other,Financial/mortgage advisors,USA,0.031906298,do
+Other,Financial/mortgage advisors,Canada,0.015701598,do
+Other,Financial/mortgage advisors,South/Latin America,0.005743193,do
+Other,Financial/mortgage advisors,Caribbean,0.006564787,do
+Other,Financial/mortgage advisors,RoW,0.009422898,do
+Other,Miscellaneous,Africa,0.004025367,do
+Other,Miscellaneous,Arab States,0.006309222,do
+Other,Miscellaneous,Asia,0.00743203,do
+Other,Miscellaneous,Oceania,0.016965768,do
+Other,Miscellaneous,Europe,0.006281932,do
+Other,Miscellaneous,Former Soviet Republics,0.004707277,do
+Other,Miscellaneous,USA,0.031906298,do
+Other,Miscellaneous,Canada,0.015701598,do
+Other,Miscellaneous,South/Latin America,0.005743193,do
+Other,Miscellaneous,Caribbean,0.006564787,do
+Other,Miscellaneous,RoW,0.009422898,do
+Other,Peer to peer  / market place lender,Africa,0.004025367,do
+Other,Peer to peer  / market place lender,Arab States,0.006309222,do
+Other,Peer to peer  / market place lender,Asia,0.00743203,do
+Other,Peer to peer  / market place lender,Oceania,0.016965768,do
+Other,Peer to peer  / market place lender,Europe,0.009422898,do
+Other,Peer to peer  / market place lender,Former Soviet Republics,0.004707277,do
+Other,Peer to peer  / market place lender,USA,0.031906298,do
+Other,Peer to peer  / market place lender,Canada,0.015701598,do
+Other,Peer to peer  / market place lender,South/Latin America,0.005743193,do
+Other,Peer to peer  / market place lender,Caribbean,0.006564787,do
+Other,Peer to peer  / market place lender,RoW,0.009422898,do
+Other,Pension administrator,Africa,0.004025367,do
+Other,Pension administrator,Arab States,0.006309222,do
+Other,Pension administrator,Asia,0.00743203,do
+Other,Pension administrator,Oceania,0.016965768,do
+Other,Pension administrator,Europe,0.004711449,do
+Other,Pension administrator,Former Soviet Republics,0.004707277,do
+Other,Pension administrator,USA,0.031906298,do
+Other,Pension administrator,Canada,0.015701598,do
+Other,Pension administrator,South/Latin America,0.005743193,do
+Other,Pension administrator,Caribbean,0.006564787,do
+Other,Pension administrator,RoW,0.009422898,do
+Other,Stock brokers/dealers,Africa,0.004025367,do
+Other,Stock brokers/dealers,Arab States,0.006309222,do
+Other,Stock brokers/dealers,Asia,0.003716015,do
+Other,Stock brokers/dealers,Oceania,0.016965768,do
+Other,Stock brokers/dealers,Europe,0.009422898,do
+Other,Stock brokers/dealers,Former Soviet Republics,0.004707277,do
+Other,Stock brokers/dealers,USA,0.031906298,do
+Other,Stock brokers/dealers,Canada,0.015701598,do
+Other,Stock brokers/dealers,South/Latin America,0.005743193,do
+Other,Stock brokers/dealers,Caribbean,0.006564787,do
+Other,Stock brokers/dealers,RoW,0.009422898,do
+Other,Trust administrator,Africa,0.004025367,do
+Other,Trust administrator,Arab States,0.006309222,do
+Other,Trust administrator,Asia,0.00743203,do
+Other,Trust administrator,Oceania,0.016965768,do
+Other,Trust administrator,Europe,0.009422898,do
+Other,Trust administrator,Former Soviet Republics,0.004707277,do
+Other,Trust administrator,USA,0.031906298,do
+Other,Trust administrator,Canada,0.015701598,do
+Other,Trust administrator,South/Latin America,0.005743193,do
+Other,Trust administrator,Caribbean,0.006564787,do
+Other,Trust administrator,RoW,0.009422898,do
+Other,Wealth manager,Africa,0.004025367,do
+Other,Wealth manager,Arab States,0.006309222,do
+Other,Wealth manager,Asia,0.009661639,do
+Other,Wealth manager,Oceania,0.016965768,do
+Other,Wealth manager,Europe,0.009422898,do
+Other,Wealth manager,Former Soviet Republics,0.004707277,do
+Other,Wealth manager,USA,0.031906298,do
+Other,Wealth manager,Canada,0.015701598,do
+Other,Wealth manager,South/Latin America,0.005743193,do
+Other,Wealth manager,Caribbean,0.006564787,do
+Other,Wealth manager,RoW,0.009422898,do

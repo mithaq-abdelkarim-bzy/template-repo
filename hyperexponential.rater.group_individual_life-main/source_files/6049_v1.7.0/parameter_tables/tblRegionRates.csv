@@ -1,0 +1,515 @@
+Lookup,Country,Region,Sex,Factor
+United KingdomSOUTH EASTM,United Kingdom,SOUTH EAST,M, 0.9025 
+United KingdomLONDONM,United Kingdom,LONDON,M, 0.9184 
+United KingdomSOUTH WESTM,United Kingdom,SOUTH WEST,M, 0.9253 
+United KingdomEASTM,United Kingdom,EAST,M, 0.9262 
+United KingdomEAST MIDLANDSM,United Kingdom,EAST MIDLANDS,M, 1.0022 
+United KingdomWEST MIDLANDSM,United Kingdom,WEST MIDLANDS,M, 1.0121 
+United KingdomNORTHERN IRELANDM,United Kingdom,NORTHERN IRELAND,M, 1.0758 
+United KingdomYORKSHIRE AND THE HUMBERM,United Kingdom,YORKSHIRE AND THE HUMBER,M, 1.0468 
+United KingdomWALESM,United Kingdom,WALES,M, 1.0613 
+United KingdomNORTH WESTM,United Kingdom,NORTH WEST,M, 1.0772 
+United KingdomNORTH EASTM,United Kingdom,NORTH EAST,M, 1.1033 
+United KingdomSCOTLANDM,United Kingdom,SCOTLAND,M, 1.1980 
+United KingdomNoneM,United Kingdom,None,M,1
+AfghanistanNoneM,Afghanistan,None,M,1
+AlbaniaNoneM,Albania,None,M,1
+AlgeriaNoneM,Algeria,None,M,1
+American SamoaNoneM,American Samoa,None,M,1
+AndorraNoneM,Andorra,None,M,1
+AngolaNoneM,Angola,None,M,1
+AnguillaNoneM,Anguilla,None,M,1
+AntarcticaNoneM,Antarctica,None,M,1
+Antigua and BarbudaNoneM,Antigua and Barbuda,None,M,1
+ArgentinaNoneM,Argentina,None,M,1
+ArmeniaNoneM,Armenia,None,M,1
+ArubaNoneM,Aruba,None,M,1
+AustraliaNoneM,Australia,None,M,1
+AustriaNoneM,Austria,None,M,1
+AzerbaijanNoneM,Azerbaijan,None,M,1
+BahamasNoneM,Bahamas,None,M,1
+BahrainNoneM,Bahrain,None,M,1
+BangladeshNoneM,Bangladesh,None,M,1
+BarbadosNoneM,Barbados,None,M,1
+BelarusNoneM,Belarus,None,M,1
+BelgiumNoneM,Belgium,None,M,1
+BelizeNoneM,Belize,None,M,1
+BeninNoneM,Benin,None,M,1
+BermudaNoneM,Bermuda,None,M,1
+BhutanNoneM,Bhutan,None,M,1
+BoliviaNoneM,Bolivia,None,M,1
+Bosnia and HerzegovinaNoneM,Bosnia and Herzegovina,None,M,1
+BotswanaNoneM,Botswana,None,M,1
+BrazilNoneM,Brazil,None,M,1
+British Indian Ocean TerritoryNoneM,British Indian Ocean Territory,None,M,1
+Brunei DarussalamNoneM,Brunei Darussalam,None,M,1
+BulgariaNoneM,Bulgaria,None,M,1
+Burkina FasoNoneM,Burkina Faso,None,M,1
+BurundiNoneM,Burundi,None,M,1
+CambodiaNoneM,Cambodia,None,M,1
+CameroonNoneM,Cameroon,None,M,1
+CanadaNoneM,Canada,None,M,1
+Cape VerdeNoneM,Cape Verde,None,M,1
+Cayman IslandsNoneM,Cayman Islands,None,M,1
+Central African RepublicNoneM,Central African Republic,None,M,1
+ChadNoneM,Chad,None,M,1
+ChileNoneM,Chile,None,M,1
+ChinaNoneM,China,None,M,1
+Christmas IslandNoneM,Christmas Island,None,M,1
+Cocos (Keeling) IslandsNoneM,Cocos (Keeling) Islands,None,M,1
+ColombiaNoneM,Colombia,None,M,1
+ComorosNoneM,Comoros,None,M,1
+CongoNoneM,Congo,None,M,1
+"Congo, The Democratic Republic Of TheNoneM","Congo, The Democratic Republic Of The",None,M,1
+Cook IslandsNoneM,Cook Islands,None,M,1
+Costa RicaNoneM,Costa Rica,None,M,1
+CroatiaNoneM,Croatia,None,M,1
+CubaNoneM,Cuba,None,M,1
+CyprusNoneM,Cyprus,None,M,1
+Czech RepublicNoneM,Czech Republic,None,M,1
+Côte D'IvoireNoneM,Côte D'Ivoire,None,M,1
+DenmarkNoneM,Denmark,None,M,1
+DjiboutiNoneM,Djibouti,None,M,1
+DominicaNoneM,Dominica,None,M,1
+Dominican RepublicNoneM,Dominican Republic,None,M,1
+EcuadorNoneM,Ecuador,None,M,1
+EgyptNoneM,Egypt,None,M,1
+El SalvadorNoneM,El Salvador,None,M,1
+Equatorial GuineaNoneM,Equatorial Guinea,None,M,1
+EritreaNoneM,Eritrea,None,M,1
+EstoniaNoneM,Estonia,None,M,1
+EthiopiaNoneM,Ethiopia,None,M,1
+Falkland Islands (Malvinas)NoneM,Falkland Islands (Malvinas),None,M,1
+Faroe IslandsNoneM,Faroe Islands,None,M,1
+FijiNoneM,Fiji,None,M,1
+FinlandNoneM,Finland,None,M,1
+FranceNoneM,France,None,M,1
+French GuianaNoneM,French Guiana,None,M,1
+French PolynesiaNoneM,French Polynesia,None,M,1
+French Southern TerritoriesNoneM,French Southern Territories,None,M,1
+GabonNoneM,Gabon,None,M,1
+GambiaNoneM,Gambia,None,M,1
+GeorgiaNoneM,Georgia,None,M,1
+GermanyNoneM,Germany,None,M,1
+GhanaNoneM,Ghana,None,M,1
+GibraltarNoneM,Gibraltar,None,M,1
+GreeceNoneM,Greece,None,M,1
+GreenlandNoneM,Greenland,None,M,1
+GrenadaNoneM,Grenada,None,M,1
+GuadeloupeNoneM,Guadeloupe,None,M,1
+GuamNoneM,Guam,None,M,1
+GuatemalaNoneM,Guatemala,None,M,1
+GuernseyNoneM,Guernsey,None,M,1
+GuineaNoneM,Guinea,None,M,1
+Guinea-BissauNoneM,Guinea-Bissau,None,M,1
+GuyanaNoneM,Guyana,None,M,1
+HaitiNoneM,Haiti,None,M,1
+Holy See (Vatican City State)NoneM,Holy See (Vatican City State),None,M,1
+HondurasNoneM,Honduras,None,M,1
+Hong KongNoneM,Hong Kong,None,M,1
+HungaryNoneM,Hungary,None,M,1
+IcelandNoneM,Iceland,None,M,1
+IndiaNoneM,India,None,M,1
+IndonesiaNoneM,Indonesia,None,M,1
+Iran (Islamic Republic Of)NoneM,Iran (Islamic Republic Of),None,M,1
+IraqNoneM,Iraq,None,M,1
+IrelandNoneM,Ireland,None,M,1
+Isle of ManNoneM,Isle of Man,None,M,1
+IsraelNoneM,Israel,None,M,1
+ItalyNoneM,Italy,None,M,1
+JamaicaNoneM,Jamaica,None,M,1
+JapanNoneM,Japan,None,M,1
+JerseyNoneM,Jersey,None,M,1
+JordanNoneM,Jordan,None,M,1
+KazakhstanNoneM,Kazakhstan,None,M,1
+KenyaNoneM,Kenya,None,M,1
+KiribatiNoneM,Kiribati,None,M,1
+"Korea, Democratic People's Republic OfNoneM","Korea, Democratic People's Republic Of",None,M,1
+"Korea, Republic ofNoneM","Korea, Republic of",None,M,1
+KuwaitNoneM,Kuwait,None,M,1
+KyrgyzstanNoneM,Kyrgyzstan,None,M,1
+Lao People's Democratic RepublicNoneM,Lao People's Democratic Republic,None,M,1
+LatviaNoneM,Latvia,None,M,1
+LebanonNoneM,Lebanon,None,M,1
+LesothoNoneM,Lesotho,None,M,1
+LiberiaNoneM,Liberia,None,M,1
+Libyan Arab JamahiriyaNoneM,Libyan Arab Jamahiriya,None,M,1
+LiechtensteinNoneM,Liechtenstein,None,M,1
+LithuaniaNoneM,Lithuania,None,M,1
+LuxembourgNoneM,Luxembourg,None,M,1
+MacaoNoneM,Macao,None,M,1
+"Macedonia, the Former Yugoslav Republic OfNoneM","Macedonia, the Former Yugoslav Republic Of",None,M,1
+MadagascarNoneM,Madagascar,None,M,1
+MalawiNoneM,Malawi,None,M,1
+MalaysiaNoneM,Malaysia,None,M,1
+MaldivesNoneM,Maldives,None,M,1
+MaliNoneM,Mali,None,M,1
+MaltaNoneM,Malta,None,M,1
+Marshall IslandsNoneM,Marshall Islands,None,M,1
+MartiniqueNoneM,Martinique,None,M,1
+MauritaniaNoneM,Mauritania,None,M,1
+MauritiusNoneM,Mauritius,None,M,1
+MayotteNoneM,Mayotte,None,M,1
+MexicoNoneM,Mexico,None,M,1
+"Micronesia, Federated States OfNoneM","Micronesia, Federated States Of",None,M,1
+MoldovaNoneM,Moldova,None,M,1
+MonacoNoneM,Monaco,None,M,1
+MongoliaNoneM,Mongolia,None,M,1
+MontenegroNoneM,Montenegro,None,M,1
+MontserratNoneM,Montserrat,None,M,1
+MoroccoNoneM,Morocco,None,M,1
+MozambiqueNoneM,Mozambique,None,M,1
+MyanmarNoneM,Myanmar,None,M,1
+NamibiaNoneM,Namibia,None,M,1
+NauruNoneM,Nauru,None,M,1
+NepalNoneM,Nepal,None,M,1
+NetherlandsNoneM,Netherlands,None,M,1
+Netherlands AntillesNoneM,Netherlands Antilles,None,M,1
+New CaledoniaNoneM,New Caledonia,None,M,1
+New ZealandNoneM,New Zealand,None,M,1
+NicaraguaNoneM,Nicaragua,None,M,1
+NigerNoneM,Niger,None,M,1
+NigeriaNoneM,Nigeria,None,M,1
+NiueNoneM,Niue,None,M,1
+Norfolk IslandNoneM,Norfolk Island,None,M,1
+Northern Mariana IslandsNoneM,Northern Mariana Islands,None,M,1
+NorwayNoneM,Norway,None,M,1
+OmanNoneM,Oman,None,M,1
+PakistanNoneM,Pakistan,None,M,1
+PalauNoneM,Palau,None,M,1
+"Palestinian Territory, OccupiedNoneM","Palestinian Territory, Occupied",None,M,1
+PanamaNoneM,Panama,None,M,1
+Papua New GuineaNoneM,Papua New Guinea,None,M,1
+ParaguayNoneM,Paraguay,None,M,1
+PeruNoneM,Peru,None,M,1
+PhilippinesNoneM,Philippines,None,M,1
+PitcairnNoneM,Pitcairn,None,M,1
+PolandNoneM,Poland,None,M,1
+PortugalNoneM,Portugal,None,M,1
+Puerto RicoNoneM,Puerto Rico,None,M,1
+QatarNoneM,Qatar,None,M,1
+RomaniaNoneM,Romania,None,M,1
+Russian FederationNoneM,Russian Federation,None,M,1
+RwandaNoneM,Rwanda,None,M,1
+RéunionNoneM,Réunion,None,M,1
+Saint BarthélemyNoneM,Saint Barthélemy,None,M,1
+Saint HelenaNoneM,Saint Helena,None,M,1
+Saint Kitts And NevisNoneM,Saint Kitts And Nevis,None,M,1
+Saint LuciaNoneM,Saint Lucia,None,M,1
+Saint MartinNoneM,Saint Martin,None,M,1
+Saint Pierre And MiquelonNoneM,Saint Pierre And Miquelon,None,M,1
+Saint Vincent And The GrenadinesNoneM,Saint Vincent And The Grenadines,None,M,1
+SamoaNoneM,Samoa,None,M,1
+San MarinoNoneM,San Marino,None,M,1
+Sao Tome and PrincipeNoneM,Sao Tome and Principe,None,M,1
+Saudi ArabiaNoneM,Saudi Arabia,None,M,1
+SenegalNoneM,Senegal,None,M,1
+SerbiaNoneM,Serbia,None,M,1
+SeychellesNoneM,Seychelles,None,M,1
+Sierra LeoneNoneM,Sierra Leone,None,M,1
+SingaporeNoneM,Singapore,None,M,1
+SlovakiaNoneM,Slovakia,None,M,1
+SloveniaNoneM,Slovenia,None,M,1
+Solomon IslandsNoneM,Solomon Islands,None,M,1
+SomaliaNoneM,Somalia,None,M,1
+South AfricaNoneM,South Africa,None,M,1
+South Georgia and the South Sandwich IslandsNoneM,South Georgia and the South Sandwich Islands,None,M,1
+South SudanNoneM,South Sudan,None,M,1
+SpainNoneM,Spain,None,M,1
+Sri LankaNoneM,Sri Lanka,None,M,1
+SudanNoneM,Sudan,None,M,1
+SurinameNoneM,Suriname,None,M,1
+Svalbard And Jan MayenNoneM,Svalbard And Jan Mayen,None,M,1
+SwazilandNoneM,Swaziland,None,M,1
+SwedenNoneM,Sweden,None,M,1
+SwitzerlandNoneM,Switzerland,None,M,1
+Syrian Arab RepublicNoneM,Syrian Arab Republic,None,M,1
+"Taiwan, Province Of ChinaNoneM","Taiwan, Province Of China",None,M,1
+TajikistanNoneM,Tajikistan,None,M,1
+"Tanzania, United Republic ofNoneM","Tanzania, United Republic of",None,M,1
+ThailandNoneM,Thailand,None,M,1
+Timor-LesteNoneM,Timor-Leste,None,M,1
+TogoNoneM,Togo,None,M,1
+TokelauNoneM,Tokelau,None,M,1
+TongaNoneM,Tonga,None,M,1
+Trinidad and TobagoNoneM,Trinidad and Tobago,None,M,1
+TunisiaNoneM,Tunisia,None,M,1
+TurkeyNoneM,Turkey,None,M,1
+TurkmenistanNoneM,Turkmenistan,None,M,1
+Turks and Caicos IslandsNoneM,Turks and Caicos Islands,None,M,1
+TuvaluNoneM,Tuvalu,None,M,1
+UgandaNoneM,Uganda,None,M,1
+UkraineNoneM,Ukraine,None,M,1
+United Arab EmiratesNoneM,United Arab Emirates,None,M,1
+United StatesNoneM,United States,None,M,1
+United States Minor Outlying IslandsNoneM,United States Minor Outlying Islands,None,M,1
+UruguayNoneM,Uruguay,None,M,1
+UzbekistanNoneM,Uzbekistan,None,M,1
+VanuatuNoneM,Vanuatu,None,M,1
+VenezuelaNoneM,Venezuela,None,M,1
+VietnamNoneM,Vietnam,None,M,1
+"Virgin Islands, BritishNoneM","Virgin Islands, British",None,M,1
+"Virgin Islands, U.S.NoneM","Virgin Islands, U.S.",None,M,1
+Wallis and FutunaNoneM,Wallis and Futuna,None,M,1
+Western SaharaNoneM,Western Sahara,None,M,1
+YemenNoneM,Yemen,None,M,1
+ZambiaNoneM,Zambia,None,M,1
+ZimbabweNoneM,Zimbabwe,None,M,1
+Åland IslandsNoneM,Åland Islands,None,M,1
+United KingdomSOUTH EASTF,United Kingdom,SOUTH EAST,F, 0.9038 
+United KingdomLONDONF,United Kingdom,LONDON,F, 0.8886 
+United KingdomSOUTH WESTF,United Kingdom,SOUTH WEST,F, 0.9195 
+United KingdomEASTF,United Kingdom,EAST,F, 0.9358 
+United KingdomEAST MIDLANDSF,United Kingdom,EAST MIDLANDS,F, 1.0146 
+United KingdomWEST MIDLANDSF,United Kingdom,WEST MIDLANDS,F, 1.0054 
+United KingdomNORTHERN IRELANDF,United Kingdom,NORTHERN IRELAND,F, 1.0648 
+United KingdomYORKSHIRE AND THE HUMBERF,United Kingdom,YORKSHIRE AND THE HUMBER,F, 1.0542 
+United KingdomWALESF,United Kingdom,WALES,F, 1.0699 
+United KingdomNORTH WESTF,United Kingdom,NORTH WEST,F, 1.0953 
+United KingdomNORTH EASTF,United Kingdom,NORTH EAST,F, 1.1249 
+United KingdomSCOTLANDF,United Kingdom,SCOTLAND,F, 1.1945 
+United KingdomNoneF,United Kingdom,None,F,1
+AfghanistanNoneF,Afghanistan,None,F,1
+AlbaniaNoneF,Albania,None,F,1
+AlgeriaNoneF,Algeria,None,F,1
+American SamoaNoneF,American Samoa,None,F,1
+AndorraNoneF,Andorra,None,F,1
+AngolaNoneF,Angola,None,F,1
+AnguillaNoneF,Anguilla,None,F,1
+AntarcticaNoneF,Antarctica,None,F,1
+Antigua and BarbudaNoneF,Antigua and Barbuda,None,F,1
+ArgentinaNoneF,Argentina,None,F,1
+ArmeniaNoneF,Armenia,None,F,1
+ArubaNoneF,Aruba,None,F,1
+AustraliaNoneF,Australia,None,F,1
+AustriaNoneF,Austria,None,F,1
+AzerbaijanNoneF,Azerbaijan,None,F,1
+BahamasNoneF,Bahamas,None,F,1
+BahrainNoneF,Bahrain,None,F,1
+BangladeshNoneF,Bangladesh,None,F,1
+BarbadosNoneF,Barbados,None,F,1
+BelarusNoneF,Belarus,None,F,1
+BelgiumNoneF,Belgium,None,F,1
+BelizeNoneF,Belize,None,F,1
+BeninNoneF,Benin,None,F,1
+BermudaNoneF,Bermuda,None,F,1
+BhutanNoneF,Bhutan,None,F,1
+BoliviaNoneF,Bolivia,None,F,1
+Bosnia and HerzegovinaNoneF,Bosnia and Herzegovina,None,F,1
+BotswanaNoneF,Botswana,None,F,1
+BrazilNoneF,Brazil,None,F,1
+British Indian Ocean TerritoryNoneF,British Indian Ocean Territory,None,F,1
+Brunei DarussalamNoneF,Brunei Darussalam,None,F,1
+BulgariaNoneF,Bulgaria,None,F,1
+Burkina FasoNoneF,Burkina Faso,None,F,1
+BurundiNoneF,Burundi,None,F,1
+CambodiaNoneF,Cambodia,None,F,1
+CameroonNoneF,Cameroon,None,F,1
+CanadaNoneF,Canada,None,F,1
+Cape VerdeNoneF,Cape Verde,None,F,1
+Cayman IslandsNoneF,Cayman Islands,None,F,1
+Central African RepublicNoneF,Central African Republic,None,F,1
+ChadNoneF,Chad,None,F,1
+ChileNoneF,Chile,None,F,1
+ChinaNoneF,China,None,F,1
+Christmas IslandNoneF,Christmas Island,None,F,1
+Cocos (Keeling) IslandsNoneF,Cocos (Keeling) Islands,None,F,1
+ColombiaNoneF,Colombia,None,F,1
+ComorosNoneF,Comoros,None,F,1
+CongoNoneF,Congo,None,F,1
+"Congo, The Democratic Republic Of TheNoneF","Congo, The Democratic Republic Of The",None,F,1
+Cook IslandsNoneF,Cook Islands,None,F,1
+Costa RicaNoneF,Costa Rica,None,F,1
+CroatiaNoneF,Croatia,None,F,1
+CubaNoneF,Cuba,None,F,1
+CyprusNoneF,Cyprus,None,F,1
+Czech RepublicNoneF,Czech Republic,None,F,1
+Côte D'IvoireNoneF,Côte D'Ivoire,None,F,1
+DenmarkNoneF,Denmark,None,F,1
+DjiboutiNoneF,Djibouti,None,F,1
+DominicaNoneF,Dominica,None,F,1
+Dominican RepublicNoneF,Dominican Republic,None,F,1
+EcuadorNoneF,Ecuador,None,F,1
+EgyptNoneF,Egypt,None,F,1
+El SalvadorNoneF,El Salvador,None,F,1
+Equatorial GuineaNoneF,Equatorial Guinea,None,F,1
+EritreaNoneF,Eritrea,None,F,1
+EstoniaNoneF,Estonia,None,F,1
+EthiopiaNoneF,Ethiopia,None,F,1
+Falkland Islands (Malvinas)NoneF,Falkland Islands (Malvinas),None,F,1
+Faroe IslandsNoneF,Faroe Islands,None,F,1
+FijiNoneF,Fiji,None,F,1
+FinlandNoneF,Finland,None,F,1
+FranceNoneF,France,None,F,1
+French GuianaNoneF,French Guiana,None,F,1
+French PolynesiaNoneF,French Polynesia,None,F,1
+French Southern TerritoriesNoneF,French Southern Territories,None,F,1
+GabonNoneF,Gabon,None,F,1
+GambiaNoneF,Gambia,None,F,1
+GeorgiaNoneF,Georgia,None,F,1
+GermanyNoneF,Germany,None,F,1
+GhanaNoneF,Ghana,None,F,1
+GibraltarNoneF,Gibraltar,None,F,1
+GreeceNoneF,Greece,None,F,1
+GreenlandNoneF,Greenland,None,F,1
+GrenadaNoneF,Grenada,None,F,1
+GuadeloupeNoneF,Guadeloupe,None,F,1
+GuamNoneF,Guam,None,F,1
+GuatemalaNoneF,Guatemala,None,F,1
+GuernseyNoneF,Guernsey,None,F,1
+GuineaNoneF,Guinea,None,F,1
+Guinea-BissauNoneF,Guinea-Bissau,None,F,1
+GuyanaNoneF,Guyana,None,F,1
+HaitiNoneF,Haiti,None,F,1
+Holy See (Vatican City State)NoneF,Holy See (Vatican City State),None,F,1
+HondurasNoneF,Honduras,None,F,1
+Hong KongNoneF,Hong Kong,None,F,1
+HungaryNoneF,Hungary,None,F,1
+IcelandNoneF,Iceland,None,F,1
+IndiaNoneF,India,None,F,1
+IndonesiaNoneF,Indonesia,None,F,1
+Iran (Islamic Republic Of)NoneF,Iran (Islamic Republic Of),None,F,1
+IraqNoneF,Iraq,None,F,1
+IrelandNoneF,Ireland,None,F,1
+Isle of ManNoneF,Isle of Man,None,F,1
+IsraelNoneF,Israel,None,F,1
+ItalyNoneF,Italy,None,F,1
+JamaicaNoneF,Jamaica,None,F,1
+JapanNoneF,Japan,None,F,1
+JerseyNoneF,Jersey,None,F,1
+JordanNoneF,Jordan,None,F,1
+KazakhstanNoneF,Kazakhstan,None,F,1
+KenyaNoneF,Kenya,None,F,1
+KiribatiNoneF,Kiribati,None,F,1
+"Korea, Democratic People's Republic OfNoneF","Korea, Democratic People's Republic Of",None,F,1
+"Korea, Republic ofNoneF","Korea, Republic of",None,F,1
+KuwaitNoneF,Kuwait,None,F,1
+KyrgyzstanNoneF,Kyrgyzstan,None,F,1
+Lao People's Democratic RepublicNoneF,Lao People's Democratic Republic,None,F,1
+LatviaNoneF,Latvia,None,F,1
+LebanonNoneF,Lebanon,None,F,1
+LesothoNoneF,Lesotho,None,F,1
+LiberiaNoneF,Liberia,None,F,1
+Libyan Arab JamahiriyaNoneF,Libyan Arab Jamahiriya,None,F,1
+LiechtensteinNoneF,Liechtenstein,None,F,1
+LithuaniaNoneF,Lithuania,None,F,1
+LuxembourgNoneF,Luxembourg,None,F,1
+MacaoNoneF,Macao,None,F,1
+"Macedonia, the Former Yugoslav Republic OfNoneF","Macedonia, the Former Yugoslav Republic Of",None,F,1
+MadagascarNoneF,Madagascar,None,F,1
+MalawiNoneF,Malawi,None,F,1
+MalaysiaNoneF,Malaysia,None,F,1
+MaldivesNoneF,Maldives,None,F,1
+MaliNoneF,Mali,None,F,1
+MaltaNoneF,Malta,None,F,1
+Marshall IslandsNoneF,Marshall Islands,None,F,1
+MartiniqueNoneF,Martinique,None,F,1
+MauritaniaNoneF,Mauritania,None,F,1
+MauritiusNoneF,Mauritius,None,F,1
+MayotteNoneF,Mayotte,None,F,1
+MexicoNoneF,Mexico,None,F,1
+"Micronesia, Federated States OfNoneF","Micronesia, Federated States Of",None,F,1
+MoldovaNoneF,Moldova,None,F,1
+MonacoNoneF,Monaco,None,F,1
+MongoliaNoneF,Mongolia,None,F,1
+MontenegroNoneF,Montenegro,None,F,1
+MontserratNoneF,Montserrat,None,F,1
+MoroccoNoneF,Morocco,None,F,1
+MozambiqueNoneF,Mozambique,None,F,1
+MyanmarNoneF,Myanmar,None,F,1
+NamibiaNoneF,Namibia,None,F,1
+NauruNoneF,Nauru,None,F,1
+NepalNoneF,Nepal,None,F,1
+NetherlandsNoneF,Netherlands,None,F,1
+Netherlands AntillesNoneF,Netherlands Antilles,None,F,1
+New CaledoniaNoneF,New Caledonia,None,F,1
+New ZealandNoneF,New Zealand,None,F,1
+NicaraguaNoneF,Nicaragua,None,F,1
+NigerNoneF,Niger,None,F,1
+NigeriaNoneF,Nigeria,None,F,1
+NiueNoneF,Niue,None,F,1
+Norfolk IslandNoneF,Norfolk Island,None,F,1
+Northern Mariana IslandsNoneF,Northern Mariana Islands,None,F,1
+NorwayNoneF,Norway,None,F,1
+OmanNoneF,Oman,None,F,1
+PakistanNoneF,Pakistan,None,F,1
+PalauNoneF,Palau,None,F,1
+"Palestinian Territory, OccupiedNoneF","Palestinian Territory, Occupied",None,F,1
+PanamaNoneF,Panama,None,F,1
+Papua New GuineaNoneF,Papua New Guinea,None,F,1
+ParaguayNoneF,Paraguay,None,F,1
+PeruNoneF,Peru,None,F,1
+PhilippinesNoneF,Philippines,None,F,1
+PitcairnNoneF,Pitcairn,None,F,1
+PolandNoneF,Poland,None,F,1
+PortugalNoneF,Portugal,None,F,1
+Puerto RicoNoneF,Puerto Rico,None,F,1
+QatarNoneF,Qatar,None,F,1
+RomaniaNoneF,Romania,None,F,1
+Russian FederationNoneF,Russian Federation,None,F,1
+RwandaNoneF,Rwanda,None,F,1
+RéunionNoneF,Réunion,None,F,1
+Saint BarthélemyNoneF,Saint Barthélemy,None,F,1
+Saint HelenaNoneF,Saint Helena,None,F,1
+Saint Kitts And NevisNoneF,Saint Kitts And Nevis,None,F,1
+Saint LuciaNoneF,Saint Lucia,None,F,1
+Saint MartinNoneF,Saint Martin,None,F,1
+Saint Pierre And MiquelonNoneF,Saint Pierre And Miquelon,None,F,1
+Saint Vincent And The GrenadinesNoneF,Saint Vincent And The Grenadines,None,F,1
+SamoaNoneF,Samoa,None,F,1
+San MarinoNoneF,San Marino,None,F,1
+Sao Tome and PrincipeNoneF,Sao Tome and Principe,None,F,1
+Saudi ArabiaNoneF,Saudi Arabia,None,F,1
+SenegalNoneF,Senegal,None,F,1
+SerbiaNoneF,Serbia,None,F,1
+SeychellesNoneF,Seychelles,None,F,1
+Sierra LeoneNoneF,Sierra Leone,None,F,1
+SingaporeNoneF,Singapore,None,F,1
+SlovakiaNoneF,Slovakia,None,F,1
+SloveniaNoneF,Slovenia,None,F,1
+Solomon IslandsNoneF,Solomon Islands,None,F,1
+SomaliaNoneF,Somalia,None,F,1
+South AfricaNoneF,South Africa,None,F,1
+South Georgia and the South Sandwich IslandsNoneF,South Georgia and the South Sandwich Islands,None,F,1
+South SudanNoneF,South Sudan,None,F,1
+SpainNoneF,Spain,None,F,1
+Sri LankaNoneF,Sri Lanka,None,F,1
+SudanNoneF,Sudan,None,F,1
+SurinameNoneF,Suriname,None,F,1
+Svalbard And Jan MayenNoneF,Svalbard And Jan Mayen,None,F,1
+SwazilandNoneF,Swaziland,None,F,1
+SwedenNoneF,Sweden,None,F,1
+SwitzerlandNoneF,Switzerland,None,F,1
+Syrian Arab RepublicNoneF,Syrian Arab Republic,None,F,1
+"Taiwan, Province Of ChinaNoneF","Taiwan, Province Of China",None,F,1
+TajikistanNoneF,Tajikistan,None,F,1
+"Tanzania, United Republic ofNoneF","Tanzania, United Republic of",None,F,1
+ThailandNoneF,Thailand,None,F,1
+Timor-LesteNoneF,Timor-Leste,None,F,1
+TogoNoneF,Togo,None,F,1
+TokelauNoneF,Tokelau,None,F,1
+TongaNoneF,Tonga,None,F,1
+Trinidad and TobagoNoneF,Trinidad and Tobago,None,F,1
+TunisiaNoneF,Tunisia,None,F,1
+TurkeyNoneF,Turkey,None,F,1
+TurkmenistanNoneF,Turkmenistan,None,F,1
+Turks and Caicos IslandsNoneF,Turks and Caicos Islands,None,F,1
+TuvaluNoneF,Tuvalu,None,F,1
+UgandaNoneF,Uganda,None,F,1
+UkraineNoneF,Ukraine,None,F,1
+United Arab EmiratesNoneF,United Arab Emirates,None,F,1
+United StatesNoneF,United States,None,F,1
+United States Minor Outlying IslandsNoneF,United States Minor Outlying Islands,None,F,1
+UruguayNoneF,Uruguay,None,F,1
+UzbekistanNoneF,Uzbekistan,None,F,1
+VanuatuNoneF,Vanuatu,None,F,1
+VenezuelaNoneF,Venezuela,None,F,1
+VietnamNoneF,Vietnam,None,F,1
+"Virgin Islands, BritishNoneF","Virgin Islands, British",None,F,1
+"Virgin Islands, U.S.NoneF","Virgin Islands, U.S.",None,F,1
+Wallis and FutunaNoneF,Wallis and Futuna,None,F,1
+Western SaharaNoneF,Western Sahara,None,F,1
+YemenNoneF,Yemen,None,F,1
+ZambiaNoneF,Zambia,None,F,1
+ZimbabweNoneF,Zimbabwe,None,F,1
+Åland IslandsNoneF,Åland Islands,None,F,1

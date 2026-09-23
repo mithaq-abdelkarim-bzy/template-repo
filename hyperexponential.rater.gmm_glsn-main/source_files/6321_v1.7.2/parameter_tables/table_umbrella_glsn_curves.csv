@@ -1,0 +1,14 @@
+umbrella_covers,umbrella_name,occurrence_load,aggregate_load,implied_load_freq,curve,mu,sigma
+Auto Liability,auto_liability,1.000,1.000,0.000,TR,12.32000,1.2400000
+Employers Liability,employers_liability,1.000,1,0,TR,12.32000,1.2400000
+General Liability,general_liability,1.000,1,0,GL,8.00000,2.3700000
+Foreign Liability,foreign_liability,1.000,1,0,TR,12.32000,1.2400000
+Aircraft (Non-Owned),aircraft_nonowned,1.000,1,0,U,6.66021,4.3268287
+Aircraft (Owned),aircraft_owned,1.000,1.1,0.11,U,6.66021,4.3268287
+Garage Keepers Liability,garage_keepers_liability,1.000,1,0,TR,12.32000,1.2400000
+Liquor Law Liability,liquor_law_liability,1.000,1,0,TR,12.32000,1.2400000
+Watercraft (Non-Owned),watercraft_non_owned,1.000,1.1,1.13,TR,12.32000,1.2400000
+Watercraft (Owned),watercraft_owned,1.000,1,0,TR,12.32000,1.2400000
+Foreign Employers Liability,foreign_employers_liability,1.000,1,0,TR,12.32000,1.2400000
+Foreign General Liability,foreign_general_liability,1.000,1,0,TR,12.32000,1.2400000
+Foreign Auto Liability,foreign_auto_liability,1.000,1,0,TR,12.32000,1.2400000

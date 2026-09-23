@@ -1,0 +1,617 @@
+class_exposure_measure,product,class,exposure_measure_agg_group,exposure_measure,base_rate,format,formatted_base_rate
+Alternative/Holistic Medicine // Receipts,Misc Med,Alternative/Holistic Medicine,Receipts,Receipts,0.002,4 decimal places,0.002
+Alternative/Holistic Medicine // Visits - Acupuncture,Misc Med,Alternative/Holistic Medicine,Visits,Visits - Acupuncture,0.35,2 decimal places,0.35
+"Alternative/Holistic Medicine // Visits - Pet, Dance, Music, Energy Therapies",Misc Med,Alternative/Holistic Medicine,Visits,"Visits - Pet, Dance, Music, Energy Therapies",0.25,2 decimal places,0.25
+Alternative/Holistic Medicine // Visits - Equine,Misc Med,Alternative/Holistic Medicine,Visits,Visits - Equine,1.5,2 decimal places,1.5
+Alternative/Holistic Medicine // Doctors,Misc Med,Alternative/Holistic Medicine,Doctors,Doctors,5000.0,Number with comma separator,"5,000"
+Alternative/Holistic Medicine // Naturopaths,Misc Med,Alternative/Holistic Medicine,Doctors,Naturopaths,2500.0,Number with comma separator,"2,500"
+Alternative/Holistic Medicine // Acupuncturists,Misc Med,Alternative/Holistic Medicine,People,Acupuncturists,1000.0,Number with comma separator,"1,000"
+Ambulance  - Ground // Receipts,Misc Med,Ambulance  - Ground,Receipts,Receipts,0.0035,4 decimal places,0.0035
+Ambulance  - Ground // Receipts - Dispatch Only,Misc Med,Ambulance  - Ground,Receipts,Receipts - Dispatch Only,0.002,4 decimal places,0.002
+Ambulance  - Ground // Runs - Dispatch Only,Misc Med,Ambulance  - Ground,Runs,Runs - Dispatch Only,0.4,4 decimal places,0.4
+Ambulance  - Ground // Runs - Emergency,Misc Med,Ambulance  - Ground,Runs,Runs - Emergency,1.75,2 decimal places,1.75
+Ambulance  - Ground // Runs - Non-Emergency ,Misc Med,Ambulance  - Ground,Runs,Runs - Non-Emergency ,0.9,2 decimal places,0.9
+Ambulance  - Ground // Runs - Paratransit/Wheelchair ,Misc Med,Ambulance  - Ground,Runs,Runs - Paratransit/Wheelchair ,0.5,2 decimal places,0.5
+Ambulance  - Ground // Units - Ambulance,Misc Med,Ambulance  - Ground,Autos,Units - Ambulance,1500.0,Number with comma separator,"1,500"
+Ambulance  - Ground // Units - Wheelchair Van,Misc Med,Ambulance  - Ground,Autos,Units - Wheelchair Van,750.0,Number with comma separator,750
+Ambulance  - Ground // Paramedics,Misc Med,Ambulance  - Ground,People,Paramedics,500.0,Number with comma separator,500
+Ambulance  - Ground // EMT,Misc Med,Ambulance  - Ground,People,EMT,300.0,Number with comma separator,300
+Ambulance - Air // Receipts,Misc Med,Ambulance - Air,Receipts,Receipts,0.005,4 decimal places,0.005
+Ambulance - Air // Runs - Emergency,Misc Med,Ambulance - Air,Runs,Runs - Emergency,60.0,0 decimal places,60
+Ambulance - Air // Runs - Non-Emergency ,Misc Med,Ambulance - Air,Runs,Runs - Non-Emergency ,35.0,0 decimal places,35
+Ambulance - Air // Runs - Ground Ambulance Emergency ,Misc Med,Ambulance - Air,Runs,Runs - Ground Ambulance Emergency ,1.75,2 decimal places,1.75
+Ambulance - Air // Runs - Ground Ambulance Non-Emergency ,Misc Med,Ambulance - Air,Runs,Runs - Ground Ambulance Non-Emergency ,0.9,2 decimal places,0.9
+Ambulance - Air // Runs - Ground Ambulance Paratransit/Wheelchair ,Misc Med,Ambulance - Air,Runs,Runs - Ground Ambulance Paratransit/Wheelchair ,0.5,2 decimal places,0.5
+Ambulance - Air // Doctors,Misc Med,Ambulance - Air,Doctors,Doctors,5000.0,Number with comma separator,"5,000"
+Ambulance - Air // Paramedics,Misc Med,Ambulance - Air,People,Paramedics,500.0,Number with comma separator,500
+Ambulance - Air // EMT,Misc Med,Ambulance - Air,People,EMT,300.0,Number with comma separator,300
+Banking - Blood/Cord Blood/Sperm // Receipts,Misc Med,Banking - Blood/Cord Blood/Sperm,Receipts,Receipts,0.01,4 decimal places,0.01
+Banking - Blood/Cord Blood/Sperm // Blood Donations,Misc Med,Banking - Blood/Cord Blood/Sperm,Units,Blood Donations,2.0,2 decimal places,2
+Banking - Blood/Cord Blood/Sperm // Units - Blood Sold,Misc Med,Banking - Blood/Cord Blood/Sperm,Units,Units - Blood Sold,1.0,2 decimal places,1
+Banking - Blood/Cord Blood/Sperm // Units - Eggs,Misc Med,Banking - Blood/Cord Blood/Sperm,Units,Units - Eggs,3.0,2 decimal places,3
+Banking - Blood/Cord Blood/Sperm // Units - Sperm,Misc Med,Banking - Blood/Cord Blood/Sperm,Units,Units - Sperm,1.75,2 decimal places,1.75
+Banking - Blood/Cord Blood/Sperm // Units - Cord Blood,Misc Med,Banking - Blood/Cord Blood/Sperm,Units,Units - Cord Blood,0.5,2 decimal places,0.5
+Banking - Blood/Cord Blood/Sperm // Mid-Level Providers NP/PA,Misc Med,Banking - Blood/Cord Blood/Sperm,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Banking - Blood/Cord Blood/Sperm // Nurses,Misc Med,Banking - Blood/Cord Blood/Sperm,People,Nurses,450.0,Number with comma separator,450
+Banking - Blood/Cord Blood/Sperm // Phlebotomists,Misc Med,Banking - Blood/Cord Blood/Sperm,People,Phlebotomists,375.0,Number with comma separator,375
+Banking - Blood/Cord Blood/Sperm // Medical Assistants/Technicians,Misc Med,Banking - Blood/Cord Blood/Sperm,People,Medical Assistants/Technicians,175.0,Number with comma separator,175
+Banking - Organ/Tissue // Receipts - Procurement Organ,Misc Med,Banking - Organ/Tissue,Receipts,Receipts - Procurement Organ,0.0033,4 decimal places,0.0033
+Banking - Organ/Tissue // Receipts - Procurement Tissue/Bone,Misc Med,Banking - Organ/Tissue,Receipts,Receipts - Procurement Tissue/Bone,0.0025,4 decimal places,0.0025
+Banking - Organ/Tissue // Receipts - Banking,Misc Med,Banking - Organ/Tissue,Receipts,Receipts - Banking,0.0035,4 decimal places,0.0035
+Banking - Organ/Tissue // Receipts - Research Only,Misc Med,Banking - Organ/Tissue,Receipts,Receipts - Research Only,0.001,4 decimal places,0.001
+Banking - Organ/Tissue // Procurement - Organs,Misc Med,Banking - Organ/Tissue,Receipts,Procurement - Organs,50.0,0 decimal places,50
+Banking - Organ/Tissue // Procurement - Bone/Tissue,Misc Med,Banking - Organ/Tissue,Procedures,Procurement - Bone/Tissue,27.5,2 decimal places,27.5
+Banking - Organ/Tissue // Procurement - Skin,Misc Med,Banking - Organ/Tissue,Procedures,Procurement - Skin,20.0,0 decimal places,20
+Banking - Organ/Tissue // Procurement - Eyes,Misc Med,Banking - Organ/Tissue,Procedures,Procurement - Eyes,40.0,0 decimal places,40
+Banking - Organ/Tissue // Banking - Ligaments/Tendons/Lenses/Bone,Misc Med,Banking - Organ/Tissue,Units,Banking - Ligaments/Tendons/Lenses/Bone,0.85,2 decimal places,0.85
+Banking - Organ/Tissue // Banking - Joints/Skin,Misc Med,Banking - Organ/Tissue,Units,Banking - Joints/Skin,1.15,2 decimal places,1.15
+Banking - Organ/Tissue // Banking - Veins/Aortas,Misc Med,Banking - Organ/Tissue,Units,Banking - Veins/Aortas,1.15,2 decimal places,1.15
+Banking - Organ/Tissue // Transplant Surgeon,Misc Med,Banking - Organ/Tissue,Doctors,Transplant Surgeon,7500.0,Number with comma separator,"7,500"
+Banking - Organ/Tissue // Mid-Level Providers NP/PA,Misc Med,Banking - Organ/Tissue,People,Mid-Level Providers NP/PA,1500.0,Number with comma separator,"1,500"
+Banking - Organ/Tissue // Nurses,Misc Med,Banking - Organ/Tissue,People,Nurses,450.0,Number with comma separator,450
+Banking - Organ/Tissue // Medical Assistants/Technicians,Misc Med,Banking - Organ/Tissue,People,Medical Assistants/Technicians,175.0,Number with comma separator,175
+Case Management // Receipts - AIDS/Terminally Ill,Misc Med,Case Management,Receipts,Receipts - AIDS/Terminally Ill,0.002,4 decimal places,0.002
+Case Management // Receipts - Geriatrics,Misc Med,Case Management,Receipts,Receipts - Geriatrics,0.005,4 decimal places,0.005
+Case Management // Receipts - Developmentally Disabled,Misc Med,Case Management,Receipts,Receipts - Developmentally Disabled,0.01,4 decimal places,0.01
+Case Management // Receipts - Youth,Misc Med,Case Management,Receipts,Receipts - Youth,0.0075,4 decimal places,0.0075
+Case Management // Receipts - All Other,Misc Med,Case Management,Receipts,Receipts - All Other,0.003,4 decimal places,0.003
+Clinic - Abortion // Receipts,Misc Med,Clinic - Abortion,Receipts,Receipts,0.005,4 decimal places,0.005
+Clinic - Abortion // Visits,Misc Med,Clinic - Abortion,Visits,Visits,0.65,2 decimal places,0.65
+Clinic - Abortion // Surgical Abortions - 1st Trimester,Misc Med,Clinic - Abortion,Procedures,Surgical Abortions - 1st Trimester,5.0,0 decimal places,5
+Clinic - Abortion // Surgical Abortions - 2nd Trimester,Misc Med,Clinic - Abortion,Procedures,Surgical Abortions - 2nd Trimester,20.0,0 decimal places,20
+Clinic - Abortion // Medically Necessary Late Term Abortions,Misc Med,Clinic - Abortion,Procedures,Medically Necessary Late Term Abortions,100.0,0 decimal places,100
+Clinic - Abortion // Doctors,Misc Med,Clinic - Abortion,Doctors,Doctors,10000.0,Number with comma separator,"10,000"
+Clinic - Abortion // CRNA,Misc Med,Clinic - Abortion,People,CRNA,8500.0,Number with comma separator,"8,500"
+Clinic - Abortion // Mid-Level Providers NP/PA,Misc Med,Clinic - Abortion,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - Abortion // Nurses,Misc Med,Clinic - Abortion,People,Nurses,450.0,Number with comma separator,450
+Clinic - AIDS/Community/FTCA // Receipts,Misc Med,Clinic - AIDS/Community/FTCA,Receipts,Receipts,0.0025,4 decimal places,0.0025
+Clinic - AIDS/Community/FTCA // Visits - AIDS Clinic,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - AIDS Clinic,0.45,2 decimal places,0.45
+Clinic - AIDS/Community/FTCA // Visits - Counselling,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - Counselling,0.65,2 decimal places,0.65
+Clinic - AIDS/Community/FTCA // Visits - Dental Limited Anesthesia,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - Dental Limited Anesthesia,0.25,2 decimal places,0.25
+Clinic - AIDS/Community/FTCA // Visits - Dental Full Anesthesia,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - Dental Full Anesthesia,2.0,2 decimal places,2
+Clinic - AIDS/Community/FTCA // Visits - FTCA,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - FTCA,0.25,2 decimal places,0.25
+Clinic - AIDS/Community/FTCA // Visits - Primary Care,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - Primary Care,0.55,2 decimal places,0.55
+Clinic - AIDS/Community/FTCA // Visits - Specialty ,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - Specialty ,3.5,2 decimal places,3.5
+Clinic - AIDS/Community/FTCA // Visits - Urgent Care,Misc Med,Clinic - AIDS/Community/FTCA,Visits,Visits - Urgent Care,0.95,2 decimal places,0.95
+Clinic - AIDS/Community/FTCA // Doctors,Misc Med,Clinic - AIDS/Community/FTCA,Doctors,Doctors,3500.0,Number with comma separator,"3,500"
+Clinic - AIDS/Community/FTCA // Dentists,Misc Med,Clinic - AIDS/Community/FTCA,Dentists,Dentists,1350.0,Number with comma separator,"1,350"
+Clinic - AIDS/Community/FTCA // Mid-Level Providers NP/PA,Misc Med,Clinic - AIDS/Community/FTCA,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - AIDS/Community/FTCA // Midwife,Misc Med,Clinic - AIDS/Community/FTCA,People,Midwife,1750.0,Number with comma separator,"1,750"
+Clinic - AIDS/Community/FTCA // Doula,Misc Med,Clinic - AIDS/Community/FTCA,People,Doula,900.0,Number with comma separator,900
+Clinic - AIDS/Community/FTCA // Nurses,Misc Med,Clinic - AIDS/Community/FTCA,People,Nurses,450.0,Number with comma separator,450
+Clinic - AIDS/Community/FTCA // Dental Hygienist/Assistant,Misc Med,Clinic - AIDS/Community/FTCA,People,Dental Hygienist/Assistant,125.0,Number with comma separator,125
+Clinic - Dental // Receipts,Misc Med,Clinic - Dental,Receipts,Receipts,0.0025,4 decimal places,0.0025
+Clinic - Dental // Visits - Limited Anesthesia,Misc Med,Clinic - Dental,Visits,Visits - Limited Anesthesia,0.25,2 decimal places,0.25
+Clinic - Dental // Visits - Full Anesthesia,Misc Med,Clinic - Dental,Visits,Visits - Full Anesthesia,2.0,2 decimal places,2
+Clinic - Dental // Visits - Pediatric,Misc Med,Clinic - Dental,Visits,Visits - Pediatric,3.0,2 decimal places,3
+Clinic - Dental // Visits - Botox,Misc Med,Clinic - Dental,Visits,Visits - Botox,1.5,2 decimal places,1.5
+Clinic - Dental // Oral Surgeon,Misc Med,Clinic - Dental,Dentists,Oral Surgeon,3500.0,Number with comma separator,"3,500"
+Clinic - Dental // Endodontist,Misc Med,Clinic - Dental,Dentists,Endodontist,2500.0,Number with comma separator,"2,500"
+Clinic - Dental // Dentists,Misc Med,Clinic - Dental,People,Dentists,1350.0,Number with comma separator,"1,350"
+Clinic - Dental // Nurses,Misc Med,Clinic - Dental,People,Nurses,450.0,Number with comma separator,450
+Clinic - Dental // Dental Hygienist/Assistant,Misc Med,Clinic - Dental,People,Dental Hygienist/Assistant,125.0,Number with comma separator,125
+Clinic - Eye Care // Receipts,Misc Med,Clinic - Eye Care,Receipts,Receipts,0.002,4 decimal places,0.002
+Clinic - Eye Care // Visits,Misc Med,Clinic - Eye Care,Visits,Visits,0.25,2 decimal places,0.25
+Clinic - Eye Care // Surgeries,Misc Med,Clinic - Eye Care,Procedures,Surgeries,3.0,2 decimal places,3
+Clinic - Eye Care // Ophthalmologists,Misc Med,Clinic - Eye Care,Doctors,Ophthalmologists,4500.0,Number with comma separator,"4,500"
+Clinic - Eye Care // Optometrists,Misc Med,Clinic - Eye Care,People,Optometrists,1000.0,Number with comma separator,"1,000"
+Clinic - Eye Care // Surgeons,Misc Med,Clinic - Eye Care,Doctors,Surgeons,12500.0,Number with comma separator,"12,500"
+Clinic - Eye Care // Opticians,Misc Med,Clinic - Eye Care,People,Opticians,150.0,Number with comma separator,150
+Clinic - Eye Care // Nurses,Misc Med,Clinic - Eye Care,People,Nurses,450.0,Number with comma separator,450
+Clinic - Eye Care // Sales of Goods,Misc Med,Clinic - Eye Care,Products,Sales of Goods,1.5,2 decimal places,1.5
+Clinic - Fertility // Receipts,Misc Med,Clinic - Fertility,Receipts,Receipts,0.01,4 decimal places,0.01
+Clinic - Fertility // Visits  - General/Consultations,Misc Med,Clinic - Fertility,Visits,Visits  - General/Consultations,0.65,2 decimal places,0.65
+Clinic - Fertility // Banking - Eggs,Misc Med,Clinic - Fertility,Units,Banking - Eggs,3.0,2 decimal places,3
+Clinic - Fertility // Banking - Sperm,Misc Med,Clinic - Fertility,Units,Banking - Sperm,1.75,2 decimal places,1.75
+Clinic - Fertility // Procedures - Drug Only,Misc Med,Clinic - Fertility,Procedures,Procedures - Drug Only,25.0,0 decimal places,25
+Clinic - Fertility // Procedures - IUI,Misc Med,Clinic - Fertility,Procedures,Procedures - IUI,100.0,0 decimal places,100
+Clinic - Fertility // Procedures - IVF/Egg Retrieval ,Misc Med,Clinic - Fertility,Procedures,Procedures - IVF/Egg Retrieval ,225.0,0 decimal places,225
+Clinic - Fertility // Tests - Fertility,Misc Med,Clinic - Fertility,Procedures,Tests - Fertility,0.25,2 decimal places,0.25
+Clinic - Fertility // Tests - Genetic/Egg Grade,Misc Med,Clinic - Fertility,Procedures,Tests - Genetic/Egg Grade,1.0,2 decimal places,1
+Clinic - Fertility // Embryologist,Misc Med,Clinic - Fertility,Doctors,Embryologist,10000.0,Number with comma separator,"10,000"
+Clinic - Fertility // Doctors,Misc Med,Clinic - Fertility,Doctors,Doctors,7500.0,Number with comma separator,"7,500"
+Clinic - Fertility // Midwife,Misc Med,Clinic - Fertility,People,Midwife,1750.0,Number with comma separator,"1,750"
+Clinic - Fertility // Mid-Level Providers NP/PA,Misc Med,Clinic - Fertility,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - Fertility // Doula,Misc Med,Clinic - Fertility,People,Doula,900.0,Number with comma separator,900
+Clinic - Fertility // Nurses,Misc Med,Clinic - Fertility,People,Nurses,450.0,Number with comma separator,450
+Clinic - Medical Inpatient (ROW Only) // Receipts,Misc Med,Clinic - Medical Inpatient (ROW Only),Receipts,Receipts,0.0075,4 decimal places,0.0075
+Clinic - Medical Inpatient (ROW Only) // Beds,Misc Med,Clinic - Medical Inpatient (ROW Only),Beds,Beds,5000.0,Number with comma separator,"5,000"
+Clinic - Medical Inpatient (ROW Only) // Visits,Misc Med,Clinic - Medical Inpatient (ROW Only),Visits,Visits,1.0,2 decimal places,1
+Clinic - Medical Inpatient (ROW Only) // Doctors,Misc Med,Clinic - Medical Inpatient (ROW Only),Doctors,Doctors,3500.0,Number with comma separator,"3,500"
+Clinic - Medical Inpatient (ROW Only) // Dentists,Misc Med,Clinic - Medical Inpatient (ROW Only),Doctors,Dentists,1350.0,Number with comma separator,"1,350"
+Clinic - Medical Inpatient (ROW Only) // Psychiatrists,Misc Med,Clinic - Medical Inpatient (ROW Only),Doctors,Psychiatrists,3500.0,Number with comma separator,"3,500"
+Clinic - Medical Inpatient (ROW Only) // Psychologists,Misc Med,Clinic - Medical Inpatient (ROW Only),People,Psychologists,1050.0,Number with comma separator,"1,050"
+Clinic - Medical Inpatient (ROW Only) // Mid-Level Providers NP/PA,Misc Med,Clinic - Medical Inpatient (ROW Only),People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - Medical Inpatient (ROW Only) // Pharmacists,Misc Med,Clinic - Medical Inpatient (ROW Only),People,Pharmacists,500.0,Number with comma separator,500
+Clinic - Medical Inpatient (ROW Only) // Nurses,Misc Med,Clinic - Medical Inpatient (ROW Only),People,Nurses,450.0,Number with comma separator,450
+Clinic - Medical Inpatient (ROW Only) // Midwife,Misc Med,Clinic - Medical Inpatient (ROW Only),People,Midwife,1750.0,Number with comma separator,"1,750"
+Clinic - Medical Inpatient (ROW Only) // Doula,Misc Med,Clinic - Medical Inpatient (ROW Only),People,Doula,900.0,Number with comma separator,900
+Clinic - Medical Inpatient (ROW Only) // Pharmacy Technicians,Misc Med,Clinic - Medical Inpatient (ROW Only),People,Pharmacy Technicians,150.0,Number with comma separator,150
+Clinic - Pain Management // Receipts,Misc Med,Clinic - Pain Management,Receipts,Receipts,0.006,4 decimal places,0.006
+Clinic - Pain Management // Visits - Low,Misc Med,Clinic - Pain Management,Visits,Visits - Low,1.0,2 decimal places,1
+Clinic - Pain Management // Visits - Medium,Misc Med,Clinic - Pain Management,Visits,Visits - Medium,3.0,2 decimal places,3
+Clinic - Pain Management // Visits - High,Misc Med,Clinic - Pain Management,Visits,Visits - High,6.0,2 decimal places,6
+Clinic - Pain Management // Doctors,Misc Med,Clinic - Pain Management,Doctors,Doctors,5000.0,Number with comma separator,"5,000"
+Clinic - Pain Management // Mid-Level Providers NP/PA,Misc Med,Clinic - Pain Management,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - Pain Management // Nurses,Misc Med,Clinic - Pain Management,People,Nurses,450.0,Number with comma separator,450
+Clinic - Radiation/Oncology // Receipts,Misc Med,Clinic - Radiation/Oncology,Receipts,Receipts,0.004,4 decimal places,0.004
+Clinic - Radiation/Oncology // Visits - Radiation Therapy,Misc Med,Clinic - Radiation/Oncology,Visits,Visits - Radiation Therapy,2.0,2 decimal places,2
+Clinic - Radiation/Oncology // Visits - Pain Management,Misc Med,Clinic - Radiation/Oncology,Visits,Visits - Pain Management,1.0,2 decimal places,1
+Clinic - Radiation/Oncology // Visits - Chemotherapy/Infusion Therapy,Misc Med,Clinic - Radiation/Oncology,Visits,Visits - Chemotherapy/Infusion Therapy,3.0,2 decimal places,3
+Clinic - Radiation/Oncology // Doctors,Misc Med,Clinic - Radiation/Oncology,Doctors,Doctors,7500.0,Number with comma separator,"7,500"
+Clinic - Radiation/Oncology // Mid-Level Providers NP/PA,Misc Med,Clinic - Radiation/Oncology,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - Radiation/Oncology // Nurses,Misc Med,Clinic - Radiation/Oncology,People,Nurses,450.0,Number with comma separator,450
+Clinic - Sleep // Receipts,Misc Med,Clinic - Sleep,Receipts,Receipts,0.002,4 decimal places,0.002
+Clinic - Sleep // Study Participant,Misc Med,Clinic - Sleep,People,Study Participant,20.0,Number with comma separator,20
+Clinic - Sleep // Visits,Misc Med,Clinic - Sleep,Visits,Visits,0.25,2 decimal places,0.25
+Clinic - Sleep // Doctors,Misc Med,Clinic - Sleep,Doctors,Doctors,3500.0,Number with comma separator,"3,500"
+Clinic - Sleep // Nurses,Misc Med,Clinic - Sleep,People,Nurses,450.0,Number with comma separator,450
+Clinic - Urgent Care/Minute/Retail // Receipts,Misc Med,Clinic - Urgent Care/Minute/Retail,Receipts,Receipts,0.003,4 decimal places,0.003
+Clinic - Urgent Care/Minute/Retail // Visits - Preventative,Misc Med,Clinic - Urgent Care/Minute/Retail,Visits,Visits - Preventative,0.4,2 decimal places,0.4
+Clinic - Urgent Care/Minute/Retail // Visits - Urgent,Misc Med,Clinic - Urgent Care/Minute/Retail,Visits,Visits - Urgent,0.95,2 decimal places,0.95
+Clinic - Urgent Care/Minute/Retail // Visits - Emergent,Misc Med,Clinic - Urgent Care/Minute/Retail,Visits,Visits - Emergent,2.5,2 decimal places,2.5
+Clinic - Urgent Care/Minute/Retail // Doctors,Misc Med,Clinic - Urgent Care/Minute/Retail,Doctors,Doctors,2500.0,Number with comma separator,"2,500"
+Clinic - Urgent Care/Minute/Retail // Mid-Level Providers NP/PA,Misc Med,Clinic - Urgent Care/Minute/Retail,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - Urgent Care/Minute/Retail // Nurses,Misc Med,Clinic - Urgent Care/Minute/Retail,People,Nurses,450.0,Number with comma separator,450
+Clinic - Veterinary // Receipts,Misc Med,Clinic - Veterinary,Receipts,Receipts,0.001,4 decimal places,0.001
+Clinic - Veterinary // Visits - High Value Animals/Livestock,Misc Med,Clinic - Veterinary,Visits,Visits - High Value Animals/Livestock,0.65,2 decimal places,0.65
+Clinic - Veterinary // Visits - Pets,Misc Med,Clinic - Veterinary,Visits,Visits - Pets,0.15,2 decimal places,0.15
+Clinic - Veterinary // Veterinarians,Misc Med,Clinic - Veterinary,Doctors,Veterinarians,1000.0,Number with comma separator,"1,000"
+Clinic - Weight Loss // Receipts,Misc Med,Clinic - Weight Loss,Receipts,Receipts,0.0015,4 decimal places,0.0015
+Clinic - Weight Loss // Visits,Misc Med,Clinic - Weight Loss,Visits,Visits,1.5,2 decimal places,1.5
+Clinic - Weight Loss // Doctors,Misc Med,Clinic - Weight Loss,Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Clinic - Weight Loss // Mid-Level Providers NP/PA,Misc Med,Clinic - Weight Loss,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Clinic - Weight Loss // Nurses,Misc Med,Clinic - Weight Loss,People,Nurses,450.0,Number with comma separator,450
+Clinic - Weight Loss // Dieticians/Nutritionists,Misc Med,Clinic - Weight Loss,People,Dieticians/Nutritionists,150.0,Number with comma separator,150
+Clinical Trials (Secondary Class only) // Receipts - Pre-clinical,Virtual Care,Clinical Trials (Secondary Class only),Receipts,Receipts - Pre-clinical,0.001,4 decimal places,0.001
+Clinical Trials (Secondary Class only) // Receipts,Virtual Care,Clinical Trials (Secondary Class only),Receipts,Receipts,0.003,4 decimal places,0.003
+Clinical Trials (Secondary Class only) // Subjects - Phase I,Virtual Care,Clinical Trials (Secondary Class only),Clients,Subjects - Phase I,100.0,0 decimal places,100
+Clinical Trials (Secondary Class only) // Subjects - Phase II,Virtual Care,Clinical Trials (Secondary Class only),Clients,Subjects - Phase II,40.0,0 decimal places,40
+Clinical Trials (Secondary Class only) // Subjects - Phase III,Virtual Care,Clinical Trials (Secondary Class only),Clients,Subjects - Phase III,25.0,0 decimal places,25
+Clinical Trials (Secondary Class only) // Subjects - Phase IV,Virtual Care,Clinical Trials (Secondary Class only),Clients,Subjects - Phase IV,15.0,0 decimal places,15
+Clinical Trials (Secondary Class only) // Doctors,Virtual Care,Clinical Trials (Secondary Class only),Doctors,Doctors,3000.0,Number with comma separator,"3,000"
+Clinical Trials (Secondary Class only) // Principal Investigators,Virtual Care,Clinical Trials (Secondary Class only),Doctors,Principal Investigators,5000.0,Number with comma separator,"5,000"
+Consultants // Receipts,Misc Med,Consultants,Receipts,Receipts,0.00175,4 decimal places,0.00175
+Correctional Healthcare // Receipts,Misc Med,Correctional Healthcare,Receipts,Receipts,0.035,4 decimal places,0.035
+Correctional Healthcare // Beds/Average Daily Population,Misc Med,Correctional Healthcare,Beds,Beds/Average Daily Population,200.0,Number with comma separator,200
+Correctional Healthcare // Visits - Doctors ,Misc Med,Correctional Healthcare,Visits,Visits - Doctors ,10.5,2 decimal places,10.5
+Correctional Healthcare // Visits - LVN/RN,Misc Med,Correctional Healthcare,Visits,Visits - LVN/RN,5.25,2 decimal places,5.25
+Correctional Healthcare // Visits - Mental,Misc Med,Correctional Healthcare,Visits,Visits - Mental,8.75,2 decimal places,8.75
+Correctional Healthcare // Visits - Dental,Misc Med,Correctional Healthcare,Visits,Visits - Dental,3.5,2 decimal places,3.5
+Correctional Healthcare // Doctors,Misc Med,Correctional Healthcare,Doctors,Doctors,35000.0,Number with comma separator,"35,000"
+Correctional Healthcare // Psychiatrists,Misc Med,Correctional Healthcare,Doctors,Psychiatrists,25000.0,Number with comma separator,"25,000"
+Correctional Healthcare // Psychologists,Misc Med,Correctional Healthcare,People,Psychologists,3675.0,Number with comma separator,"3,675"
+Correctional Healthcare // Mid-Level Providers NP/PA,Misc Med,Correctional Healthcare,People,Mid-Level Providers NP/PA,3150.0,Number with comma separator,"3,150"
+Correctional Healthcare // Nurses,Misc Med,Correctional Healthcare,People,Nurses,1350.0,Number with comma separator,"1,350"
+Dialysis Centers // Receipts,Misc Med,Dialysis Centers,Receipts,Receipts,0.0025,4 decimal places,0.0025
+Dialysis Centers // Visits - Hemodialysis ,Misc Med,Dialysis Centers,Visits,Visits - Hemodialysis ,1.05,2 decimal places,1.05
+Dialysis Centers // Visits - Peritoneal,Misc Med,Dialysis Centers,Visits,Visits - Peritoneal,1.05,2 decimal places,1.05
+Dialysis Centers // Treatments - In Home Peritoneal,Misc Med,Dialysis Centers,Procedures,Treatments - In Home Peritoneal,0.85,2 decimal places,0.85
+Dialysis Centers // Doctors,Misc Med,Dialysis Centers,Doctors,Doctors,5000.0,Number with comma separator,"5,000"
+Dialysis Centers // Mid-Level Providers NP/PA,Misc Med,Dialysis Centers,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Dialysis Centers // Nurses,Misc Med,Dialysis Centers,People,Nurses,450.0,Number with comma separator,450
+Gyms/Fitness Center // Receipts,Misc Med,Gyms/Fitness Center,Receipts,Receipts,0.0035,4 decimal places,0.0035
+Gyms/Fitness Center // Units - Sauna/Steam Room/Soaking Pool/Showers,Misc Med,Gyms/Fitness Center,Units,Units - Sauna/Steam Room/Soaking Pool/Showers,500.0,Number with comma separator,500
+Gyms/Fitness Center // Product Sales,Misc Med,Gyms/Fitness Center,Products,Product Sales,0.002,4 decimal places,0.002
+Gyms/Fitness Center // Instructors - Group Classes,Misc Med,Gyms/Fitness Center,People,Instructors - Group Classes,175.0,Number with comma separator,175
+Gyms/Fitness Center // Athletic Trainers,Misc Med,Gyms/Fitness Center,People,Athletic Trainers,200.0,Number with comma separator,200
+Gyms/Fitness Center // Masseuse,Misc Med,Gyms/Fitness Center,People,Masseuse,200.0,Number with comma separator,200
+Healthcare Staffing // Receipts - High Acuity,Misc Med,Healthcare Staffing,Receipts,Receipts - High Acuity,0.006,4 decimal places,0.006
+Healthcare Staffing // Receipts - Low Acuity,Misc Med,Healthcare Staffing,Receipts,Receipts - Low Acuity,0.003,4 decimal places,0.003
+Healthcare Staffing // CRNA - High Acuity,Misc Med,Healthcare Staffing,People,CRNA - High Acuity,8500.0,Number with comma separator,"8,500"
+Healthcare Staffing // Midwife - High Acuity,Misc Med,Healthcare Staffing,People,Midwife - High Acuity,1750.0,Number with comma separator,"1,750"
+Healthcare Staffing // Mid-Level Providers NP/PA - High Acuity,Misc Med,Healthcare Staffing,People,Mid-Level Providers NP/PA - High Acuity,1250.0,Number with comma separator,"1,250"
+Healthcare Staffing // Mid-Level Providers NP/PA - Low Acuity,Misc Med,Healthcare Staffing,People,Mid-Level Providers NP/PA - Low Acuity,1050.0,Number with comma separator,"1,050"
+Healthcare Staffing // Pharmacists - High Acuity,Misc Med,Healthcare Staffing,People,Pharmacists - High Acuity,1000.0,Number with comma separator,"1,000"
+Healthcare Staffing // Pharmacists - Low Acuity,Misc Med,Healthcare Staffing,People,Pharmacists - Low Acuity,500.0,Number with comma separator,500
+Healthcare Staffing // Doula - High Acuity,Misc Med,Healthcare Staffing,People,Doula - High Acuity,900.0,Number with comma separator,900
+Healthcare Staffing // Nurses - High Acuity,Misc Med,Healthcare Staffing,People,Nurses - High Acuity,560.0,Number with comma separator,560
+Healthcare Staffing // Nurses - Low Acuity,Misc Med,Healthcare Staffing,People,Nurses - Low Acuity,450.0,Number with comma separator,450
+Healthcare Staffing // Social Workers/Counselors - High Acuity,Misc Med,Healthcare Staffing,People,Social Workers/Counselors - High Acuity,350.0,Number with comma separator,350
+Healthcare Staffing // Social Workers/Counselors - Low Acuity,Misc Med,Healthcare Staffing,People,Social Workers/Counselors - Low Acuity,300.0,Number with comma separator,300
+Healthcare Staffing // Therapists - High Acuity,Misc Med,Healthcare Staffing,People,Therapists - High Acuity,300.0,Number with comma separator,300
+Healthcare Staffing // PT/OT/ST - High Acuity,Misc Med,Healthcare Staffing,People,PT/OT/ST - High Acuity,250.0,Number with comma separator,250
+Healthcare Staffing // PT/OT/ST - Low Acuity,Misc Med,Healthcare Staffing,People,PT/OT/ST - Low Acuity,200.0,Number with comma separator,200
+Healthcare Staffing // Medical Assistants/Technicians - High Acuity,Misc Med,Healthcare Staffing,People,Medical Assistants/Technicians - High Acuity,200.0,Number with comma separator,200
+Healthcare Staffing // Medical Assistants/Technicians - Low Acuity,Misc Med,Healthcare Staffing,People,Medical Assistants/Technicians - Low Acuity,175.0,Number with comma separator,175
+Healthcare Staffing // CNAs/Assistants - High Acuity,Misc Med,Healthcare Staffing,People,CNAs/Assistants - High Acuity,190.0,Number with comma separator,190
+Healthcare Staffing // CNAs/Assistants - Low Acuity,Misc Med,Healthcare Staffing,People,CNAs/Assistants - Low Acuity,150.0,Number with comma separator,150
+Home Healthcare // Receipts - Non-medical,Misc Med,Home Healthcare,Receipts,Receipts - Non-medical,0.0025,4 decimal places,0.0025
+Home Healthcare // Receipts - Medical/Skilled ,Misc Med,Home Healthcare,Receipts,Receipts - Medical/Skilled ,0.006,4 decimal places,0.006
+Home Healthcare // Visits - Non-medical,Misc Med,Home Healthcare,Visits,Visits - Non-medical,0.2,2 decimal places,0.2
+Home Healthcare // Visits - Medical/Skilled ,Misc Med,Home Healthcare,Visits,Visits - Medical/Skilled ,0.35,2 decimal places,0.35
+Home Healthcare // Mid-Level Providers NP/PA,Misc Med,Home Healthcare,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Home Healthcare // Nurses,Misc Med,Home Healthcare,People,Nurses,450.0,Number with comma separator,450
+Home Healthcare // Respiratory Therapists,Misc Med,Home Healthcare,People,Respiratory Therapists,350.0,Number with comma separator,350
+Home Healthcare // Physical Therapists,Misc Med,Home Healthcare,People,Physical Therapists,250.0,Number with comma separator,250
+Home Healthcare // Occupational Therapists,Misc Med,Home Healthcare,People,Occupational Therapists,200.0,Number with comma separator,200
+Home Healthcare // Speech Therapists,Misc Med,Home Healthcare,People,Speech Therapists,200.0,Number with comma separator,200
+Home Healthcare // CNAs/Assistants ,Misc Med,Home Healthcare,People,CNAs/Assistants ,150.0,Number with comma separator,150
+Home Healthcare // Home Health Aides,Misc Med,Home Healthcare,People,Home Health Aides,150.0,Number with comma separator,150
+Home Healthcare // Companions/Sitters/Homemakers (non-medical),Misc Med,Home Healthcare,People,Companions/Sitters/Homemakers (non-medical),100.0,Number with comma separator,100
+Hospice Care // Receipts,Misc Med,Hospice Care,Receipts,Receipts,0.002,4 decimal places,0.002
+Hospice Care // Beds,Misc Med,Hospice Care,Beds,Beds,350.0,Number with comma separator,350
+Hospice Care // Visits,Misc Med,Hospice Care,Visits,Visits,0.25,2 decimal places,0.25
+Hospice Care // Doctors,Misc Med,Hospice Care,Doctors,Doctors,2000.0,Number with comma separator,"2,000"
+Hospice Care // Mid-Level Providers NP/PA,Misc Med,Hospice Care,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Hospice Care // Nurses,Misc Med,Hospice Care,People,Nurses,450.0,Number with comma separator,450
+Hospice Care // Medical Directors,Misc Med,Hospice Care,People,Medical Directors,1000.0,Number with comma separator,"1,000"
+Hospital - LTAC/TBI // Receipts,Misc Med,Hospital - LTAC/TBI,Receipts,Receipts,0.0025,4 decimal places,0.0025
+Hospital - LTAC/TBI // Beds,Misc Med,Hospital - LTAC/TBI,Beds,Beds,1200.0,Number with comma separator,"1,200"
+Hospital - LTAC/TBI // Visits,Misc Med,Hospital - LTAC/TBI,Visits,Visits,0.45,2 decimal places,0.45
+Hospital - LTAC/TBI // Doctors - High Acuity,Misc Med,Hospital - LTAC/TBI,Doctors,Doctors - High Acuity,10000.0,Number with comma separator,"10,000"
+Hospital - LTAC/TBI // Doctors - Low Acuity,Misc Med,Hospital - LTAC/TBI,Doctors,Doctors - Low Acuity,3500.0,Number with comma separator,"3,500"
+Hospital - LTAC/TBI // Mid-Level Providers NP/PA,Misc Med,Hospital - LTAC/TBI,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Hospital - LTAC/TBI // Physical Therapists,Misc Med,Hospital - LTAC/TBI,People,Physical Therapists,250.0,Number with comma separator,250
+Hospital - LTAC/TBI // Physical Therapist Assistants,Misc Med,Hospital - LTAC/TBI,People,Physical Therapist Assistants,150.0,Number with comma separator,150
+Hospital - LTAC/TBI // Occupational Therapists,Misc Med,Hospital - LTAC/TBI,People,Occupational Therapists,200.0,Number with comma separator,200
+Hospital - LTAC/TBI // Occupational Therapist Assistants,Misc Med,Hospital - LTAC/TBI,People,Occupational Therapist Assistants,125.0,Number with comma separator,125
+Hospital - LTAC/TBI // Speech Therapists,Misc Med,Hospital - LTAC/TBI,People,Speech Therapists,200.0,Number with comma separator,200
+Hospital - LTAC/TBI // Athletic Trainers,Misc Med,Hospital - LTAC/TBI,People,Athletic Trainers,200.0,Number with comma separator,200
+Hospital - LTAC/TBI // Nurses,Misc Med,Hospital - LTAC/TBI,People,Nurses,450.0,Number with comma separator,450
+Humanitarian Relief Organizations // Receipts,Misc Med,Humanitarian Relief Organizations,Receipts,Receipts,0.0015,4 decimal places,0.0015
+Humanitarian Relief Organizations // Beds,Misc Med,Humanitarian Relief Organizations,Beds,Beds,450.0,Number with comma separator,450
+Humanitarian Relief Organizations // Visits,Misc Med,Humanitarian Relief Organizations,Visits,Visits,0.5,2 decimal places,0.5
+Humanitarian Relief Organizations // Surgeries,Misc Med,Humanitarian Relief Organizations,Procedures,Surgeries,1.5,2 decimal places,1.5
+Humanitarian Relief Organizations // Doctors,Misc Med,Humanitarian Relief Organizations,Doctors,Doctors,1000.0,Number with comma separator,"1,000"
+Humanitarian Relief Organizations // Mid-Level Providers NP/PA,Misc Med,Humanitarian Relief Organizations,People,Mid-Level Providers NP/PA,750.0,Number with comma separator,750
+Humanitarian Relief Organizations // Nurses,Misc Med,Humanitarian Relief Organizations,People,Nurses,250.0,Number with comma separator,250
+Imaging & X-Ray // Receipts,Misc Med,Imaging & X-Ray,Receipts,Receipts,0.005,4 decimal places,0.005
+Imaging & X-Ray // Bone Density,Misc Med,Imaging & X-Ray,Procedures,Bone Density,0.25,2 decimal places,0.25
+Imaging & X-Ray // CT Scans,Misc Med,Imaging & X-Ray,Procedures,CT Scans,2.0,2 decimal places,2
+Imaging & X-Ray // EchoCardiogram/EKG,Misc Med,Imaging & X-Ray,Procedures,EchoCardiogram/EKG,1.0,2 decimal places,1
+Imaging & X-Ray // Gamma Ray Camera,Misc Med,Imaging & X-Ray,Procedures,Gamma Ray Camera,2.5,2 decimal places,2.5
+Imaging & X-Ray // Mammogram,Misc Med,Imaging & X-Ray,Procedures,Mammogram,3.0,2 decimal places,3
+Imaging & X-Ray // MRIs,Misc Med,Imaging & X-Ray,Procedures,MRIs,1.5,2 decimal places,1.5
+Imaging & X-Ray // Nuclear,Misc Med,Imaging & X-Ray,Procedures,Nuclear,2.5,2 decimal places,2.5
+Imaging & X-Ray // PET Scans,Misc Med,Imaging & X-Ray,Procedures,PET Scans,2.5,2 decimal places,2.5
+Imaging & X-Ray // Ultrasounds,Misc Med,Imaging & X-Ray,Procedures,Ultrasounds,1.0,2 decimal places,1
+Imaging & X-Ray // X-rays,Misc Med,Imaging & X-Ray,Procedures,X-rays,0.9,2 decimal places,0.9
+Imaging & X-Ray // Doctors,Misc Med,Imaging & X-Ray,Doctors,Doctors,3500.0,Number with comma separator,"3,500"
+Imaging & X-Ray // Radiologists,Misc Med,Imaging & X-Ray,Doctors,Radiologists,15000.0,Number with comma separator,"15,000"
+Imaging & X-Ray // Mid-Level Providers NP/PA,Misc Med,Imaging & X-Ray,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Imaging & X-Ray // Nurses,Misc Med,Imaging & X-Ray,People,Nurses,450.0,Number with comma separator,450
+Imaging & X-Ray // Imaging Techs,Misc Med,Imaging & X-Ray,People,Imaging Techs,250.0,Number with comma separator,250
+Inpatient - Alcohol & Drug Rehabilitation // Receipts,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,Receipts,Receipts,0.0075,4 decimal places,0.0075
+Inpatient - Alcohol & Drug Rehabilitation // Beds - Independent Living,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,Beds,Beds - Independent Living,300.0,Number with comma separator,300
+Inpatient - Alcohol & Drug Rehabilitation // Beds - Intermediate,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,Beds,Beds - Intermediate,650.0,Number with comma separator,650
+Inpatient - Alcohol & Drug Rehabilitation // Beds - Detox,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,Beds,Beds - Detox,1000.0,Number with comma separator,"1,000"
+Inpatient - Alcohol & Drug Rehabilitation // Visits ,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,Visits ,Visits ,1.0,2 decimal places,1
+Inpatient - Alcohol & Drug Rehabilitation // Doses - Methadone ,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,Visits ,Doses - Methadone ,0.1,2 decimal places,0.1
+Inpatient - Alcohol & Drug Rehabilitation // Doctors,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,Doctors,Doctors,3500.0,Number with comma separator,"3,500"
+Inpatient - Alcohol & Drug Rehabilitation // Psychologists,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,People,Psychologists,1050.0,Number with comma separator,"1,050"
+Inpatient - Alcohol & Drug Rehabilitation // Mid-Level Providers NP/PA,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Inpatient - Alcohol & Drug Rehabilitation // Nurses,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,People,Nurses,450.0,Number with comma separator,450
+Inpatient - Alcohol & Drug Rehabilitation // Addiction Counselors/Interventionists,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,People,Addiction Counselors/Interventionists,350.0,Number with comma separator,350
+Inpatient - Alcohol & Drug Rehabilitation // Social Workers/Counselors,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,People,Social Workers/Counselors,350.0,Number with comma separator,350
+Inpatient - Mental Health/Psychiatric // Receipts,Misc Med,Inpatient - Mental Health/Psychiatric,Receipts,Receipts,0.0225,4 decimal places,0.0225
+Inpatient - Mental Health/Psychiatric // Beds,Misc Med,Inpatient - Mental Health/Psychiatric,Beds,Beds,3000.0,Number with comma separator,"3,000"
+Inpatient - Mental Health/Psychiatric // Visits,Misc Med,Inpatient - Mental Health/Psychiatric,Visits,Visits,2.25,2 decimal places,2.25
+Inpatient - Mental Health/Psychiatric // Doctors,Misc Med,Inpatient - Mental Health/Psychiatric,Doctors,Doctors,7500.0,Number with comma separator,"7,500"
+Inpatient - Mental Health/Psychiatric // Psychiatrists,Misc Med,Inpatient - Mental Health/Psychiatric,Doctors,Psychiatrists,3500.0,Number with comma separator,"3,500"
+Inpatient - Mental Health/Psychiatric // Psychologists,Misc Med,Inpatient - Mental Health/Psychiatric,People,Psychologists,1050.0,Number with comma separator,"1,050"
+Inpatient - Mental Health/Psychiatric // Mid-Level Providers NP/PA,Misc Med,Inpatient - Mental Health/Psychiatric,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Inpatient - Mental Health/Psychiatric // Nurses,Misc Med,Inpatient - Mental Health/Psychiatric,People,Nurses,450.0,Number with comma separator,450
+Inpatient - Mental Health/Psychiatric // Social Workers/Counselors,Misc Med,Inpatient - Mental Health/Psychiatric,People,Social Workers/Counselors,350.0,Number with comma separator,350
+Inpatient - Mental Health/Psychiatric // Case Management/Case Workers,Misc Med,Inpatient - Mental Health/Psychiatric,People,Case Management/Case Workers,250.0,Number with comma separator,250
+Inpatient - Troubled Youth // Receipts,Misc Med,Inpatient - Troubled Youth,Receipts,Receipts,0.01,4 decimal places,0.01
+Inpatient - Troubled Youth // Visits,Misc Med,Inpatient - Troubled Youth,Visits,Visits,2.25,2 decimal places,2.25
+Inpatient - Troubled Youth // Daily Census - Detention Centers,Misc Med,Inpatient - Troubled Youth,Beds,Daily Census - Detention Centers,350.0,Number with comma separator,350
+Inpatient - Troubled Youth // Beds - Facilities,Misc Med,Inpatient - Troubled Youth,Beds,Beds - Facilities,2000.0,Number with comma separator,"2,000"
+Inpatient - Troubled Youth // Psychiatrists,Misc Med,Inpatient - Troubled Youth,Doctors,Psychiatrists,3500.0,Number with comma separator,"3,500"
+Inpatient - Troubled Youth // Psychologists,Misc Med,Inpatient - Troubled Youth,People,Psychologists,1050.0,Number with comma separator,"1,050"
+Inpatient - Troubled Youth // Mid-Level Providers NP/PA,Misc Med,Inpatient - Troubled Youth,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Inpatient - Troubled Youth // Nurses,Misc Med,Inpatient - Troubled Youth,People,Nurses,450.0,Number with comma separator,450
+Inpatient - Troubled Youth // Social Workers,Misc Med,Inpatient - Troubled Youth,People,Social Workers,350.0,Number with comma separator,350
+Inpatient - Troubled Youth // Case Management/Case Workers,Misc Med,Inpatient - Troubled Youth,People,Case Management/Case Workers,250.0,Number with comma separator,250
+Laboratories // Receipts - Chemistry,Misc Med,Laboratories,Receipts,Receipts - Chemistry,0.002,4 decimal places,0.002
+Laboratories // Receipts - DNA (Ancestry) Testing,Misc Med,Laboratories,Receipts,Receipts - DNA (Ancestry) Testing,0.0015,4 decimal places,0.0015
+Laboratories // Receipts - DNA (Diagnostic) Testing,Misc Med,Laboratories,Receipts,Receipts - DNA (Diagnostic) Testing,0.0035,4 decimal places,0.0035
+Laboratories // Receipts - Drug Testing,Misc Med,Laboratories,Receipts,Receipts - Drug Testing,0.005,4 decimal places,0.005
+Laboratories // Receipts - Fertility Testing,Misc Med,Laboratories,Receipts,Receipts - Fertility Testing,0.0015,4 decimal places,0.0015
+Laboratories // Receipts - Genetic Testing,Misc Med,Laboratories,Receipts,Receipts - Genetic Testing,0.01,4 decimal places,0.01
+Laboratories // Receipts - Pathology,Misc Med,Laboratories,Receipts,Receipts - Pathology,0.006,4 decimal places,0.006
+Laboratories // Receipts - Specimen Collection Only,Misc Med,Laboratories,Receipts,Receipts - Specimen Collection Only,0.001,4 decimal places,0.001
+Laboratories // Receipts - All Other,Misc Med,Laboratories,Receipts,Receipts - All Other,0.003,4 decimal places,0.003
+Laboratories // Tests - Chemistry ,Misc Med,Laboratories,Procedures,Tests - Chemistry ,0.15,2 decimal places,0.15
+Laboratories // Tests - DNA (Ancestry),Misc Med,Laboratories,Procedures,Tests - DNA (Ancestry),0.2,2 decimal places,0.2
+Laboratories // Tests - DNA (Diagnostic) ,Misc Med,Laboratories,Procedures,Tests - DNA (Diagnostic) ,0.4,2 decimal places,0.4
+Laboratories // Tests - Drug Testing,Misc Med,Laboratories,Procedures,Tests - Drug Testing,0.4,2 decimal places,0.4
+Laboratories // Tests - Fertility Testing,Misc Med,Laboratories,Procedures,Tests - Fertility Testing,0.2,2 decimal places,0.2
+Laboratories // Tests - Genetic Testing,Misc Med,Laboratories,Procedures,Tests - Genetic Testing,1.0,2 decimal places,1
+Laboratories // Tests - Pathology,Misc Med,Laboratories,Procedures,Tests - Pathology,0.5,2 decimal places,0.5
+Laboratories // Tests - All Other,Misc Med,Laboratories,Procedures,Tests - All Other,0.1,2 decimal places,0.1
+Laboratories // Doctors - High Acuity,Misc Med,Laboratories,Doctors,Doctors - High Acuity,15000.0,Number with comma separator,"15,000"
+Laboratories // Doctors - Low Acuity,Misc Med,Laboratories,Doctors,Doctors - Low Acuity,1000.0,Number with comma separator,"1,000"
+Laboratories // Mid-Level Providers NP/PA,Misc Med,Laboratories,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Laboratories // Nurses,Misc Med,Laboratories,People,Nurses,450.0,Number with comma separator,450
+Laboratories // Lab Technicians,Misc Med,Laboratories,People,Lab Technicians,175.0,Number with comma separator,175
+Locum Tenens/Physician Staffing // Class 1A,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 1A,8985.0,Number with comma separator,"8,985"
+Locum Tenens/Physician Staffing // Class 1,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 1,11220.0,Number with comma separator,"11,220"
+Locum Tenens/Physician Staffing // Class 2,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 2,16785.0,Number with comma separator,"16,785"
+Locum Tenens/Physician Staffing // Class 3,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 3,22440.0,Number with comma separator,"22,440"
+Locum Tenens/Physician Staffing // Class 4,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 4,28035.0,Number with comma separator,"28,035"
+Locum Tenens/Physician Staffing // Class 5A,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 5A,31500.0,Number with comma separator,"31,500"
+Locum Tenens/Physician Staffing // Class 5,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 5,44850.0,Number with comma separator,"44,850"
+Locum Tenens/Physician Staffing // Class 6,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 6,58305.0,Number with comma separator,"58,305"
+Locum Tenens/Physician Staffing // Class 7,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 7,69510.0,Number with comma separator,"69,510"
+Locum Tenens/Physician Staffing // Class 8,Misc Med,Locum Tenens/Physician Staffing,Doctors,Class 8,91950.0,Number with comma separator,"91,950"
+Locum Tenens/Physician Staffing // CRNA,Misc Med,Locum Tenens/Physician Staffing,Doctors,CRNA,8500.0,Number with comma separator,"8,500"
+Locum Tenens/Physician Staffing // Mid-Level Providers NP/PA,Misc Med,Locum Tenens/Physician Staffing,Doctors,Mid-Level Providers NP/PA,3495.0,Number with comma separator,"3,495"
+Locum Tenens/Physician Staffing // Mid-Level Providers NP/PA - Emergency Room,Misc Med,Locum Tenens/Physician Staffing,Doctors,Mid-Level Providers NP/PA - Emergency Room,7650.0,Number with comma separator,"7,650"
+Long-term Care // Receipts - Skilled Care,Misc Med,Long-term Care,Receipts,Receipts - Skilled Care,0.0045,4 decimal places,0.0045
+Long-term Care // Receipts - Intermediate Care,Misc Med,Long-term Care,Receipts,Receipts - Intermediate Care,0.0027,4 decimal places,0.0027
+Long-term Care // Receipts - Residential Care,Misc Med,Long-term Care,Receipts,Receipts - Residential Care,0.0016,4 decimal places,0.0016
+Long-term Care // Receipts - Independent Living,Misc Med,Long-term Care,Receipts,Receipts - Independent Living,0.0011,4 decimal places,0.0011
+Long-term Care // Beds - Skilled Care,Misc Med,Long-term Care,Beds,Beds - Skilled Care,3000.0,Number with comma separator,"3,000"
+Long-term Care // Beds - Intermediate Care,Misc Med,Long-term Care,Beds,Beds - Intermediate Care,1800.0,Number with comma separator,"1,800"
+Long-term Care // Beds - Residential Care,Misc Med,Long-term Care,Beds,Beds - Residential Care,1050.0,Number with comma separator,"1,050"
+Long-term Care // Beds - Independent Living,Misc Med,Long-term Care,Beds,Beds - Independent Living,750.0,Number with comma separator,750
+Long-term Care // Doctors,Misc Med,Long-term Care,Doctors,Doctors,3000.0,Number with comma separator,"3,000"
+Long-term Care // Nurses,Misc Med,Long-term Care,People,Nurses,450.0,Number with comma separator,450
+Long-term Care // Care Aides,Misc Med,Long-term Care,People,Care Aides,300.0,Number with comma separator,300
+Medi Spas // Receipts - Medical Spa,Misc Med,Medi Spas,Receipts,Receipts - Medical Spa,0.0035,4 decimal places,0.0035
+Medi Spas // Receipts - Day Spa/Beauty Salon,Misc Med,Medi Spas,Receipts,Receipts - Day Spa/Beauty Salon,0.0015,4 decimal places,0.0015
+Medi Spas // Procedures - Day Spa Only,Misc Med,Medi Spas,Procedures,Procedures - Day Spa Only,0.25,2 decimal places,0.25
+Medi Spas // Procedures - High Acuity ,Misc Med,Medi Spas,Procedures,Procedures - High Acuity ,3.5,2 decimal places,3.5
+Medi Spas // Procedures - Medium Acuity ,Misc Med,Medi Spas,Procedures,Procedures - Medium Acuity ,1.5,2 decimal places,1.5
+Medi Spas // Procedures - Low Acuity,Misc Med,Medi Spas,Procedures,Procedures - Low Acuity,1.0,2 decimal places,1
+Medi Spas // Doctors,Misc Med,Medi Spas,Doctors,Doctors,2500.0,Number with comma separator,"2,500"
+Medi Spas // Nurses,Misc Med,Medi Spas,People,Nurses,450.0,Number with comma separator,450
+Medi Spas // Aestheticians,Misc Med,Medi Spas,People,Aestheticians,300.0,Number with comma separator,300
+Medi Spas // Massage Therapists,Misc Med,Medi Spas,People,Massage Therapists,200.0,Number with comma separator,200
+Medi Spas // Medical Assistants/Technicians,Misc Med,Medi Spas,People,Medical Assistants/Technicians,175.0,Number with comma separator,175
+Medi Spas // Beauticians/Barbers,Misc Med,Medi Spas,People,Beauticians/Barbers,150.0,Number with comma separator,150
+Medical Cannabis // Receipts,Misc Med,Medical Cannabis,Receipts,Receipts,0.0015,4 decimal places,0.0015
+Military Medicine // Receipts,Misc Med,Military Medicine,Receipts,Receipts,0.0025,4 decimal places,0.0025
+Military Medicine // Visits - Military Member,Misc Med,Military Medicine,Visits,Visits - Military Member,0.45,2 decimal places,0.45
+Military Medicine // Visits - Other,Misc Med,Military Medicine,Visits,Visits - Other,0.65,2 decimal places,0.65
+Military Medicine // Doctors,Misc Med,Military Medicine,Doctors,Doctors,2500.0,Number with comma separator,"2,500"
+Military Medicine // Mid-Level Providers NP/PA,Misc Med,Military Medicine,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Military Medicine // Pharmacists,Misc Med,Military Medicine,People,Pharmacists,500.0,Number with comma separator,500
+Military Medicine // Nurses ,Misc Med,Military Medicine,People,Nurses ,450.0,Number with comma separator,450
+Military Medicine // Social Workers/Counselors,Misc Med,Military Medicine,People,Social Workers/Counselors,250.0,Number with comma separator,250
+Military Medicine // CNAs/Assistants ,Misc Med,Military Medicine,People,CNAs/Assistants ,150.0,Number with comma separator,150
+Military Medicine // Medical Assistants/Technicians,Misc Med,Military Medicine,People,Medical Assistants/Technicians,175.0,Number with comma separator,175
+Occupational Healthcare // Receipts,Misc Med,Occupational Healthcare,Receipts,Receipts,0.002,4 decimal places,0.002
+Occupational Healthcare // Visits - Primary,Misc Med,Occupational Healthcare,Visits,Visits - Primary,0.55,2 decimal places,0.55
+Occupational Healthcare // Visits - Clinical,Misc Med,Occupational Healthcare,Visits,Visits - Clinical,0.1,2 decimal places,0.1
+Occupational Healthcare // Visits - Specialty,Misc Med,Occupational Healthcare,Visits,Visits - Specialty,2.0,2 decimal places,2
+Occupational Healthcare // Visits - Urgent/Emergent,Misc Med,Occupational Healthcare,Visits,Visits - Urgent/Emergent,0.95,2 decimal places,0.95
+Occupational Healthcare // Visits - Therapy (PT/OT/ST),Misc Med,Occupational Healthcare,Visits,Visits - Therapy (PT/OT/ST),0.25,2 decimal places,0.25
+Occupational Healthcare // Drug Tests,Misc Med,Occupational Healthcare,Procedures,Drug Tests,0.35,2 decimal places,0.35
+Occupational Healthcare // Doctors - High Acuity,Misc Med,Occupational Healthcare,Doctors,Doctors - High Acuity,10000.0,Number with comma separator,"10,000"
+Occupational Healthcare // Doctors - Low Acuity,Misc Med,Occupational Healthcare,Doctors,Doctors - Low Acuity,3500.0,Number with comma separator,"3,500"
+Occupational Healthcare // Nurses,Misc Med,Occupational Healthcare,People,Nurses,450.0,Number with comma separator,450
+Occupational Healthcare // Physical Therapists,Misc Med,Occupational Healthcare,People,Physical Therapists,250.0,Number with comma separator,250
+Occupational Healthcare // Physical Therapist Assistants,Misc Med,Occupational Healthcare,People,Physical Therapist Assistants,150.0,Number with comma separator,150
+Occupational Healthcare // Occupational Therapists,Misc Med,Occupational Healthcare,People,Occupational Therapists,200.0,Number with comma separator,200
+Occupational Healthcare // Occupational Therapist Assistants,Misc Med,Occupational Healthcare,People,Occupational Therapist Assistants,125.0,Number with comma separator,125
+Occupational Healthcare // Speech Therapists,Misc Med,Occupational Healthcare,People,Speech Therapists,200.0,Number with comma separator,200
+Outpatient - Alcohol & Drug Rehabilitation // Receipts,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,Receipts,Receipts,0.003,4 decimal places,0.003
+Outpatient - Alcohol & Drug Rehabilitation // Visits ,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,Visits,Visits ,0.65,2 decimal places,0.65
+Outpatient - Alcohol & Drug Rehabilitation // Doses - Methadone ,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,Procedures,Doses - Methadone ,0.25,2 decimal places,0.25
+Outpatient - Alcohol & Drug Rehabilitation // Doctors,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,Doctors,Doctors,3500.0,Number with comma separator,"3,500"
+Outpatient - Alcohol & Drug Rehabilitation // Psychologists,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,People,Psychologists,1050.0,Number with comma separator,"1,050"
+Outpatient - Alcohol & Drug Rehabilitation // Mid-Level Providers NP/PA,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Outpatient - Alcohol & Drug Rehabilitation // Nurses,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,People,Nurses,450.0,Number with comma separator,450
+Outpatient - Alcohol & Drug Rehabilitation // Addiction Counselors/Interventionists,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,People,Addiction Counselors/Interventionists,350.0,Number with comma separator,350
+Outpatient - Mental Health // Receipts,Misc Med,Outpatient - Mental Health,Receipts,Receipts,0.006,4 decimal places,0.006
+Outpatient - Mental Health // Visits,Misc Med,Outpatient - Mental Health,Visits,Visits,0.95,2 decimal places,0.95
+Outpatient - Mental Health // Clients,Misc Med,Outpatient - Mental Health,Clients,Clients,35.0,0 decimal places,35
+Outpatient - Mental Health // Psychiatrists,Misc Med,Outpatient - Mental Health,Doctors,Psychiatrists,3500.0,Number with comma separator,"3,500"
+Outpatient - Mental Health // Psychologists,Misc Med,Outpatient - Mental Health,People,Psychologists,1050.0,Number with comma separator,"1,050"
+Outpatient - Mental Health // Occupational/Speech/Physical Therapists,Misc Med,Outpatient - Mental Health,People,Occupational/Speech/Physical Therapists,250.0,Number with comma separator,250
+Outpatient - Mental Health // Nurses,Misc Med,Outpatient - Mental Health,People,Nurses,450.0,Number with comma separator,450
+Outpatient - Mental Health // Social Workers/Counselors,Misc Med,Outpatient - Mental Health,People,Social Workers/Counselors,350.0,Number with comma separator,350
+Outpatient - Mental Health // Case Management/Case Workers,Misc Med,Outpatient - Mental Health,People,Case Management/Case Workers,250.0,Number with comma separator,250
+Outpatient - Troubled Youth // Receipts,Misc Med,Outpatient - Troubled Youth,Receipts,Receipts,0.006,4 decimal places,0.006
+Outpatient - Troubled Youth // Visits,Misc Med,Outpatient - Troubled Youth,Visits,Visits,0.85,2 decimal places,0.85
+Pharmacy/Infusion Services // Receipts - Retail/Mail Order/Closed Door,Misc Med,Pharmacy/Infusion Services,Receipts,Receipts - Retail/Mail Order/Closed Door,0.00075,4 decimal places,0.00075
+Pharmacy/Infusion Services // Receipts - Specialty ,Misc Med,Pharmacy/Infusion Services,Receipts,Receipts - Specialty ,0.00175,4 decimal places,0.00175
+Pharmacy/Infusion Services // Receipts - Compounding Low Acuity,Misc Med,Pharmacy/Infusion Services,Receipts,Receipts - Compounding Low Acuity,0.001,4 decimal places,0.001
+Pharmacy/Infusion Services // Receipts - Compounding Medium Acuity ,Misc Med,Pharmacy/Infusion Services,Receipts,Receipts - Compounding Medium Acuity ,0.002,4 decimal places,0.002
+Pharmacy/Infusion Services // Receipts - Compounding High Acuity,Misc Med,Pharmacy/Infusion Services,Receipts,Receipts - Compounding High Acuity,0.0035,4 decimal places,0.0035
+Pharmacy/Infusion Services // Receipts - DME,Misc Med,Pharmacy/Infusion Services,Receipts,Receipts - DME,0.005,4 decimal places,0.005
+Pharmacy/Infusion Services // Scripts - Retail/Mail Order/Closed Door,Misc Med,Pharmacy/Infusion Services,Scripts,Scripts - Retail/Mail Order/Closed Door,0.1,2 decimal places,0.1
+Pharmacy/Infusion Services // Scripts - Specialty  ,Misc Med,Pharmacy/Infusion Services,Scripts,Scripts - Specialty  ,0.25,2 decimal places,0.25
+Pharmacy/Infusion Services // Scripts - Compounding Low Acuity,Misc Med,Pharmacy/Infusion Services,Scripts,Scripts - Compounding Low Acuity,0.1,2 decimal places,0.1
+Pharmacy/Infusion Services // Scripts - Compounding Medium Acuity ,Misc Med,Pharmacy/Infusion Services,Scripts,Scripts - Compounding Medium Acuity ,0.2,2 decimal places,0.2
+Pharmacy/Infusion Services // Scripts - Compounding High Acuity,Misc Med,Pharmacy/Infusion Services,Scripts,Scripts - Compounding High Acuity,0.35,2 decimal places,0.35
+Pharmacy/Infusion Services // Doctors,Misc Med,Pharmacy/Infusion Services,Doctors,Doctors,3500.0,Number with comma separator,"3,500"
+Pharmacy/Infusion Services // Pharmacists,Misc Med,Pharmacy/Infusion Services,People,Pharmacists,1000.0,Number with comma separator,"1,000"
+Pharmacy/Infusion Services // Nurses,Misc Med,Pharmacy/Infusion Services,People,Nurses,450.0,Number with comma separator,450
+Pharmacy/Infusion Services // Pharmacy Technicians,Misc Med,Pharmacy/Infusion Services,People,Pharmacy Technicians,150.0,Number with comma separator,150
+Product Sales/Manufacturers Representative // Receipts,Misc Med,Product Sales/Manufacturers Representative,Receipts,Receipts,0.0015,4 decimal places,0.0015
+Product Sales/Manufacturers Representative // Manufacturers' Representatives,Misc Med,Product Sales/Manufacturers Representative,People,Manufacturers' Representatives,200.0,Number with comma separator,200
+Product Sales/Manufacturers Representative // Surgeries/Procedures,Misc Med,Product Sales/Manufacturers Representative,Procedures,Surgeries/Procedures,1.0,2 decimal places,1
+Prosthetics/Orthotics/Hearing Aids // Receipts,Misc Med,Prosthetics/Orthotics/Hearing Aids,Receipts,Receipts,0.002,4 decimal places,0.002
+Prosthetics/Orthotics/Hearing Aids // Hearing Aid Fitters,Misc Med,Prosthetics/Orthotics/Hearing Aids,People,Hearing Aid Fitters,175.0,Number with comma separator,175
+Research Foundations & Associations // Receipts,Misc Med,Research Foundations & Associations,Receipts,Receipts,0.001,4 decimal places,0.001
+Research Foundations & Associations // Doctors,Misc Med,Research Foundations & Associations,Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Residential - Developmentally Disabled/Group Home // Receipts,Misc Med,Residential - Developmentally Disabled/Group Home,Receipts,Receipts,0.0225,4 decimal places,0.0225
+Residential - Developmentally Disabled/Group Home // Beds,Misc Med,Residential - Developmentally Disabled/Group Home,Beds,Beds,3000.0,Number with comma separator,"3,000"
+Residential - Developmentally Disabled/Group Home // Visits,Misc Med,Residential - Developmentally Disabled/Group Home,Visits,Visits,1.5,2 decimal places,1.5
+Residential - Developmentally Disabled/Group Home // Psychiatrists,Misc Med,Residential - Developmentally Disabled/Group Home,Doctors,Psychiatrists,5000.0,Number with comma separator,"5,000"
+Residential - Developmentally Disabled/Group Home // Doctors,Misc Med,Residential - Developmentally Disabled/Group Home,Doctors,Doctors,5000.0,Number with comma separator,"5,000"
+Residential - Developmentally Disabled/Group Home // Mid-Level Providers NP/PA,Misc Med,Residential - Developmentally Disabled/Group Home,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Residential - Developmentally Disabled/Group Home // Nurses,Misc Med,Residential - Developmentally Disabled/Group Home,People,Nurses,450.0,Number with comma separator,450
+Residential - Developmentally Disabled/Group Home // Social Workers/Counselors,Misc Med,Residential - Developmentally Disabled/Group Home,People,Social Workers/Counselors,350.0,Number with comma separator,350
+Residential - Developmentally Disabled/Group Home // Case Management/Case Worker,Misc Med,Residential - Developmentally Disabled/Group Home,People,Case Management/Case Worker,250.0,Number with comma separator,250
+Residential - Shelters/Halfway House/Transitional Housing // Receipts,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,Receipts,Receipts,0.004,4 decimal places,0.004
+Residential - Shelters/Halfway House/Transitional Housing // Beds - Prison Release,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,Beds,Beds - Prison Release,2000.0,Number with comma separator,"2,000"
+Residential - Shelters/Halfway House/Transitional Housing // Beds - All Other,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,Beds,Beds - All Other,450.0,Number with comma separator,450
+Residential - Shelters/Halfway House/Transitional Housing // Visits,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,Visits,Visits,0.65,2 decimal places,0.65
+Residential - Shelters/Halfway House/Transitional Housing // Social Workers/Counselors,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,People,Social Workers/Counselors,350.0,Number with comma separator,350
+Residential - Shelters/Halfway House/Transitional Housing // Case Management/Case Worker,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,People,Case Management/Case Worker,250.0,Number with comma separator,250
+Schools - Allied Medical Training/Nursing/Mid-Level // Receipts - School,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,Receipts,Receipts - School,0.0015,4 decimal places,0.0015
+Schools - Allied Medical Training/Nursing/Mid-Level // Receipts - Student Clinic,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,Receipts,Receipts - Student Clinic,0.0025,4 decimal places,0.0025
+Schools - Allied Medical Training/Nursing/Mid-Level // Visits - Student Clinic (Medical),Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,Visits,Visits - Student Clinic (Medical),0.95,2 decimal places,0.95
+Schools - Allied Medical Training/Nursing/Mid-Level // Visits - Student Clinic (Behavioral),Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,Visits,Visits - Student Clinic (Behavioral),1.25,2 decimal places,1.25
+Schools - Allied Medical Training/Nursing/Mid-Level // Students - Low Acuity,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,Student,Students - Low Acuity,5.0,0 decimal places,5
+Schools - Allied Medical Training/Nursing/Mid-Level // Students - Medium Acuity,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,Student,Students - Medium Acuity,10.0,0 decimal places,10
+Schools - Allied Medical Training/Nursing/Mid-Level // Students - High Acuity,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,Student,Students - High Acuity,15.0,0 decimal places,15
+Schools - Beauty // Receipts,Misc Med,Schools - Beauty,Receipts,Receipts,0.002,4 decimal places,0.002
+Schools - Beauty // Students,Misc Med,Schools - Beauty,Student,Students,10.0,0 decimal places,10
+Schools - Physicians/Dentists // Receipts - School,Misc Med,Schools - Physicians/Dentists,Receipts,Receipts - School,0.003,4 decimal places,0.003
+Schools - Physicians/Dentists // Receipts - Student Clinic,Misc Med,Schools - Physicians/Dentists,Receipts,Receipts - Student Clinic,0.0025,4 decimal places,0.0025
+Schools - Physicians/Dentists // Visits - Student Clinic (Medical),Misc Med,Schools - Physicians/Dentists,Visits,Visits - Student Clinic (Medical),0.95,2 decimal places,0.95
+Schools - Physicians/Dentists // Visits - Student Clinic (Behavioral),Misc Med,Schools - Physicians/Dentists,Visits,Visits - Student Clinic (Behavioral),1.25,2 decimal places,1.25
+Schools - Physicians/Dentists // Students - Low Acuity,Misc Med,Schools - Physicians/Dentists,Student,Students - Low Acuity,50.0,0 decimal places,50
+Schools - Physicians/Dentists // Students - Medium Acuity,Misc Med,Schools - Physicians/Dentists,Student,Students - Medium Acuity,100.0,0 decimal places,100
+Schools - Physicians/Dentists // Students - High Acuity,Misc Med,Schools - Physicians/Dentists,Student,Students - High Acuity,150.0,0 decimal places,150
+Social Services Agency - All Other // Receipts,Misc Med,Social Services Agency - All Other,Receipts,Receipts,0.0035,4 decimal places,0.0035
+Social Services Agency - All Other // Beds - Temporary Housing,Misc Med,Social Services Agency - All Other,Beds,Beds - Temporary Housing,1000.0,Number with comma separator,"1,000"
+Social Services Agency - All Other // Visits - Low Acuity,Misc Med,Social Services Agency - All Other,Visits,Visits - Low Acuity,0.45,2 decimal places,0.45
+Social Services Agency - All Other // Visits - High Acuity ,Misc Med,Social Services Agency - All Other,Visits,Visits - High Acuity ,0.75,2 decimal places,0.75
+Social Services Agency - All Other // Visits - Counseling Only,Misc Med,Social Services Agency - All Other,Visits,Visits - Counseling Only,0.65,2 decimal places,0.65
+Social Services Agency - All Other // Social Workers/Counselors,Misc Med,Social Services Agency - All Other,People,Social Workers/Counselors,350.0,Number with comma separator,350
+Social Services Agency - All Other // Case Management/Case Worker,Misc Med,Social Services Agency - All Other,People,Case Management/Case Worker,250.0,Number with comma separator,250
+Social Services Agency - Foster/Adoption // Receipts,Misc Med,Social Services Agency - Foster/Adoption,Receipts,Receipts,0.0075,4 decimal places,0.0075
+Social Services Agency - Foster/Adoption // Foster Placements,Misc Med,Social Services Agency - Foster/Adoption,Placements,Foster Placements,450.0,Number with comma separator,450
+Social Services Agency - Foster/Adoption // Adoptions,Misc Med,Social Services Agency - Foster/Adoption,Placements,Adoptions,250.0,Number with comma separator,250
+Social Services Agency - Foster/Adoption // Beds - Behavioral,Misc Med,Social Services Agency - Foster/Adoption,Beds,Beds - Behavioral,2000.0,Number with comma separator,"2,000"
+Social Services Agency - Foster/Adoption // Beds - Group/Transitional Homes,Misc Med,Social Services Agency - Foster/Adoption,Beds,Beds - Group/Transitional Homes,1000.0,Number with comma separator,"1,000"
+Social Services Agency - Foster/Adoption // Visits - Low Acuity,Misc Med,Social Services Agency - Foster/Adoption,Visits,Visits - Low Acuity,0.45,2 decimal places,0.45
+Social Services Agency - Foster/Adoption // Visits - High Acuity,Misc Med,Social Services Agency - Foster/Adoption,Visits,Visits - High Acuity,0.75,2 decimal places,0.75
+Social Services Agency - Foster/Adoption // Visits - Counseling Only,Misc Med,Social Services Agency - Foster/Adoption,Visits,Visits - Counseling Only,0.65,2 decimal places,0.65
+Social Services Agency - Foster/Adoption // Social Workers/Counselors,Misc Med,Social Services Agency - Foster/Adoption,People,Social Workers/Counselors,350.0,Number with comma separator,350
+Social Services Agency - Foster/Adoption // Case Management/Case Worker,Misc Med,Social Services Agency - Foster/Adoption,People,Case Management/Case Worker,250.0,Number with comma separator,250
+Stem Cells // Receipts,Misc Med,Stem Cells,Receipts,Receipts,0.005,4 decimal places,0.005
+Stem Cells // Procedure - Autologous Only,Misc Med,Stem Cells,Procedures,Procedure - Autologous Only,6.0,0 decimal places,6
+Stem Cells // Collection - Research,Misc Med,Stem Cells,Banking,Collection - Research,3.0,0 decimal places,3
+Stem Cells // Collection/Banking - Autologous Only,Misc Med,Stem Cells,Banking,Collection/Banking - Autologous Only,2.0,0 decimal places,2
+Surgery Center // Receipts,Misc Med,Surgery Center,Receipts,Receipts,0.012,4 decimal places,0.012
+Surgery Center // Bariatric,Misc Med,Surgery Center,Procedures,Bariatric,150.0,0 decimal places,150
+Surgery Center // Cosmetics - Low Acuity,Misc Med,Surgery Center,Procedures,Cosmetics - Low Acuity,30.0,0 decimal places,30
+Surgery Center // ENT,Misc Med,Surgery Center,Procedures,ENT,21.0,0 decimal places,21
+Surgery Center // General,Misc Med,Surgery Center,Procedures,General,18.0,0 decimal places,18
+Surgery Center // Gastrointestinal/Colonoscopy,Misc Med,Surgery Center,Procedures,Gastrointestinal/Colonoscopy,12.0,0 decimal places,12
+Surgery Center // Gynecology,Misc Med,Surgery Center,Procedures,Gynecology,18.0,0 decimal places,18
+Surgery Center // Ophthalmology,Misc Med,Surgery Center,Procedures,Ophthalmology,9.0,0 decimal places,9
+Surgery Center // Oral/Maxi,Misc Med,Surgery Center,Procedures,Oral/Maxi,9.0,0 decimal places,9
+Surgery Center // Orthopedic,Misc Med,Surgery Center,Procedures,Orthopedic,45.0,0 decimal places,45
+Surgery Center // Otolaryngology,Misc Med,Surgery Center,Procedures,Otolaryngology,18.0,0 decimal places,18
+Surgery Center // Pain Management,Misc Med,Surgery Center,Procedures,Pain Management,15.0,0 decimal places,15
+Surgery Center // Plastics,Misc Med,Surgery Center,Procedures,Plastics,120.0,0 decimal places,120
+Surgery Center // Podiatry,Misc Med,Surgery Center,Procedures,Podiatry,18.0,0 decimal places,18
+Surgery Center // Spine/Neurology,Misc Med,Surgery Center,Procedures,Spine/Neurology,225.0,0 decimal places,225
+Surgery Center // Urology,Misc Med,Surgery Center,Procedures,Urology,18.0,0 decimal places,18
+Surgery Center // Imaging - CT Scans,Misc Med,Surgery Center,Procedures,Imaging - CT Scans,2.0,2 decimal places,2
+Surgery Center // Imaging - MRIs,Misc Med,Surgery Center,Procedures,Imaging - MRIs,1.5,2 decimal places,1.5
+Surgery Center // Imaging - Ultrasounds,Misc Med,Surgery Center,Procedures,Imaging - Ultrasounds,1.0,2 decimal places,1
+Surgery Center // Mid-Level Providers NP/PA,Misc Med,Surgery Center,People,Mid-Level Providers NP/PA,1050.0,Number with comma separator,"1,050"
+Surgery Center // Nurses,Misc Med,Surgery Center,People,Nurses,450.0,Number with comma separator,450
+Surgery Center // Medical Assistants/Technicians,Misc Med,Surgery Center,People,Medical Assistants/Technicians,175.0,Number with comma separator,175
+Teleneurology // Receipts,Virtual Care,Teleneurology,Receipts,Receipts,0.009,4 decimal places,0.009
+Teleneurology // Reads - High Acuity,Virtual Care,Teleneurology,Reads,Reads - High Acuity,1.4,2 decimal places,1.4
+Teleneurology // Doctors,Virtual Care,Teleneurology,Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Teleneurology // Neurologists,Virtual Care,Teleneurology,Doctors,Neurologists,15000.0,Number with comma separator,"15,000"
+Teleneurology // Mid-Level Providers NP/PA,Virtual Care,Teleneurology,People,Mid-Level Providers NP/PA,1000.0,Number with comma separator,"1,000"
+Teleneurology // Pharmacists,Virtual Care,Teleneurology,People,Pharmacists,750.0,Number with comma separator,750
+Teleneurology // Nurses,Virtual Care,Teleneurology,People,Nurses,450.0,Number with comma separator,450
+Teleradiology // Receipts,Virtual Care,Teleradiology,Receipts,Receipts,0.009,4 decimal places,0.009
+Teleradiology // Reads - Wet/First,Virtual Care,Teleradiology,Reads,Reads - Wet/First,1.05,2 decimal places,1.05
+Teleradiology // Reads - Blend,Virtual Care,Teleradiology,Reads,Reads - Blend,1.2,2 decimal places,1.2
+Teleradiology // Reads - Final,Virtual Care,Teleradiology,Reads,Reads - Final,1.4,2 decimal places,1.4
+Teleradiology // Doctors,Virtual Care,Teleradiology,Doctors,Doctors,10000.0,Number with comma separator,"10,000"
+Live Video // Receipts - High Acuity,Virtual Care,Live Video,Receipts,Receipts - High Acuity,0.006,4 decimal places,0.006
+Live Video // Receipts - Average Acuity,Virtual Care,Live Video,Receipts,Receipts - Average Acuity,0.003,4 decimal places,0.003
+Live Video // Receipts - Low Acuity,Virtual Care,Live Video,Receipts,Receipts - Low Acuity,0.0015,4 decimal places,0.0015
+Live Video // Visits - High Acuity,Virtual Care,Live Video,Visits,Visits - High Acuity,2.5,2 decimal places,2.5
+Live Video // Visits - Average Acuity,Virtual Care,Live Video,Visits,Visits - Average Acuity,1.0,2 decimal places,1
+Live Video // Visits - Low Acuity,Virtual Care,Live Video,Visits,Visits - Low Acuity,0.5,2 decimal places,0.5
+Live Video // Doctors,Virtual Care,Live Video,Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Live Video // Midwife,Virtual Care,Live Video,People,Midwife,1750.0,Number with comma separator,"1,750"
+Live Video // Psychiatrists,Virtual Care,Live Video,Doctors,Psychiatrists,1250.0,Number with comma separator,"1,250"
+Live Video // Doctors - Lifestyle/Wellness,Virtual Care,Live Video,Doctors,Doctors - Lifestyle/Wellness,1250.0,Number with comma separator,"1,250"
+Live Video // Mid-Level Providers NP/PA,Virtual Care,Live Video,People,Mid-Level Providers NP/PA,1000.0,Number with comma separator,"1,000"
+Live Video // Doula,Virtual Care,Live Video,People,Doula,900.0,Number with comma separator,900
+Live Video // Dentists,Virtual Care,Live Video,Dentists,Dentists,750.0,Number with comma separator,750
+Live Video // Psychologists,Virtual Care,Live Video,People,Psychologists,500.0,Number with comma separator,500
+Live Video // Pharmacists,Virtual Care,Live Video,People,Pharmacists,450.0,Number with comma separator,450
+Live Video // Nurses,Virtual Care,Live Video,People,Nurses,375.0,Number with comma separator,375
+Live Video // OT/ST/PT,Virtual Care,Live Video,People,OT/ST/PT,350.0,Number with comma separator,350
+Live Video // Social Workers/Mental Health Counselors,Virtual Care,Live Video,People,Social Workers/Mental Health Counselors,150.0,Number with comma separator,150
+Live Video // Nutritionists/Dieticians,Virtual Care,Live Video,People,Nutritionists/Dieticians,100.0,Number with comma separator,100
+Store & Forward // Receipts - Low Acuity,Virtual Care,Store & Forward,Receipts,Receipts - Low Acuity,0.0025,4 decimal places,0.0025
+Store & Forward // Receipts - Average Acuity,Virtual Care,Store & Forward,Receipts,Receipts - Average Acuity,0.0045,4 decimal places,0.0045
+Store & Forward // Receipts - High Acuity,Virtual Care,Store & Forward,Receipts,Receipts - High Acuity,0.009,4 decimal places,0.009
+Store & Forward // Reads - Low Acuity,Virtual Care,Store & Forward,Reads,Reads - Low Acuity,1.0,2 decimal places,1
+Store & Forward // Reads - Average Acuity,Virtual Care,Store & Forward,Reads,Reads - Average Acuity,1.2,2 decimal places,1.2
+Store & Forward // Reads - High Acuity,Virtual Care,Store & Forward,Reads,Reads - High Acuity,1.4,2 decimal places,1.4
+Store & Forward // Doctors,Virtual Care,Store & Forward,Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Store & Forward // Radiologists,Virtual Care,Store & Forward,Doctors,Radiologists,10000.0,Number with comma separator,"10,000"
+Store & Forward // Dentists,Virtual Care,Store & Forward,Dentists,Dentists,750.0,Number with comma separator,750
+Store & Forward // Neurologists,Virtual Care,Store & Forward,Doctors,Neurologists,15000.0,Number with comma separator,"15,000"
+Store & Forward // Cardiologists,Virtual Care,Store & Forward,Doctors,Cardiologists,10000.0,Number with comma separator,"10,000"
+Store & Forward // Mid-Level Providers NP/PA,Virtual Care,Store & Forward,People,Mid-Level Providers NP/PA,1000.0,Number with comma separator,"1,000"
+Store & Forward // Pharmacists,Virtual Care,Store & Forward,People,Pharmacists,750.0,Number with comma separator,750
+Store & Forward // Nurses,Virtual Care,Store & Forward,People,Nurses,450.0,Number with comma separator,450
+Day Care // Receipts,Misc Med,Day Care,Receipts,Receipts,0.0035,4 decimal places,0.0035
+Day Care // Average Occupancy - Developmentally Disabled,Misc Med,Day Care,Clients,Average Occupancy - Developmentally Disabled,250.0,Number with comma separator,250
+Day Care // Average Occupancy - Child,Misc Med,Day Care,Clients,Average Occupancy - Child,200.0,Number with comma separator,200
+Day Care // Average Occupancy - Elderly,Misc Med,Day Care,Clients,Average Occupancy - Elderly,175.0,Number with comma separator,175
+Day Care // Doctors,Misc Med,Day Care,Doctors,Doctors,2500.0,Number with comma separator,"2,500"
+Day Care // Nurses,Misc Med,Day Care,People,Nurses,450.0,Number with comma separator,450
+Day Care // HHA/Companions,Misc Med,Day Care,People,HHA/Companions,150.0,Number with comma separator,150
+Clinic - Physical Therapy // Receipts,Misc Med,Clinic - Physical Therapy,Receipts,Receipts,0.0035,4 decimal places,0.0035
+Clinic - Physical Therapy // Visits - Physical Therapy,Misc Med,Clinic - Physical Therapy,Visits,Visits - Physical Therapy,0.2,2 decimal places,0.2
+Clinic - Physical Therapy // Doctors,Misc Med,Clinic - Physical Therapy,Doctors,Doctors,2500.0,Number with comma separator,"2,500"
+Clinic - Physical Therapy // Chiropractors,Misc Med,Clinic - Physical Therapy,People,Chiropractors,1350.0,Number with comma separator,"1,350"
+Clinic - Physical Therapy // Nurses,Misc Med,Clinic - Physical Therapy,People,Nurses,450.0,Number with comma separator,450
+Clinic - Physical Therapy // Physical Therapists,Misc Med,Clinic - Physical Therapy,People,Physical Therapists,250.0,Number with comma separator,250
+Clinic - Physical Therapy // Athletic Trainers,Misc Med,Clinic - Physical Therapy,People,Athletic Trainers,200.0,Number with comma separator,200
+Clinic - Physical Therapy // Physical Therapist Assistants,Misc Med,Clinic - Physical Therapy,People,Physical Therapist Assistants,150.0,Number with comma separator,150
+Clinic - ABA/Occupational/Speech Therapy // Receipts,Misc Med,Clinic - ABA/Occupational/Speech Therapy,Receipts,Receipts,0.0025,4 decimal places,0.0025
+Clinic - ABA/Occupational/Speech Therapy // Visits – Speech Therapy,Misc Med,Clinic - ABA/Occupational/Speech Therapy,Visits,Visits – Speech Therapy,0.25,2 decimal places,0.25
+Clinic - ABA/Occupational/Speech Therapy // Visits – Occupational Therapy,Misc Med,Clinic - ABA/Occupational/Speech Therapy,Visits,Visits – Occupational Therapy,0.15,2 decimal places,0.15
+Clinic - ABA/Occupational/Speech Therapy // Visits – ABA,Misc Med,Clinic - ABA/Occupational/Speech Therapy,Visits,Visits – ABA,0.15,2 decimal places,0.15
+Clinic - ABA/Occupational/Speech Therapy // Occupational Therapists,Misc Med,Clinic - ABA/Occupational/Speech Therapy,People,Occupational Therapists,200.0,Number with comma separator,200
+Clinic - ABA/Occupational/Speech Therapy // ABA Technicians/ Therapists,Misc Med,Clinic - ABA/Occupational/Speech Therapy,People,ABA Technicians/ Therapists,200.0,Number with comma separator,200
+Clinic - ABA/Occupational/Speech Therapy // Speech Therapists/Audiologists,Misc Med,Clinic - ABA/Occupational/Speech Therapy,People,Speech Therapists/Audiologists,200.0,Number with comma separator,200
+Clinic - ABA/Occupational/Speech Therapy // Occupational Therapist Assistants,Misc Med,Clinic - ABA/Occupational/Speech Therapy,People,Occupational Therapist Assistants,125.0,Number with comma separator,125
+Post Mortem Services // Receipts,Misc Med,Post Mortem Services,Receipts,Receipts,0.005,4 decimal places,0.005
+Post Mortem Services // Units - Bodies,Misc Med,Post Mortem Services,Units,Units - Bodies,10.0,Number with comma separator,10
+Post Mortem Services // Mortician/Funeral Director/Courier,Misc Med,Post Mortem Services,People,Mortician/Funeral Director/Courier,5000.0,Number with comma separator,"5,000"
+Post Mortem Services // Coroner/Medical Examiner,Misc Med,Post Mortem Services,People,Coroner/Medical Examiner,1250.0,Number with comma separator,"1,250"
+Wilderness/Recreational Therapy // Receipts,Misc Med,Wilderness/Recreational Therapy,Receipts,Receipts,0.005,4 decimal places,0.005
+Wilderness/Recreational Therapy // Participants - Overnight,Misc Med,Wilderness/Recreational Therapy,Clients,Participants - Overnight,1000.0,Number with comma separator,"1,000"
+Wilderness/Recreational Therapy // Participants - Day Camp,Misc Med,Wilderness/Recreational Therapy,Clients,Participants - Day Camp,500.0,Number with comma separator,500
+Wilderness/Recreational Therapy // Doctors,Misc Med,Wilderness/Recreational Therapy,People,Doctors,1500.0,Number with comma separator,"1,500"
+Wilderness/Recreational Therapy // Guides,Misc Med,Wilderness/Recreational Therapy,People,Guides,500.0,Number with comma separator,500
+Wilderness/Recreational Therapy // Nurses,Misc Med,Wilderness/Recreational Therapy,People,Nurses,450.0,Number with comma separator,450
+Wilderness/Recreational Therapy // Nutritionist,Misc Med,Wilderness/Recreational Therapy,People,Nutritionist,150.0,Number with comma separator,150
+Remote Patient Monitoring // Receipts - Low Acuity,Virtual Care,Remote Patient Monitoring,Receipts,Receipts - Low Acuity,0.0015,4 decimal places,0.0015
+Remote Patient Monitoring // Receipts - Average Acuity,Virtual Care,Remote Patient Monitoring,Receipts,Receipts - Average Acuity,0.003,4 decimal places,0.003
+Remote Patient Monitoring // Receipts - High Acuity,Virtual Care,Remote Patient Monitoring,Receipts,Receipts - High Acuity,0.006,4 decimal places,0.006
+Remote Patient Monitoring // Visits - Preventative,Virtual Care,Remote Patient Monitoring,Visits,Visits - Preventative,0.5,2 decimal places,0.5
+Remote Patient Monitoring // Visits - Urgent,Virtual Care,Remote Patient Monitoring,Visits,Visits - Urgent,1.05,2 decimal places,1.05
+Remote Patient Monitoring // Visits - Emergency,Virtual Care,Remote Patient Monitoring,Visits,Visits - Emergency,3.0,2 decimal places,3
+Remote Patient Monitoring // Doctors,Virtual Care,Remote Patient Monitoring,Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Remote Patient Monitoring // Dentists,Virtual Care,Remote Patient Monitoring,Dentists,Dentists,750.0,Number with comma separator,750
+Remote Patient Monitoring // Mid-Level Providers NP/PA,Virtual Care,Remote Patient Monitoring,People,Mid-Level Providers NP/PA,1000.0,Number with comma separator,"1,000"
+Remote Patient Monitoring // Pharmacists,Virtual Care,Remote Patient Monitoring,People,Pharmacists,750.0,Number with comma separator,750
+Remote Patient Monitoring // Nurses,Virtual Care,Remote Patient Monitoring,People,Nurses,450.0,Number with comma separator,450
+Mobile Health (mHealth) // Receipts - Low Acuity,Virtual Care,Mobile Health (mHealth),Receipts,Receipts - Low Acuity,0.0015,4 decimal places,0.0015
+Mobile Health (mHealth) // Receipts - Average Acuity,Virtual Care,Mobile Health (mHealth),Receipts,Receipts - Average Acuity,0.003,4 decimal places,0.003
+Mobile Health (mHealth) // Receipts - High Acuity,Virtual Care,Mobile Health (mHealth),Receipts,Receipts - High Acuity,0.006,4 decimal places,0.006
+Mobile Health (mHealth) // Visits - Preventative,Virtual Care,Mobile Health (mHealth),Visits,Visits - Preventative,0.5,2 decimal places,0.5
+Mobile Health (mHealth) // Visits - Urgent,Virtual Care,Mobile Health (mHealth),Visits,Visits - Urgent,1.05,2 decimal places,1.05
+Mobile Health (mHealth) // Visits - Emergency,Virtual Care,Mobile Health (mHealth),Visits,Visits - Emergency,3.0,2 decimal places,3
+Mobile Health (mHealth) // Doctors,Virtual Care,Mobile Health (mHealth),Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Mobile Health (mHealth) // Dentists,Virtual Care,Mobile Health (mHealth),Dentists,Dentists,750.0,Number with comma separator,750
+Mobile Health (mHealth) // Mid-Level Providers NP/PA,Virtual Care,Mobile Health (mHealth),People,Mid-Level Providers NP/PA,1000.0,Number with comma separator,"1,000"
+Mobile Health (mHealth) // Pharmacists,Virtual Care,Mobile Health (mHealth),People,Pharmacists,750.0,Number with comma separator,750
+Mobile Health (mHealth) // Nurses,Virtual Care,Mobile Health (mHealth),People,Nurses,450.0,Number with comma separator,450
+Technology Companies/Platform Hosts // Receipts - Low Acuity,Virtual Care,Technology Companies/Platform Hosts,Receipts,Receipts - Low Acuity,0.0015,4 decimal places,0.0015
+Technology Companies/Platform Hosts // Receipts - Average Acuity,Virtual Care,Technology Companies/Platform Hosts,Receipts,Receipts - Average Acuity,0.003,4 decimal places,0.003
+Technology Companies/Platform Hosts // Receipts - High Acuity,Virtual Care,Technology Companies/Platform Hosts,Receipts,Receipts - High Acuity,0.006,4 decimal places,0.006
+Technology Companies/Platform Hosts // Visits - Preventative,Virtual Care,Technology Companies/Platform Hosts,Visits,Visits - Preventative,0.5,2 decimal places,0.5
+Technology Companies/Platform Hosts // Visits - Urgent,Virtual Care,Technology Companies/Platform Hosts,Visits,Visits - Urgent,1.05,2 decimal places,1.05
+Technology Companies/Platform Hosts // Visits - Emergency,Virtual Care,Technology Companies/Platform Hosts,Visits,Visits - Emergency,3.0,2 decimal places,3
+Technology Companies/Platform Hosts // Doctors,Virtual Care,Technology Companies/Platform Hosts,Doctors,Doctors,1500.0,Number with comma separator,"1,500"
+Technology Companies/Platform Hosts // Dentists,Virtual Care,Technology Companies/Platform Hosts,Dentists,Dentists,750.0,Number with comma separator,750
+Technology Companies/Platform Hosts // Mid-Level Providers NP/PA,Virtual Care,Technology Companies/Platform Hosts,People,Mid-Level Providers NP/PA,1000.0,Number with comma separator,"1,000"
+Technology Companies/Platform Hosts // Pharmacists,Virtual Care,Technology Companies/Platform Hosts,People,Pharmacists,750.0,Number with comma separator,750
+Technology Companies/Platform Hosts // Nurses,Virtual Care,Technology Companies/Platform Hosts,People,Nurses,450.0,Number with comma separator,450

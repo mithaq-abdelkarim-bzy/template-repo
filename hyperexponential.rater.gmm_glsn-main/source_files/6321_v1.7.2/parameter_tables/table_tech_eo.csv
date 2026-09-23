@@ -1,0 +1,13 @@
+industry_class_label,industry_class_name,class_group
+Reseller / Distributor,reseller_distributor,1
+Training / Education,training_education,1
+Prepackaged Software Products / Services,prepackaged_software_products_services,1
+"Live Video, Mobile Health, Store & Forward",live_video_mobile_health_store_forward,1
+Teleneurology & /or Teleradiology,teleneurology_or_teleradiology,2
+Technology Companies / Platform Hosts,technology_companies_platform_hosts,2
+Software / Hardware – Management Systems (non medical),software_hardware_management_systems_non_medical,2
+Custom Software Development,custom_software_development,2
+Internet-Based Services / Products,internet_based_services_products,2
+Other,other,2
+Custom Hardware Development,custom_hardware_development,3
+Software / Hardware-Medical Management,software_hardware_medical_management,4

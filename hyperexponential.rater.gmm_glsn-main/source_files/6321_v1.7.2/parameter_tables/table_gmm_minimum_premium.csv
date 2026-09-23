@@ -1,0 +1,137 @@
+product,cob_class,cob_code,us_international,minimum_premium
+Misc Med,Day Care,HO,US,25000.0
+Misc Med,Alternative/Holistic Medicine,HO,US,25000.0
+Misc Med,Ambulance  - Ground,HV,US,25000.0
+Misc Med,Ambulance - Air,HV,US,50000.0
+Misc Med,Banking - Blood/Cord Blood/Sperm,HB,US,25000.0
+Misc Med,Banking - Organ/Tissue,HB,US,25000.0
+Misc Med,Case Management,HO,US,25000.0
+Misc Med,Clinic - Abortion,HO,US,25000.0
+Misc Med,Clinic - AIDS/Community/FTCA,HO,US,25000.0
+Misc Med,Clinic - Dental,HO,US,25000.0
+Misc Med,Clinic - Eye Care,HO,US,25000.0
+Misc Med,Clinic - Fertility,HO,US,25000.0
+Misc Med,Clinic - Medical Inpatient (ROW Only),HH,US,1.0
+Misc Med,Clinic - Pain Management,HO,US,25000.0
+Misc Med,Clinic - Physical Therapy,HU,US,25000.0
+Misc Med,Clinic - ABA/Occupational/Speech Therapy,HU,US,25000.0
+Misc Med,Clinic - Radiation/Oncology,HO,US,25000.0
+Misc Med,Clinic - Sleep,HO,US,25000.0
+Misc Med,Clinic - Urgent Care/Minute/Retail,HO,US,25000.0
+Misc Med,Clinic - Veterinary,HO,US,25000.0
+Misc Med,Clinic - Weight Loss,HW,US,15000.0
+Virtual Care,Clinical Trials (Secondary Class only),AH,US,1.0
+Misc Med,Consultants,HO,US,25000.0
+Misc Med,Correctional Healthcare,HK,US,150000.0
+Misc Med,Dialysis Centers,HO,US,25000.0
+Triage,Duty to Defend Hospitals,HH,US,25000.0
+Misc Med,Gyms/Fitness Center,HW,US,15000.0
+Misc Med,Healthcare Staffing,HS,US,25000.0
+Misc Med,Home Healthcare,HE,US,25000.0
+Misc Med,Hospice Care,HE,US,25000.0
+Misc Med,Hospital - LTAC/TBI,HH,US,50000.0
+Misc Med,Humanitarian Relief Organizations,HO,US,25000.0
+Misc Med,Imaging & X-Ray,HT,US,25000.0
+Misc Med,Inpatient - Alcohol & Drug Rehabilitation,NJ,US,50000.0
+Misc Med,Inpatient - Mental Health/Psychiatric,YW,US,50000.0
+Misc Med,Inpatient - Troubled Youth,YW,US,50000.0
+Misc Med,Laboratories,HT,US,25000.0
+Virtual Care,Live Video,AH,US,10000.0
+Misc Med,Locum Tenens/Physician Staffing,HP,US,25000.0
+Misc Med,Long-term Care,HL,US,1.0
+Misc Med,Medi Spas,HW,US,15000.0
+Misc Med,Medical Cannabis,HZ,US,25000.0
+Misc Med,Military Medicine,HO,US,25000.0
+Virtual Care,Mobile Health (mHealth),AH,US,10000.0
+Misc Med,Occupational Healthcare,HO,US,25000.0
+Misc Med,Outpatient - Alcohol & Drug Rehabilitation,NJ,US,25000.0
+Misc Med,Outpatient - Mental Health,NJ,US,25000.0
+Misc Med,Outpatient - Troubled Youth,NJ,US,25000.0
+Misc Med,Pharmacy/Infusion Services,HY,US,25000.0
+Misc Med,Post Mortem Services,HO,US,25000.0
+Misc Med,Product Sales/Manufacturers Representative,HO,US,25000.0
+Misc Med,Prosthetics/Orthotics/Hearing Aids,HO,US,25000.0
+Virtual Care,Remote Patient Monitoring,AH,US,10000.0
+Misc Med,Research Foundations & Associations,HO,US,25000.0
+Misc Med,Residential - Developmentally Disabled/Group Home,YW,US,50000.0
+Misc Med,Residential - Shelters/Halfway House/Transitional Housing,DA,US,25000.0
+Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,HO,US,25000.0
+Misc Med,Schools - Beauty,HW,US,15000.0
+Misc Med,Schools - Physicians/Dentists,HO,US,25000.0
+Misc Med,Social Services Agency - All Other,DA,US,25000.0
+Misc Med,Social Services Agency - Foster/Adoption,DA,US,25000.0
+Misc Med,Stem Cells,HB,US,50000.0
+Virtual Care,Store & Forward,AH,US,10000.0
+Misc Med,Surgery Center,HO,US,50000.0
+Virtual Care,Technology Companies/Platform Hosts,AH,US,10000.0
+Virtual Care,Teleneurology,AH,US,100000.0
+Virtual Care,Teleradiology,AH,US,100000.0
+Misc Med,Wilderness/Recreational Therapy,YW,US,25000.0
+Misc Med,Day Care,HO,International,11111.11111
+Misc Med,Alternative/Holistic Medicine,HO,International,11111.11111
+Misc Med,Ambulance  - Ground,HV,International,11111.11111
+Misc Med,Ambulance - Air,HV,International,27777.7777777778
+Misc Med,Banking - Blood/Cord Blood/Sperm,HB,International,11111.11111
+Misc Med,Banking - Organ/Tissue,HB,International,11111.11111
+Misc Med,Case Management,HO,International,11111.11111
+Misc Med,Clinic - Abortion,HO,International,11111.11111
+Misc Med,Clinic - AIDS/Community/FTCA,HO,International,11111.11111
+Misc Med,Clinic - Dental,HO,International,11111.11111
+Misc Med,Clinic - Eye Care,HO,International,11111.11111
+Misc Med,Clinic - Fertility,HO,International,11111.11111
+Misc Med,Clinic - Medical Inpatient (ROW Only),HH,International,27777.77778
+Misc Med,Clinic - Pain Management,HO,International,11111.11111
+Misc Med,Clinic - Physical Therapy,HU,International,11111.11111
+Misc Med,Clinic - ABA/Occupational/Speech Therapy,HU,International,11111.11111
+Misc Med,Clinic - Radiation/Oncology,HO,International,11111.11111
+Misc Med,Clinic - Sleep,HO,International,11111.11111
+Misc Med,Clinic - Urgent Care/Minute/Retail,HO,International,11111.11111
+Misc Med,Clinic - Veterinary,HO,International,11111.11111
+Misc Med,Clinic - Weight Loss,HW,International,11111.11111
+Virtual Care,Clinical Trials (Secondary Class only),AH,International,1.0
+Misc Med,Consultants,HO,International,11111.11111
+Misc Med,Correctional Healthcare,HK,International,166666.6667
+Misc Med,Dialysis Centers,HO,International,11111.11111
+Triage,Duty to Defend Hospitals,HH,International,11111.11111
+Misc Med,Gyms/Fitness Center,HW,International,11111.11111
+Misc Med,Healthcare Staffing,HS,International,11111.11111
+Misc Med,Home Healthcare,HE,International,11111.11111
+Misc Med,Hospice Care,HE,International,11111.11111
+Misc Med,Hospital - LTAC/TBI,HH,International,27777.7777777778
+Misc Med,Humanitarian Relief Organizations,HO,International,11111.11111
+Misc Med,Imaging & X-Ray,HT,International,11111.11111
+Misc Med,Inpatient - Alcohol & Drug Rehabilitation,NJ,International,27777.7777777778
+Misc Med,Inpatient - Mental Health/Psychiatric,YW,International,27777.7777777778
+Misc Med,Inpatient - Troubled Youth,YW,International,27777.7777777778
+Misc Med,Laboratories,HT,International,27777.7777777778
+Virtual Care,Live Video,AH,International,11111.11111
+Misc Med,Locum Tenens/Physician Staffing,HP,International,11111.11111
+Misc Med,Long-term Care,HL,International,27777.77778
+Misc Med,Medi Spas,HW,International,11111.11111
+Misc Med,Medical Cannabis,HZ,International,11111.11111
+Misc Med,Military Medicine,HO,International,11111.11111
+Virtual Care,Mobile Health (mHealth),AH,International,11111.11111
+Misc Med,Occupational Healthcare,HO,International,11111.11111
+Misc Med,Outpatient - Alcohol & Drug Rehabilitation,NJ,International,11111.11111
+Misc Med,Outpatient - Mental Health,NJ,International,11111.11111
+Misc Med,Outpatient - Troubled Youth,NJ,International,11111.11111
+Misc Med,Pharmacy/Infusion Services,HY,International,11111.11111
+Misc Med,Post Mortem Services,HO,International,11111.11111
+Misc Med,Product Sales/Manufacturers Representative,HO,International,11111.11111
+Misc Med,Prosthetics/Orthotics/Hearing Aids,HO,International,11111.11111
+Virtual Care,Remote Patient Monitoring,AH,International,11111.11111
+Misc Med,Research Foundations & Associations,HO,International,11111.11111
+Misc Med,Residential - Developmentally Disabled/Group Home,YW,International,27777.7777777778
+Misc Med,Residential - Shelters/Halfway House/Transitional Housing,DA,International,27777.7777777778
+Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,HO,International,11111.11111
+Misc Med,Schools - Beauty,HW,International,11111.11111
+Misc Med,Schools - Physicians/Dentists,HO,International,11111.11111
+Misc Med,Social Services Agency - All Other,DA,International,11111.11111
+Misc Med,Social Services Agency - Foster/Adoption,DA,International,11111.11111
+Misc Med,Stem Cells,HB,International,55555.5555555556
+Virtual Care,Store & Forward,AH,International,11111.11111
+Misc Med,Surgery Center,HO,International,27777.7777777778
+Virtual Care,Technology Companies/Platform Hosts,AH,International,11111.11111
+Virtual Care,Teleneurology,AH,International,100000.0
+Virtual Care,Teleradiology,AH,International,50000.0
+Misc Med,Wilderness/Recreational Therapy,YW,International,11111.11111

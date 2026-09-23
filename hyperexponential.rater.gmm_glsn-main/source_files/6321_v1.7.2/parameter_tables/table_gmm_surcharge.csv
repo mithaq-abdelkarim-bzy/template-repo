@@ -1,0 +1,1341 @@
+coverage_label,coverage_name,us_international,product,class,surcharge
+Professional Liability,professional_liability,US,Misc Med,Day Care,1.0
+General Liability,general_liability,US,Misc Med,Day Care,0.1
+Product Liability,product_liability,US,Misc Med,Day Care,0.01
+E&O,eo,US,Misc Med,Day Care,0.05
+Employers Liability,employers_liability,US,Misc Med,Day Care,0.05
+Stop Gap,stop_gap,US,Misc Med,Day Care,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Day Care,0.05
+TRIA,tria,US,Misc Med,Day Care,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Day Care,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Day Care,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Day Care,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Day Care,0.1
+Product Liability,product_liability,International,Misc Med,Day Care,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Day Care,0.05
+Employers Liability,employers_liability,International,Misc Med,Day Care,0.05
+Stop Gap,stop_gap,International,Misc Med,Day Care,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Day Care,0.05
+TRIA,tria,International,Misc Med,Day Care,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Day Care,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Day Care,0.1
+Professional Liability,professional_liability,US,Misc Med,Alternative/Holistic Medicine,1.0
+General Liability,general_liability,US,Misc Med,Alternative/Holistic Medicine,0.05
+Product Liability,product_liability,US,Misc Med,Alternative/Holistic Medicine,0.02
+E&O,eo,US,Misc Med,Alternative/Holistic Medicine,0.05
+Employers Liability,employers_liability,US,Misc Med,Alternative/Holistic Medicine,0.05
+Stop Gap,stop_gap,US,Misc Med,Alternative/Holistic Medicine,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Alternative/Holistic Medicine,0.05
+TRIA,tria,US,Misc Med,Alternative/Holistic Medicine,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Alternative/Holistic Medicine,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Alternative/Holistic Medicine,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Alternative/Holistic Medicine,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Alternative/Holistic Medicine,0.05
+Product Liability,product_liability,International,Misc Med,Alternative/Holistic Medicine,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Alternative/Holistic Medicine,0.05
+Employers Liability,employers_liability,International,Misc Med,Alternative/Holistic Medicine,0.05
+Stop Gap,stop_gap,International,Misc Med,Alternative/Holistic Medicine,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Alternative/Holistic Medicine,0.05
+TRIA,tria,International,Misc Med,Alternative/Holistic Medicine,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Alternative/Holistic Medicine,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Alternative/Holistic Medicine,0.1
+Professional Liability,professional_liability,US,Misc Med,Ambulance  - Ground,1.0
+General Liability,general_liability,US,Misc Med,Ambulance  - Ground,0.05
+Product Liability,product_liability,US,Misc Med,Ambulance  - Ground,0.01
+E&O,eo,US,Misc Med,Ambulance  - Ground,0.05
+Employers Liability,employers_liability,US,Misc Med,Ambulance  - Ground,0.05
+Stop Gap,stop_gap,US,Misc Med,Ambulance  - Ground,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Ambulance  - Ground,0.1
+TRIA,tria,US,Misc Med,Ambulance  - Ground,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Ambulance  - Ground,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Ambulance  - Ground,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Ambulance  - Ground,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Ambulance  - Ground,0.05
+Product Liability,product_liability,International,Misc Med,Ambulance  - Ground,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Ambulance  - Ground,0.05
+Employers Liability,employers_liability,International,Misc Med,Ambulance  - Ground,0.05
+Stop Gap,stop_gap,International,Misc Med,Ambulance  - Ground,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Ambulance  - Ground,0.1
+TRIA,tria,International,Misc Med,Ambulance  - Ground,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Ambulance  - Ground,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Ambulance  - Ground,0.1
+Professional Liability,professional_liability,US,Misc Med,Ambulance - Air,1.0
+General Liability,general_liability,US,Misc Med,Ambulance - Air,0.05
+Product Liability,product_liability,US,Misc Med,Ambulance - Air,0.01
+E&O,eo,US,Misc Med,Ambulance - Air,0.05
+Employers Liability,employers_liability,US,Misc Med,Ambulance - Air,0.05
+Stop Gap,stop_gap,US,Misc Med,Ambulance - Air,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Ambulance - Air,0.05
+TRIA,tria,US,Misc Med,Ambulance - Air,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Ambulance - Air,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Ambulance - Air,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Ambulance - Air,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Ambulance - Air,0.05
+Product Liability,product_liability,International,Misc Med,Ambulance - Air,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Ambulance - Air,0.05
+Employers Liability,employers_liability,International,Misc Med,Ambulance - Air,0.05
+Stop Gap,stop_gap,International,Misc Med,Ambulance - Air,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Ambulance - Air,0.05
+TRIA,tria,International,Misc Med,Ambulance - Air,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Ambulance - Air,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Ambulance - Air,0.1
+Professional Liability,professional_liability,US,Misc Med,Banking - Blood/Cord Blood/Sperm,1.0
+General Liability,general_liability,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.1
+Product Liability,product_liability,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+E&O,eo,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+Employers Liability,employers_liability,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+Stop Gap,stop_gap,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+TRIA,tria,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Banking - Blood/Cord Blood/Sperm,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Banking - Blood/Cord Blood/Sperm,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.1
+Product Liability,product_liability,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+E&O/Professional Indemnity,eo,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+Employers Liability,employers_liability,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+Stop Gap,stop_gap,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.05
+TRIA,tria,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Banking - Blood/Cord Blood/Sperm,0.1
+Professional Liability,professional_liability,US,Misc Med,Banking - Organ/Tissue,1.0
+General Liability,general_liability,US,Misc Med,Banking - Organ/Tissue,0.05
+Product Liability,product_liability,US,Misc Med,Banking - Organ/Tissue,0.1
+E&O,eo,US,Misc Med,Banking - Organ/Tissue,0.05
+Employers Liability,employers_liability,US,Misc Med,Banking - Organ/Tissue,0.05
+Stop Gap,stop_gap,US,Misc Med,Banking - Organ/Tissue,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Banking - Organ/Tissue,0.05
+TRIA,tria,US,Misc Med,Banking - Organ/Tissue,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Banking - Organ/Tissue,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Banking - Organ/Tissue,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Banking - Organ/Tissue,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Banking - Organ/Tissue,0.05
+Product Liability,product_liability,International,Misc Med,Banking - Organ/Tissue,0.1
+E&O/Professional Indemnity,eo,International,Misc Med,Banking - Organ/Tissue,0.05
+Employers Liability,employers_liability,International,Misc Med,Banking - Organ/Tissue,0.05
+Stop Gap,stop_gap,International,Misc Med,Banking - Organ/Tissue,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Banking - Organ/Tissue,0.05
+TRIA,tria,International,Misc Med,Banking - Organ/Tissue,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Banking - Organ/Tissue,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Banking - Organ/Tissue,0.1
+Professional Liability,professional_liability,US,Misc Med,Case Management,1.0
+General Liability,general_liability,US,Misc Med,Case Management,0.05
+Product Liability,product_liability,US,Misc Med,Case Management,0.01
+E&O,eo,US,Misc Med,Case Management,0.07
+Employers Liability,employers_liability,US,Misc Med,Case Management,0.05
+Stop Gap,stop_gap,US,Misc Med,Case Management,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Case Management,0.05
+TRIA,tria,US,Misc Med,Case Management,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Case Management,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Case Management,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Case Management,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Case Management,0.05
+Product Liability,product_liability,International,Misc Med,Case Management,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Case Management,0.07
+Employers Liability,employers_liability,International,Misc Med,Case Management,0.05
+Stop Gap,stop_gap,International,Misc Med,Case Management,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Case Management,0.05
+TRIA,tria,International,Misc Med,Case Management,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Case Management,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Case Management,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Abortion,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Abortion,0.1
+Product Liability,product_liability,US,Misc Med,Clinic - Abortion,0.01
+E&O,eo,US,Misc Med,Clinic - Abortion,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - Abortion,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Abortion,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Abortion,0.05
+TRIA,tria,US,Misc Med,Clinic - Abortion,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Abortion,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Abortion,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Abortion,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Abortion,0.1
+Product Liability,product_liability,International,Misc Med,Clinic - Abortion,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Abortion,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Abortion,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Abortion,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Abortion,0.05
+TRIA,tria,International,Misc Med,Clinic - Abortion,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Abortion,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Abortion,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - AIDS/Community/FTCA,1.0
+General Liability,general_liability,US,Misc Med,Clinic - AIDS/Community/FTCA,0.06
+Product Liability,product_liability,US,Misc Med,Clinic - AIDS/Community/FTCA,0.01
+E&O,eo,US,Misc Med,Clinic - AIDS/Community/FTCA,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - AIDS/Community/FTCA,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - AIDS/Community/FTCA,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - AIDS/Community/FTCA,0.05
+TRIA,tria,US,Misc Med,Clinic - AIDS/Community/FTCA,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - AIDS/Community/FTCA,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - AIDS/Community/FTCA,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - AIDS/Community/FTCA,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - AIDS/Community/FTCA,0.06
+Product Liability,product_liability,International,Misc Med,Clinic - AIDS/Community/FTCA,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - AIDS/Community/FTCA,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - AIDS/Community/FTCA,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - AIDS/Community/FTCA,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - AIDS/Community/FTCA,0.05
+TRIA,tria,International,Misc Med,Clinic - AIDS/Community/FTCA,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - AIDS/Community/FTCA,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - AIDS/Community/FTCA,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Dental,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Dental,0.06
+Product Liability,product_liability,US,Misc Med,Clinic - Dental,0.01
+E&O,eo,US,Misc Med,Clinic - Dental,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - Dental,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Dental,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Dental,0.05
+TRIA,tria,US,Misc Med,Clinic - Dental,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Dental,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Dental,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Dental,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Dental,0.06
+Product Liability,product_liability,International,Misc Med,Clinic - Dental,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Dental,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Dental,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Dental,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Dental,0.05
+TRIA,tria,International,Misc Med,Clinic - Dental,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Dental,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Dental,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Eye Care,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Eye Care,0.05
+Product Liability,product_liability,US,Misc Med,Clinic - Eye Care,0.02
+E&O,eo,US,Misc Med,Clinic - Eye Care,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - Eye Care,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Eye Care,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Eye Care,0.05
+TRIA,tria,US,Misc Med,Clinic - Eye Care,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Eye Care,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Eye Care,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Eye Care,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Eye Care,0.05
+Product Liability,product_liability,International,Misc Med,Clinic - Eye Care,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Eye Care,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Eye Care,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Eye Care,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Eye Care,0.05
+TRIA,tria,International,Misc Med,Clinic - Eye Care,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Eye Care,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Eye Care,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Fertility,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Fertility,0.05
+Product Liability,product_liability,US,Misc Med,Clinic - Fertility,0.01
+E&O,eo,US,Misc Med,Clinic - Fertility,0.1
+Employers Liability,employers_liability,US,Misc Med,Clinic - Fertility,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Fertility,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Fertility,0.1
+TRIA,tria,US,Misc Med,Clinic - Fertility,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Fertility,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Fertility,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Fertility,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Fertility,0.05
+Product Liability,product_liability,International,Misc Med,Clinic - Fertility,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Fertility,0.1
+Employers Liability,employers_liability,International,Misc Med,Clinic - Fertility,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Fertility,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Fertility,0.1
+TRIA,tria,International,Misc Med,Clinic - Fertility,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Fertility,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Fertility,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+General Liability,general_liability,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Product Liability,product_liability,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+E&O,eo,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Employers Liability,employers_liability,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Stop Gap,stop_gap,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+TRIA,tria,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Medical Inpatient (ROW Only),1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.06
+Product Liability,product_liability,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.05
+TRIA,tria,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Medical Inpatient (ROW Only),0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Pain Management,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Pain Management,0.06
+Product Liability,product_liability,US,Misc Med,Clinic - Pain Management,0.01
+E&O,eo,US,Misc Med,Clinic - Pain Management,0.05
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Pain Management,0.05
+TRIA,tria,US,Misc Med,Clinic - Pain Management,0.02
+Stop Gap,stop_gap,US,Misc Med,Clinic - Pain Management,0.01
+Employers Liability,employers_liability,US,Misc Med,Clinic - Pain Management,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Pain Management,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Pain Management,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Pain Management,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Pain Management,0.06
+Product Liability,product_liability,International,Misc Med,Clinic - Pain Management,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Pain Management,0.05
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Pain Management,0.05
+TRIA,tria,International,Misc Med,Clinic - Pain Management,0.0
+Stop Gap,stop_gap,International,Misc Med,Clinic - Pain Management,0.0
+Employers Liability,employers_liability,International,Misc Med,Clinic - Pain Management,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Pain Management,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Pain Management,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Physical Therapy,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Physical Therapy,0.07
+Product Liability,product_liability,US,Misc Med,Clinic - Physical Therapy,0.02
+E&O,eo,US,Misc Med,Clinic - Physical Therapy,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - Physical Therapy,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Physical Therapy,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Physical Therapy,0.1
+TRIA,tria,US,Misc Med,Clinic - Physical Therapy,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Physical Therapy,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Physical Therapy,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Physical Therapy,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Physical Therapy,0.07
+Product Liability,product_liability,International,Misc Med,Clinic - Physical Therapy,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Physical Therapy,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Physical Therapy,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Physical Therapy,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Physical Therapy,0.1
+TRIA,tria,International,Misc Med,Clinic - Physical Therapy,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Physical Therapy,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Physical Therapy,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,1.0
+General Liability,general_liability,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.07
+Product Liability,product_liability,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.02
+E&O,eo,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.1
+TRIA,tria,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.07
+Product Liability,product_liability,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.1
+TRIA,tria,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - ABA/Occupational/Speech Therapy,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Radiation/Oncology,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Radiation/Oncology,0.05
+Product Liability,product_liability,US,Misc Med,Clinic - Radiation/Oncology,0.02
+E&O,eo,US,Misc Med,Clinic - Radiation/Oncology,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - Radiation/Oncology,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Radiation/Oncology,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Radiation/Oncology,0.05
+TRIA,tria,US,Misc Med,Clinic - Radiation/Oncology,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Radiation/Oncology,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Radiation/Oncology,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Radiation/Oncology,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Radiation/Oncology,0.05
+Product Liability,product_liability,International,Misc Med,Clinic - Radiation/Oncology,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Radiation/Oncology,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Radiation/Oncology,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Radiation/Oncology,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Radiation/Oncology,0.05
+TRIA,tria,International,Misc Med,Clinic - Radiation/Oncology,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Radiation/Oncology,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Radiation/Oncology,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Sleep,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Sleep,0.07
+Product Liability,product_liability,US,Misc Med,Clinic - Sleep,0.02
+E&O,eo,US,Misc Med,Clinic - Sleep,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - Sleep,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Sleep,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Sleep,0.1
+TRIA,tria,US,Misc Med,Clinic - Sleep,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Sleep,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Sleep,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Sleep,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Sleep,0.07
+Product Liability,product_liability,International,Misc Med,Clinic - Sleep,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Sleep,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Sleep,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Sleep,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Sleep,0.1
+TRIA,tria,International,Misc Med,Clinic - Sleep,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Sleep,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Sleep,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Urgent Care/Minute/Retail,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.07
+Product Liability,product_liability,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.01
+E&O,eo,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.05
+Employers Liability,employers_liability,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.05
+Stop Gap,stop_gap,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.05
+TRIA,tria,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Urgent Care/Minute/Retail,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Urgent Care/Minute/Retail,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.07
+Product Liability,product_liability,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.05
+Employers Liability,employers_liability,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.05
+Stop Gap,stop_gap,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.05
+TRIA,tria,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Urgent Care/Minute/Retail,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Veterinary,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Veterinary,0.06
+Product Liability,product_liability,US,Misc Med,Clinic - Veterinary,0.01
+E&O,eo,US,Misc Med,Clinic - Veterinary,0.15
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Veterinary,0.05
+TRIA,tria,US,Misc Med,Clinic - Veterinary,0.02
+Stop Gap,stop_gap,US,Misc Med,Clinic - Veterinary,0.01
+Employers Liability,employers_liability,US,Misc Med,Clinic - Veterinary,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Veterinary,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Veterinary,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Veterinary,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Veterinary,0.06
+Product Liability,product_liability,International,Misc Med,Clinic - Veterinary,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Veterinary,0.15
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Veterinary,0.05
+TRIA,tria,International,Misc Med,Clinic - Veterinary,0.0
+Stop Gap,stop_gap,International,Misc Med,Clinic - Veterinary,0.0
+Employers Liability,employers_liability,International,Misc Med,Clinic - Veterinary,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Veterinary,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Veterinary,0.1
+Professional Liability,professional_liability,US,Misc Med,Clinic - Weight Loss,1.0
+General Liability,general_liability,US,Misc Med,Clinic - Weight Loss,0.06
+Product Liability,product_liability,US,Misc Med,Clinic - Weight Loss,0.05
+E&O,eo,US,Misc Med,Clinic - Weight Loss,0.05
+Sexual Abuse,sexual_abuse,US,Misc Med,Clinic - Weight Loss,0.05
+TRIA,tria,US,Misc Med,Clinic - Weight Loss,0.02
+Stop Gap,stop_gap,US,Misc Med,Clinic - Weight Loss,0.01
+Employers Liability,employers_liability,US,Misc Med,Clinic - Weight Loss,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Clinic - Weight Loss,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Clinic - Weight Loss,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Clinic - Weight Loss,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Clinic - Weight Loss,0.06
+Product Liability,product_liability,International,Misc Med,Clinic - Weight Loss,0.05
+E&O/Professional Indemnity,eo,International,Misc Med,Clinic - Weight Loss,0.05
+Sexual Abuse,sexual_abuse,International,Misc Med,Clinic - Weight Loss,0.05
+TRIA,tria,International,Misc Med,Clinic - Weight Loss,0.0
+Stop Gap,stop_gap,International,Misc Med,Clinic - Weight Loss,0.0
+Employers Liability,employers_liability,International,Misc Med,Clinic - Weight Loss,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Clinic - Weight Loss,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Clinic - Weight Loss,0.1
+Professional Liability,professional_liability,US,Misc Med,Consultants,1.0
+General Liability,general_liability,US,Misc Med,Consultants,0.05
+Product Liability,product_liability,US,Misc Med,Consultants,0.01
+E&O,eo,US,Misc Med,Consultants,0.2
+Employers Liability,employers_liability,US,Misc Med,Consultants,0.05
+Stop Gap,stop_gap,US,Misc Med,Consultants,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Consultants,0.05
+TRIA,tria,US,Misc Med,Consultants,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Consultants,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Consultants,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Consultants,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Consultants,0.05
+Product Liability,product_liability,International,Misc Med,Consultants,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Consultants,0.2
+Employers Liability,employers_liability,International,Misc Med,Consultants,0.05
+Stop Gap,stop_gap,International,Misc Med,Consultants,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Consultants,0.05
+TRIA,tria,International,Misc Med,Consultants,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Consultants,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Consultants,0.1
+Professional Liability,professional_liability,US,Misc Med,Correctional Healthcare,1.0
+General Liability,general_liability,US,Misc Med,Correctional Healthcare,0.1
+Product Liability,product_liability,US,Misc Med,Correctional Healthcare,0.01
+E&O,eo,US,Misc Med,Correctional Healthcare,0.07
+Employers Liability,employers_liability,US,Misc Med,Correctional Healthcare,0.05
+Stop Gap,stop_gap,US,Misc Med,Correctional Healthcare,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Correctional Healthcare,0.05
+TRIA,tria,US,Misc Med,Correctional Healthcare,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Correctional Healthcare,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Correctional Healthcare,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Correctional Healthcare,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Correctional Healthcare,0.1
+Product Liability,product_liability,International,Misc Med,Correctional Healthcare,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Correctional Healthcare,0.07
+Employers Liability,employers_liability,International,Misc Med,Correctional Healthcare,0.05
+Stop Gap,stop_gap,International,Misc Med,Correctional Healthcare,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Correctional Healthcare,0.05
+TRIA,tria,International,Misc Med,Correctional Healthcare,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Correctional Healthcare,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Correctional Healthcare,0.1
+Professional Liability,professional_liability,US,Misc Med,Dialysis Centers,1.0
+General Liability,general_liability,US,Misc Med,Dialysis Centers,0.07
+Product Liability,product_liability,US,Misc Med,Dialysis Centers,0.03
+E&O,eo,US,Misc Med,Dialysis Centers,0.05
+Employers Liability,employers_liability,US,Misc Med,Dialysis Centers,0.05
+Stop Gap,stop_gap,US,Misc Med,Dialysis Centers,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Dialysis Centers,0.05
+TRIA,tria,US,Misc Med,Dialysis Centers,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Dialysis Centers,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Dialysis Centers,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Dialysis Centers,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Dialysis Centers,0.07
+Product Liability,product_liability,International,Misc Med,Dialysis Centers,0.03
+E&O/Professional Indemnity,eo,International,Misc Med,Dialysis Centers,0.05
+Employers Liability,employers_liability,International,Misc Med,Dialysis Centers,0.05
+Stop Gap,stop_gap,International,Misc Med,Dialysis Centers,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Dialysis Centers,0.05
+TRIA,tria,International,Misc Med,Dialysis Centers,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Dialysis Centers,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Dialysis Centers,0.1
+Professional Liability,professional_liability,US,Misc Med,Gyms/Fitness Center,1.0
+General Liability,general_liability,US,Misc Med,Gyms/Fitness Center,0.12
+Product Liability,product_liability,US,Misc Med,Gyms/Fitness Center,0.02
+E&O,eo,US,Misc Med,Gyms/Fitness Center,0.05
+Employers Liability,employers_liability,US,Misc Med,Gyms/Fitness Center,0.05
+Stop Gap,stop_gap,US,Misc Med,Gyms/Fitness Center,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Gyms/Fitness Center,0.1
+TRIA,tria,US,Misc Med,Gyms/Fitness Center,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Gyms/Fitness Center,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Gyms/Fitness Center,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Gyms/Fitness Center,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Gyms/Fitness Center,0.12
+Product Liability,product_liability,International,Misc Med,Gyms/Fitness Center,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Gyms/Fitness Center,0.05
+Employers Liability,employers_liability,International,Misc Med,Gyms/Fitness Center,0.05
+Stop Gap,stop_gap,International,Misc Med,Gyms/Fitness Center,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Gyms/Fitness Center,0.1
+TRIA,tria,International,Misc Med,Gyms/Fitness Center,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Gyms/Fitness Center,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Gyms/Fitness Center,0.1
+Professional Liability,professional_liability,US,Misc Med,Healthcare Staffing,1.0
+General Liability,general_liability,US,Misc Med,Healthcare Staffing,0.05
+Product Liability,product_liability,US,Misc Med,Healthcare Staffing,0.01
+E&O,eo,US,Misc Med,Healthcare Staffing,0.1
+Employers Liability,employers_liability,US,Misc Med,Healthcare Staffing,0.05
+Stop Gap,stop_gap,US,Misc Med,Healthcare Staffing,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Healthcare Staffing,0.05
+TRIA,tria,US,Misc Med,Healthcare Staffing,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Healthcare Staffing,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Healthcare Staffing,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Healthcare Staffing,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Healthcare Staffing,0.05
+Product Liability,product_liability,International,Misc Med,Healthcare Staffing,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Healthcare Staffing,0.1
+Employers Liability,employers_liability,International,Misc Med,Healthcare Staffing,0.05
+Stop Gap,stop_gap,International,Misc Med,Healthcare Staffing,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Healthcare Staffing,0.05
+TRIA,tria,International,Misc Med,Healthcare Staffing,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Healthcare Staffing,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Healthcare Staffing,0.1
+Professional Liability,professional_liability,US,Misc Med,Home Healthcare,1.0
+General Liability,general_liability,US,Misc Med,Home Healthcare,0.05
+Product Liability,product_liability,US,Misc Med,Home Healthcare,0.01
+E&O,eo,US,Misc Med,Home Healthcare,0.1
+Sexual Abuse,sexual_abuse,US,Misc Med,Home Healthcare,0.1
+TRIA,tria,US,Misc Med,Home Healthcare,0.02
+Stop Gap,stop_gap,US,Misc Med,Home Healthcare,0.01
+Employers Liability,employers_liability,US,Misc Med,Home Healthcare,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Home Healthcare,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Home Healthcare,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Home Healthcare,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Home Healthcare,0.05
+Product Liability,product_liability,International,Misc Med,Home Healthcare,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Home Healthcare,0.1
+Sexual Abuse,sexual_abuse,International,Misc Med,Home Healthcare,0.1
+TRIA,tria,International,Misc Med,Home Healthcare,0.0
+Stop Gap,stop_gap,International,Misc Med,Home Healthcare,0.0
+Employers Liability,employers_liability,International,Misc Med,Home Healthcare,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Home Healthcare,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Home Healthcare,0.1
+Professional Liability,professional_liability,US,Misc Med,Hospice Care,1.0
+General Liability,general_liability,US,Misc Med,Hospice Care,0.06
+Product Liability,product_liability,US,Misc Med,Hospice Care,0.01
+E&O,eo,US,Misc Med,Hospice Care,0.05
+Employers Liability,employers_liability,US,Misc Med,Hospice Care,0.05
+Stop Gap,stop_gap,US,Misc Med,Hospice Care,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Hospice Care,0.05
+TRIA,tria,US,Misc Med,Hospice Care,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Hospice Care,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Hospice Care,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Hospice Care,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Hospice Care,0.06
+Product Liability,product_liability,International,Misc Med,Hospice Care,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Hospice Care,0.05
+Employers Liability,employers_liability,International,Misc Med,Hospice Care,0.05
+Stop Gap,stop_gap,International,Misc Med,Hospice Care,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Hospice Care,0.05
+TRIA,tria,International,Misc Med,Hospice Care,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Hospice Care,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Hospice Care,0.1
+Professional Liability,professional_liability,US,Misc Med,Hospital - LTAC/TBI,1.0
+General Liability,general_liability,US,Misc Med,Hospital - LTAC/TBI,0.07
+Product Liability,product_liability,US,Misc Med,Hospital - LTAC/TBI,0.02
+E&O,eo,US,Misc Med,Hospital - LTAC/TBI,0.05
+Employers Liability,employers_liability,US,Misc Med,Hospital - LTAC/TBI,0.05
+Stop Gap,stop_gap,US,Misc Med,Hospital - LTAC/TBI,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Hospital - LTAC/TBI,0.1
+TRIA,tria,US,Misc Med,Hospital - LTAC/TBI,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Hospital - LTAC/TBI,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Hospital - LTAC/TBI,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Hospital - LTAC/TBI,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Hospital - LTAC/TBI,0.07
+Product Liability,product_liability,International,Misc Med,Hospital - LTAC/TBI,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Hospital - LTAC/TBI,0.05
+Employers Liability,employers_liability,International,Misc Med,Hospital - LTAC/TBI,0.05
+Stop Gap,stop_gap,International,Misc Med,Hospital - LTAC/TBI,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Hospital - LTAC/TBI,0.1
+TRIA,tria,International,Misc Med,Hospital - LTAC/TBI,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Hospital - LTAC/TBI,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Hospital - LTAC/TBI,0.1
+Professional Liability,professional_liability,US,Misc Med,Humanitarian Relief Organizations,1.0
+General Liability,general_liability,US,Misc Med,Humanitarian Relief Organizations,0.07
+Product Liability,product_liability,US,Misc Med,Humanitarian Relief Organizations,0.02
+E&O,eo,US,Misc Med,Humanitarian Relief Organizations,0.05
+Employers Liability,employers_liability,US,Misc Med,Humanitarian Relief Organizations,0.05
+Stop Gap,stop_gap,US,Misc Med,Humanitarian Relief Organizations,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Humanitarian Relief Organizations,0.1
+TRIA,tria,US,Misc Med,Humanitarian Relief Organizations,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Humanitarian Relief Organizations,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Humanitarian Relief Organizations,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Humanitarian Relief Organizations,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Humanitarian Relief Organizations,0.07
+Product Liability,product_liability,International,Misc Med,Humanitarian Relief Organizations,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Humanitarian Relief Organizations,0.05
+Employers Liability,employers_liability,International,Misc Med,Humanitarian Relief Organizations,0.05
+Stop Gap,stop_gap,International,Misc Med,Humanitarian Relief Organizations,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Humanitarian Relief Organizations,0.1
+TRIA,tria,International,Misc Med,Humanitarian Relief Organizations,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Humanitarian Relief Organizations,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Humanitarian Relief Organizations,0.1
+Professional Liability,professional_liability,US,Misc Med,Imaging & X-Ray,1.0
+General Liability,general_liability,US,Misc Med,Imaging & X-Ray,0.05
+Product Liability,product_liability,US,Misc Med,Imaging & X-Ray,0.02
+E&O,eo,US,Misc Med,Imaging & X-Ray,0.05
+Employers Liability,employers_liability,US,Misc Med,Imaging & X-Ray,0.05
+Stop Gap,stop_gap,US,Misc Med,Imaging & X-Ray,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Imaging & X-Ray,0.05
+TRIA,tria,US,Misc Med,Imaging & X-Ray,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Imaging & X-Ray,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Imaging & X-Ray,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Imaging & X-Ray,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Imaging & X-Ray,0.05
+Product Liability,product_liability,International,Misc Med,Imaging & X-Ray,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Imaging & X-Ray,0.05
+Employers Liability,employers_liability,International,Misc Med,Imaging & X-Ray,0.05
+Stop Gap,stop_gap,International,Misc Med,Imaging & X-Ray,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Imaging & X-Ray,0.05
+TRIA,tria,International,Misc Med,Imaging & X-Ray,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Imaging & X-Ray,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Imaging & X-Ray,0.1
+Professional Liability,professional_liability,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,1.0
+General Liability,general_liability,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.1
+Product Liability,product_liability,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.02
+E&O,eo,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.05
+Employers Liability,employers_liability,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.05
+Stop Gap,stop_gap,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.1
+TRIA,tria,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.1
+Product Liability,product_liability,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.05
+Employers Liability,employers_liability,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.05
+Stop Gap,stop_gap,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.1
+TRIA,tria,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Inpatient - Alcohol & Drug Rehabilitation,0.1
+Professional Liability,professional_liability,US,Misc Med,Inpatient - Mental Health/Psychiatric,1.0
+General Liability,general_liability,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.1
+Product Liability,product_liability,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.01
+E&O,eo,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.07
+Employers Liability,employers_liability,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.05
+Stop Gap,stop_gap,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.1
+TRIA,tria,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Inpatient - Mental Health/Psychiatric,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Inpatient - Mental Health/Psychiatric,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.1
+Product Liability,product_liability,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.07
+Employers Liability,employers_liability,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.05
+Stop Gap,stop_gap,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.1
+TRIA,tria,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Inpatient - Mental Health/Psychiatric,0.1
+Professional Liability,professional_liability,US,Misc Med,Inpatient - Troubled Youth,1.0
+General Liability,general_liability,US,Misc Med,Inpatient - Troubled Youth,0.1
+Product Liability,product_liability,US,Misc Med,Inpatient - Troubled Youth,0.01
+E&O,eo,US,Misc Med,Inpatient - Troubled Youth,0.07
+Sexual Abuse,sexual_abuse,US,Misc Med,Inpatient - Troubled Youth,0.1
+TRIA,tria,US,Misc Med,Inpatient - Troubled Youth,0.02
+Stop Gap,stop_gap,US,Misc Med,Inpatient - Troubled Youth,0.01
+Employers Liability,employers_liability,US,Misc Med,Inpatient - Troubled Youth,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Inpatient - Troubled Youth,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Inpatient - Troubled Youth,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Inpatient - Troubled Youth,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Inpatient - Troubled Youth,0.1
+Product Liability,product_liability,International,Misc Med,Inpatient - Troubled Youth,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Inpatient - Troubled Youth,0.07
+Sexual Abuse,sexual_abuse,International,Misc Med,Inpatient - Troubled Youth,0.1
+TRIA,tria,International,Misc Med,Inpatient - Troubled Youth,0.0
+Stop Gap,stop_gap,International,Misc Med,Inpatient - Troubled Youth,0.0
+Employers Liability,employers_liability,International,Misc Med,Inpatient - Troubled Youth,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Inpatient - Troubled Youth,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Inpatient - Troubled Youth,0.1
+Professional Liability,professional_liability,US,Misc Med,Laboratories,1.0
+General Liability,general_liability,US,Misc Med,Laboratories,0.05
+Product Liability,product_liability,US,Misc Med,Laboratories,0.05
+E&O,eo,US,Misc Med,Laboratories,0.1
+Employers Liability,employers_liability,US,Misc Med,Laboratories,0.05
+Stop Gap,stop_gap,US,Misc Med,Laboratories,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Laboratories,0.05
+TRIA,tria,US,Misc Med,Laboratories,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Laboratories,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Laboratories,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Laboratories,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Laboratories,0.05
+Product Liability,product_liability,International,Misc Med,Laboratories,0.05
+E&O/Professional Indemnity,eo,International,Misc Med,Laboratories,0.1
+Employers Liability,employers_liability,International,Misc Med,Laboratories,0.05
+Stop Gap,stop_gap,International,Misc Med,Laboratories,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Laboratories,0.05
+TRIA,tria,International,Misc Med,Laboratories,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Laboratories,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Laboratories,0.1
+Professional Liability,professional_liability,US,Virtual Care,Live Video,1.0
+General Liability,general_liability,US,Virtual Care,Live Video,0.05
+Product Liability,product_liability,US,Virtual Care,Live Video,0.03
+E&O,eo,US,Virtual Care,Live Video,0.1
+Sexual Abuse,sexual_abuse,US,Virtual Care,Live Video,0.1
+TRIA,tria,US,Virtual Care,Live Video,0.02
+Stop Gap,stop_gap,US,Virtual Care,Live Video,0.01
+Employers Liability,employers_liability,US,Virtual Care,Live Video,0.0
+Employee Benefits Liability,employee_benefits_liability,US,Virtual Care,Live Video,0.005
+Punitive Damages,punitive_damages,US,Virtual Care,Live Video,0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Virtual Care,Live Video,1.0
+General Liability/Public Liability,general_liability,International,Virtual Care,Live Video,0.05
+Product Liability,product_liability,International,Virtual Care,Live Video,0.03
+E&O/Professional Indemnity,eo,International,Virtual Care,Live Video,0.1
+Sexual Abuse,sexual_abuse,International,Virtual Care,Live Video,0.1
+TRIA,tria,International,Virtual Care,Live Video,0.0
+Stop Gap,stop_gap,International,Virtual Care,Live Video,0.0
+Employers Liability,employers_liability,International,Virtual Care,Live Video,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Virtual Care,Live Video,0.005
+Punitive Damages,punitive_damages,International,Virtual Care,Live Video,0.0
+Professional Liability,professional_liability,US,Misc Med,Locum Tenens/Physician Staffing,1.0
+General Liability,general_liability,US,Misc Med,Locum Tenens/Physician Staffing,0.05
+Product Liability,product_liability,US,Misc Med,Locum Tenens/Physician Staffing,0.01
+E&O,eo,US,Misc Med,Locum Tenens/Physician Staffing,0.07
+Employers Liability,employers_liability,US,Misc Med,Locum Tenens/Physician Staffing,0.05
+Stop Gap,stop_gap,US,Misc Med,Locum Tenens/Physician Staffing,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Locum Tenens/Physician Staffing,0.05
+TRIA,tria,US,Misc Med,Locum Tenens/Physician Staffing,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Locum Tenens/Physician Staffing,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Locum Tenens/Physician Staffing,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Locum Tenens/Physician Staffing,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Locum Tenens/Physician Staffing,0.05
+Product Liability,product_liability,International,Misc Med,Locum Tenens/Physician Staffing,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Locum Tenens/Physician Staffing,0.07
+Employers Liability,employers_liability,International,Misc Med,Locum Tenens/Physician Staffing,0.05
+Stop Gap,stop_gap,International,Misc Med,Locum Tenens/Physician Staffing,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Locum Tenens/Physician Staffing,0.05
+TRIA,tria,International,Misc Med,Locum Tenens/Physician Staffing,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Locum Tenens/Physician Staffing,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Locum Tenens/Physician Staffing,0.1
+Professional Liability,professional_liability,US,Misc Med,Long-term Care,1.0
+General Liability,general_liability,US,Misc Med,Long-term Care,0.07
+Product Liability,product_liability,US,Misc Med,Long-term Care,0.02
+E&O,eo,US,Misc Med,Long-term Care,0.05
+Employers Liability,employers_liability,US,Misc Med,Long-term Care,0.05
+Stop Gap,stop_gap,US,Misc Med,Long-term Care,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Long-term Care,0.05
+TRIA,tria,US,Misc Med,Long-term Care,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Long-term Care,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Long-term Care,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Long-term Care,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Long-term Care,0.07
+Product Liability,product_liability,International,Misc Med,Long-term Care,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Long-term Care,0.05
+Employers Liability,employers_liability,International,Misc Med,Long-term Care,0.05
+Stop Gap,stop_gap,International,Misc Med,Long-term Care,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Long-term Care,0.1
+TRIA,tria,International,Misc Med,Long-term Care,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Long-term Care,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Long-term Care,0.1
+Professional Liability,professional_liability,US,Misc Med,Medi Spas,1.0
+General Liability,general_liability,US,Misc Med,Medi Spas,0.1
+Product Liability,product_liability,US,Misc Med,Medi Spas,0.02
+E&O,eo,US,Misc Med,Medi Spas,0.05
+Employers Liability,employers_liability,US,Misc Med,Medi Spas,0.05
+Stop Gap,stop_gap,US,Misc Med,Medi Spas,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Medi Spas,0.1
+TRIA,tria,US,Misc Med,Medi Spas,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Medi Spas,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Medi Spas,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Medi Spas,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Medi Spas,0.1
+Product Liability,product_liability,International,Misc Med,Medi Spas,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Medi Spas,0.05
+Employers Liability,employers_liability,International,Misc Med,Medi Spas,0.05
+Stop Gap,stop_gap,International,Misc Med,Medi Spas,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Medi Spas,0.1
+TRIA,tria,International,Misc Med,Medi Spas,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Medi Spas,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Medi Spas,0.1
+Professional Liability,professional_liability,US,Misc Med,Medical Cannabis,1.0
+General Liability,general_liability,US,Misc Med,Medical Cannabis,0.1
+Product Liability,product_liability,US,Misc Med,Medical Cannabis,0.15
+E&O,eo,US,Misc Med,Medical Cannabis,0.0
+Sexual Abuse,sexual_abuse,US,Misc Med,Medical Cannabis,0.05
+TRIA,tria,US,Misc Med,Medical Cannabis,0.02
+Stop Gap,stop_gap,US,Misc Med,Medical Cannabis,0.01
+Employers Liability,employers_liability,US,Misc Med,Medical Cannabis,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Medical Cannabis,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Medical Cannabis,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Medical Cannabis,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Medical Cannabis,0.1
+Product Liability,product_liability,International,Misc Med,Medical Cannabis,0.15
+E&O/Professional Indemnity,eo,International,Misc Med,Medical Cannabis,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Medical Cannabis,0.05
+TRIA,tria,International,Misc Med,Medical Cannabis,0.0
+Stop Gap,stop_gap,International,Misc Med,Medical Cannabis,0.0
+Employers Liability,employers_liability,International,Misc Med,Medical Cannabis,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Medical Cannabis,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Medical Cannabis,0.1
+Professional Liability,professional_liability,US,Misc Med,Military Medicine,1.0
+General Liability,general_liability,US,Misc Med,Military Medicine,0.05
+Product Liability,product_liability,US,Misc Med,Military Medicine,0.01
+E&O,eo,US,Misc Med,Military Medicine,0.1
+Employers Liability,employers_liability,US,Misc Med,Military Medicine,0.05
+Stop Gap,stop_gap,US,Misc Med,Military Medicine,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Military Medicine,0.05
+TRIA,tria,US,Misc Med,Military Medicine,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Military Medicine,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Military Medicine,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Military Medicine,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Military Medicine,0.05
+Product Liability,product_liability,International,Misc Med,Military Medicine,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Military Medicine,0.1
+Employers Liability,employers_liability,International,Misc Med,Military Medicine,0.05
+Stop Gap,stop_gap,International,Misc Med,Military Medicine,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Military Medicine,0.05
+TRIA,tria,International,Misc Med,Military Medicine,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Military Medicine,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Military Medicine,0.1
+Professional Liability,professional_liability,US,Virtual Care,Mobile Health (mHealth),1.0
+General Liability,general_liability,US,Virtual Care,Mobile Health (mHealth),0.05
+Product Liability,product_liability,US,Virtual Care,Mobile Health (mHealth),0.03
+E&O,eo,US,Virtual Care,Mobile Health (mHealth),0.1
+Sexual Abuse,sexual_abuse,US,Virtual Care,Mobile Health (mHealth),0.1
+TRIA,tria,US,Virtual Care,Mobile Health (mHealth),0.02
+Stop Gap,stop_gap,US,Virtual Care,Mobile Health (mHealth),0.01
+Employers Liability,employers_liability,US,Virtual Care,Mobile Health (mHealth),0.0
+Employee Benefits Liability,employee_benefits_liability,US,Virtual Care,Mobile Health (mHealth),0.005
+Punitive Damages,punitive_damages,US,Virtual Care,Mobile Health (mHealth),0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Virtual Care,Mobile Health (mHealth),1.0
+General Liability/Public Liability,general_liability,International,Virtual Care,Mobile Health (mHealth),0.05
+Product Liability,product_liability,International,Virtual Care,Mobile Health (mHealth),0.03
+E&O/Professional Indemnity,eo,International,Virtual Care,Mobile Health (mHealth),0.1
+Sexual Abuse,sexual_abuse,International,Virtual Care,Mobile Health (mHealth),0.1
+TRIA,tria,International,Virtual Care,Mobile Health (mHealth),0.0
+Stop Gap,stop_gap,International,Virtual Care,Mobile Health (mHealth),0.0
+Employers Liability,employers_liability,International,Virtual Care,Mobile Health (mHealth),0.05
+Employee Benefits Liability,employee_benefits_liability,International,Virtual Care,Mobile Health (mHealth),0.005
+Punitive Damages,punitive_damages,International,Virtual Care,Mobile Health (mHealth),0.0
+Professional Liability,professional_liability,US,Misc Med,Occupational Healthcare,1.0
+General Liability,general_liability,US,Misc Med,Occupational Healthcare,0.06
+Product Liability,product_liability,US,Misc Med,Occupational Healthcare,0.01
+E&O,eo,US,Misc Med,Occupational Healthcare,0.05
+Employers Liability,employers_liability,US,Misc Med,Occupational Healthcare,0.05
+Stop Gap,stop_gap,US,Misc Med,Occupational Healthcare,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Occupational Healthcare,0.05
+TRIA,tria,US,Misc Med,Occupational Healthcare,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Occupational Healthcare,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Occupational Healthcare,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Occupational Healthcare,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Occupational Healthcare,0.06
+Product Liability,product_liability,International,Misc Med,Occupational Healthcare,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Occupational Healthcare,0.05
+Employers Liability,employers_liability,International,Misc Med,Occupational Healthcare,0.05
+Stop Gap,stop_gap,International,Misc Med,Occupational Healthcare,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Occupational Healthcare,0.05
+TRIA,tria,International,Misc Med,Occupational Healthcare,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Occupational Healthcare,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Occupational Healthcare,0.1
+Professional Liability,professional_liability,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,1.0
+General Liability,general_liability,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.1
+Product Liability,product_liability,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.02
+E&O,eo,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.05
+Employers Liability,employers_liability,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.05
+Stop Gap,stop_gap,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.1
+TRIA,tria,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.1
+Product Liability,product_liability,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.02
+E&O/Professional Indemnity,eo,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.05
+Employers Liability,employers_liability,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.05
+Stop Gap,stop_gap,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.1
+TRIA,tria,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Outpatient - Alcohol & Drug Rehabilitation,0.1
+Professional Liability,professional_liability,US,Misc Med,Outpatient - Mental Health,1.0
+General Liability,general_liability,US,Misc Med,Outpatient - Mental Health,0.06
+Product Liability,product_liability,US,Misc Med,Outpatient - Mental Health,0.01
+E&O,eo,US,Misc Med,Outpatient - Mental Health,0.05
+Employers Liability,employers_liability,US,Misc Med,Outpatient - Mental Health,0.05
+Stop Gap,stop_gap,US,Misc Med,Outpatient - Mental Health,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Outpatient - Mental Health,0.1
+TRIA,tria,US,Misc Med,Outpatient - Mental Health,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Outpatient - Mental Health,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Outpatient - Mental Health,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Outpatient - Mental Health,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Outpatient - Mental Health,0.06
+Product Liability,product_liability,International,Misc Med,Outpatient - Mental Health,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Outpatient - Mental Health,0.05
+Employers Liability,employers_liability,International,Misc Med,Outpatient - Mental Health,0.05
+Stop Gap,stop_gap,International,Misc Med,Outpatient - Mental Health,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Outpatient - Mental Health,0.1
+TRIA,tria,International,Misc Med,Outpatient - Mental Health,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Outpatient - Mental Health,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Outpatient - Mental Health,0.1
+Professional Liability,professional_liability,US,Misc Med,Outpatient - Troubled Youth,1.0
+General Liability,general_liability,US,Misc Med,Outpatient - Troubled Youth,0.1
+Product Liability,product_liability,US,Misc Med,Outpatient - Troubled Youth,0.01
+E&O,eo,US,Misc Med,Outpatient - Troubled Youth,0.07
+Sexual Abuse,sexual_abuse,US,Misc Med,Outpatient - Troubled Youth,0.1
+TRIA,tria,US,Misc Med,Outpatient - Troubled Youth,0.02
+Stop Gap,stop_gap,US,Misc Med,Outpatient - Troubled Youth,0.01
+Employers Liability,employers_liability,US,Misc Med,Outpatient - Troubled Youth,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Outpatient - Troubled Youth,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Outpatient - Troubled Youth,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Outpatient - Troubled Youth,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Outpatient - Troubled Youth,0.1
+Product Liability,product_liability,International,Misc Med,Outpatient - Troubled Youth,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Outpatient - Troubled Youth,0.07
+Sexual Abuse,sexual_abuse,International,Misc Med,Outpatient - Troubled Youth,0.1
+TRIA,tria,International,Misc Med,Outpatient - Troubled Youth,0.0
+Stop Gap,stop_gap,International,Misc Med,Outpatient - Troubled Youth,0.0
+Employers Liability,employers_liability,International,Misc Med,Outpatient - Troubled Youth,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Outpatient - Troubled Youth,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Outpatient - Troubled Youth,0.1
+Professional Liability,professional_liability,US,Misc Med,Pharmacy/Infusion Services,1.0
+General Liability,general_liability,US,Misc Med,Pharmacy/Infusion Services,0.07
+Product Liability,product_liability,US,Misc Med,Pharmacy/Infusion Services,0.05
+E&O,eo,US,Misc Med,Pharmacy/Infusion Services,0.05
+Employers Liability,employers_liability,US,Misc Med,Pharmacy/Infusion Services,0.05
+Stop Gap,stop_gap,US,Misc Med,Pharmacy/Infusion Services,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Pharmacy/Infusion Services,0.05
+TRIA,tria,US,Misc Med,Pharmacy/Infusion Services,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Pharmacy/Infusion Services,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Pharmacy/Infusion Services,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Pharmacy/Infusion Services,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Pharmacy/Infusion Services,0.07
+Product Liability,product_liability,International,Misc Med,Pharmacy/Infusion Services,0.05
+E&O/Professional Indemnity,eo,International,Misc Med,Pharmacy/Infusion Services,0.05
+Employers Liability,employers_liability,International,Misc Med,Pharmacy/Infusion Services,0.05
+Stop Gap,stop_gap,International,Misc Med,Pharmacy/Infusion Services,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Pharmacy/Infusion Services,0.05
+TRIA,tria,International,Misc Med,Pharmacy/Infusion Services,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Pharmacy/Infusion Services,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Pharmacy/Infusion Services,0.1
+Professional Liability,professional_liability,US,Misc Med,Post Mortem Services,1.0
+General Liability,general_liability,US,Misc Med,Post Mortem Services,0.07
+Product Liability,product_liability,US,Misc Med,Post Mortem Services,0.05
+E&O,eo,US,Misc Med,Post Mortem Services,0.05
+Employers Liability,employers_liability,US,Misc Med,Post Mortem Services,0.05
+Stop Gap,stop_gap,US,Misc Med,Post Mortem Services,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Post Mortem Services,0.05
+TRIA,tria,US,Misc Med,Post Mortem Services,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Post Mortem Services,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Post Mortem Services,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Post Mortem Services,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Post Mortem Services,0.07
+Product Liability,product_liability,International,Misc Med,Post Mortem Services,0.05
+E&O/Professional Indemnity,eo,International,Misc Med,Post Mortem Services,0.05
+Employers Liability,employers_liability,International,Misc Med,Post Mortem Services,0.05
+Stop Gap,stop_gap,International,Misc Med,Post Mortem Services,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Post Mortem Services,0.05
+TRIA,tria,International,Misc Med,Post Mortem Services,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Post Mortem Services,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Post Mortem Services,0.1
+Professional Liability,professional_liability,US,Misc Med,Product Sales/Manufacturers Representative,1.0
+General Liability,general_liability,US,Misc Med,Product Sales/Manufacturers Representative,0.05
+Product Liability,product_liability,US,Misc Med,Product Sales/Manufacturers Representative,0.1
+E&O,eo,US,Misc Med,Product Sales/Manufacturers Representative,0.1
+Employers Liability,employers_liability,US,Misc Med,Product Sales/Manufacturers Representative,0.05
+Stop Gap,stop_gap,US,Misc Med,Product Sales/Manufacturers Representative,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Product Sales/Manufacturers Representative,0.05
+TRIA,tria,US,Misc Med,Product Sales/Manufacturers Representative,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Product Sales/Manufacturers Representative,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Product Sales/Manufacturers Representative,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Product Sales/Manufacturers Representative,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Product Sales/Manufacturers Representative,0.05
+Product Liability,product_liability,International,Misc Med,Product Sales/Manufacturers Representative,0.1
+E&O/Professional Indemnity,eo,International,Misc Med,Product Sales/Manufacturers Representative,0.1
+Employers Liability,employers_liability,International,Misc Med,Product Sales/Manufacturers Representative,0.05
+Stop Gap,stop_gap,International,Misc Med,Product Sales/Manufacturers Representative,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Product Sales/Manufacturers Representative,0.05
+TRIA,tria,International,Misc Med,Product Sales/Manufacturers Representative,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Product Sales/Manufacturers Representative,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Product Sales/Manufacturers Representative,0.1
+Professional Liability,professional_liability,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,1.0
+General Liability,general_liability,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.06
+Product Liability,product_liability,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.15
+E&O,eo,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.05
+Employers Liability,employers_liability,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.05
+Stop Gap,stop_gap,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.05
+TRIA,tria,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.06
+Product Liability,product_liability,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.15
+E&O/Professional Indemnity,eo,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.05
+Employers Liability,employers_liability,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.05
+Stop Gap,stop_gap,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.05
+TRIA,tria,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Prosthetics/Orthotics/Hearing Aids,0.1
+Professional Liability,professional_liability,US,Virtual Care,Remote Patient Monitoring,1.0
+General Liability,general_liability,US,Virtual Care,Remote Patient Monitoring,0.05
+Product Liability,product_liability,US,Virtual Care,Remote Patient Monitoring,0.03
+E&O,eo,US,Virtual Care,Remote Patient Monitoring,0.1
+Sexual Abuse,sexual_abuse,US,Virtual Care,Remote Patient Monitoring,0.1
+TRIA,tria,US,Virtual Care,Remote Patient Monitoring,0.02
+Stop Gap,stop_gap,US,Virtual Care,Remote Patient Monitoring,0.01
+Employers Liability,employers_liability,US,Virtual Care,Remote Patient Monitoring,0.0
+Employee Benefits Liability,employee_benefits_liability,US,Virtual Care,Remote Patient Monitoring,0.005
+Punitive Damages,punitive_damages,US,Virtual Care,Remote Patient Monitoring,0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Virtual Care,Remote Patient Monitoring,1.0
+General Liability/Public Liability,general_liability,International,Virtual Care,Remote Patient Monitoring,0.05
+Product Liability,product_liability,International,Virtual Care,Remote Patient Monitoring,0.03
+E&O/Professional Indemnity,eo,International,Virtual Care,Remote Patient Monitoring,0.1
+Sexual Abuse,sexual_abuse,International,Virtual Care,Remote Patient Monitoring,0.1
+TRIA,tria,International,Virtual Care,Remote Patient Monitoring,0.0
+Stop Gap,stop_gap,International,Virtual Care,Remote Patient Monitoring,0.0
+Employers Liability,employers_liability,International,Virtual Care,Remote Patient Monitoring,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Virtual Care,Remote Patient Monitoring,0.005
+Punitive Damages,punitive_damages,International,Virtual Care,Remote Patient Monitoring,0.0
+Professional Liability,professional_liability,US,Misc Med,Research Foundations & Associations,1.0
+General Liability,general_liability,US,Misc Med,Research Foundations & Associations,0.05
+Product Liability,product_liability,US,Misc Med,Research Foundations & Associations,0.03
+E&O,eo,US,Misc Med,Research Foundations & Associations,0.2
+Employers Liability,employers_liability,US,Misc Med,Research Foundations & Associations,0.05
+Stop Gap,stop_gap,US,Misc Med,Research Foundations & Associations,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Research Foundations & Associations,0.05
+TRIA,tria,US,Misc Med,Research Foundations & Associations,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Research Foundations & Associations,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Research Foundations & Associations,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Research Foundations & Associations,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Research Foundations & Associations,0.05
+Product Liability,product_liability,International,Misc Med,Research Foundations & Associations,0.03
+E&O/Professional Indemnity,eo,International,Misc Med,Research Foundations & Associations,0.2
+Employers Liability,employers_liability,International,Misc Med,Research Foundations & Associations,0.05
+Stop Gap,stop_gap,International,Misc Med,Research Foundations & Associations,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Research Foundations & Associations,0.05
+TRIA,tria,International,Misc Med,Research Foundations & Associations,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Research Foundations & Associations,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Research Foundations & Associations,0.1
+Professional Liability,professional_liability,US,Misc Med,Residential - Developmentally Disabled/Group Home,1.0
+General Liability,general_liability,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.07
+Product Liability,product_liability,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.01
+E&O,eo,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.05
+Employers Liability,employers_liability,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.05
+Stop Gap,stop_gap,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.1
+TRIA,tria,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Residential - Developmentally Disabled/Group Home,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Residential - Developmentally Disabled/Group Home,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.07
+Product Liability,product_liability,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.05
+Employers Liability,employers_liability,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.05
+Stop Gap,stop_gap,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.1
+TRIA,tria,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Residential - Developmentally Disabled/Group Home,0.1
+Professional Liability,professional_liability,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,1.0
+General Liability,general_liability,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.07
+Product Liability,product_liability,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.01
+E&O,eo,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.05
+Employers Liability,employers_liability,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.05
+Stop Gap,stop_gap,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.1
+TRIA,tria,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.07
+Product Liability,product_liability,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.05
+Employers Liability,employers_liability,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.05
+Stop Gap,stop_gap,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.1
+TRIA,tria,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Residential - Shelters/Halfway House/Transitional Housing,0.1
+Professional Liability,professional_liability,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,1.0
+General Liability,general_liability,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.1
+Product Liability,product_liability,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.01
+E&O,eo,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.15
+Sexual Abuse,sexual_abuse,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.1
+TRIA,tria,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.02
+Stop Gap,stop_gap,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.01
+Employers Liability,employers_liability,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.1
+Product Liability,product_liability,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.15
+Sexual Abuse,sexual_abuse,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.1
+TRIA,tria,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.0
+Stop Gap,stop_gap,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.0
+Employers Liability,employers_liability,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Schools - Allied Medical Training/Nursing/Mid-Level,0.1
+Professional Liability,professional_liability,US,Misc Med,Schools - Beauty,1.0
+General Liability,general_liability,US,Misc Med,Schools - Beauty,0.1
+Product Liability,product_liability,US,Misc Med,Schools - Beauty,0.01
+E&O,eo,US,Misc Med,Schools - Beauty,0.15
+Sexual Abuse,sexual_abuse,US,Misc Med,Schools - Beauty,0.1
+TRIA,tria,US,Misc Med,Schools - Beauty,0.02
+Stop Gap,stop_gap,US,Misc Med,Schools - Beauty,0.01
+Employers Liability,employers_liability,US,Misc Med,Schools - Beauty,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Schools - Beauty,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Schools - Beauty,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Schools - Beauty,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Schools - Beauty,0.1
+Product Liability,product_liability,International,Misc Med,Schools - Beauty,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Schools - Beauty,0.15
+Sexual Abuse,sexual_abuse,International,Misc Med,Schools - Beauty,0.1
+TRIA,tria,International,Misc Med,Schools - Beauty,0.0
+Stop Gap,stop_gap,International,Misc Med,Schools - Beauty,0.0
+Employers Liability,employers_liability,International,Misc Med,Schools - Beauty,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Schools - Beauty,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Schools - Beauty,0.1
+Professional Liability,professional_liability,US,Misc Med,Schools - Physicians/Dentists,1.0
+General Liability,general_liability,US,Misc Med,Schools - Physicians/Dentists,0.1
+Product Liability,product_liability,US,Misc Med,Schools - Physicians/Dentists,0.01
+E&O,eo,US,Misc Med,Schools - Physicians/Dentists,0.15
+Sexual Abuse,sexual_abuse,US,Misc Med,Schools - Physicians/Dentists,0.05
+TRIA,tria,US,Misc Med,Schools - Physicians/Dentists,0.02
+Stop Gap,stop_gap,US,Misc Med,Schools - Physicians/Dentists,0.01
+Employers Liability,employers_liability,US,Misc Med,Schools - Physicians/Dentists,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Schools - Physicians/Dentists,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Schools - Physicians/Dentists,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Schools - Physicians/Dentists,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Schools - Physicians/Dentists,0.1
+Product Liability,product_liability,International,Misc Med,Schools - Physicians/Dentists,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Schools - Physicians/Dentists,0.15
+Sexual Abuse,sexual_abuse,International,Misc Med,Schools - Physicians/Dentists,0.05
+TRIA,tria,International,Misc Med,Schools - Physicians/Dentists,0.0
+Stop Gap,stop_gap,International,Misc Med,Schools - Physicians/Dentists,0.0
+Employers Liability,employers_liability,International,Misc Med,Schools - Physicians/Dentists,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Schools - Physicians/Dentists,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Schools - Physicians/Dentists,0.1
+Professional Liability,professional_liability,US,Misc Med,Social Services Agency - All Other,1.0
+General Liability,general_liability,US,Misc Med,Social Services Agency - All Other,0.07
+Product Liability,product_liability,US,Misc Med,Social Services Agency - All Other,0.01
+E&O,eo,US,Misc Med,Social Services Agency - All Other,0.07
+Employers Liability,employers_liability,US,Misc Med,Social Services Agency - All Other,0.05
+Stop Gap,stop_gap,US,Misc Med,Social Services Agency - All Other,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Social Services Agency - All Other,0.1
+TRIA,tria,US,Misc Med,Social Services Agency - All Other,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Social Services Agency - All Other,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Social Services Agency - All Other,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Social Services Agency - All Other,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Social Services Agency - All Other,0.07
+Product Liability,product_liability,International,Misc Med,Social Services Agency - All Other,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Social Services Agency - All Other,0.07
+Employers Liability,employers_liability,International,Misc Med,Social Services Agency - All Other,0.05
+Stop Gap,stop_gap,International,Misc Med,Social Services Agency - All Other,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Social Services Agency - All Other,0.1
+TRIA,tria,International,Misc Med,Social Services Agency - All Other,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Social Services Agency - All Other,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Social Services Agency - All Other,0.1
+Professional Liability,professional_liability,US,Misc Med,Social Services Agency - Foster/Adoption,1.0
+General Liability,general_liability,US,Misc Med,Social Services Agency - Foster/Adoption,0.07
+Product Liability,product_liability,US,Misc Med,Social Services Agency - Foster/Adoption,0.01
+E&O,eo,US,Misc Med,Social Services Agency - Foster/Adoption,0.07
+Employers Liability,employers_liability,US,Misc Med,Social Services Agency - Foster/Adoption,0.05
+Stop Gap,stop_gap,US,Misc Med,Social Services Agency - Foster/Adoption,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Social Services Agency - Foster/Adoption,0.1
+TRIA,tria,US,Misc Med,Social Services Agency - Foster/Adoption,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Social Services Agency - Foster/Adoption,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Social Services Agency - Foster/Adoption,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Social Services Agency - Foster/Adoption,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Social Services Agency - Foster/Adoption,0.07
+Product Liability,product_liability,International,Misc Med,Social Services Agency - Foster/Adoption,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Social Services Agency - Foster/Adoption,0.07
+Employers Liability,employers_liability,International,Misc Med,Social Services Agency - Foster/Adoption,0.05
+Stop Gap,stop_gap,International,Misc Med,Social Services Agency - Foster/Adoption,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Social Services Agency - Foster/Adoption,0.1
+TRIA,tria,International,Misc Med,Social Services Agency - Foster/Adoption,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Social Services Agency - Foster/Adoption,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Social Services Agency - Foster/Adoption,0.1
+Professional Liability,professional_liability,US,Misc Med,Stem Cells,1.0
+General Liability,general_liability,US,Misc Med,Stem Cells,0.1
+Product Liability,product_liability,US,Misc Med,Stem Cells,0.05
+E&O,eo,US,Misc Med,Stem Cells,0.05
+Employers Liability,employers_liability,US,Misc Med,Stem Cells,0.05
+Stop Gap,stop_gap,US,Misc Med,Stem Cells,0.01
+Sexual Abuse,sexual_abuse,US,Misc Med,Stem Cells,0.05
+TRIA,tria,US,Misc Med,Stem Cells,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Stem Cells,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Stem Cells,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Stem Cells,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Stem Cells,0.1
+Product Liability,product_liability,International,Misc Med,Stem Cells,0.05
+E&O/Professional Indemnity,eo,International,Misc Med,Stem Cells,0.05
+Employers Liability,employers_liability,International,Misc Med,Stem Cells,0.05
+Stop Gap,stop_gap,International,Misc Med,Stem Cells,0.0
+Sexual Abuse,sexual_abuse,International,Misc Med,Stem Cells,0.05
+TRIA,tria,International,Misc Med,Stem Cells,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Stem Cells,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Stem Cells,0.1
+Professional Liability,professional_liability,US,Virtual Care,Store & Forward,1.0
+General Liability,general_liability,US,Virtual Care,Store & Forward,0.05
+Product Liability,product_liability,US,Virtual Care,Store & Forward,0.03
+E&O,eo,US,Virtual Care,Store & Forward,0.1
+Sexual Abuse,sexual_abuse,US,Virtual Care,Store & Forward,0.1
+TRIA,tria,US,Virtual Care,Store & Forward,0.02
+Stop Gap,stop_gap,US,Virtual Care,Store & Forward,0.01
+Employers Liability,employers_liability,US,Virtual Care,Store & Forward,0.0
+Employee Benefits Liability,employee_benefits_liability,US,Virtual Care,Store & Forward,0.005
+Punitive Damages,punitive_damages,US,Virtual Care,Store & Forward,0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Virtual Care,Store & Forward,1.0
+General Liability/Public Liability,general_liability,International,Virtual Care,Store & Forward,0.05
+Product Liability,product_liability,International,Virtual Care,Store & Forward,0.03
+E&O/Professional Indemnity,eo,International,Virtual Care,Store & Forward,0.1
+Sexual Abuse,sexual_abuse,International,Virtual Care,Store & Forward,0.1
+TRIA,tria,International,Virtual Care,Store & Forward,0.0
+Stop Gap,stop_gap,International,Virtual Care,Store & Forward,0.0
+Employers Liability,employers_liability,International,Virtual Care,Store & Forward,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Virtual Care,Store & Forward,0.005
+Punitive Damages,punitive_damages,International,Virtual Care,Store & Forward,0.1
+Professional Liability,professional_liability,US,Misc Med,Surgery Center,1.0
+General Liability,general_liability,US,Misc Med,Surgery Center,0.06
+Product Liability,product_liability,US,Misc Med,Surgery Center,0.01
+E&O,eo,US,Misc Med,Surgery Center,0.05
+Sexual Abuse,sexual_abuse,US,Misc Med,Surgery Center,0.1
+TRIA,tria,US,Misc Med,Surgery Center,0.02
+Stop Gap,stop_gap,US,Misc Med,Surgery Center,0.01
+Employers Liability,employers_liability,US,Misc Med,Surgery Center,0.05
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Surgery Center,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Surgery Center,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Surgery Center,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Surgery Center,0.06
+Product Liability,product_liability,International,Misc Med,Surgery Center,0.01
+E&O/Professional Indemnity,eo,International,Misc Med,Surgery Center,0.05
+Sexual Abuse,sexual_abuse,International,Misc Med,Surgery Center,0.1
+TRIA,tria,International,Misc Med,Surgery Center,0.0
+Stop Gap,stop_gap,International,Misc Med,Surgery Center,0.0
+Employers Liability,employers_liability,International,Misc Med,Surgery Center,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Surgery Center,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Surgery Center,0.1
+Professional Liability,professional_liability,US,Virtual Care,Technology Companies/Platform Hosts,1.0
+General Liability,general_liability,US,Virtual Care,Technology Companies/Platform Hosts,0.05
+Product Liability,product_liability,US,Virtual Care,Technology Companies/Platform Hosts,0.03
+E&O,eo,US,Virtual Care,Technology Companies/Platform Hosts,0.1
+Sexual Abuse,sexual_abuse,US,Virtual Care,Technology Companies/Platform Hosts,0.1
+TRIA,tria,US,Virtual Care,Technology Companies/Platform Hosts,0.02
+Stop Gap,stop_gap,US,Virtual Care,Technology Companies/Platform Hosts,0.01
+Employers Liability,employers_liability,US,Virtual Care,Technology Companies/Platform Hosts,0.0
+Employee Benefits Liability,employee_benefits_liability,US,Virtual Care,Technology Companies/Platform Hosts,0.005
+Punitive Damages,punitive_damages,US,Virtual Care,Technology Companies/Platform Hosts,0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Virtual Care,Technology Companies/Platform Hosts,1.0
+General Liability/Public Liability,general_liability,International,Virtual Care,Technology Companies/Platform Hosts,0.05
+Product Liability,product_liability,International,Virtual Care,Technology Companies/Platform Hosts,0.03
+E&O/Professional Indemnity,eo,International,Virtual Care,Technology Companies/Platform Hosts,0.1
+Sexual Abuse,sexual_abuse,International,Virtual Care,Technology Companies/Platform Hosts,0.1
+TRIA,tria,International,Virtual Care,Technology Companies/Platform Hosts,0.0
+Stop Gap,stop_gap,International,Virtual Care,Technology Companies/Platform Hosts,0.0
+Employers Liability,employers_liability,International,Virtual Care,Technology Companies/Platform Hosts,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Virtual Care,Technology Companies/Platform Hosts,0.005
+Punitive Damages,punitive_damages,International,Virtual Care,Technology Companies/Platform Hosts,0.1
+Professional Liability,professional_liability,US,Virtual Care,Teleradiology,1.0
+General Liability,general_liability,US,Virtual Care,Teleradiology,0.05
+Product Liability,product_liability,US,Virtual Care,Teleradiology,0.03
+E&O,eo,US,Virtual Care,Teleradiology,0.1
+Sexual Abuse,sexual_abuse,US,Virtual Care,Teleradiology,0.1
+TRIA,tria,US,Virtual Care,Teleradiology,0.02
+Stop Gap,stop_gap,US,Virtual Care,Teleradiology,0.01
+Employers Liability,employers_liability,US,Virtual Care,Teleradiology,0.0
+Employee Benefits Liability,employee_benefits_liability,US,Virtual Care,Teleradiology,0.005
+Punitive Damages,punitive_damages,US,Virtual Care,Teleradiology,0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Virtual Care,Teleradiology,1.0
+General Liability/Public Liability,general_liability,International,Virtual Care,Teleradiology,0.05
+Product Liability,product_liability,International,Virtual Care,Teleradiology,0.03
+E&O/Professional Indemnity,eo,International,Virtual Care,Teleradiology,0.1
+Sexual Abuse,sexual_abuse,International,Virtual Care,Teleradiology,0.1
+TRIA,tria,International,Virtual Care,Teleradiology,0.0
+Stop Gap,stop_gap,International,Virtual Care,Teleradiology,0.0
+Employers Liability,employers_liability,International,Virtual Care,Teleradiology,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Virtual Care,Teleradiology,0.005
+Punitive Damages,punitive_damages,International,Virtual Care,Teleradiology,0.0
+Professional Liability,professional_liability,US,Virtual Care,Teleneurology,1.0
+General Liability,general_liability,US,Virtual Care,Teleneurology,0.05
+Product Liability,product_liability,US,Virtual Care,Teleneurology,0.03
+E&O,eo,US,Virtual Care,Teleneurology,0.1
+Sexual Abuse,sexual_abuse,US,Virtual Care,Teleneurology,0.1
+TRIA,tria,US,Virtual Care,Teleneurology,0.02
+Stop Gap,stop_gap,US,Virtual Care,Teleneurology,0.01
+Employers Liability,employers_liability,US,Virtual Care,Teleneurology,0.0
+Employee Benefits Liability,employee_benefits_liability,US,Virtual Care,Teleneurology,0.005
+Punitive Damages,punitive_damages,US,Virtual Care,Teleneurology,0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Virtual Care,Teleneurology,1.0
+General Liability/Public Liability,general_liability,International,Virtual Care,Teleneurology,0.05
+Product Liability,product_liability,International,Virtual Care,Teleneurology,0.03
+E&O/Professional Indemnity,eo,International,Virtual Care,Teleneurology,0.1
+Sexual Abuse,sexual_abuse,International,Virtual Care,Teleneurology,0.1
+TRIA,tria,International,Virtual Care,Teleneurology,0.0
+Stop Gap,stop_gap,International,Virtual Care,Teleneurology,0.0
+Employers Liability,employers_liability,International,Virtual Care,Teleneurology,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Virtual Care,Teleneurology,0.005
+Punitive Damages,punitive_damages,International,Virtual Care,Teleneurology,0.0
+Professional Liability,professional_liability,US,Misc Med,Wilderness/Recreational Therapy,1.0
+General Liability,general_liability,US,Misc Med,Wilderness/Recreational Therapy,0.05
+Product Liability,product_liability,US,Misc Med,Wilderness/Recreational Therapy,0.03
+E&O,eo,US,Misc Med,Wilderness/Recreational Therapy,0.1
+Sexual Abuse,sexual_abuse,US,Misc Med,Wilderness/Recreational Therapy,0.1
+TRIA,tria,US,Misc Med,Wilderness/Recreational Therapy,0.02
+Stop Gap,stop_gap,US,Misc Med,Wilderness/Recreational Therapy,0.01
+Employers Liability,employers_liability,US,Misc Med,Wilderness/Recreational Therapy,0.0
+Employee Benefits Liability,employee_benefits_liability,US,Misc Med,Wilderness/Recreational Therapy,0.005
+Punitive Damages,punitive_damages,US,Misc Med,Wilderness/Recreational Therapy,0.0
+Professional Liability/Medical Malpractice,professional_liability,International,Misc Med,Wilderness/Recreational Therapy,1.0
+General Liability/Public Liability,general_liability,International,Misc Med,Wilderness/Recreational Therapy,0.05
+Product Liability,product_liability,International,Misc Med,Wilderness/Recreational Therapy,0.03
+E&O/Professional Indemnity,eo,International,Misc Med,Wilderness/Recreational Therapy,0.1
+Sexual Abuse,sexual_abuse,International,Misc Med,Wilderness/Recreational Therapy,0.1
+TRIA,tria,International,Misc Med,Wilderness/Recreational Therapy,0.0
+Stop Gap,stop_gap,International,Misc Med,Wilderness/Recreational Therapy,0.0
+Employers Liability,employers_liability,International,Misc Med,Wilderness/Recreational Therapy,0.05
+Employee Benefits Liability,employee_benefits_liability,International,Misc Med,Wilderness/Recreational Therapy,0.005
+Punitive Damages,punitive_damages,International,Misc Med,Wilderness/Recreational Therapy,0.0
+Professional Liability,professional_liability,US,Triage,Duty to Defend Hospitals,1.0
+General Liability,general_liability,US,Triage,Duty to Defend Hospitals,0.1
+Product Liability,product_liability,US,Triage,Duty to Defend Hospitals,0.01
+E&O,eo,US,Triage,Duty to Defend Hospitals,0.07
+Employers Liability,employers_liability,US,Triage,Duty to Defend Hospitals,0.05
+Stop Gap,stop_gap,US,Triage,Duty to Defend Hospitals,0.01
+Sexual Abuse,sexual_abuse,US,Triage,Duty to Defend Hospitals,0.1
+TRIA,tria,US,Triage,Duty to Defend Hospitals,0.02
+Employee Benefits Liability,employee_benefits_liability,US,Triage,Duty to Defend Hospitals,0.005
+Punitive Damages,punitive_damages,US,Triage,Duty to Defend Hospitals,0.1
+Professional Liability/Medical Malpractice,professional_liability,International,Triage,Duty to Defend Hospitals,1.0
+General Liability/Public Liability,general_liability,International,Triage,Duty to Defend Hospitals,0.1
+Product Liability,product_liability,International,Triage,Duty to Defend Hospitals,0.01
+E&O/Professional Indemnity,eo,International,Triage,Duty to Defend Hospitals,0.07
+Employers Liability,employers_liability,International,Triage,Duty to Defend Hospitals,0.05
+Stop Gap,stop_gap,International,Triage,Duty to Defend Hospitals,0.0
+Sexual Abuse,sexual_abuse,International,Triage,Duty to Defend Hospitals,0.1
+TRIA,tria,International,Triage,Duty to Defend Hospitals,0.0
+Employee Benefits Liability,employee_benefits_liability,International,Triage,Duty to Defend Hospitals,0.005
+Punitive Damages,punitive_damages,International,Triage,Duty to Defend Hospitals,0.1

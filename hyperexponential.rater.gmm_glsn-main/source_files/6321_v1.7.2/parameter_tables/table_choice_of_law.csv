@@ -1,0 +1,81 @@
+us_international,choice_of_law,default_currency
+US,Alaska,USD
+US,Alabama,USD
+US,Arkansas,USD
+US,Arizona,USD
+US,California,USD
+US,Colorado,USD
+US,Connecticut,USD
+US,District of Columbia,USD
+US,Delaware,USD
+US,Florida,USD
+US,Georgia,USD
+US,Hawaii,USD
+US,Iowa,USD
+US,Idaho,USD
+US,Illinois,USD
+US,Indiana,USD
+US,Kansas,USD
+US,Kentucky,USD
+US,Louisiana,USD
+US,Massachusetts,USD
+US,Maryland,USD
+US,Maine,USD
+US,Michigan,USD
+US,Minnesota,USD
+US,Missouri,USD
+US,Mississippi,USD
+US,Montana,USD
+US,North Carolina,USD
+US,North Dakota,USD
+US,Nebraska,USD
+US,New Hampshire,USD
+US,New Jersey,USD
+US,New Mexico,USD
+US,Nevada,USD
+US,New York,USD
+US,Ohio,USD
+US,Oklahoma,USD
+US,Oregon,USD
+US,Pennsylvania,USD
+US,Puerto Rico,USD
+US,Rhode Island,USD
+US,South Carolina,USD
+US,South Dakota,USD
+US,Tennessee,USD
+US,Texas,USD
+US,Utah,USD
+US,Virginia,USD
+US,Vermont,USD
+US,Washington,USD
+US,Wisconsin,USD
+US,West Virginia,USD
+US,Wyoming,USD
+International,Australia,AUD
+International,Brazil,BRL
+International,Canada,CAD
+International,Chile,CLP
+International,China,USD
+International,Colombia,COP
+International,France,EUR
+International,Germany,EUR
+International,Hong Kong,HKD
+International,Ireland,EUR
+International,Island Economies,USD
+International,Israel,ILS
+International,Italy,EUR
+International,Malaysia,MYR
+International,Mexico,MXN
+International,Middle East,GBP
+International,Netherlands,EUR
+International,Peru,PEN
+International,ROW - High,USD
+International,ROW - Low,USD
+International,ROW - Medium,USD
+International,Singapore,SGD
+International,South Africa,ZAR
+International,Spain,EUR
+International,Taiwan,USD
+International,Thailand,THB
+International,UK,GBP
+International,USA,USD

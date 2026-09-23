@@ -1,0 +1,53 @@
+﻿State,LCM,Admitted,Uses LCRP-1,Allows (a) Rating,Allows Schedule Rating,Premium Threshold for Schedule Rating,Rating Note,Schedule Mod Minimum,Schedule Mod Maximum,Premium Threshold for LCRP-1
+Alabama,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Alaska,1.379,Admitted,Yes with Exceptions,Yes,No,0,None,0,0,0
+Arizona,1.379,Admitted,Yes with Exceptions,No,Yes,0,None,-0.25,0.25,0
+Arkansas,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+California,1.379,Non Admitted,Yes with Exceptions,Yes,Yes,0,"If a risk is (a) rated, a filing of the (a) rate procedure must first be approved by the California Insurance Department",-0.25,0.25,0
+Colorado,1.379,Admitted,Yes with Exceptions,Yes,No,0,"If this risk has been in existence for less than four years, please contact actuarial for support",0,0,0
+Connecticut,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Delaware,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+District of Columbia,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Florida,1.379,Admitted,Yes with Exceptions,Yes,Yes,1000,"The risk must have a premium of $1,000 prior to and after application of schedule modifiers to be eligible for schedule rating",-0.25,0.25,0
+Georgia,1.379,Admitted,Yes with Exceptions,Yes,Yes,0,None,-0.15,0.15,0
+Hawaii,1.379,Admitted,Yes with Exceptions,Yes,No,0,None,0,0,0
+Idaho,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Illinois,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Indiana,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Iowa,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Kansas,1.379,Admitted,Yes with Exceptions,Yes,Yes,0,"If a risk is (a) rated, a filing must first be submitted to the Kansas Insuarance Department for prior approval",-0.25,0.25,0
+Kentucky,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Louisiana,1.379,Admitted,Yes with Exceptions,Yes,No,0,None,0,0,0
+Maine,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Maryland,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Massachusetts,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Michigan,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Minnesota,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Mississippi,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Missouri,1.379,Admitted,Yes with Exceptions,No,Yes,0,The insurer shall inform the insured in writing in terms sufficiently clear and specific of the basis for any schedule debit or credit which is paplied.,-0.25,0.25,0
+Montana,1.379,Admitted,Yes with Exceptions,Yes,Yes,0,"Experience rating is only applicable to those risks with an Annual Company Manual Premium of at least $100,000",-0.25,0.25,100000
+Nebraska,1.379,Admitted,Yes with Exceptions,Yes,No,0,None,-0.4,0.4,0
+Nevada,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+New Hampshire,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+New Jersey,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+New Mexico,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+New York,1.379,Non Admitted,Yes with Exceptions,No,No,0,"Experience rating is only applicable to those risks with an Annual Company Manual Premium of at least $2,500",0,0,2500
+New York (Free Trade Zone),1.379,Non Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+North Carolina,1.379,Admitted,Yes with Exceptions,Yes,No,0,"If the application of the Underwriting table results in a debit, a first time application for consent to Rate must be files with the NC Insurance department",0,0,0
+North Dakota,1.379,Admitted,Yes with Exceptions,Yes,Yes,0,None,-0.25,0.25,0
+Ohio,1.379,Non Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Oklahoma,1.379,Admitted,Yes with Exceptions,Yes,Yes,0,None,-0.25,0.25,0
+Oregon,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Pennsylvania,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Rhode Island,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+South Carolina,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+South Dakota,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Tennessee,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Texas,1.379,Admitted,Yes with Exceptions,No,No,0,None,0,0,0
+Utah,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Vermont,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Virginia,1.379,Admitted,Yes with Exceptions,No,Yes,0,None,-0.25,0.25,0
+Washington,1.32,Admitted,Yes with Exceptions,Yes,Yes,0,"For each risk that is individually rated, a rate filing must be made with the Insurance Department",-0.25,0.25,0
+West Virginia,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Wisconsin,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0
+Wyoming,1.379,Admitted,Yes,Yes,Yes,0,None,-0.25,0.25,0

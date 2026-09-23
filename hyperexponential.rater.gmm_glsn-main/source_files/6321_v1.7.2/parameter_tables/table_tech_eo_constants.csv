@@ -1,0 +1,5 @@
+factor_name,factor
+market_segment_benchmark,35000000
+model_brokerage,0.2
+model_net_priced_to_lr,0.7
+model_target_lr,0.65

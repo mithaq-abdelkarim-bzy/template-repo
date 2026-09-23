@@ -1,0 +1,4 @@
+revenue_lower,revenue_upper,column_lower,column_upper
+0,100000000,3,3
+100000000,250000000,3,4
+250000000,1000000000,4,4

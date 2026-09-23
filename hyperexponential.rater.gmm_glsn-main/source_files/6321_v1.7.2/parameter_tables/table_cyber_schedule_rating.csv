@@ -1,0 +1,5 @@
+description_label,min,max,description_name
+Financial Condition,-0.25,0.25,cyber_financial_condition
+Maturity of Business,-0.25,0.25,cyber_maturity_of_business
+Quality of Management,-0.25,0.25,cyber_quality_of_management
+Volume of Information Stored,-0.25,0.25,cyber_volume_of_information_stored

@@ -1,0 +1,4340 @@
+[
+  {
+    "hx_core": {
+      "inception_date": "2024-09-18",
+      "expiry_date": "2025-09-17"
+    },
+    "cds": {
+      "key_industry": {
+        "code_type": null,
+        "code": null,
+        "code_name": null
+      },
+      "exposure": {
+        "aggregate": {
+          "revenue": 886200000.0,
+          "tech_eo_rateble_revenue": 0.1
+        },
+        "granular": {
+          "gmm_product": {
+            "product": "Misc Med",
+            "cob_code_description": "DA : Social Service/Foster/Adoption",
+            "cob_class": "Residential - Shelters/Halfway House/Transitional Housing"
+          },
+          "glsn_product": {
+            "product": null,
+            "cob_code_description": null
+          },
+          "alaska": {
+            "selection": false
+          },
+          "alabama": {
+            "selection": false
+          },
+          "arkansas": {
+            "selection": false
+          },
+          "arizona": {
+            "percentage": {
+              "is_overridden": true,
+              "override": 0.24
+            },
+            "selection": true
+          },
+          "california_counties": {
+            "percentage": {
+              "is_overridden": true,
+              "override": 0.02
+            },
+            "selection": true
+          },
+          "california_rest": {
+            "selection": false
+          },
+          "colorado": {
+            "selection": false
+          },
+          "connecticut": {
+            "selection": false
+          },
+          "district_of_columbia": {
+            "selection": false
+          },
+          "delaware": {
+            "selection": false
+          },
+          "florida_counties": {
+            "selection": false
+          },
+          "florida_rest": {
+            "selection": false
+          },
+          "georgia": {
+            "selection": false
+          },
+          "hawaii": {
+            "selection": false
+          },
+          "iowa": {
+            "selection": false
+          },
+          "idaho": {
+            "selection": false
+          },
+          "illinois_counties": {
+            "selection": false
+          },
+          "illinois_rest": {
+            "selection": false
+          },
+          "indiana": {
+            "selection": false
+          },
+          "kansas": {
+            "selection": false
+          },
+          "kentucky": {
+            "selection": false
+          },
+          "louisiana": {
+            "selection": false
+          },
+          "massachusetts": {
+            "selection": false
+          },
+          "maryland_counties": {
+            "selection": false
+          },
+          "maryland_rest": {
+            "selection": false
+          },
+          "maine": {
+            "selection": false
+          },
+          "michigan_rest": {
+            "selection": false
+          },
+          "michigan_counties": {
+            "selection": false
+          },
+          "minnesota_counties": {
+            "selection": false
+          },
+          "minnesota_rest": {
+            "selection": false
+          },
+          "missouri_rest": {
+            "selection": false
+          },
+          "missouri_counties": {
+            "selection": false
+          },
+          "mississippi": {
+            "selection": false
+          },
+          "montana": {
+            "selection": false
+          },
+          "north_carolina": {
+            "selection": false
+          },
+          "north_dakota": {
+            "selection": false
+          },
+          "nebraska": {
+            "selection": false
+          },
+          "new_hampshire": {
+            "selection": false
+          },
+          "new_jersey": {
+            "selection": false
+          },
+          "new_mexico": {
+            "selection": false
+          },
+          "nevada": {
+            "selection": false
+          },
+          "new_york_city_counties": {
+            "selection": false
+          },
+          "new_york_rest": {
+            "selection": false
+          },
+          "ohio_counties": {
+            "selection": false
+          },
+          "ohio_rest": {
+            "selection": false
+          },
+          "oklahoma": {
+            "selection": false
+          },
+          "oregon": {
+            "selection": false
+          },
+          "pennsylvania_counties": {
+            "selection": false
+          },
+          "pennsylvania_rest": {
+            "selection": false
+          },
+          "puerto_rico_usa": {
+            "selection": false
+          },
+          "rhode_island": {
+            "selection": false
+          },
+          "south_carolina": {
+            "selection": false
+          },
+          "south_dakota": {
+            "selection": false
+          },
+          "tennessee": {
+            "selection": false
+          },
+          "texas_rest": {
+            "percentage": {
+              "is_overridden": true,
+              "override": 0.24
+            },
+            "selection": true
+          },
+          "texas_counties": {
+            "selection": true
+          },
+          "utah": {
+            "selection": false
+          },
+          "virginia": {
+            "selection": false
+          },
+          "vermont": {
+            "selection": false
+          },
+          "washington": {
+            "selection": false
+          },
+          "wisconsin": {
+            "selection": false
+          },
+          "west_virginia": {
+            "selection": false
+          },
+          "wyoming": {
+            "selection": false
+          },
+          "include_international_venues": false,
+          "asia": {
+            "selection": false
+          },
+          "australia": {
+            "selection": false
+          },
+          "brazil": {
+            "selection": false
+          },
+          "canada": {
+            "selection": false
+          },
+          "chile": {
+            "selection": false
+          },
+          "china": {
+            "selection": false
+          },
+          "colombia": {
+            "selection": false
+          },
+          "france": {
+            "selection": false
+          },
+          "germany": {
+            "selection": false
+          },
+          "hong_kong": {
+            "selection": false
+          },
+          "ireland": {
+            "selection": false
+          },
+          "island_economies": {
+            "selection": false
+          },
+          "israel": {
+            "selection": false
+          },
+          "italy": {
+            "selection": false
+          },
+          "malaysia": {
+            "selection": false
+          },
+          "mexico": {
+            "selection": false
+          },
+          "middle_east": {
+            "selection": false
+          },
+          "netherlands": {
+            "selection": false
+          },
+          "peru": {
+            "selection": false
+          },
+          "puerto_rico_international": {
+            "selection": false
+          },
+          "row_high": {
+            "selection": false
+          },
+          "row_low": {
+            "selection": false
+          },
+          "row_medium": {
+            "selection": false
+          },
+          "singapore": {
+            "selection": false
+          },
+          "south_africa": {
+            "selection": false
+          },
+          "spain": {
+            "selection": false
+          },
+          "taiwan": {
+            "selection": false
+          },
+          "thailand": {
+            "selection": false
+          },
+          "uk": {
+            "selection": false
+          },
+          "usa": {
+            "selection": false
+          },
+          "include_us_venues": false,
+          "gmm_primary_exposure_details": [
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 3109.0,
+              "selection": true
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 38592.0,
+              "selection": true
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            }
+          ],
+          "glsn_primary_exposure_details": [
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": true
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": true
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": true
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            },
+            {
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            }
+          ],
+          "gmm_secondary_exposure_details": [
+            {
+              "gmm_secondary_exposure": {
+                "exposure_class": null,
+                "exposure_measure": null
+              },
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            }
+          ],
+          "glsn_secondary_exposure_details": [
+            {
+              "glsn_secondary_exposure": {
+                "cob": null,
+                "exposure_base": null,
+                "exposure_measure": null
+              },
+              "one_years_ago": 0.0,
+              "current_year": 0.0,
+              "selection": false
+            }
+          ],
+          "glsn_aggregation_details": [
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            },
+            {
+              "type": null,
+              "name": " ",
+              "beazley_insured": false,
+              "aggregated_capacity": 0.0,
+              "notes": " "
+            }
+          ],
+          "dimethylamylamine_dmaa": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "aconite": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "aegeline": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "amp_citrate_1_3_dimethylbutylamine_citrate_1_3_dimethylbutylamine_hcl_methylpentanamine": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "androsteredione": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "aristolochic_acid": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "bitter_orange_synephrine": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "chaparral": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "colloidal_silver": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "comfrey": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "dendrobium": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "ephedra_ephedrine": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "germander": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "jin_bu_huan": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "kava_kava_kava": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "lobelia": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "over_the_counter_drugs_otc": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "pennyroyal_oil": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "picamilon_n_nicotinoyl_gaba_pycamilon_pikamilon": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "r_beta_methylphenylethylamine_n_methyl_beta_methylphenylethylamine": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "stephania": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "tiratricol": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "vinpocetine_cavinton_intelectol_ethyl_apovincaminate": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "yohimbe": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "baby_formula": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "benzodiazepines": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "blood_pressure_pharmaceutcials": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "blood_derived_products": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "birth_control": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "cannabidiol_cbd": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "cochlear_implants": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "cold_therapy_cryotherapy_products": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "cpap_bipap_machines": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "diabetes_pharmaceuticals": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "ear_plugs": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "energy_drinks": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "generic_or_off_patent_pharmaceuticals": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "hip_implants_metal_on_metal": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "ivc_filters": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "intrauterine_devices_iuds": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "medical_marijuana": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "morcellators": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "mri_contrast_agents": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "neurovascular_stents": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "opioids": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "pain_pumps": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "proton_pump_inhibitors_ppis_antacids": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "sexual_enhancement_pharmaceuticals": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "silicone_breast_implants": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "surgical_mesh": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "talcum_powder": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "thalidomide": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "weight_loss_pharmaceuticals": {
+            "exposed": false,
+            "revenue": 0.0,
+            "notes": " "
+          },
+          "glsn_dangerous_ingredient_other_selection": false,
+          "glsn_dangerous_ingredient_other": [
+            {
+              "name": " ",
+              "exposed": false,
+              "revenue": 0.0,
+              "notes": " "
+            },
+            {
+              "name": " ",
+              "exposed": false,
+              "revenue": 0.0,
+              "notes": " "
+            },
+            {
+              "name": " ",
+              "exposed": false,
+              "revenue": 0.0,
+              "notes": " "
+            },
+            {
+              "name": " ",
+              "exposed": false,
+              "revenue": 0.0,
+              "notes": " "
+            }
+          ],
+          "triage_doctors_residents": [
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            },
+            {
+              "doc_four_years_ago": 0.0,
+              "doc_three_years_ago": 0.0,
+              "doc_two_years_ago": 0.0,
+              "doc_one_years_ago": 0.0,
+              "doc_current_year": 0.0,
+              "resident_four_years_ago": 0.0,
+              "resident_three_years_ago": 0.0,
+              "resident_two_years_ago": 0.0,
+              "resident_one_years_ago": 0.0,
+              "resident_current_year": 0.0
+            }
+          ],
+          "triage_procedures": [
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            },
+            {
+              "four_years_ago": 0.0,
+              "three_years_ago": 0.0,
+              "two_years_ago": 0.0,
+              "one_years_ago": 0.0,
+              "current_year": 0.0
+            }
+          ],
+          "reseller_distributor": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "training_education": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "prepackaged_software_products_services": {
+            "tech_eo_percent_rateble_revenue": 0.5
+          },
+          "live_video_mobile_health_store_forward": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "teleneurology_or_teleradiology": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "technology_companies_platform_hosts": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "software_hardware_management_systems_non_medical": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "custom_software_development": {
+            "tech_eo_percent_rateble_revenue": 0.5
+          },
+          "internet_based_services_products": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "other": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "custom_hardware_development": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          },
+          "software_hardware_medical_management": {
+            "tech_eo_percent_rateble_revenue": 0.0
+          }
+        }
+      },
+      "standard_fields": {
+        "insured_name": null,
+        "broker": null,
+        "insured_country": null,
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_free_trade_zone": false,
+        "is_renewal": true,
+        "underwriter": null,
+        "policy_reference": null,
+        "facility_reference": null,
+        "benchmark_class": null,
+        "uw_rationale": null,
+        "trifocus": null,
+        "rating_methodology": "Rater",
+        "is_rater_priced": true
+      },
+      "layers": [
+        {
+          "excess": null,
+          "deductible": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "written_line": null,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          },
+          "bpi_case_priced": 0.0,
+          "bound_premium": null
+        },
+        {
+          "excess": null,
+          "deductible": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "written_line": null,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          },
+          "bpi_case_priced": 0.0,
+          "bound_premium": null
+        },
+        {
+          "excess": null,
+          "deductible": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "written_line": null,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          },
+          "bpi_case_priced": 0.0,
+          "bound_premium": null
+        },
+        {
+          "excess": null,
+          "deductible": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "written_line": null,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          },
+          "bpi_case_priced": 0.0,
+          "bound_premium": null
+        },
+        {
+          "excess": null,
+          "deductible": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "written_line": null,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          },
+          "bpi_case_priced": 0.0,
+          "bound_premium": null
+        },
+        {
+          "excess": null,
+          "deductible": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "written_line": null,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          },
+          "bpi_case_priced": 0.0,
+          "bound_premium": null
+        },
+        {
+          "excess": null,
+          "deductible": null,
+          "aggregate_excess": null,
+          "aggregate_deductible": null,
+          "currency": null,
+          "section_reference": null,
+          "written_line": null,
+          "premium": null,
+          "status": null,
+          "is_primary_excess": null,
+          "trifocus": null,
+          "rate_change": {
+            "exposure_change": {
+              "comments": null
+            },
+            "risk_characteristics_change": {
+              "comments": null
+            },
+            "limit_change": {
+              "comments": null
+            },
+            "deductible_change": {
+              "comments": null
+            },
+            "terms_conditions_change": {
+              "comments": null
+            },
+            "other_change": {
+              "comments": null
+            },
+            "brokerage_change": {
+              "comments": null
+            },
+            "rate_change": {
+              "comments": null
+            },
+            "expiring_layer": 1,
+            "total_change": {
+              "comments": ""
+            },
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": ""
+            }
+          },
+          "bpi_case_priced": 0.0,
+          "bound_premium": null
+        }
+      ],
+      "currencies": {
+        "target_currency": null,
+        "source_currency": "USD",
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ]
+      },
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "broker_contact": "",
+      "rater_selection": "Global Misc Med Rater",
+      "show_prior_exposure_years": false,
+      "show_prior_triage_years": false,
+      "cips": false,
+      "rating_factors": {
+        "profit_status": null,
+        "account_scoring": {
+          "financials_quality": {
+            "value": 0.0,
+            "comment": null
+          },
+          "claims_handling": {
+            "value": 0.0,
+            "comment": null
+          },
+          "claims_experience": {
+            "value": 0.0,
+            "comment": null
+          },
+          "jurisdiction_venue": {
+            "value": 0.0,
+            "comment": null
+          },
+          "wordings": {
+            "value": 0.0,
+            "comment": null
+          },
+          "level_of_service": {
+            "value": 0.0,
+            "comment": null
+          },
+          "knowledge_of_account": {
+            "value": 0.0,
+            "comment": null
+          },
+          "nfp_gov_fp": {
+            "value": 0.0,
+            "comment": null
+          },
+          "broker": {
+            "value": 0.0,
+            "comment": null
+          },
+          "corporate_integrity": {
+            "value": 0.0,
+            "comment": null
+          }
+        },
+        "total_net_score": {
+          "comment": null
+        },
+        "us_international_choice_of_law": {
+          "us_international": "US",
+          "choice_of_law": "Texas"
+        },
+        "pricing": {
+          "professional_liability": {
+            "selection": true,
+            "include_primary": true,
+            "include_excess": true,
+            "retroactive_date": "2022-09-01"
+          },
+          "sexual_abuse": {
+            "selection": true,
+            "include_primary": true,
+            "include_excess": true,
+            "retroactive_date": "2022-09-01"
+          },
+          "employee_benefits_liability": {
+            "selection": true,
+            "include_primary": true,
+            "include_excess": true,
+            "retroactive_date": "2022-09-01"
+          },
+          "employers_liability": {
+            "selection": false,
+            "include_primary": false,
+            "include_excess": false,
+            "retroactive_date": null
+          },
+          "tech_eo_products_media": {
+            "selection": true,
+            "include_primary": true,
+            "include_excess": true,
+            "retroactive_date": "2022-09-01"
+          },
+          "product_recall": {
+            "selection": false,
+            "include_primary": false,
+            "include_excess": false,
+            "retroactive_date": null
+          },
+          "well_tech_eo_media": {
+            "selection": false,
+            "include_primary": false,
+            "include_excess": false,
+            "retroactive_date": null
+          },
+          "product_liability": {
+            "selection": true,
+            "include_primary": true,
+            "include_excess": true,
+            "retroactive_date": "2022-09-01",
+            "significant_coverage": null
+          },
+          "eo": {
+            "selection": true,
+            "include_primary": true,
+            "include_excess": true,
+            "retroactive_date": "2022-09-01",
+            "significant_coverage": null
+          },
+          "healthcare_professional_liability": {
+            "selection": false,
+            "include_primary": false,
+            "include_excess": false,
+            "retroactive_date": null,
+            "significant_coverage": null
+          },
+          "general_liability": {
+            "selection": true,
+            "include_primary": true,
+            "include_excess": true,
+            "claims_basis": "Occurrence",
+            "retroactive_date": null
+          },
+          "include_stop_gap_excess": true,
+          "include_tria_excess": true,
+          "include_punitive_damages_excess": true,
+          "include_costs_in_addition_excess": true,
+          "include_auto_excess": true,
+          "retroactive_date_1_excess": "2022-09-01",
+          "retroactive_date_2_excess": null,
+          "retroactive_date_3_excess": null,
+          "retroactive_date_4_excess": null,
+          "retroactive_date_5_excess": null,
+          "retroactive_date_6_excess": null,
+          "retroactive_date_7_excess": null,
+          "retroactive_date_8_excess": null,
+          "retroactive_date_9_excess": null,
+          "retroactive_date_10_excess": null
+        },
+        "glsn": {
+          "supply_chain": "Not Applicable",
+          "clinical_trial": "Not Applicable",
+          "brag_status": null,
+          "form": null,
+          "size_discount_selection": null,
+          "umbrella": {
+            "auto_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "employers_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "general_liability": {
+              "occurrence_cover": false
+            },
+            "foreign_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "aircraft_nonowned": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "aircraft_owned": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "garage_keepers_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "liquor_law_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "watercraft_non_owned": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "watercraft_owned": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "foreign_employers_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "foreign_general_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "foreign_auto_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            }
+          }
+        },
+        "gmm": {
+          "product_override": "Virtual Care",
+          "umbrella": {
+            "auto_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "employers_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "general_liability": {
+              "occurrence_cover": false
+            },
+            "foreign_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "aircraft_nonowned": {
+              "underlying_ee": 1000000,
+              "underlying_agg": 1000000,
+              "underlying_premium": 150000,
+              "occurrence_cover": false
+            },
+            "aircraft_owned": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "auto_ambulance": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "educators_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "garage_keepers_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "helipad": {
+              "underlying_ee": 2000000,
+              "underlying_agg": 2000000,
+              "underlying_premium": 50000,
+              "occurrence_cover": true
+            },
+            "liquor_law_liability": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "managed_care_eo_health_plan": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "managed_care_eo_nonhealth_plan": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "watercraft_nonowned": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            },
+            "watercraft_owned": {
+              "underlying_ee": null,
+              "underlying_agg": null,
+              "underlying_premium": null,
+              "occurrence_cover": false
+            }
+          }
+        },
+        "cyber": {
+          "product": "BBR",
+          "include_excess": true
+        },
+        "tech_eo": {
+          "contingent_bi_pd": "No"
+        }
+      },
+      "uw_notes": null,
+      "mid_term_adjustments": null,
+      "historical_comments": null,
+      "add_excess_1": true,
+      "add_excess_2": true,
+      "add_excess_3": true,
+      "add_excess_4": true,
+      "add_excess_5": true,
+      "add_excess_6": false,
+      "add_excess_7": false,
+      "add_excess_8": false,
+      "add_excess_9": false,
+      "add_excess_10": false,
+      "options": [
+        {
+          "coverages": {
+            "professional_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 3000000.0
+            },
+            "product_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 3000000.0
+            },
+            "general_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 3000000.0
+            },
+            "eo": {
+              "retention": 500000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 3000000.0
+            },
+            "sexual_abuse": {
+              "retention": 500000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 3000000.0
+            },
+            "employee_benefits_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 3000000.0
+            },
+            "employers_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "healthcare_professional_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "tech_eo_products_media": {
+              "retention": 500000,
+              "per_claim_limit": 1000000,
+              "aggregate_limit": 3000000
+            },
+            "product_recall": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "well_tech_eo_media": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            }
+          },
+          "agg_retention": null,
+          "agg_limit": 3000000.0,
+          "indemnity_only": false,
+          "include_stop_gap_primary": true,
+          "include_tria_primary": true,
+          "include_punitive_damages_primary": true,
+          "include_costs_in_addition_primary": true,
+          "costs_in_addition_selection": "Each and Every",
+          "include_auto_primary": true,
+          "auto_measure": "Milage",
+          "auto_amount": 500000.0,
+          "brokerage_primary": 0.12,
+          "quoted_premium_primary": null,
+          "per_claim_limit_1_excess": 1000000.0,
+          "per_claim_limit_2_excess": 1000000.0,
+          "per_claim_limit_3_excess": 1000000.0,
+          "per_claim_limit_4_excess": 1000000.0,
+          "per_claim_limit_5_excess": 1000000.0,
+          "per_claim_limit_6_excess": null,
+          "per_claim_limit_7_excess": null,
+          "per_claim_limit_8_excess": null,
+          "per_claim_limit_9_excess": null,
+          "per_claim_limit_10_excess": null,
+          "aggregate_limit_1_excess": 3000000.0,
+          "aggregate_limit_2_excess": 3000000.0,
+          "aggregate_limit_3_excess": 3000000.0,
+          "aggregate_limit_4_excess": 3000000.0,
+          "aggregate_limit_5_excess": 3000000.0,
+          "aggregate_limit_6_excess": null,
+          "aggregate_limit_7_excess": null,
+          "aggregate_limit_8_excess": null,
+          "aggregate_limit_9_excess": null,
+          "aggregate_limit_10_excess": null,
+          "brokerage_1_excess": null,
+          "brokerage_2_excess": null,
+          "brokerage_3_excess": null,
+          "brokerage_4_excess": null,
+          "brokerage_5_excess": null,
+          "brokerage_6_excess": null,
+          "brokerage_7_excess": null,
+          "brokerage_8_excess": null,
+          "brokerage_9_excess": null,
+          "brokerage_10_excess": null,
+          "quoted_premium_1_excess": null,
+          "quoted_premium_2_excess": null,
+          "quoted_premium_3_excess": null,
+          "quoted_premium_4_excess": null,
+          "quoted_premium_5_excess": null,
+          "quoted_premium_6_excess": null,
+          "quoted_premium_7_excess": null,
+          "quoted_premium_8_excess": null,
+          "quoted_premium_9_excess": null,
+          "quoted_premium_10_excess": null
+        },
+        {
+          "coverages": {
+            "professional_liability": {
+              "retention": 250000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 4000000.0
+            },
+            "product_liability": {
+              "retention": 250000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 4000000.0
+            },
+            "general_liability": {
+              "retention": 250000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 4000000.0
+            },
+            "eo": {
+              "retention": 250000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 4000000.0
+            },
+            "sexual_abuse": {
+              "retention": 250000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 4000000.0
+            },
+            "employee_benefits_liability": {
+              "retention": 250000.0,
+              "per_claim_limit": 1000000.0,
+              "aggregate_limit": 4000000.0
+            },
+            "employers_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "healthcare_professional_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "tech_eo_products_media": {
+              "retention": 250000,
+              "per_claim_limit": 1000000,
+              "aggregate_limit": 4000000
+            },
+            "product_recall": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "well_tech_eo_media": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            }
+          },
+          "agg_retention": null,
+          "agg_limit": 4000000.0,
+          "indemnity_only": true,
+          "include_stop_gap_primary": true,
+          "include_tria_primary": true,
+          "include_punitive_damages_primary": true,
+          "include_costs_in_addition_primary": true,
+          "costs_in_addition_selection": "Unlimited",
+          "include_auto_primary": true,
+          "auto_measure": "No. of Drivers",
+          "auto_amount": 50.0,
+          "brokerage_primary": 0.12,
+          "quoted_premium_primary": null,
+          "per_claim_limit_1_excess": 2000000.0,
+          "per_claim_limit_2_excess": 2000000.0,
+          "per_claim_limit_3_excess": 2000000.0,
+          "per_claim_limit_4_excess": 2000000.0,
+          "per_claim_limit_5_excess": null,
+          "per_claim_limit_6_excess": null,
+          "per_claim_limit_7_excess": null,
+          "per_claim_limit_8_excess": null,
+          "per_claim_limit_9_excess": null,
+          "per_claim_limit_10_excess": null,
+          "aggregate_limit_1_excess": 5000000.0,
+          "aggregate_limit_2_excess": 5000000.0,
+          "aggregate_limit_3_excess": 5000000.0,
+          "aggregate_limit_4_excess": 5000000.0,
+          "aggregate_limit_5_excess": null,
+          "aggregate_limit_6_excess": null,
+          "aggregate_limit_7_excess": null,
+          "aggregate_limit_8_excess": null,
+          "aggregate_limit_9_excess": null,
+          "aggregate_limit_10_excess": null,
+          "brokerage_1_excess": null,
+          "brokerage_2_excess": null,
+          "brokerage_3_excess": null,
+          "brokerage_4_excess": null,
+          "brokerage_5_excess": null,
+          "brokerage_6_excess": null,
+          "brokerage_7_excess": null,
+          "brokerage_8_excess": null,
+          "brokerage_9_excess": null,
+          "brokerage_10_excess": null,
+          "quoted_premium_1_excess": null,
+          "quoted_premium_2_excess": null,
+          "quoted_premium_3_excess": null,
+          "quoted_premium_4_excess": null,
+          "quoted_premium_5_excess": null,
+          "quoted_premium_6_excess": null,
+          "quoted_premium_7_excess": null,
+          "quoted_premium_8_excess": null,
+          "quoted_premium_9_excess": null,
+          "quoted_premium_10_excess": null
+        },
+        {
+          "coverages": {
+            "professional_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 2000000.0,
+              "aggregate_limit": 5000000.0
+            },
+            "product_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "general_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "eo": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "sexual_abuse": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "employee_benefits_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "employers_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "healthcare_professional_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "tech_eo_products_media": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "product_recall": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "well_tech_eo_media": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            }
+          },
+          "agg_retention": null,
+          "agg_limit": 5000000.0,
+          "indemnity_only": false,
+          "include_stop_gap_primary": false,
+          "include_tria_primary": false,
+          "include_punitive_damages_primary": false,
+          "include_costs_in_addition_primary": false,
+          "costs_in_addition_selection": "None",
+          "include_auto_primary": false,
+          "auto_measure": null,
+          "auto_amount": null,
+          "brokerage_primary": 0.1,
+          "quoted_premium_primary": null,
+          "per_claim_limit_1_excess": 1000000.0,
+          "per_claim_limit_2_excess": 1000000.0,
+          "per_claim_limit_3_excess": 1000000.0,
+          "per_claim_limit_4_excess": 1000000.0,
+          "per_claim_limit_5_excess": null,
+          "per_claim_limit_6_excess": null,
+          "per_claim_limit_7_excess": null,
+          "per_claim_limit_8_excess": null,
+          "per_claim_limit_9_excess": null,
+          "per_claim_limit_10_excess": null,
+          "aggregate_limit_1_excess": 5000000.0,
+          "aggregate_limit_2_excess": 5000000.0,
+          "aggregate_limit_3_excess": 5000000.0,
+          "aggregate_limit_4_excess": 5000000.0,
+          "aggregate_limit_5_excess": null,
+          "aggregate_limit_6_excess": null,
+          "aggregate_limit_7_excess": null,
+          "aggregate_limit_8_excess": null,
+          "aggregate_limit_9_excess": null,
+          "aggregate_limit_10_excess": null,
+          "brokerage_1_excess": null,
+          "brokerage_2_excess": null,
+          "brokerage_3_excess": null,
+          "brokerage_4_excess": null,
+          "brokerage_5_excess": null,
+          "brokerage_6_excess": null,
+          "brokerage_7_excess": null,
+          "brokerage_8_excess": null,
+          "brokerage_9_excess": null,
+          "brokerage_10_excess": null,
+          "quoted_premium_1_excess": null,
+          "quoted_premium_2_excess": null,
+          "quoted_premium_3_excess": null,
+          "quoted_premium_4_excess": null,
+          "quoted_premium_5_excess": null,
+          "quoted_premium_6_excess": null,
+          "quoted_premium_7_excess": null,
+          "quoted_premium_8_excess": null,
+          "quoted_premium_9_excess": null,
+          "quoted_premium_10_excess": null
+        },
+        {
+          "coverages": {
+            "professional_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 2000000.0,
+              "aggregate_limit": 5000000.0
+            },
+            "product_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 2000000.0,
+              "aggregate_limit": 5000000.0
+            },
+            "general_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 2000000.0,
+              "aggregate_limit": 5000000.0
+            },
+            "eo": {
+              "retention": 500000.0,
+              "per_claim_limit": 2000000.0,
+              "aggregate_limit": 5000000.0
+            },
+            "sexual_abuse": {
+              "retention": 500000.0,
+              "per_claim_limit": 2000000.0,
+              "aggregate_limit": 5000000.0
+            },
+            "employee_benefits_liability": {
+              "retention": 500000.0,
+              "per_claim_limit": 2000000.0,
+              "aggregate_limit": 5000000.0
+            },
+            "employers_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "healthcare_professional_liability": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "tech_eo_products_media": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "product_recall": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            },
+            "well_tech_eo_media": {
+              "retention": null,
+              "per_claim_limit": null,
+              "aggregate_limit": null
+            }
+          },
+          "agg_retention": null,
+          "agg_limit": 10000000.0,
+          "indemnity_only": false,
+          "include_stop_gap_primary": true,
+          "include_tria_primary": true,
+          "include_punitive_damages_primary": true,
+          "include_costs_in_addition_primary": true,
+          "costs_in_addition_selection": "Unlimited",
+          "include_auto_primary": true,
+          "auto_measure": "Milage",
+          "auto_amount": 50.0,
+          "brokerage_primary": 0.1,
+          "quoted_premium_primary": null,
+          "per_claim_limit_1_excess": 3000000.0,
+          "per_claim_limit_2_excess": 3000000.0,
+          "per_claim_limit_3_excess": 3000000.0,
+          "per_claim_limit_4_excess": 3000000.0,
+          "per_claim_limit_5_excess": null,
+          "per_claim_limit_6_excess": null,
+          "per_claim_limit_7_excess": null,
+          "per_claim_limit_8_excess": null,
+          "per_claim_limit_9_excess": null,
+          "per_claim_limit_10_excess": null,
+          "aggregate_limit_1_excess": 8000000.0,
+          "aggregate_limit_2_excess": 8000000.0,
+          "aggregate_limit_3_excess": 8000000.0,
+          "aggregate_limit_4_excess": 8000000.0,
+          "aggregate_limit_5_excess": null,
+          "aggregate_limit_6_excess": null,
+          "aggregate_limit_7_excess": null,
+          "aggregate_limit_8_excess": null,
+          "aggregate_limit_9_excess": null,
+          "aggregate_limit_10_excess": null,
+          "brokerage_1_excess": null,
+          "brokerage_2_excess": null,
+          "brokerage_3_excess": null,
+          "brokerage_4_excess": null,
+          "brokerage_5_excess": null,
+          "brokerage_6_excess": null,
+          "brokerage_7_excess": null,
+          "brokerage_8_excess": null,
+          "brokerage_9_excess": null,
+          "brokerage_10_excess": null,
+          "quoted_premium_1_excess": null,
+          "quoted_premium_2_excess": null,
+          "quoted_premium_3_excess": null,
+          "quoted_premium_4_excess": null,
+          "quoted_premium_5_excess": null,
+          "quoted_premium_6_excess": null,
+          "quoted_premium_7_excess": null,
+          "quoted_premium_8_excess": null,
+          "quoted_premium_9_excess": null,
+          "quoted_premium_10_excess": null
+        }
+      ],
+      "option_selected": "Option 1",
+      "cyber_options": [
+        {
+          "notified_individuals_limit": 1000000,
+          "legal_forensic_limit": 500000,
+          "additional_breach_costs_limit": 2000000,
+          "policy_agg_limit": 7000000,
+          "data_network_limit": 3000000,
+          "defense_penalties_limit": 2000000,
+          "payment_card_limit": 500000,
+          "legal_forensic_retention": 5000,
+          "legal_forensic_subretention": 10000,
+          "policy_agg_retention": 500000,
+          "brokerage": 0.12,
+          "model_premium_bbr_rater": 15000
+        },
+        {
+          "notified_individuals_limit": 1000000,
+          "legal_forensic_limit": 500000,
+          "additional_breach_costs_limit": 2000000,
+          "policy_agg_limit": 7000000,
+          "data_network_limit": 3000000,
+          "defense_penalties_limit": 2000000,
+          "payment_card_limit": 500000,
+          "legal_forensic_retention": 5000,
+          "legal_forensic_subretention": 10000,
+          "policy_agg_retention": 100000,
+          "brokerage": 0.12,
+          "model_premium_bbr_rater": null
+        },
+        {
+          "notified_individuals_limit": null,
+          "legal_forensic_limit": null,
+          "additional_breach_costs_limit": null,
+          "policy_agg_limit": null,
+          "data_network_limit": null,
+          "defense_penalties_limit": null,
+          "payment_card_limit": null,
+          "legal_forensic_retention": null,
+          "legal_forensic_subretention": null,
+          "policy_agg_retention": null,
+          "brokerage": null,
+          "model_premium_bbr_rater": null
+        },
+        {
+          "notified_individuals_limit": null,
+          "legal_forensic_limit": null,
+          "additional_breach_costs_limit": null,
+          "policy_agg_limit": null,
+          "data_network_limit": null,
+          "defense_penalties_limit": null,
+          "payment_card_limit": null,
+          "legal_forensic_retention": null,
+          "legal_forensic_subretention": null,
+          "policy_agg_retention": null,
+          "brokerage": null,
+          "model_premium_bbr_rater": null
+        }
+      ],
+      "modifiers": {
+        "cyber": {
+          "cyber_financial_condition": {
+            "value": null,
+            "comment": null
+          },
+          "cyber_maturity_of_business": {
+            "value": null,
+            "comment": null
+          },
+          "cyber_quality_of_management": {
+            "value": null,
+            "comment": null
+          },
+          "cyber_volume_of_information_stored": {
+            "value": null,
+            "comment": null
+          },
+          "cyber_loss_rating": [
+            {
+              "cyber_loss_ratio": "No Losses"
+            }
+          ]
+        },
+        "gmm": {
+          "loss_experience": {
+            "value": null,
+            "comment": null
+          },
+          "claims_handling_cooperation_experience": {
+            "value": null,
+            "comment": null
+          },
+          "risk_management_protocols_in_place": {
+            "value": null,
+            "comment": null
+          },
+          "use_of_standardized_written_contract": {
+            "value": null,
+            "comment": null
+          },
+          "accreditations": {
+            "value": null,
+            "comment": null
+          },
+          "hiring_credentialing_practices": {
+            "value": null,
+            "comment": null
+          },
+          "management_and_financial_condition": {
+            "value": null,
+            "comment": null
+          },
+          "shared_limit_with_physicians": {
+            "value": null,
+            "comment": null
+          },
+          "entity_only_vicarious_liability": {
+            "value": null,
+            "comment": null
+          },
+          "per_location_limit_increased_aggregate": {
+            "value": null,
+            "comment": null
+          },
+          "per_physician_limit_increased_aggregate": {
+            "value": null,
+            "comment": null
+          },
+          "sublimited_coverages_not_those_shown_on_pricing_tab": {
+            "value": null,
+            "comment": null
+          },
+          "transportation_exposure": {
+            "value": null,
+            "comment": null
+          },
+          "pediatric_senior_care_dd_exposure": {
+            "value": null,
+            "comment": null
+          },
+          "pcf_state_required_limits": {
+            "value": null,
+            "comment": null
+          },
+          "sexual_abuse_sublimit": {
+            "value": null,
+            "comment": null
+          },
+          "media_content_review_and_control_procedures_vc_only": {
+            "value": null,
+            "comment": null
+          },
+          "privacy_controls_and_procedures_vc_only": {
+            "value": null,
+            "comment": null
+          }
+        },
+        "glsn": {
+          "loss_history": {
+            "value": null,
+            "comment": null
+          },
+          "contractual_agreements": {
+            "value": null,
+            "comment": null
+          },
+          "protocol_and_informed_consent": {
+            "value": null,
+            "comment": null
+          },
+          "fda_inspections": {
+            "value": null,
+            "comment": null
+          },
+          "product_type_litigation_history": {
+            "value": null,
+            "comment": null
+          },
+          "management_quality_and_financial_condition": {
+            "value": null,
+            "comment": null
+          },
+          "risk_management_protocols_in_place": {
+            "value": null,
+            "comment": null
+          },
+          "vulnerable_populations": {
+            "value": null,
+            "comment": null
+          },
+          "drug_of_last_resort": {
+            "value": null,
+            "comment": null
+          },
+          "foreign_sales": {
+            "value": null,
+            "comment": null
+          },
+          "exceptions_to_dangerous_ingredients": {
+            "value": null,
+            "comment": null
+          },
+          "imported_api_and_or_imported_finished_products": {
+            "value": null,
+            "comment": null
+          },
+          "gl_exposure_retail_locations_warehouses_wet_labs_etc": {
+            "value": null,
+            "comment": null
+          },
+          "sublimited_coverages_not_shown_on_pricing_page": {
+            "value": null,
+            "comment": null
+          },
+          "per_location_limit_increased_aggregate": {
+            "value": null,
+            "comment": null
+          },
+          "hiring_credentialing": {
+            "value": null,
+            "comment": null
+          },
+          "other": {
+            "value": null,
+            "comment": null
+          }
+        }
+      }
+    }
+  }
+]

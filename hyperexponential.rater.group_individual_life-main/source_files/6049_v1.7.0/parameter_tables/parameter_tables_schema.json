@@ -1,0 +1,496 @@
+{
+  "tblDMT_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblDMTHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblROC_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblROCHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblCIR_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblCIRHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblRICost_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblRICostHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblVariableExpenses_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblVariableExpensesHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblFixedExpenses_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblFixedExpensesHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblInvestmentIncome_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblInvestmentIncomeHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblInflation_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblInflationHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblCHE_UP": {
+    "YOA": "int",
+    "Direct": "float",
+    "Reinsurance": "float"
+  },
+  "tblCHEHeader_UP": {
+    "Col1": "str",
+    "Col2": "str",
+    "Col3": "str"
+  },
+  "tblCurrency": {
+    "Currency code": "str",
+    "Details": "str",
+    "FX to USD": "float"
+  },
+  "tblExposureWeights": {
+    "Over N lives": "float",
+    "Credibility given": "float",
+    "Parameter A": "float"
+  },
+  "tblIBNR": {
+    "Col1": "str",
+    "Current Year": "float",
+    "Prior Year 1": "float",
+    "Prior Year 2": "float",
+    "Prior Year 3": "float",
+    "Prior Year 4": "float",
+    "Prior Year 5": "float"
+  },
+  "Life_BenchmarkLR": {
+    "BusPlanLR": "float"
+  },
+  "Life_ProfitLoad": {
+    "Profit": "float"
+  },
+  "Life_ExpensesLoad": {
+    "Expenses": "float"
+  },
+  "tblAgeBand": {
+    "Age (lower bound)": "int",
+    "Age grouping": "int",
+    "Age Band": "str",
+    "Average age": "int"
+  },
+  "tblXfactor": {
+    "Occupation code": "int",
+    "No adjustment": "float",
+    "Loading": "float",
+    "Discount": "float",
+    "Location (host) = Nationality": "float",
+    "Location (host) > Nationality": "float",
+    "Location (host) < Nationality": "float"
+  },
+  "life_CauseSplitCoeff": {
+    "Coefficient of (x-62)2": "float"
+  },
+  "life_CauseSplitIntercept": {
+    "Intercept term": "float"
+  },
+  "tblCauseSplit": {
+    "Group": "str",
+    "Parameter, m": "float"
+  },
+  "lifeDevelopingCountryadj": {
+    "ValueD": "float"
+  },
+  "tblOccupation": {
+    "Occupation code": "int",
+    "Modifier": "float"
+  },
+  "tblInsuredAdj": {
+    "Age Band": "str",
+    "Age Band_shifted": "str",
+    "M": "float",
+    "F": "float"
+  },
+  "TI_proportions": {
+    "Age group": "str",
+    "Age to match": "int",
+    "M": "float",
+    "F": "float"
+  },
+  "CI_multiplier1StCol": {
+    "Sex and Country (list from rating model)": "str"
+  },
+  "tblCI_UK_base_rate": {
+    "Age": "int",
+    "M": "float",
+    "F": "float"
+  },
+  "tblDisabilityRate": {
+    "Age [x]": "int",
+    "PTD Acc Only Own Occ M 1": "float",
+    "PTD Acc Only Own Occ F 1": "float",
+    "PTD Acc Only Own Occ M 2": "float",
+    "PTD Acc Only Own Occ F 2": "float",
+    "PTD Acc Only Own Occ M 3": "float",
+    "PTD Acc Only Own Occ F 3": "float",
+    "PTD Acc Only Own Occ M 4": "float",
+    "PTD Acc Only Own Occ F 4": "float",
+    "PTD Sick Only Own Occ M 1": "float",
+    "PTD Sick Only Own Occ F 1": "float",
+    "PTD Sick Only Own Occ M 2": "float",
+    "PTD Sick Only Own Occ F 2": "float",
+    "PTD Sick Only Own Occ M 3": "float",
+    "PTD Sick Only Own Occ F 3": "float",
+    "PTD Sick Only Own Occ M 4": "float",
+    "PTD Sick Only Own Occ F 4": "float",
+    "PTD Acc Sick Own Occ M 1": "float",
+    "PTD Acc Sick Own Occ F 1": "float",
+    "PTD Acc Sick Own Occ M 2": "float",
+    "PTD Acc Sick Own Occ F 2": "float",
+    "PTD Acc Sick Own Occ M 3": "float",
+    "PTD Acc Sick Own Occ F 3": "float",
+    "PTD Acc Sick Own Occ M 4": "float",
+    "PTD Acc Sick Own Occ F 4": "float",
+    "PTD Acc Only Any Occ M 1": "float",
+    "PTD Acc Only Any Occ F 1": "float",
+    "PTD Acc Only Any Occ M 2": "float",
+    "PTD Acc Only Any Occ F 2": "float",
+    "PTD Acc Only Any Occ M 3": "float",
+    "PTD Acc Only Any Occ F 3": "float",
+    "PTD Acc Only Any Occ M 4": "float",
+    "PTD Acc Only Any Occ F 4": "float",
+    "PTD Sick Only Any Occ M 1": "float",
+    "PTD Sick Only Any Occ F 1": "float",
+    "PTD Sick Only Any Occ M 2": "float",
+    "PTD Sick Only Any Occ F 2": "float",
+    "PTD Sick Only Any Occ M 3": "float",
+    "PTD Sick Only Any Occ F 3": "float",
+    "PTD Sick Only Any Occ M 4": "float",
+    "PTD Sick Only Any Occ F 4": "float",
+    "PTD Acc Sick Any Occ M 1": "float",
+    "PTD Acc Sick Any Occ F 1": "float",
+    "PTD Acc Sick Any Occ M 2": "float",
+    "PTD Acc Sick Any Occ F 2": "float",
+    "PTD Acc Sick Any Occ M 3": "float",
+    "PTD Acc Sick Any Occ F 3": "float",
+    "PTD Acc Sick Any Occ M 4": "float",
+    "PTD Acc Sick Any Occ F 4": "float",
+    "PPD Acc Only Full Contl Scale M 1": "float",
+    "PPD Acc Only Full Contl Scale F 1": "float",
+    "PPD Acc Only Full Contl Scale M 2": "float",
+    "PPD Acc Only Full Contl Scale F 2": "float",
+    "PPD Acc Only Full Contl Scale M 3": "float",
+    "PPD Acc Only Full Contl Scale F 3": "float",
+    "PPD Acc Only Full Contl Scale M 4": "float",
+    "PPD Acc Only Full Contl Scale F 4": "float",
+    "PPD Sick Only Full Contl Scale M 1": "float",
+    "PPD Sick Only Full Contl Scale F 1": "float",
+    "PPD Sick Only Full Contl Scale M 2": "float",
+    "PPD Sick Only Full Contl Scale F 2": "float",
+    "PPD Sick Only Full Contl Scale M 3": "float",
+    "PPD Sick Only Full Contl Scale F 3": "float",
+    "PPD Sick Only Full Contl Scale M 4": "float",
+    "PPD Sick Only Full Contl Scale F 4": "float",
+    "PPD Acc Sick Full Contl Scale M 1": "float",
+    "PPD Acc Sick Full Contl Scale F 1": "float",
+    "PPD Acc Sick Full Contl Scale M 2": "float",
+    "PPD Acc Sick Full Contl Scale F 2": "float",
+    "PPD Acc Sick Full Contl Scale M 3": "float",
+    "PPD Acc Sick Full Contl Scale F 3": "float",
+    "PPD Acc Sick Full Contl Scale M 4": "float",
+    "PPD Acc Sick Full Contl Scale F 4": "float",
+    "PPD Acc Only Ltd Scale M 1": "float",
+    "PPD Acc Only Ltd Scale F 1": "float",
+    "PPD Acc Only Ltd Scale M 2": "float",
+    "PPD Acc Only Ltd Scale F 2": "float",
+    "PPD Acc Only Ltd Scale M 3": "float",
+    "PPD Acc Only Ltd Scale F 3": "float",
+    "PPD Acc Only Ltd Scale M 4": "float",
+    "PPD Acc Only Ltd Scale F 4": "float",
+    "PPD Sick Only Ltd Scale M 1": "float",
+    "PPD Sick Only Ltd Scale F 1": "float",
+    "PPD Sick Only Ltd Scale M 2": "float",
+    "PPD Sick Only Ltd Scale F 2": "float",
+    "PPD Sick Only Ltd Scale M 3": "float",
+    "PPD Sick Only Ltd Scale F 3": "float",
+    "PPD Sick Only Ltd Scale M 4": "float",
+    "PPD Sick Only Ltd Scale F 4": "float",
+    "PPD Acc Sick Ltd Scale M 1": "float",
+    "PPD Acc Sick Ltd Scale F 1": "float",
+    "PPD Acc Sick Ltd Scale M 2": "float",
+    "PPD Acc Sick Ltd Scale F 2": "float",
+    "PPD Acc Sick Ltd Scale M 3": "float",
+    "PPD Acc Sick Ltd Scale F 3": "float",
+    "PPD Acc Sick Ltd Scale M 4": "float",
+    "PPD Acc Sick Ltd Scale F 4": "float",
+    "TTD Acc Only M 1": "float",
+    "TTD Acc Only F 1": "float",
+    "TTD Acc Only M 2": "float",
+    "TTD Acc Only F 2": "float",
+    "TTD Acc Only M 3": "float",
+    "TTD Acc Only F 3": "float",
+    "TTD Acc Only M 4": "float",
+    "TTD Acc Only F 4": "float",
+    "TTD Sick Only M 1": "float",
+    "TTD Sick Only F 1": "float",
+    "TTD Sick Only M 2": "float",
+    "TTD Sick Only F 2": "float",
+    "TTD Sick Only M 3": "float",
+    "TTD Sick Only F 3": "float",
+    "TTD Sick Only M 4": "float",
+    "TTD Sick Only F 4": "float",
+    "TTD Acc Sick M 1": "float",
+    "TTD Acc Sick F 1": "float",
+    "TTD Acc Sick M 2": "float",
+    "TTD Acc Sick F 2": "float",
+    "TTD Acc Sick M 3": "float",
+    "TTD Acc Sick F 3": "float",
+    "TTD Acc Sick M 4": "float",
+    "TTD Acc Sick F 4": "float"
+  },
+  "tblRepat": {
+    "Limit (USD)": "float",
+    "Limit (currency)": "float",
+    "Rate per 1000 Limit": "float",
+    "Rate per Person per Annum": "float"
+  },
+  "tblAddMedEx": {
+    "Limit": "float",
+    "Limit (currency)": "float",
+    "Rate per 1000 Limit": "float",
+    "Rate per Person per Annum": "float"
+  },
+  "tblTTDSickXS": {
+    "tblTTDSickXS": "str",
+    "(PA model uses 0 days as base)": "float"
+  },
+  "tblTTDAccXS": {
+    "tblTTDAccXS": "str",
+    "(PA model uses 0 days as base)": "float"
+  },
+  "tblTTDLimit": {
+    "tblTTDLimit": "str",
+    "(PA model uses 104 days as base)": "float"
+  },
+  "tblTTDSal": {
+    "tblTTDSal": "str",
+    "Factor 1": "float",
+    "Factor 2": "float"
+  },
+  "tblRefPoints": {
+    "Age band": "str",
+    "l(x)": "float",
+    "logit(l(x))": "float"
+  },
+  "tblRegionRates": {
+    "Lookup": "str",
+    "Country": "str",
+    "Region": "str",
+    "Sex": "str",
+    "Factor": "float"
+  },
+  "tblAgeFactor": {
+    "Age": "str",
+    "gamma": "float",
+    "theta": "float"
+  },
+  "tblCountryFactor": {
+    "CountrySex": "str",
+    "l(20-24)": "float",
+    "l(65-69)": "float",
+    "logit (l(20-24))": "float",
+    "logit (l(65-69))": "float",
+    "alpha": "float",
+    "beta": "float",
+    "Affluence flag": "str"
+  },
+  "tblStandardLife": {
+    "Age band": "str",
+    "lx": "float",
+    "l(x)": "float",
+    "logit(l(x))": "float"
+  },
+  "lstCountry": {
+    "lstCountry": "str",
+    "lstDevelopingIndicator": "int",
+    "ISO3": "str"
+  },
+  "lstRegion": {
+    "lstRegion": "str"
+  },
+  "tblCI_multiplier_pivoted": {
+    "Sex and Country": "str",
+    "Age": "int",
+    "SCA": "str",
+    "Value": "float"
+  },
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_basic_experience_rating": {
+    "Clean Years": "str",
+    "Adjustment": "float"
+  },
+  "table_claims_inflation": {
+    "year": "int",
+    "claims_inflation": "float"
+  },
+  "table_currency": {
+    "currency": "str",
+    "exchange_rate": "float"
+  },
+  "table_development_method": {
+    "development": "float",
+    "method": "str"
+  },
+  "table_development_patterns": {
+    "years": "int",
+    "development": "float"
+  },
+  "table_exposure_inflation": {
+    "year": "int",
+    "exposure_inflation": "float"
+  },
+  "table_premium_rate_change": {
+    "year": "int",
+    "rate_change": "float"
+  },
+  "AccidentalDeathNonSmoker": {
+    "Age": "int",
+    "Non-Smoker": "float"
+  },
+  "AccidentalDeathSmoker": {
+    "Age": "int",
+    "Smoker": "float"
+  },
+  "AnyCauseNonSmoker": {
+    "Age": "int",
+    "1": "float",
+    "2": "float",
+    "3": "float",
+    "4": "float",
+    "5": "float"
+  },
+  "AnyCauseSmoker": {
+    "Age": "int",
+    "1": "float",
+    "2": "float",
+    "3": "float",
+    "4": "float",
+    "5": "float"
+  },
+  "calcNaturalNationalityWeight": {
+    "Weight to nationality": "float"
+  },
+  "CountryClassLoadRates": {
+    "Country Class": "str",
+    "Load to Rates Provided": "float"
+  },
+  "NatCauseNonSmoker": {
+    "Age": "int",
+    "1": "float",
+    "2": "float",
+    "3": "float",
+    "4": "float",
+    "5": "float"
+  },
+  "NatCauseSmoker": {
+    "Age": "int",
+    "1": "float",
+    "2": "float",
+    "3": "float",
+    "4": "float",
+    "5": "float"
+  },
+  "NatLocCode": {
+    "Location and Nationality": "str",
+    "Sex": "str",
+    "Age Attained": "int",
+    "q(Natural only)": "float",
+    "q(Non-natural only)": "float",
+    "Pure risk rate": "float",
+    "Code": "str"
+  },
+  "NonSmokerF": {
+    "Age": "int",
+    "0": "float",
+    "1": "float",
+    "2": "float",
+    "3": "float",
+    "4": "float",
+    "5": "float"
+  },
+  "NonSmokerM": {
+    "Age": "int",
+    "0": "float",
+    "1": "float",
+    "2": "float",
+    "3": "float",
+    "4": "float",
+    "5": "float"
+  },
+  "OccAdj": {
+    "Occ 1 Adj": "float",
+    "Occ 4 Adj": "float"
+  },
+  "RGAcountries": {
+    "Country": "str",
+    "Code": "str"
+  },
+  "RiProgramme": {
+    "RI programme": "str",
+    "Val": "float",
+    "Val1": "float"
+  }
+}
