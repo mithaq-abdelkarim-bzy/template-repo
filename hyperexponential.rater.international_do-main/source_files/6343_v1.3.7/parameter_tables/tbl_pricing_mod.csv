@@ -1,5 +1,0 @@
-ParameterName,Value,Comment
-StdDevLoad,0.05,Adjusted from .3 to .05 to reflect more comprehensive calculation of sd needs reduced scaling
-MaxELR_SideA,0.25,0
-MaxELR_ABC,0.6,0
-SideAMinPremium,15000.0,Agreed Level for Side A minimum premium (doesn't affect calc of BPI)

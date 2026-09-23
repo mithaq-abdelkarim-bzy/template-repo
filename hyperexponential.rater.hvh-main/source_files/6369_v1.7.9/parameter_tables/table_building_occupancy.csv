@@ -1,8 +1,0 @@
-Lookup code,Values,AOP,WS,EQ,Excess FL,Liability,Equipment breakdown,PAF,Wildfire,WaterDamage,Hail,Wind,Other,RoofDamageLeak,Theft,Lightning,Fire,IceSnowDamage,PowerSurge,WinterStorm
-Primary,Primary,1,1,1,1,1,1,1,1,1.0,1,1,1,1,1,1,1,1,1,1
-Secondary,Secondary,1,1,1,1,1,1,1,1,0.7088426933007782,1,1,1,1,1,1,1,1,1,1
-Secondary / Seasonal Rental,Secondary / Seasonal Rental,1,1,1,1,1,1,1,1,0.7112971743715275,1,1,1,1,1,1,1,1,1,1
-Vacant,Vacant,1,1,1,1,1,1,1,1,0.610639361629431,1,1,1,1,1,1,1,1,1,1
-Rental,Rental,1,1,1,1,1,1,1,1,0.8368969757514176,1,1,1,1,1,1,1,1,1,1
-Renovation (builders risk),Renovation (builders risk),1,1,1,1,1,1,1,1,0.29872362927010565,1,1,1,1,1,1,1,1,1,1
-Spec home / Model Home,Spec home / Model Home,1,1,1,1,1,1,1,1,0.29872362927010565,1,1,1,1,1,1,1,1,1,1

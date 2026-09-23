@@ -1,9 +1,0 @@
-x_lower,x_upper,factor,Reinstatements
-0,1,1.1,Less than 1
-1,1.5,1,Equal
-1.5,2,0.95,150% as much
-2,3,0.9,Twice as much
-3,4,0.85,Three times as much
-4,5,0.8,Four times as much
-5,6,0.75,Five times as much
-6,9999,0.75,Greater than five times as much

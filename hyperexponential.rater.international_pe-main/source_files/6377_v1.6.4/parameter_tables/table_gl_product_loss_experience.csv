@@ -1,9 +1,0 @@
-loss_experience,factor
-No Claims in 10+ years,0.65
-No Claims in 6-10 years,0.75
-No Claims in 3-5 years,0.85
-No Claims under 3 years,1
-1 Claim under 3 years,1.25
-2 or more Claims under 3 years,1.35
-1 Claim 3-5 years,1.2
-2 or more Claims 3-5 years,1.3

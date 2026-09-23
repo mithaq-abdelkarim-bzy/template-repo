@@ -1,8 +1,0 @@
-Lookup code,Values,AOP,WS,EQ,Excess FL,Liability,Equipment breakdown,PAF,Wildfire,WaterDamage,Hail,Wind,Other,RoofDamageLeak,Theft,Lightning,Fire,IceSnowDamage,PowerSurge,WinterStorm
-Homeowners (HO5),Homeowners (HO5),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Homeowners (HO3),Homeowners (HO3),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Condominium (HO6),Condominium (HO6),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Dwelling,Dwelling,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Excess Flood,Excess Flood,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Excess Wind & Hail,Excess Wind & Hail,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Monoline Earthquake,Monoline Earthquake,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

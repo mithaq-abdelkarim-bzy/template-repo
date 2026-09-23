@@ -1,6 +1,0 @@
-travel_type,rate
-Transits within city,0.000075
-Transits within country,0.0001
-Transits within EU,0.00015
-Transits EU - USA,0.00025
-Transits ROW,0.00045
