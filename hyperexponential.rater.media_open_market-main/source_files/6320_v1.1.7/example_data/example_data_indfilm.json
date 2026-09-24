@@ -1,0 +1,1691 @@
+[
+  {
+    "bug_report_email": "Please use the following email to report a bug or issue with the model and the support team will get back to you shortly.\n    Please include the model name, a brief description of the issue, and the website link to the policy the issue relates to. \n    \n    [RatingTeamDev@beazley](mailto:RatingTeamDev@beazley.com?subject=RATERNAME-Rater)",
+    "cds": {
+      "annual_tv": {
+        "annual_budget": null,
+        "modifiers": {
+          "australian": null,
+          "jurisdiction": null,
+          "lawyers": null
+        },
+        "selections": {
+          "australian": "No",
+          "jurisdiction": "WW",
+          "lawyers": "Recognised media lawyers"
+        },
+        "turnover": 0.0
+      },
+      "annualtv_masking": false,
+      "application_date": null,
+      "broker_contact": "",
+      "case_pricing_analysis_location": null,
+      "clearance_date": null,
+      "clearance_status": null,
+      "coverage_name": "Individual Film",
+      "coverage_selected_flag": true,
+      "currencies": {
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ],
+        "source_currency": "JPY",
+        "target_currency": null
+      },
+      "cyber_code": null,
+      "excess_pricing_note": null,
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "exposure": {
+        "aggregate": {
+          "annual_tv": {
+            "capped_productions": null,
+            "number_of_productions": null
+          },
+          "hazard_group": null,
+          "individual_film": {
+            "exhibition": "Cinema, DVD, TV, Internet and all other formats"
+          },
+          "individual_tv": {
+            "length": null,
+            "number_of_episodes": null
+          },
+          "minimum_premium": 4543.020943980246,
+          "nonrateable": {
+            "base_rate": null,
+            "revenue": null
+          },
+          "rateable": {
+            "base_rate": null,
+            "revenue": 0.0
+          },
+          "total_base_premium": 1365659.6712328764,
+          "total_revenue": 0.0
+        },
+        "granular": {
+          "annual_tv": {
+            "genre": {
+              "children_religious": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "drama_chat": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "entertainment_sitcom": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "factual_contentious": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "factual_investigative": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "factual_non_investigative": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "films_for_tv": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "game_show": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "live": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "reality": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              },
+              "sport_history_nature": {
+                "alloc_production_number": null,
+                "average_premium": null,
+                "base_premium": null,
+                "perc_of_total_turnover": null,
+                "turnover_amount": null
+              }
+            }
+          },
+          "media": {
+            "advert_agency": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "market_research": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "misc_advert": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other1": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other2": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other3": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other4": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other5": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other6": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "production_companies": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "public_relations": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "publishing_high": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "publishing_low": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "publishing_medium": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "publishing_severe": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "radio": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "social_celeb": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "social_low": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "social_medium": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            }
+          },
+          "music": {
+            "artist_high": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "artist_low": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "artist_medium": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "composer_high": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "composer_low": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "composer_medium": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "composer_severe": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "licensing": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "music_talent": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other1": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other2": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other3": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other4": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other5": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other6": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "record_label_high": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "record_label_low": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "record_label_medium": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "royalties": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "streaming": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "supervision": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            }
+          },
+          "tvfilm": {
+            "broadcast2": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "broadcast3": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "broadcast4": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "broadcast5": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "broadcast6": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "distribution_high": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "distribution_low": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "distribution_medium": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "distribution_veryhigh": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "distribution_verylow": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other1": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other2": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other3": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other4": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other5": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "other6": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "production2": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "production3": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "production4": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "production5": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            },
+            "production6": {
+              "base_rate": 0.0,
+              "comment": null,
+              "show_row": null
+            }
+          }
+        }
+      },
+      "individual_film": {
+        "modifiers": {
+          "appeal": 1.0,
+          "australian": 1.0,
+          "budget": 1.1,
+          "cast": 1.1,
+          "coverage_basis": 1.1,
+          "established_format": 1.0,
+          "exhibition": 1365659.6712328764,
+          "foreign_language": 0.9,
+          "jurisdiction": 1.0,
+          "lawyers": 0.9,
+          "merchandising": 1.05,
+          "policy_period": 0.85,
+          "soundtrack": 1.05,
+          "subject_matter": 0.9
+        },
+        "selections": {
+          "appeal": "High (very high popularity)",
+          "australian": "No",
+          "budget": "\u00a310m and above",
+          "cast": "High Profile (very famous/Hollywood actor(s), producers &/or director)",
+          "coverage_basis": "Occurrence",
+          "established_format": "No",
+          "foreign_language": "Yes",
+          "jurisdiction": "WW",
+          "lawyers": "Recognised media lawyers",
+          "merchandising": "Yes",
+          "policy_period": "2 year",
+          "soundtrack": "Yes",
+          "subject_matter": "Entirely original, set in the 20th or 21st Century"
+        }
+      },
+      "individual_tv": {
+        "modifiers": {
+          "australian": null,
+          "coverage_basis": null,
+          "established_format": null,
+          "genre": null,
+          "jurisdiction": null,
+          "lawyers": null,
+          "merchandising": null,
+          "number_of_episodes": null,
+          "policy_period": null,
+          "primary_broadcast": null,
+          "soundtrack": null,
+          "webisodes": null
+        },
+        "selections": {
+          "australian": "No",
+          "coverage_basis": "Claims Made",
+          "established_format": "No",
+          "genre": null,
+          "jurisdiction": "WW",
+          "lawyers": "Recognised media lawyers",
+          "merchandising": "No",
+          "policy_period": "3 year",
+          "primary_broadcast": "Included",
+          "soundtrack": "No",
+          "webisodes": "No"
+        }
+      },
+      "individualfilm_masking": true,
+      "individualtv_masking": false,
+      "is_binder": "No",
+      "key_industry": {
+        "code": null,
+        "code_name": null,
+        "code_type": null
+      },
+      "layers": [
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": 700000000.0,
+          "aggregate_limit_view": null,
+          "attachment": 5000000.0,
+          "benchmark_premium": 2600048.8144904394,
+          "benchmark_premium_100": 2600048.8144904394,
+          "benchmark_premium_annual": 2600048.8144904394,
+          "benchmark_premium_annual_100": 2600048.8144904394,
+          "benchmark_premium_annualised": 2600048.8144904394,
+          "benchmark_premium_net": 2340043.9330413956,
+          "benchmark_premium_net_100": 2340043.9330413956,
+          "benchmark_premium_pre_uw_adj": null,
+          "bound_premium": null,
+          "bpi": 0.38460816367248907,
+          "bpi_case_priced": 0.0,
+          "bpi_pre_uw_adj": 0.38460816367248907,
+          "brokerage": 0.1,
+          "brokerage_input": 0.1,
+          "carrier": 0.33,
+          "currency": "JPY",
+          "deductible": null,
+          "excess": null,
+          "excess_flag": false,
+          "expected_loss_cost": 1571834.5596630808,
+          "expected_loss_cost_100": 1571834.5596630808,
+          "expected_loss_cost_pre_uw_adj": 1571834.5596630808,
+          "implied_ilf": null,
+          "implied_price_per_m": 3782.445343501024,
+          "is_primary_excess": null,
+          "layer_label": "Primary Layer",
+          "limit": null,
+          "model_premium": null,
+          "pflr": 1.8200341701433074,
+          "pflr_att": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 1.8200341701433074,
+          "premium": null,
+          "premium_label": "Gross Bound Premium",
+          "quoted_ilf": null,
+          "quoted_premium": 1000000.0,
+          "quoted_premium_100": 1000000.0,
+          "quoted_premium_annual": 1000000.0,
+          "quoted_premium_annual_100": 1000000.0,
+          "quoted_premium_annualised": 1000000.0,
+          "quoted_premium_net": 900000.0,
+          "quoted_premium_net_100": 900000.0,
+          "quoted_premium_view": null,
+          "quoted_price_per_m": 1428.5714285714287,
+          "rate_change": {
+            "aggregate_limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 700000000.0
+            },
+            "attachment": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 5000000.0
+            },
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.1
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "JPY",
+              "renewal": "JPY"
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "expiring_layer": 1,
+            "expiring_policy_info": {
+              "expiring_aggregate_limit": null,
+              "expiring_attachment": null,
+              "expiring_benchmark_premium_100": null,
+              "expiring_bpi": null,
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_expected_loss_100": null,
+              "expiring_policy_length": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual_100": null,
+              "expiring_section_reference": null,
+              "expiring_written_line": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 1000000.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 1000000.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 1000000.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 1000000.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": null,
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": true,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": null,
+          "section_reference": "primary ref",
+          "section_reference_view": null,
+          "status": "Bound",
+          "status_view": null,
+          "technical_premium": 2647711.740450717,
+          "technical_premium_100": 2647711.740450717,
+          "technical_premium_net": 2382940.5664056456,
+          "technical_premium_net_100": 2382940.5664056456,
+          "technical_premium_pre_uw_adj": null,
+          "tpi": 0.3776846190324975,
+          "tpi_pre_uw_adj": 0.3776846190324975,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_input": 1.0
+        },
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": 100000000.0,
+          "aggregate_limit_view": 100000000.0,
+          "attachment": 700000000.0,
+          "benchmark_premium": 147922.89616935956,
+          "benchmark_premium_100": 147922.89616935956,
+          "benchmark_premium_annual": 147922.89616935956,
+          "benchmark_premium_annual_100": 147922.89616935956,
+          "benchmark_premium_annualised": 147922.89616935956,
+          "benchmark_premium_net": 118338.31693548766,
+          "benchmark_premium_net_100": 118338.31693548766,
+          "benchmark_premium_pre_uw_adj": null,
+          "bound_premium": null,
+          "bpi": 1.3520557342996884,
+          "bpi_case_priced": 0.0,
+          "bpi_pre_uw_adj": 1.3520557342996884,
+          "brokerage": 0.2,
+          "brokerage_input": 0.2,
+          "carrier": 0.33,
+          "currency": "JPY",
+          "deductible": null,
+          "excess": null,
+          "excess_flag": true,
+          "expected_loss_cost": 79489.2154224661,
+          "expected_loss_cost_100": 79489.2154224661,
+          "expected_loss_cost_pre_uw_adj": 79489.2154224661,
+          "implied_ilf": 0.8274571061760991,
+          "implied_price_per_m": 3129.8112782026187,
+          "is_primary_excess": null,
+          "layer_label": "Excess 1",
+          "limit": null,
+          "model_premium": null,
+          "pflr": 0.5177301365927585,
+          "pflr_att": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.5177301365927585,
+          "premium": null,
+          "premium_label": "Gross Quoted Premium",
+          "quoted_ilf": 1.4,
+          "quoted_premium": 200000.0,
+          "quoted_premium_100": 200000.0,
+          "quoted_premium_annual": 200000.0,
+          "quoted_premium_annual_100": 200000.0,
+          "quoted_premium_annualised": 200000.0,
+          "quoted_premium_net": 160000.0,
+          "quoted_premium_net_100": 160000.0,
+          "quoted_premium_view": 200000.0,
+          "quoted_price_per_m": 2000.0,
+          "rate_change": {
+            "aggregate_limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 100000000.0
+            },
+            "attachment": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 700000000.0
+            },
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.2
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "JPY",
+              "renewal": "JPY"
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "expiring_layer": 2,
+            "expiring_policy_info": {
+              "expiring_aggregate_limit": null,
+              "expiring_attachment": null,
+              "expiring_benchmark_premium_100": null,
+              "expiring_bpi": null,
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_expected_loss_100": null,
+              "expiring_policy_length": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual_100": null,
+              "expiring_section_reference": null,
+              "expiring_written_line": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 200000.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 200000.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 200000.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 200000.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": null,
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": true,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": null,
+          "section_reference": "excess 1 ref",
+          "section_reference_view": "excess 1 ref",
+          "status": "Quoted",
+          "status_view": "Quoted",
+          "technical_premium": 312981.12782026187,
+          "technical_premium_100": 312981.12782026187,
+          "technical_premium_net": 250384.90225620952,
+          "technical_premium_net_100": 250384.90225620952,
+          "technical_premium_pre_uw_adj": null,
+          "tpi": 0.6390161649454327,
+          "tpi_pre_uw_adj": 0.6390161649454327,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_input": 1.0
+        },
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": 200000000.0,
+          "aggregate_limit_view": 200000000.0,
+          "attachment": 800000000.0,
+          "benchmark_premium": 265041.61658164504,
+          "benchmark_premium_100": 265041.61658164504,
+          "benchmark_premium_annual": 265041.61658164504,
+          "benchmark_premium_annual_100": 265041.61658164504,
+          "benchmark_premium_annualised": 265041.61658164504,
+          "benchmark_premium_net": 185529.1316071515,
+          "benchmark_premium_net_100": 185529.1316071515,
+          "benchmark_premium_pre_uw_adj": null,
+          "bound_premium": 400000.0,
+          "bpi": 1.5091969523841988,
+          "bpi_case_priced": 0.0,
+          "bpi_pre_uw_adj": 1.5091969523841988,
+          "brokerage": 0.3,
+          "brokerage_input": 0.3,
+          "carrier": 0.33,
+          "currency": "JPY",
+          "deductible": null,
+          "excess": null,
+          "excess_flag": true,
+          "expected_loss_cost": 124622.06233255447,
+          "expected_loss_cost_100": 124622.06233255447,
+          "expected_loss_cost_pre_uw_adj": 124622.06233255447,
+          "implied_ilf": 0.7186183266608014,
+          "implied_price_per_m": 2249.13974350607,
+          "is_primary_excess": null,
+          "layer_label": "Excess 2",
+          "limit": null,
+          "model_premium": null,
+          "pflr": 0.46382282901787875,
+          "pflr_att": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.46382282901787875,
+          "premium": null,
+          "premium_label": "Gross Bound Premium",
+          "quoted_ilf": 0.75,
+          "quoted_premium": 300000.0,
+          "quoted_premium_100": 300000.0,
+          "quoted_premium_annual": 300000.0,
+          "quoted_premium_annual_100": 300000.0,
+          "quoted_premium_annualised": 300000.0,
+          "quoted_premium_net": 210000.0,
+          "quoted_premium_net_100": 210000.0,
+          "quoted_premium_view": 300000.0,
+          "quoted_price_per_m": 1500.0,
+          "rate_change": {
+            "aggregate_limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 200000000.0
+            },
+            "attachment": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 800000000.0
+            },
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.3
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "JPY",
+              "renewal": "JPY"
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "expiring_layer": 3,
+            "expiring_policy_info": {
+              "expiring_aggregate_limit": null,
+              "expiring_attachment": null,
+              "expiring_benchmark_premium_100": null,
+              "expiring_bpi": null,
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_expected_loss_100": null,
+              "expiring_policy_length": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual_100": null,
+              "expiring_section_reference": null,
+              "expiring_written_line": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 300000.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 300000.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 300000.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 300000.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": null,
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": true,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": null,
+          "section_reference": "excess 2 ref",
+          "section_reference_view": "excess 2 ref",
+          "status": "Bound",
+          "status_view": "Bound",
+          "technical_premium": 449827.948701214,
+          "technical_premium_100": 449827.948701214,
+          "technical_premium_net": 314879.5640908498,
+          "technical_premium_net_100": 314879.5640908498,
+          "technical_premium_pre_uw_adj": null,
+          "tpi": 0.8892288732945963,
+          "tpi_pre_uw_adj": 0.8892288732945963,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_input": 1.0
+        }
+      ],
+      "media_masking": false,
+      "modifiers": {
+        "experience_factor": {
+          "max": 1.0,
+          "min": 0.65,
+          "output": 1.0,
+          "response": "No claim activity or claim activity with little severity or frequency",
+          "selected": null
+        },
+        "extended_reporting_period": {
+          "factor": 1.0,
+          "length": null
+        },
+        "longevity_factor": 1.0,
+        "media": {
+          "contingent_bi_pd_exposure": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "contract_sizes": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "geographical_scope": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "media_review_control_procedures": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "popularity": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "proportion_of_own_content": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "qualifications_inhouse_counsel": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "us_exposure": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "use_of_standard_contracts": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          }
+        },
+        "music": {
+          "contract_sizes": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "high_volume_of_licensing": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "popularity": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "size_of_back_catalogue": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "us_exposure": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          }
+        },
+        "optional_coverages": {
+          "info_sec_liability": {
+            "comment": null,
+            "included": "No",
+            "max": "100",
+            "min": "0",
+            "output": 0.0,
+            "selected": 0.0
+          },
+          "tech_eo": {
+            "comment": null,
+            "included": "No",
+            "max": "100",
+            "min": "0",
+            "output": 0.0,
+            "selected": 0.0
+          }
+        },
+        "total_schedule_mod": null,
+        "tvfilm": {
+          "ability_to_subrogate": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "acquisition_or_development_only": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "average_budget": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "fair_use_exposure": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "max_budget": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "popularity": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "quality_of_legal_clearance": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          },
+          "three_year_cover": {
+            "max": null,
+            "min": null,
+            "selected": 0.0
+          }
+        }
+      },
+      "music_masking": false,
+      "nonstandard_rater_masking": true,
+      "option_selected": "Option 1",
+      "options": [
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 1",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 2",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 3",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 4",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 5",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 6",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 7",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 8",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 9",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        },
+        {
+          "aggregate_limit": null,
+          "benchmark_premium": null,
+          "eec_limit": null,
+          "option_label": "Option 10",
+          "quoted_bpi": null,
+          "quoted_premium": null,
+          "retention": null,
+          "technical_premium": null
+        }
+      ],
+      "policy_option_id": 1346126,
+      "price_excess_flag": true,
+      "primary": {
+        "aggregate_limit_view": 700000000.0,
+        "attachment": 5000000.0,
+        "benchmark_premium": 1459190.6821336858,
+        "benchmark_premium_net": 1094393.0116002643,
+        "bound_premium": 1000000.0,
+        "bound_premium_input": 1000000.0,
+        "bpi": 0.6853113936677288,
+        "bpi_pre_uw_adj": null,
+        "brokerage": 0.25,
+        "excess_inputs": {
+          "aggregate": 5000000.0,
+          "eec": 2000000.0
+        },
+        "expected_loss_cost": 766075.108120185,
+        "expected_loss_cost_pre_uw_adj": 766075.108120185,
+        "layer_label": "Primary Layer",
+        "limit_inputs": {
+          "aggregate": 700000000.0,
+          "eec": 100000000.0
+        },
+        "model_premium": 1178577.0894156692,
+        "quoted_premium_input": 1000000.0,
+        "quoted_premium_view": 1000000.0,
+        "section_reference": "primary ref",
+        "section_reference_view": "primary ref",
+        "status": "Bound",
+        "status_view": "Bound",
+        "technical_premium": 1583031.5183887836,
+        "technical_premium_net": 1187273.6387915877,
+        "tpi": 0.6316993618786595,
+        "tpi_pre_uw_adj": null
+      },
+      "rate_change": {
+        "expiring_expiry_date": null,
+        "expiring_inception_date": null,
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1346643,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        },
+        "has_fetch_not_run": true,
+        "has_fetch_run": null,
+        "has_rarc_not_run": true,
+        "has_rarc_run": null,
+        "instructions": "The rate change tab calculates the change in premium associated with each component (detailed descriptions in the table below). The most appropriate method to obtain a rate change is to calculate the change on premium rather than the change in underlying factors as there are numerous interactions and products to consider.\n\n                    To calculate the rate change, please follow the steps below:\n                    1) The user should fist click 'Fetch Expiring Data' to initialise the rate change calculation.\n                    2) Select mapping between renewing layers and expiry, this needs to be a 1-1 mapping. For new layers that do not have any link to expiring layer, set the expiring layer to the blank value.\n                    3) If there have been any changes to the previous tabs (including the first instance of reaching this tab in any record/YOA), please press 'Calculate Rate Change'.\n                    4) The rater will derive the rate changes to each component from the user input.\n                    5) The user will be able to override the rate change values as appropriate in the 'UW Selected %' column.\n                    6) To recalculate rate change following further changes, please press 'Calculate Rate Change' again.\n                    7) Following the task running, the user will be able to override 'Expiring' and 'Renewal' fields with rate change automatically calculating WITHOUT having to run the task again. \n\n                    _Rate Change Components Include:_\n                    _**Exposure Change**_: Driven by changes to base premium due to market cap, assets, country, industry, and ADR percentage\n                    _**Risk Characteristics Change**_: Driven by changes to schedule modifiers\n                    _**Deductible Change**_: Driven by changes to excesses, and deductibles\n                    _**Limit Change**_: Driven by changes to limits \n                    _**Terms and Conditions Change**_: Driven by changes to coverages selected\n                    _**Other Change**_: Driven by any other factors such as brokerage\n                    ",
+        "layer_mapping": null,
+        "rarc_coverage_use": null,
+        "rarc_insured_asset_use": null,
+        "rarc_message_show": null,
+        "rarc_run_again_message": null,
+        "show_layer_1": true,
+        "show_layer_10": null,
+        "show_layer_11": null,
+        "show_layer_2": true,
+        "show_layer_3": true,
+        "show_layer_4": null,
+        "show_layer_5": null,
+        "show_layer_6": null,
+        "show_layer_7": null,
+        "show_layer_8": null,
+        "show_layer_9": null
+      },
+      "rater_priced_excess": true,
+      "rater_priced_nonstandard": true,
+      "rater_priced_standard": false,
+      "rating_factors": {
+        "default_curve": null,
+        "guideline_deductible": null,
+        "ilf_curve": null,
+        "location": "JAPAN",
+        "policy_term": 1.0,
+        "territory_factor": 1.4,
+        "years_in_business": null
+      },
+      "retroactive_date": null,
+      "riskinfo_comments": null,
+      "standard_fields": {
+        "benchmark_class": null,
+        "broker": null,
+        "expiry_date": "2021-12-31",
+        "facility_reference": null,
+        "inception_date": "2021-01-01",
+        "insured_country": null,
+        "insured_name": "Alphabet Inc.",
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_case_priced": false,
+        "is_free_trade_zone": false,
+        "is_rater_priced": true,
+        "is_renewal": true,
+        "policy_reference": null,
+        "rating_methodology": "Rater",
+        "trifocus": null,
+        "underwriter": "Ana Bursack",
+        "uw_rationale": "dgndntynyt"
+      },
+      "standard_rater_masking": false,
+      "tvfilm_masking": false
+    },
+    "hx_core": {
+      "charged_premium": 0.0,
+      "class_code": "0",
+      "expiry_date": "2021-12-31",
+      "inception_date": "2021-01-01",
+      "model_premium": 0.0,
+      "premium_currency": "",
+      "ulr": 0.0
+    },
+    "model_state": {
+      "expiring_policy_option_id": 1346643,
+      "landing_page_info": "Click the 'import expiring policy data' arrow in the top right corner then click **Start Policy**. ",
+      "pressed_start_renewal_task": true,
+      "show_after_landing_page": true,
+      "show_landing_page": false,
+      "show_rate_change": true
+    },
+    "policy_doc": {
+      "data_dict": "{\"brokerage\": 0.1, \"expiry_date\": \"31/12/2021\", \"inception_date\": \"01/01/2021\", \"insured_name\": \"Alphabet Inc.\", \"underwriter\": \"Ana Bursack\", \"section_reference\": \"\", \"source_currency\": \"JPY\", \"term\": 1.0, \"written_line\": 1.0, \"status\": \"Bound\", \"quoted_premium\": 1000000.0, \"benchmark_premium\": 2600048.8144904394, \"technical_premium\": 2647711.740450717, \"bpi\": 0.38460816367248907, \"tpi\": 0.3776846190324975, \"underwriter_adjustment\": 0.0, \"uw_comments\": \"dgndntynyt\", \"rate_change\": 1.0, \"policy_url\": \"https://www.beazley.hxrenew.com/policies/1271416/options/1346126\"}",
+      "output_file": null,
+      "premium_check": null,
+      "show_download": false,
+      "show_generate_button": true,
+      "show_premium_check": null,
+      "task_data_dict": null
+    }
+  }
+]

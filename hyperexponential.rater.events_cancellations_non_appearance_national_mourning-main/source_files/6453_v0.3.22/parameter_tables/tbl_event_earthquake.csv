@@ -1,0 +1,269 @@
+country,state,rate,pattern
+Worldwide,,0.000349848172926416,Other
+APAC,,0.00175543543077031,Other
+Eastern Europe,,0,Other
+Latin America,,0.000555494387228351,Other
+Middle East,,0,Other
+North America,,0.000279878538341133,Other
+Africa,,0,Other
+Western Europe,,0,Other
+US,Alabama,9.72716755187098E-06,Other
+US,Alaska,0.000853691514038733,Other
+US,Arizona,7.32070411650944E-05,Other
+US,Arkansas,0.000014665911453374,Other
+US,California,0.000939724314305255,Other
+US,Colorado,0,Other
+US,Connecticut,0,Other
+US,Delaware,0,Other
+US,Florida,0,Other
+US,Georgia,0,Other
+US,Hawaii,0.000394834758458649,Other
+US,Idaho,9.13059988528938E-05,Other
+US,Illinois,1.47086226670566E-05,Other
+US,Indiana,1.15012918107906E-05,Other
+US,Iowa,0,Other
+US,Kansas,0,Other
+US,Kentucky,1.46891700118406E-05,Other
+US,Louisiana,0,Other
+US,Maine,0,Other
+US,Maryland,0,Other
+US,Massachusetts,0,Other
+US,Michigan,0,Other
+US,Minnesota,0,Other
+US,Mississippi,1.09631912692145E-05,Other
+US,Missouri,1.52168299960803E-05,Other
+US,Montana,0.000075131466007367,Other
+US,Nebraska,0,Other
+US,Nevada,0.000164485309852557,Other
+US,New Hampshire,0,Other
+US,New Jersey,0,Other
+US,New Mexico,2.04430107006461E-05,Other
+US,New York,0,Other
+US,North Carolina,0,Other
+US,North Dakota,0,Other
+US,Ohio,0,Other
+US,Oklahoma,0,Other
+US,Oregon,8.74803390170035E-05,Other
+US,Pennsylvania,0,Other
+US,Rhode Island,0,Other
+US,South Carolina,0,Other
+US,South Dakota,0,Other
+US,Tennessee,1.77374541937076E-05,Other
+US,Texas,1.28210667489755E-05,Other
+US,Utah,6.18082712079832E-05,Other
+US,Vermont,0,Other
+US,Virginia,0,Other
+US,Washington,0.000119713671908853,Other
+US,West Virginia,0,Other
+US,Wisconsin,0,Other
+US,Wyoming,4.21119960566076E-05,Other
+Afghanistan,,0,Other
+Albania,,0,Other
+Algeria,,0,Other
+American Samoa,,0,Other
+Andorra,,0,Other
+Angola,,0,Other
+Anguilla,,0,Other
+Antigua and Barbuda,,0,Other
+Argentina,,0.000057970081918156,Other
+Armenia,,0,Other
+Aruba,,0,Other
+Australia,,9.21407696353273E-06,Other
+Austria,,0,Other
+Azerbaijan,,0,Other
+Bahamas,,0,Other
+Bahrain,,0,Other
+Bangladesh,,0,Other
+Barbados,,0,Other
+Belarus,,0,Other
+Belgium,,0,Other
+Belize,,0,Other
+Benin,,0,Other
+Bermuda,,0,Other
+Bhutan,,0,Other
+Bolivia,,1.96626734112805E-05,Other
+Bosnia,,0.001875,Other
+Botswana,,0,Other
+Brazil,,1.79721657459073E-06,Other
+Brunei Darussalam,,0,Other
+Bulgaria,,0.001875,Other
+Burkina Faso,,0,Other
+Burundi,,0,Other
+Cambodia,,0,Other
+Cameroon,,0,Other
+Canada,,0,Other
+Cape Verde,,0,Other
+Cayman Islands,,0,Other
+Central African Republic,,0,Other
+Chad,,0,Other
+Chile,,0.00123297574344813,Other
+China,,0.00217359924784501,Other
+Colombia,,0.000314068461093268,Other
+Comoros,,0,Other
+Costa Rica,,0.000064072550104809,Other
+Cote d'Ivoire (Ivory Coast),,0,Other
+Croatia,,0.001875,Other
+Cuba,,0,Other
+Curacao,,0,Other
+Cyprus,,0.001125,Other
+Czech Republic,,0,Other
+Denmark,,0,Other
+Djibouti,,0,Other
+Dominica,,0,Other
+Dominican Republic,,0,Other
+DRC,,0,Other
+East Timor,,0,Other
+Ecuador,,0.000156057573367245,Other
+Egypt,,0,Other
+El Salvador,,0.000078477292212373,Other
+Equatorial Guinea,,0,Other
+Eritrea,,0,Other
+Estonia,,0,Other
+Ethiopia,,0,Other
+Fiji,,0,Other
+Finland,,0,Other
+France,,0,Other
+French Guiana,,0,Other
+Gabon,,0,Other
+Gambia,,0,Other
+Georgia,,0,Other
+Germany,,0,Other
+Ghana,,0,Other
+Greece,,0.001875,Other
+Grenada,,0.00075,Other
+Guam,,0,Other
+Guatemala,,0.000167760321421388,Other
+Guinea,,0,Other
+Guinea-Bissau,,0,Other
+Guyana,,6.92490864667362E-16,Other
+Haiti,,0,Other
+Honduras,,0,Other
+Hong Kong,,0,Other
+Hungary,,0,Other
+Iceland,,0,Other
+India,,0.00169409262626443,Other
+Indonesia,,0.00269799823301105,Other
+Iran,,0,Other
+Iraq,,0,Other
+Ireland,,0,Other
+Israel/PA,,0,Other
+Italy,,0.001125,Other
+Jamaica,,0.00075,Other
+Japan,,0.00180059411840758,Other
+Jordan,,0,Other
+Kazakhstan,,0,Other
+Kenya,,0,Other
+Kiribati,,0,Other
+Kosovo,,0,Other
+Kuwait,,0,Other
+Kyrgyzstan,,0,Other
+Laos,,0,Other
+Latvia,,0,Other
+Lebanon,,0,Other
+Lesotho,,0,Other
+Liberia,,0,Other
+Libya,,0,Other
+Liechtenstein,,0,Other
+Lithuania,,0,Other
+Luxembourg,,0,Other
+Macao SAR,,0,Other
+Macedonia,,0.001875,Other
+Madagascar,,0,Other
+Malawi,,0,Other
+Malaysia,,2.75267970125832E-06,Other
+Maldives,,0,Other
+Mali,,0,Other
+Malta,,0,Other
+Marshall Islands,,0,Other
+Martinique,,0,Other
+Mauritania,,0,Other
+Mauritius,,0,Other
+Mexico,,0.00139961303290023,Other
+"Micronesia, Federated States of",,0,Other
+Moldova,,0,Other
+Monaco,,0,Other
+Mongolia,,0,Other
+Montenegro,,0.001875,Other
+Morocco,,0,Other
+Mozambique,,0,Other
+Myanmar,,0,Other
+Namibia,,0,Other
+Nauru,,0,Other
+Nepal,,0,Other
+Netherlands,,0,Other
+New Zealand,,0.001875,Other
+Nicaragua,,0.000122101783637401,Other
+Niger,,0,Other
+Nigeria,,0,Other
+North Korea,,0,Other
+Norway,,0,Other
+Oman,,0,Other
+Pakistan,,0,Other
+Palau,,0,Other
+Palestinian Territory,,0,Other
+Panama,,9.15432458640947E-05,Other
+Papua New Guinea,,0,Other
+Paraguay,,1.08446191557964E-08,Other
+Peru,,0.000641881760251137,Other
+Philippines,,0.000637483004145137,Other
+Poland,,0,Other
+Portugal,,0,Other
+Puerto Rico,,0.001875,Other
+Qatar,,0,Other
+Republic of Congo,,0,Other
+Reunion,,0,Other
+Romania,,0.001875,Other
+Russia,,0,Other
+Rwanda,,0,Other
+Samoa,,0,Other
+San Marino,,0,Other
+Sao Tome,,0,Other
+Saudi Arabia,,0,Other
+Senegal,,0,Other
+Serbia,,0.001875,Other
+Seychelles,,0,Other
+Sierra Leone,,0,Other
+Singapore,,1.62510586583333E-08,Other
+Slovakia,,0,Other
+Slovenia,,0,Other
+Solomon Islands,,0,Other
+Somalia,,0,Other
+South Africa,,0,Other
+South Korea,,1.28801969748964E-05,Other
+South Sudan,,0,Other
+Spain,,0,Other
+Sri Lanka,,0,Other
+St Kitts and Nevis,,0,Other
+St Lucia,,0,Other
+St Maarten,,0,Other
+St Vincent and the Grenadines,,0,Other
+Sudan,,0,Other
+Suriname,,0,Other
+Swaziland,,0,Other
+Sweden,,0,Other
+Switzerland,,0,Other
+Syria,,0,Other
+Taiwan,,0.001875,Other
+Tajikistan,,0,Other
+Tanzania,,0,Other
+Thailand,,1.02389524456917E-05,Other
+Togo,,0,Other
+Tonga,,0,Other
+Trinidad & Tobago,,0,Other
+Tunisia,,0,Other
+Turkey,,0.001875,Other
+Turkmenistan,,0,Other
+Tuvalu,,0,Other
+UAE,,0,Other
+Uganda,,0,Other
+UK,,0,Other
+Ukraine,,0,Other
+Uruguay,,0,Other
+US Virgin Islands,,0.00075,Other
+Uzbekistan,,0,Other
+Vanuatu,,0,Other
+Venezuela,,7.99225093983136E-05,Other
+Vietnam,,1.36241617801582E-05,Other
+Yemen,,0,Other
+Zambia,,0,Other
+Zimbabwe,,0,Other

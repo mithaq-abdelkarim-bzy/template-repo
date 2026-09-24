@@ -1,0 +1,4 @@
+Grade,Description,Charge
+Poor,Poor - Low quality and quantity of both experience and exposure data available,0.02
+Average,Average - Reasonable quality and quantity of both experience and exposure data available,0.01
+Good,Good - High quality and quantity of both experience and exposure data available,0

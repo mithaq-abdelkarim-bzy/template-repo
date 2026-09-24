@@ -1,0 +1,4 @@
+Grade,Description,Charge
+Poor,Poor - Negligible/No profit commission feature and poor indexation (such that overall mix of business is significantly different to the anticipated mix at prior renewal),0.0075
+Average,Average - Profit Commission is a non-negligible component of the overall brokerage or commission (with a muti-year deficit clause that enables some clawback following adverse loss experience) and/or indexation is within acceptable parameters (such that the overall mix of business is broadly consistent with the anticipated mix at prior renewal),0.0025
+Good,Good - Profit Commission is a large component of the overall brokerage or commission (with a muti-year deficit clause that enables meaningful clawback following adverse loss experience) and/or good indexation (such that overall mix of business closely aligns with the anticipated mix at prior renewal),0

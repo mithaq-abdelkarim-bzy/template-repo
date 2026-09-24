@@ -1,0 +1,269 @@
+country,state,rate,pattern
+Worldwide,,0.000295449959813981,Other
+APAC,,0.00312476775246377,East Asian
+Eastern Europe,,2.87251167884972E-06,European
+Latin America,,0,Other
+Middle East,,0,Other
+North America,,0.000327204611028714,North Atlantic
+Africa,,0,Other
+Western Europe,,0.000133298756274101,European
+US,Alabama,0.000823069541664018,North Atlantic
+US,Alaska,0,North Atlantic
+US,Arizona,0,North Atlantic
+US,Arkansas,0,North Atlantic
+US,California,0,North Atlantic
+US,Colorado,0,North Atlantic
+US,Connecticut,0.000174422543817644,North Atlantic
+US,Delaware,0.000229039656834694,North Atlantic
+US,Florida,0.00176005832929137,North Atlantic
+US,Georgia,0.000850613597581454,North Atlantic
+US,Hawaii,0.000160525238725645,North Atlantic
+US,Idaho,0,North Atlantic
+US,Illinois,0,North Atlantic
+US,Indiana,0,North Atlantic
+US,Iowa,0,North Atlantic
+US,Kansas,0,North Atlantic
+US,Kentucky,0,North Atlantic
+US,Louisiana,0.00114885023220896,North Atlantic
+US,Maine,0.000301506221896728,North Atlantic
+US,Maryland,0.000336140470965611,North Atlantic
+US,Massachusetts,0.000260899679283026,North Atlantic
+US,Michigan,0,North Atlantic
+US,Minnesota,0,North Atlantic
+US,Mississippi,0.000731788857329027,North Atlantic
+US,Missouri,0,North Atlantic
+US,Montana,0,North Atlantic
+US,Nebraska,0,North Atlantic
+US,Nevada,0,North Atlantic
+US,New Hampshire,0.000155097048208864,North Atlantic
+US,New Jersey,0.000263963780444581,North Atlantic
+US,New Mexico,0,North Atlantic
+US,New York,0.000310251764178785,North Atlantic
+US,North Carolina,0.000719013596112505,North Atlantic
+US,North Dakota,0,North Atlantic
+US,Ohio,0,North Atlantic
+US,Oklahoma,0,North Atlantic
+US,Oregon,0,North Atlantic
+US,Pennsylvania,0.000155267083125661,North Atlantic
+US,Rhode Island,0.000257055544914791,North Atlantic
+US,South Carolina,0.000643465593298416,North Atlantic
+US,South Dakota,0,North Atlantic
+US,Tennessee,0,North Atlantic
+US,Texas,0.00108437808364342,North Atlantic
+US,Utah,0,North Atlantic
+US,Vermont,7.00237309401541E-05,North Atlantic
+US,Virginia,0.000416825704857328,North Atlantic
+US,Washington,0,North Atlantic
+US,West Virginia,7.25560064841812E-05,North Atlantic
+US,Wisconsin,0,North Atlantic
+US,Wyoming,0,North Atlantic
+Afghanistan,,0,Other
+Albania,,0,European
+Algeria,,0,Other
+American Samoa,,0,Other
+Andorra,,0,European
+Angola,,0,Other
+Anguilla,,0,North Atlantic
+Antigua and Barbuda,,0,North Atlantic
+Argentina,,0,Other
+Armenia,,0,European
+Aruba,,0,Other
+Australia,,0.000386803804355365,Australia/New Zealand
+Austria,,2.56284268182688E-05,European
+Azerbaijan,,0,Other
+Bahamas,,0,North Atlantic
+Bahrain,,0,Other
+Bangladesh,,0,Other
+Barbados,,0,North Atlantic
+Belarus,,0,European
+Belgium,,9.99916106422999E-05,European
+Belize,,0,North Atlantic
+Benin,,0,Other
+Bermuda,,0,North Atlantic
+Bhutan,,0,East Asian
+Bolivia,,0,Other
+Bosnia,,0,European
+Botswana,,0,Other
+Brazil,,0,Other
+Brunei Darussalam,,0,Other
+Bulgaria,,0,European
+Burkina Faso,,0,Other
+Burundi,,0,Other
+Cambodia,,0,East Asian
+Cameroon,,0,Other
+Canada,,0,North Atlantic
+Cape Verde,,0,Other
+Cayman Islands,,0,North Atlantic
+Central African Republic,,0,Other
+Chad,,0,Other
+Chile,,0,Other
+China,,0.00178542955977754,East Asian
+Colombia,,0,Other
+Comoros,,0,Other
+Costa Rica,,0,Other
+Cote d'Ivoire (Ivory Coast),,0,Other
+Croatia,,0,European
+Cuba,,0,North Atlantic
+Curacao,,0,North Atlantic
+Cyprus,,0,European
+Czech Republic,,3.76646142796475E-05,European
+Denmark,,0.000203664551256664,European
+Djibouti,,0,Other
+Dominica,,0,North Atlantic
+Dominican Republic,,0,North Atlantic
+DRC,,0,Other
+East Timor,,0,Other
+Ecuador,,0,Other
+Egypt,,0,Other
+El Salvador,,0,Other
+Equatorial Guinea,,0,Other
+Eritrea,,0,Other
+Estonia,,0,European
+Ethiopia,,0,Other
+Fiji,,0,Other
+Finland,,0,European
+France,,0.00011703898806231,European
+French Guiana,,0,Other
+Gabon,,0,Other
+Gambia,,0,Other
+Georgia,,0,European
+Germany,,0.000101872858699348,European
+Ghana,,0,Other
+Greece,,0,European
+Grenada,,0,North Atlantic
+Guam,,0,Other
+Guatemala,,0,Other
+Guinea,,0,Other
+Guinea-Bissau,,0,Other
+Guyana,,0,North Atlantic
+Haiti,,0,North Atlantic
+Honduras,,0,North Atlantic
+Hong Kong,,0,East Asian
+Hungary,,0,European
+Iceland,,0,European
+India,,0,East Asian
+Indonesia,,0,East Asian
+Iran,,0,Other
+Iraq,,0,Other
+Ireland,,0.000118551122162476,European
+Israel/PA,,0,Other
+Italy,,0,North Atlantic
+Jamaica,,0,North Atlantic
+Japan,,0.00491037466081003,East Asian
+Jordan,,0,Other
+Kazakhstan,,0,Other
+Kenya,,0,Other
+Kiribati,,0,Other
+Kosovo,,0,European
+Kuwait,,0,Other
+Kyrgyzstan,,0,Other
+Laos,,0,East Asian
+Latvia,,0,European
+Lebanon,,0,Other
+Lesotho,,0,Other
+Liberia,,0,Other
+Libya,,0,Other
+Liechtenstein,,0,European
+Lithuania,,0,European
+Luxembourg,,6.45841052784254E-05,European
+Macao SAR,,0,East Asian
+Macedonia,,0,European
+Madagascar,,0,Other
+Malawi,,0,Other
+Malaysia,,0,East Asian
+Maldives,,0,Other
+Mali,,0,Other
+Malta,,0,European
+Marshall Islands,,0,Other
+Martinique,,0,North Atlantic
+Mauritania,,0,Other
+Mauritius,,0,Other
+Mexico,,0,Other
+"Micronesia, Federated States of",,0,Other
+Moldova,,0,European
+Monaco,,0,European
+Mongolia,,0,Other
+Montenegro,,0,European
+Morocco,,0,Other
+Mozambique,,0,Other
+Myanmar,,0,East Asian
+Namibia,,0,Other
+Nauru,,0,Other
+Nepal,,0,Other
+Netherlands,,0.000127877639723083,European
+New Zealand,,0.000193401902177683,Australia/New Zealand
+Nicaragua,,0,Other
+Niger,,0,Other
+Nigeria,,0,Other
+North Korea,,0,East Asian
+Norway,,2.79593709511765E-05,European
+Oman,,0,Other
+Pakistan,,0,Other
+Palau,,0,Other
+Palestinian Territory,,0,Other
+Panama,,0,Other
+Papua New Guinea,,0,Other
+Paraguay,,0,Other
+Peru,,0,Other
+Philippines,,0.00188247161055404,East Asian
+Poland,,1.97856192973468E-05,European
+Portugal,,0,European
+Puerto Rico,,0.0013375,North Atlantic
+Qatar,,0,Other
+Republic of Congo,,0,Other
+Reunion,,0,Other
+Romania,,0,European
+Russia,,0,European
+Rwanda,,0,Other
+Samoa,,0,Other
+San Marino,,0,Other
+Sao Tome,,0,Other
+Saudi Arabia,,0,Other
+Senegal,,0,Other
+Serbia,,0,European
+Seychelles,,0,Other
+Sierra Leone,,0,Other
+Singapore,,0,East Asian
+Slovakia,,0,European
+Slovenia,,0,European
+Solomon Islands,,0,Other
+Somalia,,0,Other
+South Africa,,0,Other
+South Korea,,0.000338021492593174,East Asian
+South Sudan,,0,Other
+Spain,,0,European
+Sri Lanka,,0,East Asian
+St Kitts and Nevis,,0,North Atlantic
+St Lucia,,0,North Atlantic
+St Maarten,,0,North Atlantic
+St Vincent and the Grenadines,,0,North Atlantic
+Sudan,,0,Other
+Suriname,,0,North Atlantic
+Swaziland,,0,Other
+Sweden,,4.70341602206141E-05,European
+Switzerland,,1.99364824069172E-05,European
+Syria,,0,Other
+Taiwan,,0.000769041465370922,East Asian
+Tajikistan,,0,Other
+Tanzania,,0,Other
+Thailand,,0,East Asian
+Togo,,0,Other
+Tonga,,0,Other
+Trinidad & Tobago,,0,North Atlantic
+Tunisia,,0,Other
+Turkey,,0,Other
+Turkmenistan,,0,Other
+Tuvalu,,0,Other
+UAE,,0,Other
+Uganda,,0,Other
+UK,,0.00014500353276651,European
+Ukraine,,0,European
+Uruguay,,0,Other
+US Virgin Islands,,0,Other
+Uzbekistan,,0,Other
+Vanuatu,,0,Other
+Venezuela,,0,Other
+Vietnam,,0,East Asian
+Yemen,,0,Other
+Zambia,,0,Other
+Zimbabwe,,0,Other

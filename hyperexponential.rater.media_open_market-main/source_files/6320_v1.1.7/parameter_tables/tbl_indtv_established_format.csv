@@ -1,0 +1,5 @@
+type,modifier
+No,1
+Previously aired (12 months ago or less),0.9
+Previously aired (more than 12 months ago),0.75
+Previously aired (more than 3 years ago),0.65

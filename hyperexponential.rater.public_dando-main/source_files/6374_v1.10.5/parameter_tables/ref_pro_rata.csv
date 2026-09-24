@@ -1,0 +1,6 @@
+Policy Length,Value,Factor
+Less than 12 Months,0.0,1
+12 Months,1.0,1
+12 Months to 18 Months,1.000000000001,1
+18 Months to 24 Months,1.5,1
+Greater than 24 Monhts,2.00000000001,1

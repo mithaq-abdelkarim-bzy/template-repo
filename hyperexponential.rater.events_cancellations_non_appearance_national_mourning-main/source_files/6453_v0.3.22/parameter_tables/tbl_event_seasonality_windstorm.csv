@@ -1,0 +1,61 @@
+month,rate,pattern
+1,0,North Atlantic
+2,0,North Atlantic
+3,0,North Atlantic
+4,0,North Atlantic
+5,0,North Atlantic
+6,0.85,North Atlantic
+7,0.95,North Atlantic
+8,1.2,North Atlantic
+9,1.2,North Atlantic
+10,0.95,North Atlantic
+11,0.85,North Atlantic
+12,0,North Atlantic
+1,1.2,European
+2,0.95,European
+3,0.85,European
+4,0,European
+5,0,European
+6,0,European
+7,0,European
+8,0,European
+9,0,European
+10,0.85,European
+11,0.95,European
+12,1.2,European
+1,0,East Asian
+2,0,East Asian
+3,0,East Asian
+4,0,East Asian
+5,0.85,East Asian
+6,0.95,East Asian
+7,1.2,East Asian
+8,1.2,East Asian
+9,0.95,East Asian
+10,0.85,East Asian
+11,0,East Asian
+12,0,East Asian
+1,1.2,Australia/New Zealand
+2,1.2,Australia/New Zealand
+3,0.95,Australia/New Zealand
+4,0.85,Australia/New Zealand
+5,0,Australia/New Zealand
+6,0,Australia/New Zealand
+7,0,Australia/New Zealand
+8,0,Australia/New Zealand
+9,0,Australia/New Zealand
+10,0,Australia/New Zealand
+11,0.85,Australia/New Zealand
+12,0.95,Australia/New Zealand
+1,1.2,Other
+2,0.95,Other
+3,0.85,Other
+4,0,Other
+5,0,Other
+6,0,Other
+7,0,Other
+8,0,Other
+9,0,Other
+10,0.85,Other
+11,0.95,Other
+12,1.2,Other

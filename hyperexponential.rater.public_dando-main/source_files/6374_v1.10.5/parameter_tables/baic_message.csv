@@ -1,0 +1,39 @@
+Step,Factor,Activity,Description
+3,Merger and Acquisition Activity,Very Confident,"No merger, acquisition, or divestiture activity in the past 10+ years or expected in the future."
+3,Merger and Acquisition Activity,Confident,"No merger, acquisition, or divestiture activity in the past 5 – 10 years or expected in the future."
+3,Merger and Acquisition Activity,Comfortable or Not Applicable,"No significant merger, acquisition, or divestiture activity in the past 1 – 5 years or expected in the future."
+3,Merger and Acquisition Activity,Low Concern,"No significant merger, acquisition, or divestiture activity within the last year and/or low-level activity expected in the future."
+3,Merger and Acquisition Activity,Material Concern,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 3 – 5 years and/or activity expected in the future."
+3,Merger and Acquisition Activity,High Concern,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 2 – 3 years and/or significant activity expected in the future."
+3,Merger and Acquisition Activity,Very High to Severe Concern,"Unsuccessful significant merger, acquisition, or divestiture activity within the last 2 years and/or very significant activity expected in the future."
+4,Profitability,Very Confident,"Net Income is generally positive, revenue and expenses are healthy, and most significant aspects of the Income Statement are trending positive."
+4,Profitability,Confident,"Net Income, revenue and expenses are generally healthy, and some of the more significant aspects of the Income Statement are trending positive."
+4,Profitability,Comfortable,"Overall mixed, but generally healthy and generally consistent Income Statement with limited large swings or variations year-over-year."
+4,Profitability,Low Concern,"Generally unprofitable within any of the last 10 years and/or trending towards, or recently, unprofitable."
+4,Profitability,Material Concern,Overall unprofitable and/or trending and/or more often historically unprofitable in any of the last 5 years.
+4,Profitability,High Concern,Overall concerning profitability. Historically unprofitable within the last 6 years.
+4,Profitability,Very High to Severe Concern,Extremely unprofitable. Historically unprofitable within the last 5 years.
+5,Quality of Balance Sheet,Very Confident,"Cash balances, debt leverage, overall liquidity and working capital are generally very healthy and most significant aspects of the balance sheet are trending positive and/or capacity to add significant debt for managing business needs going forward."
+5,Quality of Balance Sheet,Confident,"Cash balances, debt leverage, overall liquidity and working capital are generally healthy and some aspects of the balance sheet are trending positive and/or 
+capacity to add to moderate debt for managing business needs going forward."
+5,Quality of Balance Sheet,Comfortable,"Mixed health of the balance sheet, modest cash reserve and liquidity and/or 
+capacity to access minimal debt for managing business needs going forward."
+5,Quality of Balance Sheet,Low Concern,"Concerns about the balance sheet and ability to meet existing needs, including the 
+possibility that they may have difficulty accessing capital or other debt instruments for managing business needs going forward."
+5,Quality of Balance Sheet,Material Concern,"Significant concerns about the balance sheet, including the significant possibility that they will not be able to meet existing needs via cash balance and other liquid assets, with possible inability to access capital or other debt instruments to managing business needs going forward."
+5,Quality of Balance Sheet,High Concern,"High concerns about the balance sheet and unlikely ability to meet the existing needs, including the inability to access capital or other debt instruments for 
+managing business needs going forward."
+5,Quality of Balance Sheet,Very High to Severe Concern,Extremely concerning balance sheet. Completely unable to access capital or other debt instruments for managing business needs going forward and/or has a going concern (as mentioned by company auditors).
+6,Cash Flow from Operations,Very Confident,"Cash flow, capital expenditures and financing activities are generally healthy, and most significant aspects of the cash flows are trending positive."
+6,Cash Flow from Operations,Confident,"Cash flow, capital expenditures and financing activities are generally healthy, and a number of significant aspects of the cash flows are trending positive."
+6,Cash Flow from Operations,Comfortable,"Overall mixed but generally healthy cash flows, capital expenditures and financing activities."
+6,Cash Flow from Operations,Low Concern,"Negative or concerning cash flows, capital expenditures and/or financing activities in any 1 – 2 of the 5 prior years."
+6,Cash Flow from Operations,Material Concern,"Negative or concerning cash flows, capital expenditures and financing activities in a majority of the 5 prior years."
+6,Cash Flow from Operations,High Concern,"Negative or concerning cash flows, capital expenditures and/or financing activities in a majority of the 10 prior years."
+6,Cash Flow from Operations,Very High to Severe Concern,"Very negative or significantly concerning cash flows, capital expenditures and financing activities in a majority of the 10 prior years."
+11,D&O Claim History,Confident,No significant claims which would trigger coverage noticed or filed in the last 10+ years.
+11,D&O Claim History,Comfortable,No or few significant claims which would trigger coverage noticed or filed in the last 5-10 years.
+11,D&O Claim History,Low Concern,Single or multiple claims of low significance noticed or filed in the last 5 years.
+11,D&O Claim History,Material Concern,"Significant claims, including multiple claims, which may generate loss coverage noticed or filed in the last 5 years."
+11,D&O Claim History,High Concern,"Significant claims, including multiple claims and/or claims with payments paid or expected to-be-paid (exceeding the retention), in the last 10 years."
+11,D&O Claim History,Very High to Severe Concern,"Very significant, multiple, concerning, problematic or sizeable claims with payments paid or expected to-be-paid (exceeding the retention) in the last 10 years."

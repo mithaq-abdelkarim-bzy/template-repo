@@ -1,0 +1,236 @@
+{
+  "table_input_underwriters": {
+    "underwriter": "str"
+  },
+  "table_input_deal_status": {
+    "deal_status": "str"
+  },
+  "table_input_facility_type": {
+    "facility_type": "str"
+  },
+  "table_trifocus_list": {
+    "Trifocus List": "str"
+  },
+  "table_firm_name": {
+    "firm_name": "str"
+  },
+  "table_input_broker_details": {
+    "broker_contact": "str",
+    "broker_name": "str",
+    "broker_email": "str",
+    "broker_location": "str"
+  },
+  "table_currency": {
+    "ccy": "str"
+  },
+  "table_lloyds_risk_code_desc": {
+    "RiskCode": "str",
+    "High Level Class of Business": "str",
+    "Generic Class of Business": "str",
+    "Type of Placement": "str",
+    "Risk Code Description": "str",
+    "Risk Code Description - Expanded": "str",
+    "OECD Class Mapping": "str",
+    "Assigned Tracker": "str",
+    "Assigned BP Class": "str"
+  },
+  "table_beazley_data": {
+    "risk_code": "str",
+    "yoa": "int",
+    "gn_written_premium": "float",
+    "acquisition_costs": "float",
+    "paid_cat": "float",
+    "paid_total_ex_cat": "float",
+    "paid_total": "float",
+    "incurred_cat": "float",
+    "incurred_total_ex_cat": "float",
+    "incurred_total": "float",
+    "rate_change": "float"
+  },
+  "table_business_plan": {
+    "year": "int",
+    "business_plan_class": "str",
+    "attr_base": "float",
+    "attr_inflation": "float",
+    "attr_rate_change": "float",
+    "attr_rarc_margin": "float",
+    "attr_portfolio_change": "float",
+    "attr_selected_attritional": "float",
+    "cat_base": "float",
+    "cat_inflation": "float",
+    "cat_rate_change": "float",
+    "cat_rarc_margin": "float",
+    "cat_climate_change": "float",
+    "cat_non_modelled_perils_general": "float",
+    "cat_non_modelled_perils_weather": "float",
+    "cat_anti_selection": "float",
+    "cat_taiwan_rds": "float",
+    "cat_greenwashing": "float",
+    "cat_recession": "float",
+    "cat_scaling": "float",
+    "selected_cat": "float",
+    "bp_expenses": "float",
+    "cat_non_modelled_perils_all_other": "float"
+  },
+  "table_base_inf": {
+    "Business Plan Class": "str",
+    "2000": "float",
+    "2001": "float",
+    "2002": "float",
+    "2003": "float",
+    "2004": "float",
+    "2005": "float",
+    "2006": "float",
+    "2007": "float",
+    "2008": "float",
+    "2009": "float",
+    "2010": "float",
+    "2011": "float",
+    "2012": "float",
+    "2013": "float",
+    "2014": "float",
+    "2015": "float",
+    "2016": "float",
+    "2017": "float",
+    "2018": "float",
+    "2019": "float",
+    "2020": "float",
+    "2021": "float",
+    "2022": "float",
+    "2023": "float",
+    "2024": "float",
+    "2025": "float",
+    "2026": "float"
+  },
+  "table_excess_inf": {
+    "Business Plan Class": "str",
+    "2000": "float",
+    "2001": "float",
+    "2002": "float",
+    "2003": "float",
+    "2004": "float",
+    "2005": "float",
+    "2006": "float",
+    "2007": "float",
+    "2008": "float",
+    "2009": "float",
+    "2010": "float",
+    "2011": "float",
+    "2012": "float",
+    "2013": "float",
+    "2014": "float",
+    "2015": "float",
+    "2016": "float",
+    "2017": "float",
+    "2018": "float",
+    "2019": "float",
+    "2020": "float",
+    "2021": "float",
+    "2022": "float",
+    "2023": "float",
+    "2024": "float",
+    "2025": "float",
+    "2026": "float"
+  },
+  "table_lloyds_risk_code_data": {
+    "lloyds_risk_code": "str",
+    "yoa": "int",
+    "gpi": "float",
+    "gnpi": "float",
+    "acquisition_cost": "float",
+    "latest_paid_position": "float",
+    "latest_incurred_position": "float",
+    "gn_ulr": "float",
+    "incurred_development": "float",
+    "paid_development": "float",
+    "premium_development": "float"
+  },
+  "table_lloyds_risk_code": {
+    "Lloyds Risk Code": "str"
+  },
+  "table_antiselection_1": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_antiselection_2": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_antiselection_3": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_antiselection_4": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_antiselection_5": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_antiselection_6": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_uncertainty_1": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_uncertainty_2": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_uncertainty_3": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_uncertainty_4": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_uncertainty_5": {
+    "Grade": "str",
+    "Description": "str",
+    "Charge": "float"
+  },
+  "table_bbt_parameters": {
+    "year": "int",
+    "Business Plan Class": "str",
+    "Gross Net Att ULR": "float",
+    "Gross Net Cat ULR": "float",
+    "Total ULR": "float",
+    "BP GN Premium": "float",
+    "BP NN Premium": "float",
+    "Net Premium": "float",
+    "Net Expense/ GN Premium": "float",
+    "Investment Income /GN Premium": "float",
+    "RI Premium/GN Premium": "float",
+    "RI Recoveries/ GN Premium": "float",
+    "Capital Required / GN Premium": "float",
+    "Att LR": "float",
+    "Large LR": "float",
+    "Cat LR": "float",
+    "Att COV": "float",
+    "Large COV": "float",
+    "Cat COV": "float",
+    "Large Loss Threshold": "float",
+    "Decay Factor": "float",
+    "Target NLR": "float",
+    "NML": "float",
+    "LAE": "float",
+    "RoC": "float",
+    "Variable Expense": "float",
+    "Fixed Expense": "float",
+    "Climate Load": "float"
+  }
+}

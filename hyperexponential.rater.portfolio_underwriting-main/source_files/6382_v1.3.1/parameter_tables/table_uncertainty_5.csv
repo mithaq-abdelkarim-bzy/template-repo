@@ -1,0 +1,4 @@
+Grade,Description,Charge
+Greater than 50%,More than and including 50% of the selected ULR% is reliant on external modelling,0.01
+Less than 50%,Less than 50% of the selected ULR % is reliant on external modelling,0.005
+None,No external modelling has been used within the pricing analysis,0

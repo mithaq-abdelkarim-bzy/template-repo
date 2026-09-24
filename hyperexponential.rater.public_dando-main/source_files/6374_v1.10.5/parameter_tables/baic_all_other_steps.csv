@@ -1,0 +1,386 @@
+Step,ModifierName,Factor,ListType,PlanType,Activity,Value,Min,Max,AllStates,WAState
+3,step_3_mam,Merger and Acquisition Activity,True,No Range,Very Confident,0.85,0.0,0.0,"No merger, acquisition, or divestiture activity in the past 10+ years or expected in the future.","No merger, acquisition, or divestiture activity in the past 10+ years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,True,No Range,Confident,0.95,0.0,0.0,"No merger, acquisition, or divestiture activity in the past 5 – 10 years or expected in the future.","No merger, acquisition, or divestiture activity in the past 5 – 10 years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,True,No Range,Comfortable or Not Applicable,1.0,0.0,0.0,"No significant merger, acquisition, or divestiture activity in the past 1 – 5 years or expected in the future.","No significant merger, acquisition, or divestiture activity in the past 1 – 5 years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,True,No Range,Low Concern,1.05,0.0,0.0,"No significant merger, acquisition, or divestiture activity within the last year and/or low-level activity expected in the future.","No significant merger, acquisition, or divestiture activity within the last year and/or low-level activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,True,No Range,Material Concern,1.15,0.0,0.0,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 3 – 5 years and/or activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity in the past 3 – 5 years and/or activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,True,No Range,High Concern,1.25,0.0,0.0,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 2 – 3 years and/or significant activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity in the past 2 – 3 years and/or significant activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,True,No Range,Very High to Severe Concern,1.4,0.0,0.0,"Unsuccessful significant merger, acquisition, or divestiture activity within the last 2 years and/or very significant activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity within the last 2 years and/or very significant activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,No Range,Very Confident,0.85,0.0,0.0,"No merger, acquisition, or divestiture activity in the past 10+ years or expected in the future.","No merger, acquisition, or divestiture activity in the past 10+ years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,No Range,Confident,0.95,0.0,0.0,"No merger, acquisition, or divestiture activity in the past 5 – 10 years or expected in the future.","No merger, acquisition, or divestiture activity in the past 5 – 10 years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,No Range,Comfortable or Not Applicable,1.0,0.0,0.0,"No significant merger, acquisition, or divestiture activity in the past 1 – 5 years or expected in the future.","No significant merger, acquisition, or divestiture activity in the past 1 – 5 years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,No Range,Low Concern,1.05,0.0,0.0,"No significant merger, acquisition, or divestiture activity within the last year and/or low-level activity expected in the future.","No significant merger, acquisition, or divestiture activity within the last year and/or low-level activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,No Range,Material Concern,1.15,0.0,0.0,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 3 – 5 years and/or activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity in the past 3 – 5 years and/or activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,No Range,High Concern,1.25,0.0,0.0,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 2 – 3 years and/or significant activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity in the past 2 – 3 years and/or significant activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,No Range,Very High to Severe Concern,1.4,0.0,0.0,"Unsuccessful significant merger, acquisition, or divestiture activity within the last 2 years and/or very significant activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity within the last 2 years and/or very significant activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,Range,Very Confident,0.0,0.8,0.9,"No merger, acquisition, or divestiture activity in the past 10+ years or expected in the future.","No merger, acquisition, or divestiture activity in the past 10+ years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,Range,Confident,0.0,0.9,1.0,"No merger, acquisition, or divestiture activity in the past 5 – 10 years or expected in the future.","No merger, acquisition, or divestiture activity in the past 5 – 10 years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,Range,Comfortable or Not Applicable,0.0,1.0,1.0,"No significant merger, acquisition, or divestiture activity in the past 1 – 5 years or expected in the future.","No significant merger, acquisition, or divestiture activity in the past 1 – 5 years or expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,Range,Low Concern,0.0,1.0,1.1,"No significant merger, acquisition, or divestiture activity within the last year and/or low-level activity expected in the future.","No significant merger, acquisition, or divestiture activity within the last year and/or low-level activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,Range,Material Concern,0.0,1.1,1.2,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 3 – 5 years and/or activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity in the past 3 – 5 years and/or activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,Range,High Concern,0.0,1.2,1.3,"Unsuccessful significant merger, acquisition, or divestiture activity in the past 2 – 3 years and/or significant activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity in the past 2 – 3 years and/or significant activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+3,step_3_mam,Merger and Acquisition Activity,False,Range,Very High to Severe Concern,0.0,1.3,1.5,"Unsuccessful significant merger, acquisition, or divestiture activity within the last 2 years and/or very significant activity expected in the future.","Unsuccessful significant merger, acquisition, or divestiture activity within the last 2 years and/or very significant activity expected in the future.
+
+Note:
+
+Very Significant activity means: more than 5 major transactions, impacting >100% of revenue, significantly changing business structure or strategy. 
+
+Significant activity means: 3-5 transactions, impacting 50%-100% of revenue, resulting in moderate changes to operations or scope. 
+
+Low-level activity means: 2 or fewer transactions, impact < 25% of revenue, with minimal changes to business operations or strategy. "
+4,step_4_pm,Profitability,True,No Range,Very Confident,0.85,0.0,0.0,"Net Income is generally positive, revenue and expenses are healthy, and most significant aspects of the Income Statement are trending positive.",Organization has shown a profit the past 2 years and exceeded prior year’s results by 5% or more.
+4,step_4_pm,Profitability,True,No Range,Confident,0.95,0.0,0.0,"Net Income, revenue and expenses are generally healthy, and some of the more significant aspects of the Income Statement are trending positive.",Organization has had a profit the past 2 years or has exceeded prior year’s results by 5% (if prior year was an operating loss).
+4,step_4_pm,Profitability,True,No Range,Comfortable,1.0,0.0,0.0,"Overall mixed, but generally healthy and generally consistent Income Statement with limited large swings or variations year-over-year.","Organization has an operating income on the current income statement, but earnings growth is less than 5%."
+4,step_4_pm,Profitability,True,No Range,Low Concern,1.05,0.0,0.0,"Generally unprofitable within any of the last 10 years and/or trending towards, or recently, unprofitable.",No earnings growth over prior year.
+4,step_4_pm,Profitability,True,No Range,Material Concern,1.18,0.0,0.0,Overall unprofitable and/or trending and/or more often historically unprofitable in any of the last 5 years.,Organization has shown an operating loss in the current year.
+4,step_4_pm,Profitability,True,No Range,High Concern,1.38,0.0,0.0,Overall concerning profitability. Historically unprofitable within the last 6 years.,Organization has shown operating loss for the past 2 years.
+4,step_4_pm,Profitability,True,No Range,Very High to Severe Concern,1.75,0.0,0.0,Extremely unprofitable. Historically unprofitable within the last 5 years.,Organization has shown operating loss for more than 2 years or more and has a negative trend.
+4,step_4_pm,Profitability,False,No Range,Very Confident,0.85,0.0,0.0,"Net Income is generally positive, revenue and expenses are healthy, and most significant aspects of the Income Statement are trending positive.",Organization has shown a profit the past 2 years and exceeded prior year’s results by 5% or more.
+4,step_4_pm,Profitability,False,No Range,Confident,0.95,0.0,0.0,"Net Income, revenue and expenses are generally healthy, and some of the more significant aspects of the Income Statement are trending positive.",Organization has had a profit the past 2 years or has exceeded prior year’s results by 5% (if prior year was an operating loss).
+4,step_4_pm,Profitability,False,No Range,Comfortable,1.0,0.0,0.0,"Overall mixed, but generally healthy and generally consistent Income Statement with limited large swings or variations year-over-year.","Organization has an operating income on the current income statement, but earnings growth is less than 5%."
+4,step_4_pm,Profitability,False,No Range,Low Concern,1.05,0.0,0.0,"Generally unprofitable within any of the last 10 years and/or trending towards, or recently, unprofitable.",No earnings growth over prior year.
+4,step_4_pm,Profitability,False,No Range,Material Concern,1.18,0.0,0.0,Overall unprofitable and/or trending and/or more often historically unprofitable in any of the last 5 years.,Organization has shown an operating loss in the current year.
+4,step_4_pm,Profitability,False,No Range,High Concern,1.38,0.0,0.0,Overall concerning profitability. Historically unprofitable within the last 6 years.,Organization has shown operating loss for the past 2 years.
+4,step_4_pm,Profitability,False,No Range,Very High to Severe Concern,1.75,0.0,0.0,Extremely unprofitable. Historically unprofitable within the last 5 years.,Organization has shown operating loss for more than 2 years or more and has a negative trend.
+4,step_4_pm,Profitability,False,Range,Very Confident,0.0,0.8,0.9,"Net Income is generally positive, revenue and expenses are healthy, and most significant aspects of the Income Statement are trending positive.",Organization has shown a profit the past 2 years and exceeded prior year’s results by 5% or more.
+4,step_4_pm,Profitability,False,Range,Confident,0.0,0.9,1.0,"Net Income, revenue and expenses are generally healthy, and some of the more significant aspects of the Income Statement are trending positive.",Organization has had a profit the past 2 years or has exceeded prior year’s results by 5% (if prior year was an operating loss).
+4,step_4_pm,Profitability,False,Range,Comfortable,0.0,1.0,1.0,"Overall mixed, but generally healthy and generally consistent Income Statement with limited large swings or variations year-over-year.","Organization has an operating income on the current income statement, but earnings growth is less than 5%."
+4,step_4_pm,Profitability,False,Range,Low Concern,0.0,1.0,1.1,"Generally unprofitable within any of the last 10 years and/or trending towards, or recently, unprofitable.",No earnings growth over prior year.
+4,step_4_pm,Profitability,False,Range,Material Concern,0.0,1.1,1.25,Overall unprofitable and/or trending and/or more often historically unprofitable in any of the last 5 years.,Organization has shown an operating loss in the current year.
+4,step_4_pm,Profitability,False,Range,High Concern,0.0,1.25,1.5,Overall concerning profitability. Historically unprofitable within the last 6 years.,Organization has shown operating loss for the past 2 years.
+4,step_4_pm,Profitability,False,Range,Very High to Severe Concern,0.0,1.5,2.0,Extremely unprofitable. Historically unprofitable within the last 5 years.,Organization has shown operating loss for more than 2 years or more and has a negative trend.
+5,step_5_qm,Quality of Balance Sheet,True,No Range,Very Confident,0.85,0.0,0.0,"Cash balances, debt leverage, overall liquidity and working capital are generally very healthy and most significant aspects of the balance sheet are trending positive and/or capacity to add significant debt for managing business needs going forward.","Positive fund balance and working capital for the past 2 years, increase in asset size by 5% or more."
+5,step_5_qm,Quality of Balance Sheet,True,No Range,Confident,0.95,0.0,0.0,"Cash balances, debt leverage, overall liquidity and working capital are generally healthy and some aspects of the balance sheet are trending positive and/or 
+capacity to add to moderate debt for managing business needs going forward.","Current year’s fund balance and working capital are positive, but growth less than 5% over prior year’s results."
+5,step_5_qm,Quality of Balance Sheet,True,No Range,Comfortable,1.0,0.0,0.0,"Mixed health of the balance sheet, modest cash reserve and liquidity and/or 
+capacity to access minimal debt for managing business needs going forward.","Positive fund balance for current year, long term debt compared to total asset size is positive."
+5,step_5_qm,Quality of Balance Sheet,True,No Range,Low Concern,1.05,0.0,0.0,"Concerns about the balance sheet and ability to meet existing needs, including the 
+possibility that they may have difficulty accessing capital or other debt instruments for managing business needs going forward.","Negative fund balance in the current year, no growth of asset size over prior year."
+5,step_5_qm,Quality of Balance Sheet,True,No Range,Material Concern,1.18,0.0,0.0,"Significant concerns about the balance sheet, including the significant possibility that they will not be able to meet existing needs via cash balance and other liquid assets, with possible inability to access capital or other debt instruments to managing business needs going forward.","Negative working capital and fund balance for the past 2 years, negative trend."
+5,step_5_qm,Quality of Balance Sheet,True,No Range,High Concern,1.38,0.0,0.0,"High concerns about the balance sheet and unlikely ability to meet the existing needs, including the inability to access capital or other debt instruments for 
+managing business needs going forward.","Going concern an issue, risk of bankruptcy, liquidation, or rehabilitation within the next 12 months."
+5,step_5_qm,Quality of Balance Sheet,True,No Range,Very High to Severe Concern,1.75,0.0,0.0,Extremely concerning balance sheet. Completely unable to access capital or other debt instruments for managing business needs going forward and/or has a going concern (as mentioned by company auditors).,"Organization is now in or emerging from bankruptcy, liquidation, or rehabilitation (Chapter 7 or 11)."
+5,step_5_qm,Quality of Balance Sheet,False,No Range,Very Confident,0.85,0.0,0.0,"Cash balances, debt leverage, overall liquidity and working capital are generally very healthy and most significant aspects of the balance sheet are trending positive and/or capacity to add significant debt for managing business needs going forward.","Positive fund balance and working capital for the past 2 years, increase in asset size by 5% or more."
+5,step_5_qm,Quality of Balance Sheet,False,No Range,Confident,0.95,0.0,0.0,"Cash balances, debt leverage, overall liquidity and working capital are generally healthy and some aspects of the balance sheet are trending positive and/or 
+capacity to add to moderate debt for managing business needs going forward.","Current year’s fund balance and working capital are positive, but growth less than 5% over prior year’s results."
+5,step_5_qm,Quality of Balance Sheet,False,No Range,Comfortable,1.0,0.0,0.0,"Mixed health of the balance sheet, modest cash reserve and liquidity and/or 
+capacity to access minimal debt for managing business needs going forward.","Positive fund balance for current year, long term debt compared to total asset size is positive."
+5,step_5_qm,Quality of Balance Sheet,False,No Range,Low Concern,1.05,0.0,0.0,"Concerns about the balance sheet and ability to meet existing needs, including the 
+possibility that they may have difficulty accessing capital or other debt instruments for managing business needs going forward.","Negative fund balance in the current year, no growth of asset size over prior year."
+5,step_5_qm,Quality of Balance Sheet,False,No Range,Material Concern,1.18,0.0,0.0,"Significant concerns about the balance sheet, including the significant possibility that they will not be able to meet existing needs via cash balance and other liquid assets, with possible inability to access capital or other debt instruments to managing business needs going forward.","Negative working capital and fund balance for the past 2 years, negative trend."
+5,step_5_qm,Quality of Balance Sheet,False,No Range,High Concern,1.38,0.0,0.0,"High concerns about the balance sheet and unlikely ability to meet the existing needs, including the inability to access capital or other debt instruments for 
+managing business needs going forward.","Going concern an issue, risk of bankruptcy, liquidation, or rehabilitation within the next 12 months."
+5,step_5_qm,Quality of Balance Sheet,False,No Range,Very High to Severe Concern,1.75,0.0,0.0,Extremely concerning balance sheet. Completely unable to access capital or other debt instruments for managing business needs going forward and/or has a going concern (as mentioned by company auditors).,"Organization is now in or emerging from bankruptcy, liquidation, or rehabilitation (Chapter 7 or 11)."
+5,step_5_qm,Quality of Balance Sheet,False,Range,Very Confident,0.0,0.8,0.9,"Cash balances, debt leverage, overall liquidity and working capital are generally very healthy and most significant aspects of the balance sheet are trending positive and/or capacity to add significant debt for managing business needs going forward.","Positive fund balance and working capital for the past 2 years, increase in asset size by 5% or more."
+5,step_5_qm,Quality of Balance Sheet,False,Range,Confident,0.0,0.9,1.0,"Cash balances, debt leverage, overall liquidity and working capital are generally healthy and some aspects of the balance sheet are trending positive and/or 
+capacity to add to moderate debt for managing business needs going forward.","Current year’s fund balance and working capital are positive, but growth less than 5% over prior year’s results."
+5,step_5_qm,Quality of Balance Sheet,False,Range,Comfortable,0.0,1.0,1.0,"Mixed health of the balance sheet, modest cash reserve and liquidity and/or 
+capacity to access minimal debt for managing business needs going forward.","Positive fund balance for current year, long term debt compared to total asset size is positive."
+5,step_5_qm,Quality of Balance Sheet,False,Range,Low Concern,0.0,1.0,1.1,"Concerns about the balance sheet and ability to meet existing needs, including the 
+possibility that they may have difficulty accessing capital or other debt instruments for managing business needs going forward.","Negative fund balance in the current year, no growth of asset size over prior year."
+5,step_5_qm,Quality of Balance Sheet,False,Range,Material Concern,0.0,1.1,1.25,"Significant concerns about the balance sheet, including the significant possibility that they will not be able to meet existing needs via cash balance and other liquid assets, with possible inability to access capital or other debt instruments to managing business needs going forward.","Negative working capital and fund balance for the past 2 years, negative trend."
+5,step_5_qm,Quality of Balance Sheet,False,Range,High Concern,0.0,1.25,1.5,"High concerns about the balance sheet and unlikely ability to meet the existing needs, including the inability to access capital or other debt instruments for 
+managing business needs going forward.","Going concern an issue, risk of bankruptcy, liquidation, or rehabilitation within the next 12 months."
+5,step_5_qm,Quality of Balance Sheet,False,Range,Very High to Severe Concern,0.0,1.5,2.0,Extremely concerning balance sheet. Completely unable to access capital or other debt instruments for managing business needs going forward and/or has a going concern (as mentioned by company auditors).,"Organization is now in or emerging from bankruptcy, liquidation, or rehabilitation (Chapter 7 or 11)."
+6,step_6_cm,Cash Flow from Operations,True,No Range,Very Confident,0.85,0.0,0.0,"Cash flow, capital expenditures and financing activities are generally healthy, and most significant aspects of the cash flows are trending positive.","Organization has positive cash flow from operating, investing and financing activities for the past 2 years and exceeds prior year results by 5% or more."
+6,step_6_cm,Cash Flow from Operations,True,No Range,Confident,0.95,0.0,0.0,"Cash flow, capital expenditures and financing activities are generally healthy, and a number of significant aspects of the cash flows are trending positive.",Organization has positive cash flow from at least two of the operating activities for the past 2 years or with an increase over the prior year by 5% or more.
+6,step_6_cm,Cash Flow from Operations,True,No Range,Comfortable,1.0,0.0,0.0,"Overall mixed but generally healthy cash flows, capital expenditures and financing activities.",Organization has positive cash flow from operating activities with less than 5% over prior year results.
+6,step_6_cm,Cash Flow from Operations,True,No Range,Low Concern,1.05,0.0,0.0,"Negative or concerning cash flows, capital expenditures and/or financing activities in any 1 – 2 of the 5 prior years.",Organization has no cash flow from operations in the current year.
+6,step_6_cm,Cash Flow from Operations,True,No Range,Material Concern,1.18,0.0,0.0,"Negative or concerning cash flows, capital expenditures and financing activities in a majority of the 5 prior years.",Organization has a negative cash flow from operating activities for the past 2 years.
+6,step_6_cm,Cash Flow from Operations,True,No Range,High Concern,1.38,0.0,0.0,"Negative or concerning cash flows, capital expenditures and/or financing activities in a majority of the 10 prior years.","Organization has negative cash flows from operating, investing and financing activities or has had a decrease in cash flow from operating activities from the prior year."
+6,step_6_cm,Cash Flow from Operations,True,No Range,Very High to Severe Concern,1.75,0.0,0.0,"Very negative or significantly concerning cash flows, capital expenditures and financing activities in a majority of the 10 prior years.","Negative cash flows from all activities for past 3 years, negative trend and going concern issue."
+6,step_6_cm,Cash Flow from Operations,False,No Range,Very Confident,0.85,0.0,0.0,"Cash flow, capital expenditures and financing activities are generally healthy, and most significant aspects of the cash flows are trending positive.","Organization has positive cash flow from operating, investing and financing activities for the past 2 years and exceeds prior year results by 5% or more."
+6,step_6_cm,Cash Flow from Operations,False,No Range,Confident,0.95,0.0,0.0,"Cash flow, capital expenditures and financing activities are generally healthy, and a number of significant aspects of the cash flows are trending positive.",Organization has positive cash flow from at least two of the operating activities for the past 2 years or with an increase over the prior year by 5% or more.
+6,step_6_cm,Cash Flow from Operations,False,No Range,Comfortable,1.0,0.0,0.0,"Overall mixed but generally healthy cash flows, capital expenditures and financing activities.",Organization has positive cash flow from operating activities with less than 5% over prior year results.
+6,step_6_cm,Cash Flow from Operations,False,No Range,Low Concern,1.05,0.0,0.0,"Negative or concerning cash flows, capital expenditures and/or financing activities in any 1 – 2 of the 5 prior years.",Organization has no cash flow from operations in the current year.
+6,step_6_cm,Cash Flow from Operations,False,No Range,Material Concern,1.18,0.0,0.0,"Negative or concerning cash flows, capital expenditures and financing activities in a majority of the 5 prior years.",Organization has a negative cash flow from operating activities for the past 2 years.
+6,step_6_cm,Cash Flow from Operations,False,No Range,High Concern,1.38,0.0,0.0,"Negative or concerning cash flows, capital expenditures and/or financing activities in a majority of the 10 prior years.","Organization has negative cash flows from operating, investing and financing activities or has had a decrease in cash flow from operating activities from the prior year."
+6,step_6_cm,Cash Flow from Operations,False,No Range,Very High to Severe Concern,1.75,0.0,0.0,"Very negative or significantly concerning cash flows, capital expenditures and financing activities in a majority of the 10 prior years.","Negative cash flows from all activities for past 3 years, negative trend and going concern issue."
+6,step_6_cm,Cash Flow from Operations,False,Range,Very Confident,0.0,0.8,0.9,"Cash flow, capital expenditures and financing activities are generally healthy, and most significant aspects of the cash flows are trending positive.","Organization has positive cash flow from operating, investing and financing activities for the past 2 years and exceeds prior year results by 5% or more."
+6,step_6_cm,Cash Flow from Operations,False,Range,Confident,0.0,0.9,1.0,"Cash flow, capital expenditures and financing activities are generally healthy, and a number of significant aspects of the cash flows are trending positive.",Organization has positive cash flow from at least two of the operating activities for the past 2 years or with an increase over the prior year by 5% or more.
+6,step_6_cm,Cash Flow from Operations,False,Range,Comfortable,0.0,1.0,1.0,"Overall mixed but generally healthy cash flows, capital expenditures and financing activities.",Organization has positive cash flow from operating activities with less than 5% over prior year results.
+6,step_6_cm,Cash Flow from Operations,False,Range,Low Concern,0.0,1.0,1.1,"Negative or concerning cash flows, capital expenditures and/or financing activities in any 1 – 2 of the 5 prior years.",Organization has no cash flow from operations in the current year.
+6,step_6_cm,Cash Flow from Operations,False,Range,Material Concern,0.0,1.1,1.25,"Negative or concerning cash flows, capital expenditures and financing activities in a majority of the 5 prior years.",Organization has a negative cash flow from operating activities for the past 2 years.
+6,step_6_cm,Cash Flow from Operations,False,Range,High Concern,0.0,1.25,1.5,"Negative or concerning cash flows, capital expenditures and/or financing activities in a majority of the 10 prior years.","Organization has negative cash flows from operating, investing and financing activities or has had a decrease in cash flow from operating activities from the prior year."
+6,step_6_cm,Cash Flow from Operations,False,Range,Very High to Severe Concern,0.0,1.5,2.0,"Very negative or significantly concerning cash flows, capital expenditures and financing activities in a majority of the 10 prior years.","Negative cash flows from all activities for past 3 years, negative trend and going concern issue."
+7,step_7_fm,Financial Restatements,True,No Range,Yes,1.2,0.0,0.0,,
+7,step_7_fm,Financial Restatements,True,No Range,No,1.0,0.0,0.0,,
+7,step_7_fm,Financial Restatements,False,No Range,Yes,1.2,0.0,0.0,,
+7,step_7_fm,Financial Restatements,False,No Range,No,1.0,0.0,0.0,,
+7,step_7_fm,Financial Restatements,False,Range,Yes,0.0,1.0,1.5,,
+7,step_7_fm,Financial Restatements,False,Range,No,0.0,1.0,1.0,,
+8,step_8_em,Experience of Internal Management,True,No Range,Poor,1.15,0.0,0.0,Significant top level management turnover in the last 3 years; average experience of management <5 years; no formal management evaluation practices.,Average industry experience of management is less than 5 years and one or more may have been at the helm of previous businesses that have gone bankrupt or been subject to litigation. Turnover of management team greater than 75%.
+8,step_8_em,Experience of Internal Management,True,No Range,Fair,1.05,0.0,0.0,One or more turnovers of top management in the last 3 years; average experience of management <5 years; limited/insufficient formal management evaluation practices.,Average industry experience of management is less than 5 years. Turnover of management team greater than 50% but less than or equal to 75%.
+8,step_8_em,Experience of Internal Management,True,No Range,Good,1.0,0.0,0.0,Some turnovers in middle management in the last 3 years; average experience of management 5 – 10 years; sufficient formal management evaluation practices.,"A diversified management team in terms of areas of expertise, majority of executives have graduate level education, average number of years with the company greater than or equal to 5 but less than 10. Turnover of management team greater than 20% but less or equal to 50%."
+8,step_8_em,Experience of Internal Management,True,No Range,Very Good,0.9,0.0,0.0,Some turnovers in middle management in the last 3 years; average experience of management 10+ years; sufficient formal management evaluation practices.,"A diversified management team in terms of areas of expertise, majority of executives have graduate level education, average number of years with the company greater than or equal to 10 but less than 15. Turnover of management team less than or equal to 20%."
+8,step_8_em,Experience of Internal Management,True,No Range,Excellent,0.85,0.0,0.0,Little or no management turnover; average experience of management 10+ years; rigorous formal management evaluation practices.,"A diversified management team in terms of areas of expertise, majority of executives have graduate level education, average number of years with the company greater than or equal to 15. No turnover, excellent history."
+8,step_8_em,Experience of Internal Management,False,No Range,Poor,1.15,0.0,0.0,Significant top level management turnover in the last 3 years; average experience of management <5 years; no formal management evaluation practices.,Average industry experience of management is less than 5 years and one or more may have been at the helm of previous businesses that have gone bankrupt or been subject to litigation. Turnover of management team greater than 75%.
+8,step_8_em,Experience of Internal Management,False,No Range,Fair,1.05,0.0,0.0,One or more turnovers of top management in the last 3 years; average experience of management <5 years; limited/insufficient formal management evaluation practices.,Average industry experience of management is less than 5 years. Turnover of management team greater than 50% but less than or equal to 75%.
+8,step_8_em,Experience of Internal Management,False,No Range,Good,1.0,0.0,0.0,Some turnovers in middle management in the last 3 years; average experience of management 5 – 10 years; sufficient formal management evaluation practices.,"A diversified management team in terms of areas of expertise, majority of executives have graduate level education, average number of years with the company greater than or equal to 5 but less than 10. Turnover of management team greater than 20% but less or equal to 50%."
+8,step_8_em,Experience of Internal Management,False,No Range,Very Good,0.9,0.0,0.0,Some turnovers in middle management in the last 3 years; average experience of management 10+ years; sufficient formal management evaluation practices.,"A diversified management team in terms of areas of expertise, majority of executives have graduate level education, average number of years with the company greater than or equal to 10 but less than 15. Turnover of management team less than or equal to 20%."
+8,step_8_em,Experience of Internal Management,False,No Range,Excellent,0.85,0.0,0.0,Little or no management turnover; average experience of management 10+ years; rigorous formal management evaluation practices.,"A diversified management team in terms of areas of expertise, majority of executives have graduate level education, average number of years with the company greater than or equal to 15. No turnover, excellent history."
+8,step_8_em,Experience of Internal Management,False,Range,Below Average,0.0,1.0,1.15,Significant top level management turnover in the last 3 years; average experience of management <5 years; no formal management evaluation practices.,Average industry experience of management is less than 5 years and one or more may have been at the helm of previous businesses that have gone bankrupt or been subject to litigation. Turnover of management team greater than 75%.
+8,step_8_em,Experience of Internal Management,False,Range,Average,0.0,1.0,1.0,One or more turnovers of top management in the last 3 years; average experience of management <5 years; limited/insufficient formal management evaluation practices.,Average industry experience of management is less than 5 years. Turnover of management team greater than 50% but less than or equal to 75%.
+8,step_8_em,Experience of Internal Management,False,Range,Above Average,0.0,0.85,1.0,Some turnovers in middle management in the last 3 years; average experience of management 5 – 10 years; sufficient formal management evaluation practices.,"A diversified management team in terms of areas of expertise, majority of executives have graduate level education, average number of years with the company greater than or equal to 5 but less than 10. Turnover of management team greater than 20% but less or equal to 50%."
+9,step_9_om,Outside Board of Directors,True,No Range,Poor,1.15,0.0,0.0,Greater than 30% board member turnover in the last 5 years; prevalent conflicts of interest; board members have marginal/questionable backgrounds.,Average industry experience of board of directors is less than 5 years and one or more may have been at the helm of previous businesses that have gone bankrupt or been subject to litigation.
+9,step_9_om,Outside Board of Directors,True,No Range,Fair,1.05,0.0,0.0,15 to 30% board member turnover in the last 5 years; minor potential conflicts of interest; board members have good backgrounds. ,Average industry experience of board of directors is less than 5 years.
+9,step_9_om,Outside Board of Directors,True,No Range,Good,1.0,0.0,0.0,Less than 15% of board member turnover in the last 5 years; no clear conflicts of interest; board members have good backgrounds.,"A diversified board of directors in terms of areas of expertise, majority of directors have graduate level education, average number of years with the company greater than or equal to 5 but less than 10."
+9,step_9_om,Outside Board of Directors,True,No Range,Very Good,0.9,0.0,0.0,No board turnover in the last 5 years; appropriate expertise on board; board members have clean backgrounds; no clear conflicts of interest.,"A diversified board of directors in terms of areas of expertise, majority of directors have graduate level education, average number of years with the company greater than or equal to 10 but less than 15."
+9,step_9_om,Outside Board of Directors,True,No Range,Excellent,0.85,0.0,0.0,No board turnover in the last 5 years; above average expertise on board; board members have clean backgrounds; no clear conflicts of interest; even appearance of potential conflicts of interest are avoided,"A diversified board of directors in terms of areas of expertise, majority of directors have graduate level education, average number of years with the company greater than or equal to 15."
+9,step_9_om,Outside Board of Directors,False,No Range,Poor,1.15,0.0,0.0,Greater than 30% board member turnover in the last 5 years; prevalent conflicts of interest; board members have marginal/questionable backgrounds.,Average industry experience of board of directors is less than 5 years and one or more may have been at the helm of previous businesses that have gone bankrupt or been subject to litigation.
+9,step_9_om,Outside Board of Directors,False,No Range,Fair,1.05,0.0,0.0,15 to 30% board member turnover in the last 5 years; minor potential conflicts of interest; board members have good backgrounds. ,Average industry experience of board of directors is less than 5 years.
+9,step_9_om,Outside Board of Directors,False,No Range,Good,1.0,0.0,0.0,Less than 15% of board member turnover in the last 5 years; no clear conflicts of interest; board members have good backgrounds.,"A diversified board of directors in terms of areas of expertise, majority of directors have graduate level education, average number of years with the company greater than or equal to 5 but less than 10."
+9,step_9_om,Outside Board of Directors,False,No Range,Very Good,0.9,0.0,0.0,No board turnover in the last 5 years; appropriate expertise on board; board members have clean backgrounds; no clear conflicts of interest.,"A diversified board of directors in terms of areas of expertise, majority of directors have graduate level education, average number of years with the company greater than or equal to 10 but less than 15."
+9,step_9_om,Outside Board of Directors,False,No Range,Excellent,0.85,0.0,0.0,No board turnover in the last 5 years; above average expertise on board; board members have clean backgrounds; no clear conflicts of interest; even appearance of potential conflicts of interest are avoided,"A diversified board of directors in terms of areas of expertise, majority of directors have graduate level education, average number of years with the company greater than or equal to 15."
+9,step_9_om,Outside Board of Directors,False,Range,Below Average,0.0,1.0,1.15,Greater than 30% board member turnover in the last 5 years; prevalent conflicts of interest; board members have marginal/questionable backgrounds.,Average industry experience of board of directors is less than 5 years and one or more may have been at the helm of previous businesses that have gone bankrupt or been subject to litigation.
+9,step_9_om,Outside Board of Directors,False,Range,Average,0.0,1.0,1.0,15 to 30% board member turnover in the last 5 years; minor potential conflicts of interest; board members have good backgrounds. ,Average industry experience of board of directors is less than 5 years.
+9,step_9_om,Outside Board of Directors,False,Range,Above Average,0.0,0.85,1.0,Less than 15% of board member turnover in the last 5 years; no clear conflicts of interest; board members have good backgrounds.,"A diversified board of directors in terms of areas of expertise, majority of directors have graduate level education, average number of years with the company greater than or equal to 5 but less than 10."
+10,step_10_lm,General,True,No Range,Below Average,0.85,0.0,0.0,No litigation against company in the last 5 years.,No litigation against company in the last 5 years.
+10,step_10_lm,General,True,No Range,Average,1.0,0.0,0.0,Some litigation against company in the last 1 to 5 years; no significant litigation.,No current litigation in the last 12 months and none anticipated in the next 12 months.
+10,step_10_lm,General,True,No Range,Significant,1.2,0.0,0.0,Litigation against company in the past year; significant litigation in the last 5 years.,"No current litigation, but anticipated litigation in next 12 months, or 1+ litigation in the past 3 years."
+10,step_10_lm,General,False,No Range,Below Average,0.85,0.0,0.0,No litigation against company in the last 5 years.,No litigation against company in the last 5 years.
+10,step_10_lm,General,False,No Range,Average,1.0,0.0,0.0,Some litigation against company in the last 1 to 5 years; no significant litigation.,No current litigation in the last 12 months and none anticipated in the next 12 months.
+10,step_10_lm,General,False,No Range,Significant,1.2,0.0,0.0,Litigation against company in the past year; significant litigation in the last 5 years.,"No current litigation, but anticipated litigation in next 12 months, or 1+ litigation in the past 3 years."
+10,step_10_lm,General,False,Range,Average,0.0,0.85,1.0,No litigation against company in the last 5 years.,No litigation against company in the last 5 years.
+10,step_10_lm,General,False,Range,Significant,0.0,1.1,1.25,Some litigation against company in the last 1 to 5 years; no significant litigation.,No current litigation in the last 12 months and none anticipated in the next 12 months.
+11,step_11_chm,D&O Claim History,True,No Range,Confident,0.86,0.0,0.0,No significant claims which would trigger coverage noticed or filed in the last 10+ years.,No D&O litigation in the past 5 years. No conditions which could lead to future D&O litigation.
+11,step_11_chm,D&O Claim History,True,No Range,Comfortable,1.0,0.0,0.0,No or few significant claims which would trigger coverage noticed or filed in the last 5-10 years.,No D&O litigation in the past 3 years. No current conditions which could lead to D&O litigation.
+11,step_11_chm,D&O Claim History,True,No Range,Low Concern,1.11,0.0,0.0,Single or multiple claims of low significance noticed or filed in the last 5 years.,"No current D&O litigation, but has filed notice of circumstances in the last 5 years."
+11,step_11_chm,D&O Claim History,True,No Range,Material Concern,1.33,0.0,0.0,"Significant claims, including multiple claims, which may generate loss coverage noticed or filed in the last 5 years.",1 current D&O claim in litigation or more than 3 notice of circumstances filed in the last 5 years.
+11,step_11_chm,D&O Claim History,True,No Range,High Concern,1.63,0.0,0.0,"Significant claims, including multiple claims and/or claims with payments paid or expected to-be-paid (exceeding the retention), in the last 10 years.",2 or more D&O cases currently being litigated.
+11,step_11_chm,D&O Claim History,True,No Range,Very High to Severe Concern,2.11,0.0,0.0,"Very significant, multiple, concerning, problematic or sizeable claims with payments paid or expected to-be-paid (exceeding the retention) in the last 10 years.",2 or more D&O cases currently being litigated and anticipated to have unfavorable outcomes.
+11,step_11_chm,D&O Claim History,False,No Range,Confident,0.86,0.0,0.0,No significant claims which would trigger coverage noticed or filed in the last 10+ years.,No D&O litigation in the past 5 years. No conditions which could lead to future D&O litigation.
+11,step_11_chm,D&O Claim History,False,No Range,Comfortable,1.0,0.0,0.0,No or few significant claims which would trigger coverage noticed or filed in the last 5-10 years.,No D&O litigation in the past 3 years. No current conditions which could lead to D&O litigation.
+11,step_11_chm,D&O Claim History,False,No Range,Low Concern,1.11,0.0,0.0,Single or multiple claims of low significance noticed or filed in the last 5 years.,"No current D&O litigation, but has filed notice of circumstances in the last 5 years."
+11,step_11_chm,D&O Claim History,False,No Range,Material Concern,1.33,0.0,0.0,"Significant claims, including multiple claims, which may generate loss coverage noticed or filed in the last 5 years.",1 current D&O claim in litigation or more than 3 notice of circumstances filed in the last 5 years.
+11,step_11_chm,D&O Claim History,False,No Range,High Concern,1.63,0.0,0.0,"Significant claims, including multiple claims and/or claims with payments paid or expected to-be-paid (exceeding the retention), in the last 10 years.",2 or more D&O cases currently being litigated.
+11,step_11_chm,D&O Claim History,False,No Range,Very High to Severe Concern,2.11,0.0,0.0,"Very significant, multiple, concerning, problematic or sizeable claims with payments paid or expected to-be-paid (exceeding the retention) in the last 10 years.",2 or more D&O cases currently being litigated and anticipated to have unfavorable outcomes.
+11,step_11_chm,D&O Claim History,False,Range,Confident,0.0,0.72,1.0,No significant claims which would trigger coverage noticed or filed in the last 10+ years.,No D&O litigation in the past 5 years. No conditions which could lead to future D&O litigation.
+11,step_11_chm,D&O Claim History,False,Range,Comfortable,0.0,1.0,1.0,No or few significant claims which would trigger coverage noticed or filed in the last 5-10 years.,No D&O litigation in the past 3 years. No current conditions which could lead to D&O litigation.
+11,step_11_chm,D&O Claim History,False,Range,Low Concern,0.0,1.0,1.21,Single or multiple claims of low significance noticed or filed in the last 5 years.,"No current D&O litigation, but has filed notice of circumstances in the last 5 years."
+11,step_11_chm,D&O Claim History,False,Range,Material Concern,0.0,1.21,1.44,"Significant claims, including multiple claims, which may generate loss coverage noticed or filed in the last 5 years.",1 current D&O claim in litigation or more than 3 notice of circumstances filed in the last 5 years.
+11,step_11_chm,D&O Claim History,False,Range,High Concern,0.0,1.44,1.82,"Significant claims, including multiple claims and/or claims with payments paid or expected to-be-paid (exceeding the retention), in the last 10 years.",2 or more D&O cases currently being litigated.
+11,step_11_chm,D&O Claim History,False,Range,Very High to Severe Concern,0.0,1.82,2.4,"Very significant, multiple, concerning, problematic or sizeable claims with payments paid or expected to-be-paid (exceeding the retention) in the last 10 years.",2 or more D&O cases currently being litigated and anticipated to have unfavorable outcomes.
+12,step_12_sm,Shareholder Base,True,No Range,Principal shareholders (own more than 10%),1.0,0.0,0.0,,
+12,step_12_sm,Shareholder Base,True,No Range,Employee Stock ownership plan,1.25,0.0,0.0,,
+12,step_12_sm,Shareholder Base,True,No Range,Inadequate/Excessive Management ownership ,1.1,0.0,0.0,,
+12,step_12_sm,Shareholder Base,False,No Range,Principal shareholders (own more than 10%),1.0,0.0,0.0,,
+12,step_12_sm,Shareholder Base,False,No Range,Employee Stock ownership plan,1.25,0.0,0.0,,
+12,step_12_sm,Shareholder Base,False,No Range,Inadequate/Excessive Management ownership,1.1,0.0,0.0,,
+12,step_12_sm,Shareholder Base,False,Range,Principal shareholders (own more than 10%),0.0,1.0,1.15,,
+12,step_12_sm,Shareholder Base,False,Range,Employee Stock ownership plan,0.0,1.0,1.5,,
+12,step_12_sm,Shareholder Base,False,Range,Inadequate/Excessive Management ownership,0.0,1.0,1.15,,
+13,step_13_edm,Equity or Debt Offering,True,No Range,Equity or Debt offering,1.5,0.0,0.0,,
+13,step_13_edm,Equity or Debt Offering,True,No Range,Not Applicable,1.0,0.0,0.0,,
+13,step_13_edm,Equity or Debt Offering,False,No Range,Equity or Debt offering,1.5,0.0,0.0,,
+13,step_13_edm,Equity or Debt Offering,False,No Range,Not Applicable,1.0,0.0,0.0,,
+13,step_13_edm,Equity or Debt Offering,False,Range,Equity or Debt offering,0.0,1.0,2.0,,
+14,step_14_spm,Recent Stock Volatility,True,No Range,High Volatility,1.1,0.0,0.0,One or more of the following: stock beta is 1.50 or greater; EPS exceeds industry average; stock appreciation >=25% in the last 12 months.,"Active trading, trades at a higher price on average than the prior 52-week period."
+14,step_14_spm,Recent Stock Volatility,True,No Range,Stable,1.0,0.0,0.0,Stock beta is between 1.00 to 1.50; EPS in line with industry average; stock appreciation <25% in the last 12 months.,Trades in line with prior 52-week period.
+14,step_14_spm,Recent Stock Volatility,True,No Range,Low Volatility,0.9,0.0,0.0,Stock beta is less than 1.00; EPS lower than industry average; stock appreciation <5% in the last 12 months.,"Limited trading, trades at a price that is a discount to prior 52-week period."
+14,step_14_spm,Recent Stock Volatility,False,No Range,High Volatility,1.1,0.0,0.0,One or more of the following: stock beta is 1.50 or greater; EPS exceeds industry average; stock appreciation >=25% in the last 12 months.,"Active trading, trades at a higher price on average than the prior 52-week period."
+14,step_14_spm,Recent Stock Volatility,False,No Range,Stable,1.0,0.0,0.0,Stock beta is between 1.00 to 1.50; EPS in line with industry average; stock appreciation <25% in the last 12 months.,Trades in line with prior 52-week period.
+14,step_14_spm,Recent Stock Volatility,False,No Range,Low Volatility,0.9,0.0,0.0,Stock beta is less than 1.00; EPS lower than industry average; stock appreciation <5% in the last 12 months.,"Limited trading, trades at a price that is a discount to prior 52-week period."
+14,step_14_spm,Recent Stock Volatility,False,Range,High Volatility,0.0,1.0,1.15,One or more of the following: stock beta is 1.50 or greater; EPS exceeds industry average; stock appreciation >=25% in the last 12 months.,"Active trading, trades at a higher price on average than the prior 52-week period."
+14,step_14_spm,Recent Stock Volatility,False,Range,Stable,0.0,1.0,1.0,Stock beta is between 1.00 to 1.50; EPS in line with industry average; stock appreciation <25% in the last 12 months.,Trades in line with prior 52-week period.
+14,step_14_spm,Recent Stock Volatility,False,Range,Low Volatility,0.0,0.85,1.0,Stock beta is less than 1.00; EPS lower than industry average; stock appreciation <5% in the last 12 months.,"Limited trading, trades at a price that is a discount to prior 52-week period."
+16,step_16_pcm,Private Company Modifier,True,No Range,Not Publicly Traded,0.5,0.0,0.0,,
+16,step_16_pcm,Private Company Modifier,True,No Range,Publicly Traded,1.0,0.0,0.0,,
+16,step_16_pcm,Private Company Modifier,False,No Range,Not Publicly Traded,0.5,0.0,0.0,,
+16,step_16_pcm,Private Company Modifier,False,No Range,Publicly Traded,1.0,0.0,0.0,,
+16,step_16_pcm,Private Company Modifier,False,Range,Not Publicly Traded,0.0,0.5,0.5,,
+16,step_16_pcm,Private Company Modifier,False,Range,Publicly Traded,0.0,1.0,1.0,,
+17,step_17_icm,Indemnifiable Coverage Modifier,True,No Range,Insured person Non-Indemnifiable coverage only,0.65,0.0,0.0,,
+17,step_17_icm,Indemnifiable Coverage Modifier,True,No Range,Non-Indemnifiable and Indemnifiable Insured Person coverage Only,0.95,0.0,0.0,,
+17,step_17_icm,Indemnifiable Coverage Modifier,True,No Range,None,1.0,0.0,0.0,,
+17,step_17_icm,Indemnifiable Coverage Modifier,False,No Range,Insured person Non-Indemnifiable coverage only,0.65,0.0,0.0,,
+17,step_17_icm,Indemnifiable Coverage Modifier,False,No Range,Non-Indemnifiable and Indemnifiable Insured Person coverage Only,0.95,0.0,0.0,,
+17,step_17_icm,Indemnifiable Coverage Modifier,False,No Range,None,1.0,0.0,0.0,,
+17,step_17_icm,Indemnifiable Coverage Modifier,False,Range,Insured person Non-Indemnifiable coverage only,0.0,0.5,0.9,,
+17,step_17_icm,Indemnifiable Coverage Modifier,False,Range,Non-Indemnifiable and Indemnifiable Insured Person coverage Only,0.0,0.9,1.0,,
+18,step_18_yo,Years in Operation,True,No Range,More than 5 Years,1.0,0.0,0.0,,
+18,step_18_yo,Years in Operation,True,No Range,"At least 3 Years, but no more than 5 Years ",1.05,0.0,0.0,,
+18,step_18_yo,Years in Operation,True,No Range,Less than 3 Years,1.15,0.0,0.0,,
+18,step_18_yo,Years in Operation,False,No Range,More than 5 Years,1.0,0.0,0.0,,
+18,step_18_yo,Years in Operation,False,No Range,"At least 3 Years, but no more than 5 Years ",1.05,0.0,0.0,,
+18,step_18_yo,Years in Operation,False,No Range,Less than 3 Years,1.15,0.0,0.0,,
+18,step_18_yo,Years in Operation,False,Range,More than 5 Years,0.0,0.85,1.0,,
+18,step_18_yo,Years in Operation,False,Range,"At least 3 Years, but no more than 5 Years ",0.0,1.0,1.05,,
+18,step_18_yo,Years in Operation,False,Range,Less than 3 Years,0.0,1.05,1.25,,
+19,step_19_saf,Side-A Factor,True,No Range,Yes,0.6,0.0,0.0,,
+19,step_19_saf,Side-A Factor,True,No Range,No,1.0,0.0,0.0,,
+19,step_19_saf,Side-A Factor,False,No Range,Yes,0.6,0.0,0.0,,
+19,step_19_saf,Side-A Factor,False,No Range,No,1.0,0.0,0.0,,
+19,step_19_saf,Side-A Factor,False,Range,Yes,0.0,0.5,0.7,,
+19,step_19_saf,Side-A Factor,False,Range,No,0.0,1.0,1.0,,
+20,step_20a_fwic,Fit within Industry Classification,True,No Range,None,0.0,-0.1,0.1,,
+21,step_20b_iglp,Internal Governance & Loss Prevention,True,No Range,None,0.0,-0.1,0.1,,
+22,step_20c_rii,Regulatory Investigations or Issues,True,No Range,None,0.0,-0.1,0.1,,
+23,step_20d_str,Susceptibility to Recession,True,No Range,None,0.0,-0.1,0.1,,
+24,step_20e_mcd,Major Customer Dependency,True,No Range,None,0.0,-0.1,0.1,,
+25,step_20f_lre,Labor Relations Exposure,True,No Range,None,0.0,-0.1,0.1,,
+26,step_20_srf,Schedule Rating Factor,True,No Range,None,0.0,-0.25,0.25,,
+27,step_18_yo_ca,Years in Operation,True,No Range,10 Years or More,0.85,0.85,0.85,,
+27,step_18_yo_ca,Years in Operation,True,No Range,"At least 5 Years, but no more than 10 Years",1.0,1.0,1.0,,
+27,step_18_yo_ca,Years in Operation,True,No Range,"At least 3 Years, but no more than 5 Years",1.05,1.05,1.05,,
+27,step_18_yo_ca,Years in Operation,True,No Range,Less than 3 Years,1.15,1.15,1.15,,

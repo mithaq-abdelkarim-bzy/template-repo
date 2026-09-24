@@ -1,0 +1,5 @@
+Grade,Description,Charge
+Very Limited,Very Limited Scope e.g. prior submit MGA,0
+Limited Scope,"Limited Scope (e.g. Lead Underwriter has reviewed and agreed coverholder's rating model, tight scope / guidelines)",0
+Average,"Average Scope (e.g. Coverholder can underwrite within specified parameters such as agreed Lloyd's risk codes, territories, max line sizes, etc.)",0.0025
+Extensive Scope,Extensive Scope (e.g. Freedom to underwrite to very broad parameters),0.005

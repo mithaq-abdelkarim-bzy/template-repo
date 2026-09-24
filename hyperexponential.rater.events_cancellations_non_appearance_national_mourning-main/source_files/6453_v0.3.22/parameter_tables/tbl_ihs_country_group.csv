@@ -1,0 +1,33 @@
+group,country,code,weight
+Worldwide,United States,US,0.55
+Worldwide,United Kingdom,GB,0.125
+Worldwide,France,FR,0.1
+Worldwide,Brazil,BR,0.05
+Worldwide,Japan,JP,0.05
+Worldwide,Mexico,MX,0.025
+Worldwide,Argentina,AR,0.025
+Worldwide,Singapore,SG,0.025
+Worldwide,South Africa,ZA,0.025
+Worldwide,Belgium,BE,0.025
+APAC,Japan,JP,0.65
+APAC,Singapore,SG,0.3
+APAC,China,CN,0.05
+Eastern Europe,Hungary,HU,0.5
+Eastern Europe,Poland,PL,0.4
+Eastern Europe,Czechia,CZ,0.1
+Latin America,Brazil,BR,0.4
+Latin America,Mexico,MX,0.3
+Latin America,Argentina,AR,0.2
+Latin America,Chile,CL,0.1
+Middle East,Saudi Arabia,SA,0.85
+Middle East,United Arab Emirates,AE,0.1
+Middle East,Turkey,TR,0.05
+North America,United States,US,0.8
+North America,Canada,CA,0.2
+Africa,South Africa,ZA,0.8
+Africa,Botswana,BW,0.1
+Africa,Nigeria,NG,0.1
+Western Europe,United Kingdom,GB,0.5
+Western Europe,France,FR,0.4
+Western Europe,Belgium,BE,0.05
+Western Europe,Germany,DE,0.05

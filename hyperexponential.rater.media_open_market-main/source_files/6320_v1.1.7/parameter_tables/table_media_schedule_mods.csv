@@ -1,0 +1,10 @@
+description,min,max,description_name
+Media/Content Review & Control Procedures,-50,50,media_review_control_procedures
+Qualifications of In-House Counsel,-25,25,qualifications_inhouse_counsel
+Geographical Scope of Publication,-50,50,geographical_scope
+Popularity of Publication,-50,50,popularity
+Use of Standard Written Contracts and/or Limitations of Liability,-25,25,use_of_standard_contracts
+Contract Sizes,-50,50,contract_sizes
+Proportion of Own vs. Licensed Content,-50,50,proportion_of_own_content
+Contingent BI/PD Exposure,-15,100,contingent_bi_pd_exposure
+US Exposure,-50,100,us_exposure

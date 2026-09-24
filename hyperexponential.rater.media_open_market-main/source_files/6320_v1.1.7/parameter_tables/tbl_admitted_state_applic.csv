@@ -1,0 +1,2 @@
+state_abbrev_plus_surplus,allow_range_rating,allow_refer_to_co_rating,schedule_rating_min,schedule_rating_max,allow_min_by_class,rater_to_use,min_agg_allowed,min_premium_before,min_premium_after,allow_rounding
+Surplus,Yes,Yes,-0.5,0.5,Yes,Surplus BASE,0,0,0,Yes

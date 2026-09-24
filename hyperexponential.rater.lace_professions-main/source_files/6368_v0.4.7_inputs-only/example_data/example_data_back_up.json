@@ -1,0 +1,1379 @@
+[
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "limit": 9e5,
+          "excess": 1e5,
+          "deductible": 3e4,
+          "quoted_premium_100": 41000,
+          "brokerage": 0.2,
+          "written_line": 0.7,
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 1
+          }
+        },
+        {
+          "limit": 4e6,
+          "excess": 1e6,
+          "deductible": 0,
+          "quoted_premium_100": 85000,
+          "brokerage": 0.2,
+          "written_line": 0.3,
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 2
+          }
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "2 layers renewing into 2 layers no mismatch"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341987,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "limit": 9e5,
+          "excess": 1e5,
+          "deductible": 3e4,
+          "quoted_premium_100": 41000,
+          "brokerage": 0.2,
+          "written_line": 0.7
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "1 layer renewing into 1 layer no mismatch"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341988,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "limit": 9e5,
+          "excess": 1e5,
+          "deductible": 3e4,
+          "quoted_premium_100": 41000,
+          "brokerage": 0.2,
+          "written_line": 0.7,
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 1
+          }
+        },
+        {
+          "limit": 4e6,
+          "excess": 1e6,
+          "deductible": 0,
+          "quoted_premium_100": 85000,
+          "brokerage": 0.2,
+          "written_line": 0.3,
+          "rate_change": {
+            "new_layer": true,
+            "expiring_layer": 1
+          }
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "1 layer renewing into 2 layers"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341989,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "limit": 9e5,
+          "excess": 1e5,
+          "deductible": 3e4,
+          "quoted_premium_100": 41000,
+          "brokerage": 0.2,
+          "written_line": 0.7
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "2 layers renewing into 1 layer with mismatch of layer ID"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341987,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "limit": 4e5,
+          "excess": 1e5,
+          "deductible": 3e4,
+          "quoted_premium_100": 21000,
+          "brokerage": 0.2,
+          "written_line": 0.7,
+          "currency": "EUR",
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 1
+          }
+        },
+        {
+          "limit": 4e5,
+          "excess": 5e5,
+          "deductible": 0,
+          "quoted_premium_100": 21000,
+          "brokerage": 0.2,
+          "written_line": 0.7,
+          "currency": "EUR",
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 1
+          }
+        },
+        {
+          "limit": 4e6,
+          "excess": 1e6,
+          "deductible": 0,
+          "quoted_premium_100": 85000,
+          "brokerage": 0.2,
+          "written_line": 0.3,
+          "currency": "EUR",
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 2
+          }
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "3 layers renewing into 3 layers with mismatch of layer ID"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341991,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "coverages": {
+            "example_coverage_1": {
+              "limit": 9e5,
+              "excess": 1e5,
+              "deductible": 3e4,
+              "quoted_premium_100": 41000,
+              "brokerage": 0.2,
+              "written_line": 0.7
+            },
+            "example_coverage_2": {
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 85000,
+              "brokerage": 0.2,
+              "written_line": 0.3
+            }
+          },
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 1
+          }
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "1 layer with 2 coverages renewing into 1 layer 2 coverages with no mismatch of layer ID"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341992,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "coverages": {
+            "example_coverage_1": {
+              "limit": 4e5,
+              "excess": 1e5,
+              "deductible": 3e4,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            },
+            "example_coverage_2": {
+              "limit": 45e4,
+              "excess": 15e4,
+              "deductible": 3e4,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            }
+          },
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 1
+          }
+        },
+        {
+          "coverages": {
+            "example_coverage_1": {
+              "limit": 4e5,
+              "excess": 5e5,
+              "deductible": 0,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            },
+            "example_coverage_2": {
+              "limit": 4e5,
+              "excess": 5e5,
+              "deductible": 0,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            }
+          },
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 1
+          }
+        },
+        {
+          "coverages": {
+            "example_coverage_1": {
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 85000,
+              "brokerage": 0.2,
+              "written_line": 0.3,
+              "currency": "EUR"
+            },
+            "example_coverage_2": {
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 85000,
+              "brokerage": 0.2,
+              "written_line": 0.3,
+              "currency": "EUR"
+            }
+          },
+          "rate_change": {
+            "new_layer": false,
+            "expiring_layer": 2
+          }
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "3 layers with 2 coverages renewing into 3 layers 2 coverages with mismatch of layer ID"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341993,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "coverages": {
+            "example_coverage_1": {
+              "brokerage": 0.2
+            },
+            "example_coverage_2": {
+              "brokerage": 0.2
+            }
+          }
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "coverage level Insured asset with lapsed, renewing and new insured asset"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341994,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ],
+          "example_coverage_1": [
+            {
+              "unique_id": 1,
+              "limit": 4e5,
+              "excess": 1e5,
+              "deductible": 3e4,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            },
+            {
+              "unique_id": 5,
+              "limit": 4e5,
+              "excess": 5e5,
+              "deductible": 0,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            },
+            {
+              "unique_id": 2,
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 85000,
+              "brokerage": 0.2,
+              "written_line": 0.3,
+              "currency": "EUR"
+            },
+            {
+              "unique_id": 3,
+              "limit": 1e6,
+              "excess": 5e6,
+              "deductible": 0,
+              "quoted_premium_100": 25000,
+              "brokerage": 0.2,
+              "written_line": 0.3,
+              "currency": "EUR"
+            }
+          ],
+          "example_coverage_2": [
+            {
+              "unique_id": 1,
+              "limit": 45e4,
+              "excess": 15e4,
+              "deductible": 3e4,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            },
+            {
+              "unique_id": 5,
+              "limit": 4e5,
+              "excess": 5e5,
+              "deductible": 0,
+              "quoted_premium_100": 21000,
+              "brokerage": 0.2,
+              "written_line": 0.7,
+              "currency": "EUR"
+            },
+            {
+              "unique_id": 2,
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 85000,
+              "brokerage": 0.2,
+              "written_line": 0.3,
+              "currency": "EUR"
+            },
+            {
+              "unique_id": 3,
+              "limit": 1e6,
+              "excess": 5e6,
+              "deductible": 0,
+              "quoted_premium_100": 25000,
+              "brokerage": 0.2,
+              "written_line": 0.3,
+              "currency": "EUR"
+            }
+          ]
+        }
+      },
+      "currencies": {
+        "source_currency": "EUR"
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "coverages": {
+            "example_coverage_1": {
+              "brokerage": 0.2
+            },
+            "example_coverage_2": {
+              "brokerage": 0.2
+            }
+          }
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "Coverage level Insured assets with change in Currency only"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1341994,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ],
+          "example_coverage_1": [
+            {
+              "unique_id": 1,
+              "limit": 9e5,
+              "excess": 2e5,
+              "deductible": 3e4,
+              "quoted_premium_100": 40000,
+              "brokerage": 0.15,
+              "written_line": 0.7,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 2,
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 80000,
+              "brokerage": 0.175,
+              "written_line": 0.3,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 3,
+              "limit": 1e6,
+              "excess": 5e6,
+              "deductible": 0,
+              "quoted_premium_100": 12000,
+              "brokerage": 0.15,
+              "written_line": 0.5,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 4,
+              "limit": 5e5,
+              "excess": 6e6,
+              "deductible": 0,
+              "quoted_premium_100": 5000,
+              "brokerage": 0.2,
+              "written_line": 0.1,
+              "currency": "USD"
+            }
+          ],
+          "example_coverage_2": [
+            {
+              "unique_id": 1,
+              "limit": 9e5,
+              "excess": 2e5,
+              "deductible": 3e4,
+              "quoted_premium_100": 40000,
+              "brokerage": 0.15,
+              "written_line": 0.7,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 2,
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 80000,
+              "brokerage": 0.175,
+              "written_line": 0.3,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 3,
+              "limit": 1e6,
+              "excess": 5e6,
+              "deductible": 0,
+              "quoted_premium_100": 12000,
+              "brokerage": 0.15,
+              "written_line": 0.5,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 4,
+              "limit": 5e5,
+              "excess": 6e6,
+              "deductible": 0,
+              "quoted_premium_100": 5000,
+              "brokerage": 0.2,
+              "written_line": 0.1,
+              "currency": "USD"
+            }
+          ]
+        }
+      },
+      "currencies": {
+        "source_currency": "EUR"
+      }
+    }
+  },
+  {
+    "cds": {
+      "experience_rating": {
+        "claims_available": true,
+        "claims_fgu": true
+      },
+      "layers": [
+        {
+          "brokerage": 0.2
+        }
+      ],
+      "standard_fields": {
+        "is_renewal": true,
+        "insured_name": "Layer level and insured asset"
+      },
+      "rate_change": {
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": 1344274,
+          "is_dirty": false,
+          "is_overridden": true,
+          "overridden_calculated": null,
+          "selected": null
+        }
+      },
+      "exposure": {
+        "aggregate": {
+          "example_aggregate_exposure": 2238246.0
+        },
+        "granular": {
+          "example_exposure": [
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Commercial",
+              "tiv": 76897
+            },
+            {
+              "country": "Spain",
+              "city": "Valencia",
+              "type": "Residential",
+              "tiv": 197586
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Industrial",
+              "tiv": 84290
+            },
+            {
+              "country": "Spain",
+              "city": "Madrid",
+              "type": "Commercial",
+              "tiv": 302182
+            },
+            {
+              "country": "Germany",
+              "city": "Munich",
+              "type": "Industrial",
+              "tiv": 131861
+            },
+            {
+              "country": "France",
+              "city": "Lyon",
+              "type": "Residential",
+              "tiv": 397215
+            },
+            {
+              "country": "Germany",
+              "city": "Hamburg",
+              "type": "Commercial",
+              "tiv": 111672
+            },
+            {
+              "country": "UK",
+              "city": "Manchester",
+              "type": "Residential",
+              "tiv": 344415
+            },
+            {
+              "country": "Italy",
+              "city": "Milan",
+              "type": "Mixed Use",
+              "tiv": 343567
+            },
+            {
+              "country": "France",
+              "city": "Marseille",
+              "type": "Mixed Use",
+              "tiv": 248561
+            }
+          ],
+          "layers": [
+            {
+              "unique_id": 1,
+              "limit": 9e5,
+              "excess": 2e5,
+              "deductible": 3e4,
+              "quoted_premium_100": 40000,
+              "brokerage": 0.15,
+              "written_line": 0.7,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 2,
+              "limit": 4e6,
+              "excess": 1e6,
+              "deductible": 0,
+              "quoted_premium_100": 80000,
+              "brokerage": 0.175,
+              "written_line": 0.3,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 3,
+              "limit": 1e6,
+              "excess": 5e6,
+              "deductible": 0,
+              "quoted_premium_100": 12000,
+              "brokerage": 0.15,
+              "written_line": 0.5,
+              "currency": "USD"
+            },
+            {
+              "unique_id": 4,
+              "limit": 5e5,
+              "excess": 6e6,
+              "deductible": 0,
+              "quoted_premium_100": 5000,
+              "brokerage": 0.2,
+              "written_line": 0.1,
+              "currency": "USD"
+            }
+          ]
+        }
+      },
+      "currencies": {
+        "source_currency": "EUR"
+      }
+    }
+  }
+]

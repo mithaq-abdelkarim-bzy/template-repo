@@ -1,0 +1,24 @@
+name: Issue Comment - All - Model Movement
+
+permissions:
+  contents: read
+  issues: write
+  
+on:
+  issue_comment:
+    types:
+      - created
+jobs:
+  model_movement_trigger:
+    if: github.event.issue.state == 'open' && startsWith(github.event.comment.body, '/lgtm') && (contains(github.event.issue.labels.*.name, 'hx_model_movement_dev') || contains(github.event.issue.labels.*.name, 'hx_model_movement_prod'))
+    uses: beazley/hyperexponential.rater.shared_workflows/.github/workflows/reusable-all-model-movement-trigger.yml@main
+    with:
+      MOVEMENT_SOURCE: ${{ contains(github.event.issue.labels.*.name, 'hx_model_movement_dev') && 'DEV' || 'PROD' }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      TITLE: ${{ github.event.issue.title }}
+    secrets:
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}
+      READ_GITHUB_PACKAGE_PAT:  ${{ secrets.READ_GITHUB_PACKAGE_PAT }}
+      HX_MODEL_MOVEMENT_AZURE_AD_USERNAME: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_USERNAME }}
+      HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD }}
+      EMAIL_AZURE_AD_CLIENTSECRET: ${{ secrets.EMAIL_AZURE_AD_CLIENTSECRET }}

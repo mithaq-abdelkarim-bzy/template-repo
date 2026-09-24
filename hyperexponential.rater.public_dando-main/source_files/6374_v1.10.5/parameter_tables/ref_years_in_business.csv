@@ -1,0 +1,6 @@
+Band,GLM ModelRelativity,"""Mid""-point",Lower,Upper,SelectedRelativityLower,SelectedRelativityUpper
+<15,1.3,0,0,15,1.22,1.2048192771084338
+15-30,1.0,15,15,30,1.2048192771084338,0.97
+30-50,0.8,30,30,50,0.97,0.8
+50-75,0.8,50,50,75,0.8,0.8
+75-9999,0.7,75,75,9999,0.8,0.8

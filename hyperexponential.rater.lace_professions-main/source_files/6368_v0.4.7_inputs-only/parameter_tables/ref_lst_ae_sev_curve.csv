@@ -1,0 +1,34 @@
+Area,Sequence,Index,lo,hi,mu,sigma,start,end,Currency
+united_kingdom,1,United Kingdom|1,0.0,0.5,11.029,2.2,0,100000,USD
+united_kingdom,2,United Kingdom|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+united_kingdom,3,United Kingdom|3,0.8,1.0,11.84,2.135,1000000,0,USD
+australia,1,Australia|1,0.0,0.5,11.029,2.2,0,100000,USD
+australia,2,Australia|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+australia,3,Australia|3,0.8,1.0,11.84,2.135,1000000,0,USD
+canada,1,Canada (excl Quebec)|1,0.0,0.5,11.029,2.2,0,100000,USD
+canada,2,Canada (excl Quebec)|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+canada,3,Canada (excl Quebec)|3,0.8,1.0,11.84,2.135,1000000,0,USD
+quebec,1,Quebec|1,0.0,0.5,11.029,2.2,0,100000,USD
+quebec,2,Quebec|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+quebec,3,Quebec|3,0.8,1.0,11.84,2.135,1000000,0,USD
+ireland,1,Ireland|1,0.0,0.5,11.029,2.2,0,100000,USD
+ireland,2,Ireland|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+ireland,3,Ireland|3,0.8,1.0,11.84,2.135,1000000,0,USD
+united_states,1,United States|1,0.0,0.5,11.029,2.2,0,100000,USD
+united_states,2,United States|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+united_states,3,United States|3,0.8,1.0,11.84,2.135,1000000,0,USD
+asia_pac_south_africa,1,Asia Pac (Developed) & South Africa|1,0.0,0.5,11.029,2.2,0,100000,USD
+asia_pac_south_africa,2,Asia Pac (Developed) & South Africa|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+asia_pac_south_africa,3,Asia Pac (Developed) & South Africa|3,0.8,1.0,11.84,2.135,1000000,0,USD
+europe,1,Europe (high risk)|1,0.0,0.5,11.029,2.2,0,100000,USD
+europe,2,Europe (high risk)|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+europe,3,Europe (high risk)|3,0.8,1.0,11.84,2.135,1000000,0,USD
+middle_east,1,Middle East (high risk)|1,0.0,0.5,11.029,2.2,0,100000,USD
+middle_east,2,Middle East (high risk)|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+middle_east,3,Middle East (high risk)|3,0.8,1.0,11.84,2.135,1000000,0,USD
+tax_haven,1,Tax Haven|1,0.0,0.5,11.029,2.2,0,100000,USD
+tax_haven,2,Tax Haven|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+tax_haven,3,Tax Haven|3,0.8,1.0,11.84,2.135,1000000,0,USD
+rest_of_world,1,Rest of World|1,0.0,0.5,11.029,2.2,0,100000,USD
+rest_of_world,2,Rest of World|2,0.5,0.8,11.71,2.34,100000,1000000,USD
+rest_of_world,3,Rest of World|3,0.8,1.0,11.84,2.135,1000000,0,USD

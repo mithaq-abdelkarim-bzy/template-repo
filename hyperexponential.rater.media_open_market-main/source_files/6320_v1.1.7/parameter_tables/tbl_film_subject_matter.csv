@@ -1,0 +1,7 @@
+nature_of_content,modifier
+"Entirely original, set pre 20th Century",0.8
+"Entirely original, set in the 20th or 21st Century",0.9
+"Based on a book or other existing work, and set pre-20th century",0.9
+"Based on a book or other existing work, and set in the 20th or 21st century",1
+Factual documentary (present day or recent history),1.1
+Investigative or exposé documentary,2

@@ -1,0 +1,7 @@
+ParameterName,Value
+RegSCA,0.5
+RegDerivative,0.5
+SCADerivative,0.95
+SDLoad,1.05
+SRLoad,1.1
+SRDLoad,1.15

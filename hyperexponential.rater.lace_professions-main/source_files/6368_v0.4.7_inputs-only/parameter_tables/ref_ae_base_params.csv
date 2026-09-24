@@ -1,0 +1,17 @@
+Parameter Name,Weighting,Description
+Base_ID,4,Iteration number of base parameters
+Ver_No,2010.11.012,Version Number
+Ver_Date,26/11/2010 13:51:28,Version Date
+MC_Date,2022-01-01 00:00:00,Model Claims Date: Date of claims used to derive parameters (i.e. claims inflation applied from this date)
+mu_base,11.87,Severity: Lognormal mu
+sigma,2.17,Severity: Lognormal sigma
+CAP,500000000,Severity:
+ODF,5,Frequency: Negative Binomial overdispersion factor
+FREQ,0.2,Frequency: Expected Frequency for $1m revenue
+PowerValue,0.6,Frequency: power value used to scale exposure curve
+NCP,0.5,Frequency: Nil claims probability
+BenchmarkLR,0.7,Lloyds Benchmark Loss Ratio
+DefenseCostAvFactor,0.4,Factor of defense only  to (indemnity plus defense) cases
+DefenseCostOnlyProportion,0.17,Proportion of Claims At Cost
+DC_p1,0.16,defense costs as function of total claim cost (DC_p1*Inc)
+PFLR,0.7,
