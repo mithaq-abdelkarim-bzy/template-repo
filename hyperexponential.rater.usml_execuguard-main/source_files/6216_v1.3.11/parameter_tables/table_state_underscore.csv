@@ -1,0 +1,65 @@
+﻿State Name,Abbreviation,Underscore
+Alaska,AK,Alaska
+Alabama,AL,Alabama
+Arkansas,AR,Arkansas
+Arizona,AZ,Arizona
+California,CA,California
+Colorado,CO,Colorado
+Connecticut,CT,Connecticut
+District of Columbia,DC,District_of_Columbia
+Delaware,DE,Delaware
+Florida,FL,Florida
+Georgia,GA,Georgia
+Hawaii,HI,Hawaii
+Iowa,IA,Iowa
+Idaho,ID,Idaho
+Illinois,IL,Illinois
+Indiana,IN,Indiana
+Kansas,KS,Kansas
+Kentucky,KY,Kentucky
+Louisiana,LA,Louisiana
+Massachusetts,MA,Massachusetts
+Maryland,MD,Maryland
+Maine,ME,Maine
+Michigan,MI,Michigan
+Minnesota,MN,Minnesota
+Missouri,MO,Missouri
+Mississippi,MS,Mississippi
+Montana,MT,Montana
+North Carolina,NC,North_Carolina
+North Dakota,ND,North_Dakota
+Nebraska,NE,Nebraska
+New Hampshire,NH,New_Hampshire
+New Jersey,NJ,New_Jersey
+New Mexico,NM,New_Mexico
+Nevada,NV,Nevada
+New York - metro,NY,New_York_metro
+New York - non-metro,NY,New_York_non_metro
+New York Free Trade Zone,NYFTZ,New_York_Free_Trade_Zone
+Ohio,OH,Ohio
+Oklahoma,OK,Oklahoma
+Oregon,OR,Oregon
+Pennsylvania,PA,Pennsylvania
+Puerto Rico,PR,Puerto_Rico
+Rhode Island,RI,Rhode_Island
+South Carolina,SC,South_Carolina
+South Dakota,SD,South_Dakota
+Tennessee,TN,Tennessee
+Texas,TX,Texas
+Utah,UT,Utah
+Virginia,VA,Virginia
+Vermont,VT,Vermont
+Washington,WA,Washington
+Wisconsin,WI,Wisconsin
+West Virginia,WV,West_Virginia
+Wyoming,WY,Wyoming
+Surplus,Surplus,Surplus
+UK,,UK
+France,,France
+Germany,,Germany
+China,,China
+All Other EU,,Al_ Other_EU
+Italy,,Italy
+Australia,,Australia
+Japan,,Japan
+Other,,Other

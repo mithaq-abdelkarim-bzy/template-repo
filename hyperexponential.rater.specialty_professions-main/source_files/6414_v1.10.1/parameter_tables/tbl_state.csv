@@ -1,0 +1,55 @@
+State,State Abbrev,Risk Group,Default Factor,Gross Billings Factor,Selected Factor,Claims Heat Map Factor,Residential Factor
+Canada,,Low,0.9090909090909091,1,0.8,1.0,1.0
+Alabama,AL,Medium,1.0,1,1.0,1.0,1.0
+Alaska,AK,Medium,1.0,1,1.0,1.0,1.0
+Arizona,AZ,Medium,1.0,1,1.0,1.0,1.0
+Arkansas,AR,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+California -Territory 1,CA1,High,1.0909090909090908,1,1.0909090909090908,1.2,1.25
+California -Territory 2,CA2,High,1.0909090909090908,1,1.0909090909090908,1.13,1.25
+Colorado,CO,Medium,1.0,1,1.0,1.0,1.25
+Connecticut,CT,Medium,1.0,1,1.0,1.0,1.0
+Delaware,DE,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+District of Columbia,DC,Medium,1.0,1,1.0,1.0,1.0
+Florida,FL,High,1.0909090909090908,1,1.0909090909090908,1.2,1.25
+Georgia,GA,Medium,1.0,1,1.0,1.0,1.0
+Hawaii,HI,Medium,1.0,1,1.0,1.0,1.0
+Idaho,ID,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Illinois,IL,Medium,1.0,1,1.0,1.2,1.0
+Indiana,IN,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Iowa,IA,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Kansas,KS,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Kentucky,KY,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Louisiana,LA,Medium,1.0,1,1.0,1.0,1.0
+Maine,ME,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Maryland,MD,Medium,1.0,1,1.0,1.0,1.0
+Massachusetts,MA,Medium,1.0,1,1.0,1.0,1.0
+Michigan,MI,Medium,1.0,1,1.0,1.0,1.0
+Minnesota,MN,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Mississippi,MS,Medium,1.0,1,1.0,1.0,1.0
+Missouri,MO,Medium,1.0,1,1.0,1.2,1.0
+Montana,MT,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Nebraska,NE,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Nevada,NV,Medium,1.0,1,1.0,1.2,1.0
+New Hampshire,NH,Medium,1.0,1,1.0,1.0,1.0
+New Jersey,NJ,Medium,1.0,1,1.0,1.0,1.25
+New Mexico,NM,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+New York 5 Boroughs,NY,High,1.0909090909090908,1,1.0909090909090908,1.2,1.25
+New York Other than 5 Boroughs,NY,Medium,1.0,1,1.0,1.2,1.25
+North Carolina,NC,Medium,1.0,1,1.0,1.0,1.0
+North Dakota,ND,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Ohio,OH,Medium,1.0,1,1.0,1.2,1.0
+Oklahoma,OK,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Oregon,OR,Medium,1.0,1,1.0,1.0,1.0
+Pennsylvania,PA,Medium,1.0,1,1.0,1.2,1.0
+Rhode Island,RI,Medium,1.0,1,1.0,1.0,1.0
+South Carolina,SC,Medium,1.0,1,1.0,1.0,1.0
+South Dakota,SD,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Tennessee,TN,Medium,1.0,1,1.0,1.0,1.0
+Texas,TX,Medium,1.0,1,1.0,1.0,1.25
+Utah,UT,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Vermont,VT,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Virginia,VA,Medium,1.0,1,1.0,1.0,1.0
+Washington,WA,Medium,1.0,1,1.0,1.2,1.0
+West Virginia,WV,Medium,1.0,1,1.0,1.2,1.0
+Wisconsin,WI,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0
+Wyoming,WY,Low,0.9090909090909091,1,0.9090909090909091,1.0,1.0

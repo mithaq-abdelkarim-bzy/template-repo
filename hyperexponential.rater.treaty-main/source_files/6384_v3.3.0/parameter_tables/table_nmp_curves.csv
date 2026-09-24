@@ -1,0 +1,1450 @@
+rp,curve,loss
+rp_5,Europe Windstorm All (RMS),3761010773.00
+rp_10,Europe Windstorm All (RMS),6206248528.00
+rp_25,Europe Windstorm All (RMS),11325722008.00
+rp_50,Europe Windstorm All (RMS),17610771643.00
+rp_100,Europe Windstorm All (RMS),25324638611.00
+rp_200,Europe Windstorm All (RMS),34653689667.00
+rp_250,Europe Windstorm All (RMS),38120683842.00
+rp_500,Europe Windstorm All (RMS),49752013346.00
+rp_1000,Europe Windstorm All (RMS),61366209822.00
+rp_5,Europe Windstorm Austria (RMS),80416277.00
+rp_10,Europe Windstorm Austria (RMS),138799387.00
+rp_25,Europe Windstorm Austria (RMS),242184105.00
+rp_50,Europe Windstorm Austria (RMS),345898126.00
+rp_100,Europe Windstorm Austria (RMS),465591911.00
+rp_200,Europe Windstorm Austria (RMS),593596441.00
+rp_250,Europe Windstorm Austria (RMS),636530016.00
+rp_500,Europe Windstorm Austria (RMS),775716506.00
+rp_1000,Europe Windstorm Austria (RMS),932039647.00
+rp_5,Europe windstorm Belgium (RMS),130563607.00
+rp_10,Europe windstorm Belgium (RMS),250512082.00
+rp_25,Europe windstorm Belgium (RMS),510898703.00
+rp_50,Europe windstorm Belgium (RMS),788577767.00
+rp_100,Europe windstorm Belgium (RMS),1143835439.00
+rp_200,Europe windstorm Belgium (RMS),1612526518.00
+rp_250,Europe windstorm Belgium (RMS),1797890810.00
+rp_500,Europe windstorm Belgium (RMS),2542546406.00
+rp_1000,Europe windstorm Belgium (RMS),3968049388.00
+rp_5,Europe Windstorm Czech Republic (RMS),36574189.00
+rp_10,Europe Windstorm Czech Republic (RMS),68307241.00
+rp_25,Europe Windstorm Czech Republic (RMS),123512862.00
+rp_50,Europe Windstorm Czech Republic (RMS),172185366.00
+rp_100,Europe Windstorm Czech Republic (RMS),227618418.00
+rp_200,Europe Windstorm Czech Republic (RMS),294250182.00
+rp_250,Europe Windstorm Czech Republic (RMS),319337548.00
+rp_500,Europe Windstorm Czech Republic (RMS),413498670.00
+rp_1000,Europe Windstorm Czech Republic (RMS),532702179.00
+rp_5,Europe Windstorm Denmark (RMS),152666524.00
+rp_10,Europe Windstorm Denmark (RMS),320423128.00
+rp_25,Europe Windstorm Denmark (RMS),695326309.00
+rp_50,Europe Windstorm Denmark (RMS),1090385449.00
+rp_100,Europe Windstorm Denmark (RMS),1567555002.00
+rp_200,Europe Windstorm Denmark (RMS),2122091195.00
+rp_250,Europe Windstorm Denmark (RMS),2315197214.00
+rp_500,Europe Windstorm Denmark (RMS),2945717597.00
+rp_1000,Europe Windstorm Denmark (RMS),3610744381.00
+rp_5,Europe Windstorm France (RMS),1006996614.00
+rp_10,Europe Windstorm France (RMS),2022139646.00
+rp_25,Europe Windstorm France (RMS),4309555373.00
+rp_50,Europe Windstorm France (RMS),6600870909.00
+rp_100,Europe Windstorm France (RMS),9267988877.00
+rp_200,Europe Windstorm France (RMS),12139607537.00
+rp_250,Europe Windstorm France (RMS),13098578355.00
+rp_500,Europe Windstorm France (RMS),16196875000.00
+rp_1000,Europe Windstorm France (RMS),19462485566.00
+rp_5,Europe Windstorm Germany (RMS),1231076122.00
+rp_10,Europe Windstorm Germany (RMS),2119040674.00
+rp_25,Europe Windstorm Germany (RMS),3854103987.00
+rp_50,Europe Windstorm Germany (RMS),5603785317.00
+rp_100,Europe Windstorm Germany (RMS),7845699633.00
+rp_200,Europe Windstorm Germany (RMS),10788701637.00
+rp_250,Europe Windstorm Germany (RMS),11925859787.00
+rp_500,Europe Windstorm Germany (RMS),16157044428.00
+rp_1000,Europe Windstorm Germany (RMS),21460343706.00
+rp_5,Europe Windstorm Ireland (RMS),99303443.00
+rp_10,Europe Windstorm Ireland (RMS),187345650.00
+rp_25,Europe Windstorm Ireland (RMS),386364546.00
+rp_50,Europe Windstorm Ireland (RMS),595586775.00
+rp_100,Europe Windstorm Ireland (RMS),867474928.00
+rp_200,Europe Windstorm Ireland (RMS),1258383003.00
+rp_250,Europe Windstorm Ireland (RMS),1412129021.00
+rp_500,Europe Windstorm Ireland (RMS),1909231648.00
+rp_1000,Europe Windstorm Ireland (RMS),2397638816.00
+rp_5,Europe Windstorm Luxembourg (RMS),8197313.00
+rp_10,Europe Windstorm Luxembourg (RMS),16142757.00
+rp_25,Europe Windstorm Luxembourg (RMS),34702895.00
+rp_50,Europe Windstorm Luxembourg (RMS),57208565.00
+rp_100,Europe Windstorm Luxembourg (RMS),84241310.00
+rp_200,Europe Windstorm Luxembourg (RMS),119081451.00
+rp_250,Europe Windstorm Luxembourg (RMS),133706349.00
+rp_500,Europe Windstorm Luxembourg (RMS),198777094.00
+rp_1000,Europe Windstorm Luxembourg (RMS),288124351.00
+rp_5,Europe Windstorm Netherlands (RMS),197175551.00
+rp_10,Europe Windstorm Netherlands (RMS),386866771.00
+rp_25,Europe Windstorm Netherlands (RMS),854036548.00
+rp_50,Europe Windstorm Netherlands (RMS),1525755892.00
+rp_100,Europe Windstorm Netherlands (RMS),2556881345.00
+rp_200,Europe Windstorm Netherlands (RMS),3846867675.00
+rp_250,Europe Windstorm Netherlands (RMS),4312595576.00
+rp_500,Europe Windstorm Netherlands (RMS),5876463377.00
+rp_1000,Europe Windstorm Netherlands (RMS),7502806608.00
+rp_5,Europe Windstorm Slovakia (RMS),8417256.00
+rp_10,Europe Windstorm Slovakia (RMS),16603237.00
+rp_25,Europe Windstorm Slovakia (RMS),33356421.00
+rp_50,Europe Windstorm Slovakia (RMS),49415116.00
+rp_100,Europe Windstorm Slovakia (RMS),67136643.00
+rp_200,Europe Windstorm Slovakia (RMS),85868510.00
+rp_250,Europe Windstorm Slovakia (RMS),92038841.00
+rp_500,Europe Windstorm Slovakia (RMS),111707156.00
+rp_1000,Europe Windstorm Slovakia (RMS),132243047.00
+rp_5,Europe Windstorm Sweden (RMS),86325661.00
+rp_10,Europe Windstorm Sweden (RMS),152829596.00
+rp_25,Europe Windstorm Sweden (RMS),288251981.00
+rp_50,Europe Windstorm Sweden (RMS),455718867.00
+rp_100,Europe Windstorm Sweden (RMS),681197743.00
+rp_200,Europe Windstorm Sweden (RMS),986015792.00
+rp_250,Europe Windstorm Sweden (RMS),1057248745.00
+rp_500,Europe Windstorm Sweden (RMS),1236462334.00
+rp_1000,Europe Windstorm Sweden (RMS),1409372088.00
+rp_5,Europe Windstorm Switzerland (RMS),55959208.00
+rp_10,Europe Windstorm Switzerland (RMS),133869900.00
+rp_25,Europe Windstorm Switzerland (RMS),335818793.00
+rp_50,Europe Windstorm Switzerland (RMS),599528764.00
+rp_100,Europe Windstorm Switzerland (RMS),940468313.00
+rp_200,Europe Windstorm Switzerland (RMS),1309779657.00
+rp_250,Europe Windstorm Switzerland (RMS),1430174865.00
+rp_500,Europe Windstorm Switzerland (RMS),1815351368.00
+rp_1000,Europe Windstorm Switzerland (RMS),2252172646.00
+rp_5,Europe Windstorm UK (RMS),1081734663.00
+rp_10,Europe Windstorm UK (RMS),1808094340.00
+rp_25,Europe Windstorm UK (RMS),3482732461.00
+rp_50,Europe Windstorm UK (RMS),6290910225.00
+rp_100,Europe Windstorm UK (RMS),10985948118.00
+rp_200,Europe Windstorm UK (RMS),15897093058.00
+rp_250,Europe Windstorm UK (RMS),17573002295.00
+rp_500,Europe Windstorm UK (RMS),23123588642.00
+rp_1000,Europe Windstorm UK (RMS),28600413223.00
+rp_5,Europe Windstorm inc Surge UK (RMS),1144387508.00
+rp_10,Europe Windstorm inc Surge UK (RMS),1991546408.00
+rp_25,Europe Windstorm inc Surge UK (RMS),4345401061.00
+rp_50,Europe Windstorm inc Surge UK (RMS),8032626901.00
+rp_100,Europe Windstorm inc Surge UK (RMS),12929566673.00
+rp_200,Europe Windstorm inc Surge UK (RMS),18620725699.00
+rp_250,Europe Windstorm inc Surge UK (RMS),20706825330.00
+rp_500,Europe Windstorm inc Surge UK (RMS),26894732597.00
+rp_1000,Europe Windstorm inc Surge UK (RMS),32428169799.00
+rp_5,German Hail GC,580000000.00
+rp_10,German Hail GC,809875000.00
+rp_25,German Hail GC,1243145833.00
+rp_50,German Hail GC,1856062500.00
+rp_100,German Hail GC,2768250000.00
+rp_200,German Hail GC,3799750000.00
+rp_250,German Hail GC,4315500000.00
+rp_500,German Hail GC,5683375000.00
+rp_1000,German Hail GC,7215250000.00
+rp_5,German Hail Willis,679000000.00
+rp_10,German Hail Willis,1082125000.00
+rp_25,German Hail Willis,1754541667.00
+rp_50,German Hail Willis,2533187500.00
+rp_100,German Hail Willis,3404875000.00
+rp_200,German Hail Willis,4301041667.00
+rp_250,German Hail Willis,4749125000.00
+rp_500,German Hail Willis,6032812500.00
+rp_1000,German Hail Willis,8047312500.00
+rp_5,Europe Windstorm Norway (RMS),164651774.00
+rp_10,Europe Windstorm Norway (RMS),232901233.00
+rp_25,Europe Windstorm Norway (RMS),334719075.00
+rp_50,Europe Windstorm Norway (RMS),422707566.00
+rp_100,Europe Windstorm Norway (RMS),520926395.00
+rp_200,Europe Windstorm Norway (RMS),627570913.00
+rp_250,Europe Windstorm Norway (RMS),661269078.00
+rp_500,Europe Windstorm Norway (RMS),773468283.00
+rp_1000,Europe Windstorm Norway (RMS),910983793.00
+rp_5,Europe Windstorm Poland (RMS),58585643.00
+rp_10,Europe Windstorm Poland (RMS),99303957.00
+rp_25,Europe Windstorm Poland (RMS),171378779.00
+rp_50,Europe Windstorm Poland (RMS),243322375.00
+rp_100,Europe Windstorm Poland (RMS),331019167.00
+rp_200,Europe Windstorm Poland (RMS),434596916.00
+rp_250,Europe Windstorm Poland (RMS),469702734.00
+rp_500,Europe Windstorm Poland (RMS),597724140.00
+rp_1000,Europe Windstorm Poland (RMS),759329433.00
+rp_5,UK Flood (RMS),744968904.00
+rp_10,UK Flood (RMS),1557238206.00
+rp_25,UK Flood (RMS),3092139303.00
+rp_50,UK Flood (RMS),4597791978.00
+rp_100,UK Flood (RMS),6745305303.00
+rp_200,UK Flood (RMS),9682270646.00
+rp_250,UK Flood (RMS),10824382206.00
+rp_500,UK Flood (RMS),14473131625.00
+rp_1000,UK Flood (RMS),18108638841.00
+rp_5,Austria Severe Thunderstorm (AIR),175313487.00
+rp_10,Austria Severe Thunderstorm (AIR),344547477.00
+rp_25,Austria Severe Thunderstorm (AIR),704855517.00
+rp_50,Austria Severe Thunderstorm (AIR),1184237173.00
+rp_100,Austria Severe Thunderstorm (AIR),1757524182.00
+rp_200,Austria Severe Thunderstorm (AIR),2567993129.00
+rp_250,Austria Severe Thunderstorm (AIR),2808354719.00
+rp_500,Austria Severe Thunderstorm (AIR),3572098656.00
+rp_1000,Austria Severe Thunderstorm (AIR),4502645377.00
+rp_5,France Severe Thunderstorm (AIR),510646263.00
+rp_10,France Severe Thunderstorm (AIR),855597508.00
+rp_25,France Severe Thunderstorm (AIR),1531730989.00
+rp_50,France Severe Thunderstorm (AIR),2287536937.00
+rp_100,France Severe Thunderstorm (AIR),3437034460.00
+rp_200,France Severe Thunderstorm (AIR),4960677463.00
+rp_250,France Severe Thunderstorm (AIR),5602297312.00
+rp_500,France Severe Thunderstorm (AIR),7504845223.00
+rp_1000,France Severe Thunderstorm (AIR),19088821788.00
+rp_5,Germany Severe Thunderstorm (AIR),1006723778.00
+rp_10,Germany Severe Thunderstorm (AIR),1671155721.00
+rp_25,Germany Severe Thunderstorm (AIR),2759044181.00
+rp_50,Germany Severe Thunderstorm (AIR),4045433479.00
+rp_100,Germany Severe Thunderstorm (AIR),5602530529.00
+rp_200,Germany Severe Thunderstorm (AIR),7480881818.00
+rp_250,Germany Severe Thunderstorm (AIR),8077031588.00
+rp_500,Germany Severe Thunderstorm (AIR),9978759484.00
+rp_1000,Germany Severe Thunderstorm (AIR),12705751047.00
+rp_5,Netherlands Severe Thunderstorm (AIR),88869115.00
+rp_10,Netherlands Severe Thunderstorm (AIR),239840055.00
+rp_25,Netherlands Severe Thunderstorm (AIR),621092496.00
+rp_50,Netherlands Severe Thunderstorm (AIR),1086099405.00
+rp_100,Netherlands Severe Thunderstorm (AIR),1746431172.00
+rp_200,Netherlands Severe Thunderstorm (AIR),2517733268.00
+rp_250,Netherlands Severe Thunderstorm (AIR),2771857719.00
+rp_500,Netherlands Severe Thunderstorm (AIR),3559793438.00
+rp_1000,Netherlands Severe Thunderstorm (AIR),5840744408.00
+rp_5,Switzerland Severe Thunderstorm (AIR),249556553.00
+rp_10,Switzerland Severe Thunderstorm (AIR),590715684.00
+rp_25,Switzerland Severe Thunderstorm (AIR),1408140832.00
+rp_50,Switzerland Severe Thunderstorm (AIR),2275492631.00
+rp_100,Switzerland Severe Thunderstorm (AIR),3508016937.00
+rp_200,Switzerland Severe Thunderstorm (AIR),4984507901.00
+rp_250,Switzerland Severe Thunderstorm (AIR),5893477187.00
+rp_500,Switzerland Severe Thunderstorm (AIR),8518643744.00
+rp_1000,Switzerland Severe Thunderstorm (AIR),11057974284.00
+rp_5,Austria Flood (AIR),125940398.00
+rp_10,Austria Flood (AIR),303789903.00
+rp_25,Austria Flood (AIR),735535127.00
+rp_50,Austria Flood (AIR),1199086624.00
+rp_100,Austria Flood (AIR),2063633695.00
+rp_200,Austria Flood (AIR),2917384499.00
+rp_250,Austria Flood (AIR),3438485657.00
+rp_500,Austria Flood (AIR),4656250943.00
+rp_1000,Austria Flood (AIR),6489540665.00
+rp_5,Germany Flood (AIR),498370895.00
+rp_10,Germany Flood (AIR),1217382825.00
+rp_25,Germany Flood (AIR),3253451099.00
+rp_50,Germany Flood (AIR),5991832357.00
+rp_100,Germany Flood (AIR),9529424291.00
+rp_200,Germany Flood (AIR),14638600248.00
+rp_250,Germany Flood (AIR),15815854911.00
+rp_500,Germany Flood (AIR),20758837134.00
+rp_1000,Germany Flood (AIR),26474027797.00
+rp_5,Germany Windstorm (AIR),862011110.00
+rp_10,Germany Windstorm (AIR),1687520347.00
+rp_25,Germany Windstorm (AIR),3807859641.00
+rp_50,Germany Windstorm (AIR),8795838693.00
+rp_100,Germany Windstorm (AIR),12021507617.00
+rp_200,Germany Windstorm (AIR),15007700641.00
+rp_250,Germany Windstorm (AIR),15903412488.00
+rp_500,Germany Windstorm (AIR),18355177601.00
+rp_1000,Germany Windstorm (AIR),21292185849.00
+rp_5,Germany Earthquake (Allianz AIR),0.00
+rp_10,Germany Earthquake (Allianz AIR),47304843.00
+rp_25,Germany Earthquake (Allianz AIR),396656142.94
+rp_50,Germany Earthquake (Allianz AIR),1032587564.00
+rp_100,Germany Earthquake (Allianz AIR),2392417284.00
+rp_200,Germany Earthquake (Allianz AIR),4551575841.00
+rp_250,Germany Earthquake (Allianz AIR),5631155119.00
+rp_500,Germany Earthquake (Allianz AIR),9490425138.00
+rp_1000,Germany Earthquake (Allianz AIR),12112522533.00
+rp_5,Switzerland Flood (AIR),367371386.00
+rp_10,Switzerland Flood (AIR),1111465600.00
+rp_25,Switzerland Flood (AIR),3705097897.00
+rp_50,Switzerland Flood (AIR),7277601772.00
+rp_100,Switzerland Flood (AIR),11163021335.00
+rp_200,Switzerland Flood (AIR),18383062461.00
+rp_250,Switzerland Flood (AIR),20194448894.00
+rp_500,Switzerland Flood (AIR),28332804327.00
+rp_1000,Switzerland Flood (AIR),33070658114.00
+rp_5,Canada Severe Thunderstorm (AIR),477300034.00
+rp_10,Canada Severe Thunderstorm (AIR),855442986.00
+rp_25,Canada Severe Thunderstorm (AIR),1730319862.00
+rp_50,Canada Severe Thunderstorm (AIR),2663889283.00
+rp_100,Canada Severe Thunderstorm (AIR),3930072173.00
+rp_200,Canada Severe Thunderstorm (AIR),5671215208.00
+rp_250,Canada Severe Thunderstorm (AIR),6006530038.00
+rp_500,Canada Severe Thunderstorm (AIR),9052450885.00
+rp_1000,Canada Severe Thunderstorm (AIR),10953239583.00
+rp_5,Canada Winter Storm (AIR),193554166.00
+rp_10,Canada Winter Storm (AIR),329864176.00
+rp_25,Canada Winter Storm (AIR),700382378.00
+rp_50,Canada Winter Storm (AIR),1172529118.00
+rp_100,Canada Winter Storm (AIR),1869608835.00
+rp_200,Canada Winter Storm (AIR),2450148940.00
+rp_250,Canada Winter Storm (AIR),2820381998.00
+rp_500,Canada Winter Storm (AIR),3835844833.00
+rp_1000,Canada Winter Storm (AIR),4671582815.00
+rp_5,Canada Earthquake (RMS),0.00
+rp_10,Canada Earthquake (RMS),11656329.00
+rp_25,Canada Earthquake (RMS),268333233.00
+rp_50,Canada Earthquake (RMS),1291405793.00
+rp_100,Canada Earthquake (RMS),5129880629.00
+rp_200,Canada Earthquake (RMS),13667499231.00
+rp_250,Canada Earthquake (RMS),17276567482.00
+rp_500,Canada Earthquake (RMS),32177143043.00
+rp_1000,Canada Earthquake (RMS),53132917931.00
+rp_5,Australia Severe Thunderstorm (AIR),679736637.00
+rp_10,Australia Severe Thunderstorm (AIR),1237208466.00
+rp_25,Australia Severe Thunderstorm (AIR),2431991252.00
+rp_50,Australia Severe Thunderstorm (AIR),3864114765.00
+rp_100,Australia Severe Thunderstorm (AIR),6138457344.00
+rp_200,Australia Severe Thunderstorm (AIR),7759145880.00
+rp_250,Australia Severe Thunderstorm (AIR),8784831553.00
+rp_500,Australia Severe Thunderstorm (AIR),11935189412.00
+rp_1000,Australia Severe Thunderstorm (AIR),15077282246.00
+rp_5,Australia Wildfire (AIR),323352742.00
+rp_10,Australia Wildfire (AIR),632394499.00
+rp_25,Australia Wildfire (AIR),1212943000.00
+rp_50,Australia Wildfire (AIR),1795874682.00
+rp_100,Australia Wildfire (AIR),2568099592.00
+rp_200,Australia Wildfire (AIR),3454668427.00
+rp_250,Australia Wildfire (AIR),3765820464.00
+rp_500,Australia Wildfire (AIR),4766508795.00
+rp_1000,Australia Wildfire (AIR),7476036665.00
+rp_5,Australia Earthquake (AIR),103136269.00
+rp_10,Australia Earthquake (AIR),363689358.00
+rp_25,Australia Earthquake (AIR),1812559028.00
+rp_50,Australia Earthquake (AIR),5390102767.00
+rp_100,Australia Earthquake (AIR),14925801785.00
+rp_200,Australia Earthquake (AIR),34693090773.00
+rp_250,Australia Earthquake (AIR),45499484522.00
+rp_500,Australia Earthquake (AIR),82219398264.00
+rp_1000,Australia Earthquake (AIR),126916786383.00
+rp_5,Australia Windstorm (AIR),421200143.00
+rp_10,Australia Windstorm (AIR),1000667294.00
+rp_25,Australia Windstorm (AIR),2123303709.00
+rp_50,Australia Windstorm (AIR),3415493846.00
+rp_100,Australia Windstorm (AIR),5161532152.00
+rp_200,Australia Windstorm (AIR),7703520282.00
+rp_250,Australia Windstorm (AIR),8676978948.00
+rp_500,Australia Windstorm (AIR),11184179409.00
+rp_1000,Australia Windstorm (AIR),12915411003.00
+rp_5,New Zealand Earthquake (AIR),553451392.00
+rp_10,New Zealand Earthquake (AIR),1347395289.00
+rp_25,New Zealand Earthquake (AIR),3274967675.00
+rp_50,New Zealand Earthquake (AIR),6164116848.00
+rp_100,New Zealand Earthquake (AIR),10840736805.00
+rp_200,New Zealand Earthquake (AIR),26450504603.00
+rp_250,New Zealand Earthquake (AIR),32063013490.00
+rp_500,New Zealand Earthquake (AIR),42544282163.00
+rp_1000,New Zealand Earthquake (AIR),47455125150.00
+rp_5,Japan Typhoon (RMS),1957282652.00
+rp_10,Japan Typhoon (RMS),3878091476.00
+rp_25,Japan Typhoon (RMS),7711555691.00
+rp_50,Japan Typhoon (RMS),11858407977.00
+rp_100,Japan Typhoon (RMS),16865189578.00
+rp_200,Japan Typhoon (RMS),22991133537.00
+rp_250,Japan Typhoon (RMS),25193078009.00
+rp_500,Japan Typhoon (RMS),33071301592.00
+rp_1000,Japan Typhoon (RMS),40931649865.00
+rp_5,Japan Earthquake (RMS),2281159829.00
+rp_10,Japan Earthquake (RMS),9969522104.00
+rp_25,Japan Earthquake (RMS),29895179595.00
+rp_50,Japan Earthquake (RMS),41841080118.00
+rp_100,Japan Earthquake (RMS),52981237084.00
+rp_200,Japan Earthquake (RMS),66793636884.00
+rp_250,Japan Earthquake (RMS),72859989837.00
+rp_500,Japan Earthquake (RMS),96048438084.00
+rp_1000,Japan Earthquake (RMS),114714942070.00
+rp_5,Japan Flood (AIR),238465897.00
+rp_10,Japan Flood (AIR),411933923.00
+rp_25,Japan Flood (AIR),939227703.00
+rp_50,Japan Flood (AIR),1797662501.00
+rp_100,Japan Flood (AIR),2996459562.00
+rp_200,Japan Flood (AIR),4682252104.00
+rp_250,Japan Flood (AIR),5207317295.00
+rp_500,Japan Flood (AIR),8397506295.00
+rp_1000,Japan Flood (AIR),13980354476.00
+rp_5,India Earthquake (AIR),38864813.00
+rp_10,India Earthquake (AIR),147691202.00
+rp_25,India Earthquake (AIR),607907460.00
+rp_50,India Earthquake (AIR),1301002780.00
+rp_100,India Earthquake (AIR),2626274102.00
+rp_200,India Earthquake (AIR),4963227657.00
+rp_250,India Earthquake (AIR),5450245149.00
+rp_500,India Earthquake (AIR),8182056816.00
+rp_1000,India Earthquake (AIR),12307381336.00
+rp_5,India Windstorm (AIR),104268668.00
+rp_10,India Windstorm (AIR),182578016.00
+rp_25,India Windstorm (AIR),316254977.00
+rp_50,India Windstorm (AIR),458958318.00
+rp_100,India Windstorm (AIR),611503246.00
+rp_200,India Windstorm (AIR),810553885.00
+rp_250,India Windstorm (AIR),923169899.00
+rp_500,India Windstorm (AIR),1432939874.00
+rp_1000,India Windstorm (AIR),2120958328.00
+rp_5,South Africa Earthquake (Absa/Aon),9010857.00
+rp_10,South Africa Earthquake (Absa/Aon),56943946.00
+rp_25,South Africa Earthquake (Absa/Aon),255124388.00
+rp_50,South Africa Earthquake (Absa/Aon),726431029.00
+rp_100,South Africa Earthquake (Absa/Aon),1415621137.00
+rp_200,South Africa Earthquake (Absa/Aon),2115591972.00
+rp_250,South Africa Earthquake (Absa/Aon),2436349077.00
+rp_500,South Africa Earthquake (Absa/Aon),3287762878.00
+rp_1000,South Africa Earthquake (Absa/Aon),4405911874.00
+rp_5,Mexico Windstorm (AIR),508066236.00
+rp_10,Mexico Windstorm (AIR),1036242013.00
+rp_25,Mexico Windstorm (AIR),2105262676.00
+rp_50,Mexico Windstorm (AIR),3023819125.00
+rp_100,Mexico Windstorm (AIR),4036456055.00
+rp_200,Mexico Windstorm (AIR),5328877814.00
+rp_250,Mexico Windstorm (AIR),5655622967.00
+rp_500,Mexico Windstorm (AIR),6825968963.00
+rp_1000,Mexico Windstorm (AIR),8576302188.00
+rp_5,Caribbean Windstorm Antigua and Barbuda (RMS),710743.00
+rp_10,Caribbean Windstorm Antigua and Barbuda (RMS),64670348.00
+rp_25,Caribbean Windstorm Antigua and Barbuda (RMS),391078510.00
+rp_50,Caribbean Windstorm Antigua and Barbuda (RMS),829428419.00
+rp_100,Caribbean Windstorm Antigua and Barbuda (RMS),1462981160.00
+rp_200,Caribbean Windstorm Antigua and Barbuda (RMS),2316192342.00
+rp_250,Caribbean Windstorm Antigua and Barbuda (RMS),2504373190.00
+rp_500,Caribbean Windstorm Antigua and Barbuda (RMS),2976495719.00
+rp_1000,Caribbean Windstorm Antigua and Barbuda (RMS),3864552131.00
+rp_5,Caribbean Windstorm Aruba (RMS),0.00
+rp_10,Caribbean Windstorm Aruba (RMS),0.00
+rp_25,Caribbean Windstorm Aruba (RMS),270055.00
+rp_50,Caribbean Windstorm Aruba (RMS),41294250.00
+rp_100,Caribbean Windstorm Aruba (RMS),201709672.00
+rp_200,Caribbean Windstorm Aruba (RMS),449118685.00
+rp_250,Caribbean Windstorm Aruba (RMS),532188265.00
+rp_500,Caribbean Windstorm Aruba (RMS),884328466.00
+rp_1000,Caribbean Windstorm Aruba (RMS),1283682553.00
+rp_5,Caribbean Windstorm Bahamas (RMS),400674316.00
+rp_10,Caribbean Windstorm Bahamas (RMS),1175893609.00
+rp_25,Caribbean Windstorm Bahamas (RMS),2742425699.00
+rp_50,Caribbean Windstorm Bahamas (RMS),4478973795.00
+rp_100,Caribbean Windstorm Bahamas (RMS),6599080573.00
+rp_200,Caribbean Windstorm Bahamas (RMS),9215311690.00
+rp_250,Caribbean Windstorm Bahamas (RMS),10150808295.00
+rp_500,Caribbean Windstorm Bahamas (RMS),13145817243.00
+rp_1000,Caribbean Windstorm Bahamas (RMS),15654112964.00
+rp_5,Caribbean Windstorm Barbados (RMS),0.00
+rp_10,Caribbean Windstorm Barbados (RMS),2718544.00
+rp_25,Caribbean Windstorm Barbados (RMS),338809320.00
+rp_50,Caribbean Windstorm Barbados (RMS),1112788386.00
+rp_100,Caribbean Windstorm Barbados (RMS),2298319392.00
+rp_200,Caribbean Windstorm Barbados (RMS),3953191938.00
+rp_250,Caribbean Windstorm Barbados (RMS),4727153902.00
+rp_500,Caribbean Windstorm Barbados (RMS),6876353851.00
+rp_1000,Caribbean Windstorm Barbados (RMS),9239422189.00
+rp_5,Caribbean Windstorm Bermuda (RMS),21929466.00
+rp_10,Caribbean Windstorm Bermuda (RMS),149944808.00
+rp_25,Caribbean Windstorm Bermuda (RMS),489361254.00
+rp_50,Caribbean Windstorm Bermuda (RMS),823940934.00
+rp_100,Caribbean Windstorm Bermuda (RMS),1231499947.00
+rp_200,Caribbean Windstorm Bermuda (RMS),1792554094.00
+rp_250,Caribbean Windstorm Bermuda (RMS),2025234222.00
+rp_500,Caribbean Windstorm Bermuda (RMS),3021190995.00
+rp_1000,Caribbean Windstorm Bermuda (RMS),4019167461.00
+rp_5,Caribbean Windstorm British Virgin Islands (RMS),1504334.00
+rp_10,Caribbean Windstorm British Virgin Islands (RMS),62172208.00
+rp_25,Caribbean Windstorm British Virgin Islands (RMS),319707021.00
+rp_50,Caribbean Windstorm British Virgin Islands (RMS),623109568.00
+rp_100,Caribbean Windstorm British Virgin Islands (RMS),1001529664.00
+rp_200,Caribbean Windstorm British Virgin Islands (RMS),1473355774.00
+rp_250,Caribbean Windstorm British Virgin Islands (RMS),1666447762.00
+rp_500,Caribbean Windstorm British Virgin Islands (RMS),2186708981.00
+rp_1000,Caribbean Windstorm British Virgin Islands (RMS),2683320119.00
+rp_5,Caribbean Windstorm Cayman Islands (RMS),24641095.00
+rp_10,Caribbean Windstorm Cayman Islands (RMS),273640457.00
+rp_25,Caribbean Windstorm Cayman Islands (RMS),742673230.00
+rp_50,Caribbean Windstorm Cayman Islands (RMS),1253515387.00
+rp_100,Caribbean Windstorm Cayman Islands (RMS),2183449255.00
+rp_200,Caribbean Windstorm Cayman Islands (RMS),3466553482.00
+rp_250,Caribbean Windstorm Cayman Islands (RMS),3942113462.00
+rp_500,Caribbean Windstorm Cayman Islands (RMS),5158868924.00
+rp_1000,Caribbean Windstorm Cayman Islands (RMS),6211200988.00
+rp_5,Caribbean Windstorm Dominica (RMS),21473.00
+rp_10,Caribbean Windstorm Dominica (RMS),7222936.00
+rp_25,Caribbean Windstorm Dominica (RMS),60033417.00
+rp_50,Caribbean Windstorm Dominica (RMS),141737985.00
+rp_100,Caribbean Windstorm Dominica (RMS),237537189.00
+rp_200,Caribbean Windstorm Dominica (RMS),361065298.00
+rp_250,Caribbean Windstorm Dominica (RMS),399533604.00
+rp_500,Caribbean Windstorm Dominica (RMS),519442867.00
+rp_1000,Caribbean Windstorm Dominica (RMS),684987586.00
+rp_5,Caribbean Windstorm Dominican Republic (RMS),29777160.00
+rp_10,Caribbean Windstorm Dominican Republic (RMS),291201463.00
+rp_25,Caribbean Windstorm Dominican Republic (RMS),1192857277.00
+rp_50,Caribbean Windstorm Dominican Republic (RMS),2259699232.00
+rp_100,Caribbean Windstorm Dominican Republic (RMS),3709154279.00
+rp_200,Caribbean Windstorm Dominican Republic (RMS),5590261277.00
+rp_250,Caribbean Windstorm Dominican Republic (RMS),6382139074.00
+rp_500,Caribbean Windstorm Dominican Republic (RMS),9231049681.00
+rp_1000,Caribbean Windstorm Dominican Republic (RMS),11588387300.00
+rp_5,Caribbean Windstorm Grenada (RMS),0.00
+rp_10,Caribbean Windstorm Grenada (RMS),0.00
+rp_25,Caribbean Windstorm Grenada (RMS),5986819.00
+rp_50,Caribbean Windstorm Grenada (RMS),49180409.00
+rp_100,Caribbean Windstorm Grenada (RMS),136784786.00
+rp_200,Caribbean Windstorm Grenada (RMS),274442060.00
+rp_250,Caribbean Windstorm Grenada (RMS),340057441.00
+rp_500,Caribbean Windstorm Grenada (RMS),593046881.00
+rp_1000,Caribbean Windstorm Grenada (RMS),848916412.00
+rp_5,Caribbean Windstorm Jamaica (RMS),24750521.00
+rp_10,Caribbean Windstorm Jamaica (RMS),334100467.00
+rp_25,Caribbean Windstorm Jamaica (RMS),1197487272.00
+rp_50,Caribbean Windstorm Jamaica (RMS),2190796913.00
+rp_100,Caribbean Windstorm Jamaica (RMS),3574239240.00
+rp_200,Caribbean Windstorm Jamaica (RMS),5280137341.00
+rp_250,Caribbean Windstorm Jamaica (RMS),5772215339.00
+rp_500,Caribbean Windstorm Jamaica (RMS),7605489943.00
+rp_1000,Caribbean Windstorm Jamaica (RMS),9051137490.00
+rp_5,Caribbean Windstorm Puerto Rico (RMS),12536083.00
+rp_10,Caribbean Windstorm Puerto Rico (RMS),526895257.00
+rp_25,Caribbean Windstorm Puerto Rico (RMS),3259272598.00
+rp_50,Caribbean Windstorm Puerto Rico (RMS),6626933284.00
+rp_100,Caribbean Windstorm Puerto Rico (RMS),11141054096.00
+rp_200,Caribbean Windstorm Puerto Rico (RMS),17466615700.00
+rp_250,Caribbean Windstorm Puerto Rico (RMS),19888328222.00
+rp_500,Caribbean Windstorm Puerto Rico (RMS),28323273412.00
+rp_1000,Caribbean Windstorm Puerto Rico (RMS),41083855899.00
+rp_5,Caribbean Windstorm Trinidad and Tobago (RMS),0.00
+rp_10,Caribbean Windstorm Trinidad and Tobago (RMS),0.00
+rp_25,Caribbean Windstorm Trinidad and Tobago (RMS),6812.00
+rp_50,Caribbean Windstorm Trinidad and Tobago (RMS),30012302.00
+rp_100,Caribbean Windstorm Trinidad and Tobago (RMS),314415106.00
+rp_200,Caribbean Windstorm Trinidad and Tobago (RMS),1441848321.00
+rp_250,Caribbean Windstorm Trinidad and Tobago (RMS),1945685972.00
+rp_500,Caribbean Windstorm Trinidad and Tobago (RMS),3778367367.00
+rp_1000,Caribbean Windstorm Trinidad and Tobago (RMS),5769497832.00
+rp_5,Caribbean Windstorm Turks and Caicos Islands (RMS),7667743.00
+rp_10,Caribbean Windstorm Turks and Caicos Islands (RMS),118467152.00
+rp_25,Caribbean Windstorm Turks and Caicos Islands (RMS),385077818.00
+rp_50,Caribbean Windstorm Turks and Caicos Islands (RMS),652073104.00
+rp_100,Caribbean Windstorm Turks and Caicos Islands (RMS),1014665151.00
+rp_200,Caribbean Windstorm Turks and Caicos Islands (RMS),1625305986.00
+rp_250,Caribbean Windstorm Turks and Caicos Islands (RMS),1837743315.00
+rp_500,Caribbean Windstorm Turks and Caicos Islands (RMS),2463822801.00
+rp_1000,Caribbean Windstorm Turks and Caicos Islands (RMS),2944342194.00
+rp_5,Caribbean Windstorm US Virgin Islands (RMS),2818109.00
+rp_10,Caribbean Windstorm US Virgin Islands (RMS),125034143.00
+rp_25,Caribbean Windstorm US Virgin Islands (RMS),589887406.00
+rp_50,Caribbean Windstorm US Virgin Islands (RMS),1167641758.00
+rp_100,Caribbean Windstorm US Virgin Islands (RMS),1970536841.00
+rp_200,Caribbean Windstorm US Virgin Islands (RMS),2923896470.00
+rp_250,Caribbean Windstorm US Virgin Islands (RMS),3187528425.00
+rp_500,Caribbean Windstorm US Virgin Islands (RMS),4310630081.00
+rp_1000,Caribbean Windstorm US Virgin Islands (RMS),5658955734.00
+rp_5,Caribbean Windstorm All (RMS),2056913165.00
+rp_10,Caribbean Windstorm All (RMS),4281029352.00
+rp_25,Caribbean Windstorm All (RMS),8618651977.00
+rp_50,Caribbean Windstorm All (RMS),12939869572.00
+rp_100,Caribbean Windstorm All (RMS),18340017757.00
+rp_200,Caribbean Windstorm All (RMS),25643359039.00
+rp_250,Caribbean Windstorm All (RMS),28230837190.00
+rp_500,Caribbean Windstorm All (RMS),38116760936.00
+rp_1000,Caribbean Windstorm All (RMS),51063456399.00
+rp_5,Caribbean Windstorm All (AIR),3125469285.00
+rp_10,Caribbean Windstorm All (AIR),8369188910.00
+rp_25,Caribbean Windstorm All (AIR),20164142327.00
+rp_50,Caribbean Windstorm All (AIR),31442654487.00
+rp_100,Caribbean Windstorm All (AIR),43525048338.00
+rp_200,Caribbean Windstorm All (AIR),61608520804.00
+rp_250,Caribbean Windstorm All (AIR),69472073390.00
+rp_500,Caribbean Windstorm All (AIR),96305668523.00
+rp_1000,Caribbean Windstorm All (AIR),115141702036.00
+rp_5,Caribbean Windstorm Anguilla (AIR),979060.00
+rp_10,Caribbean Windstorm Anguilla (AIR),7888009.00
+rp_25,Caribbean Windstorm Anguilla (AIR),106804574.00
+rp_50,Caribbean Windstorm Anguilla (AIR),315559874.00
+rp_100,Caribbean Windstorm Anguilla (AIR),517440277.00
+rp_200,Caribbean Windstorm Anguilla (AIR),744454173.00
+rp_250,Caribbean Windstorm Anguilla (AIR),771618644.00
+rp_500,Caribbean Windstorm Anguilla (AIR),909468281.00
+rp_1000,Caribbean Windstorm Anguilla (AIR),1016764425.00
+rp_5,Caribbean Windstorm Antigua & Barbuda (AIR),10821492.00
+rp_10,Caribbean Windstorm Antigua & Barbuda (AIR),53254449.00
+rp_25,Caribbean Windstorm Antigua & Barbuda (AIR),505962711.00
+rp_50,Caribbean Windstorm Antigua & Barbuda (AIR),1482118599.00
+rp_100,Caribbean Windstorm Antigua & Barbuda (AIR),3152445459.00
+rp_200,Caribbean Windstorm Antigua & Barbuda (AIR),4250241889.00
+rp_250,Caribbean Windstorm Antigua & Barbuda (AIR),4451684686.00
+rp_500,Caribbean Windstorm Antigua & Barbuda (AIR),5153668621.00
+rp_1000,Caribbean Windstorm Antigua & Barbuda (AIR),5498331447.00
+rp_5,Caribbean Windstorm Aruba (AIR),16554.00
+rp_10,Caribbean Windstorm Aruba (AIR),5486274.00
+rp_25,Caribbean Windstorm Aruba (AIR),23984414.00
+rp_50,Caribbean Windstorm Aruba (AIR),44651404.00
+rp_100,Caribbean Windstorm Aruba (AIR),80812030.00
+rp_200,Caribbean Windstorm Aruba (AIR),220178946.00
+rp_250,Caribbean Windstorm Aruba (AIR),278978149.00
+rp_500,Caribbean Windstorm Aruba (AIR),828859081.00
+rp_1000,Caribbean Windstorm Aruba (AIR),1516168562.00
+rp_5,Caribbean Windstorm Bahamas (AIR),180625823.00
+rp_10,Caribbean Windstorm Bahamas (AIR),568399141.00
+rp_25,Caribbean Windstorm Bahamas (AIR),1667519231.00
+rp_50,Caribbean Windstorm Bahamas (AIR),3493729038.00
+rp_100,Caribbean Windstorm Bahamas (AIR),7424454901.00
+rp_200,Caribbean Windstorm Bahamas (AIR),12623509537.00
+rp_250,Caribbean Windstorm Bahamas (AIR),14384990629.00
+rp_500,Caribbean Windstorm Bahamas (AIR),22445368923.00
+rp_1000,Caribbean Windstorm Bahamas (AIR),27455380833.00
+rp_5,Caribbean Windstorm Barbados (AIR),9432144.00
+rp_10,Caribbean Windstorm Barbados (AIR),43774254.00
+rp_25,Caribbean Windstorm Barbados (AIR),109257696.00
+rp_50,Caribbean Windstorm Barbados (AIR),189716294.00
+rp_100,Caribbean Windstorm Barbados (AIR),366015073.00
+rp_200,Caribbean Windstorm Barbados (AIR),841513805.00
+rp_250,Caribbean Windstorm Barbados (AIR),1174429223.00
+rp_500,Caribbean Windstorm Barbados (AIR),2409282991.00
+rp_1000,Caribbean Windstorm Barbados (AIR),6823951389.00
+rp_5,Caribbean Windstorm Bermuda (AIR),30444034.00
+rp_10,Caribbean Windstorm Bermuda (AIR),145830311.00
+rp_25,Caribbean Windstorm Bermuda (AIR),503269875.00
+rp_50,Caribbean Windstorm Bermuda (AIR),1111803952.00
+rp_100,Caribbean Windstorm Bermuda (AIR),2123699586.00
+rp_200,Caribbean Windstorm Bermuda (AIR),4237303799.00
+rp_250,Caribbean Windstorm Bermuda (AIR),4886683995.00
+rp_500,Caribbean Windstorm Bermuda (AIR),6827190536.00
+rp_1000,Caribbean Windstorm Bermuda (AIR),8106664938.00
+rp_5,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),1364892.00
+rp_10,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),5646094.00
+rp_25,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),46652384.00
+rp_50,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),161997102.00
+rp_100,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),275954332.00
+rp_200,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),384636758.00
+rp_250,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),409508161.00
+rp_500,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),451870919.00
+rp_1000,Caribbean Windstorm Bonaire & Saint Eustatius & Saba (AIR),499559158.00
+rp_5,Caribbean Windstorm British Virgin Islands (AIR),5651687.00
+rp_10,Caribbean Windstorm British Virgin Islands (AIR),31811664.00
+rp_25,Caribbean Windstorm British Virgin Islands (AIR),267322073.00
+rp_50,Caribbean Windstorm British Virgin Islands (AIR),938353835.00
+rp_100,Caribbean Windstorm British Virgin Islands (AIR),1615255267.00
+rp_200,Caribbean Windstorm British Virgin Islands (AIR),1991679312.00
+rp_250,Caribbean Windstorm British Virgin Islands (AIR),2174546464.00
+rp_500,Caribbean Windstorm British Virgin Islands (AIR),2797867783.00
+rp_1000,Caribbean Windstorm British Virgin Islands (AIR),2997807624.00
+rp_5,Caribbean Windstorm Cayman Islands (AIR),6975421.00
+rp_10,Caribbean Windstorm Cayman Islands (AIR),48505091.00
+rp_25,Caribbean Windstorm Cayman Islands (AIR),249611258.00
+rp_50,Caribbean Windstorm Cayman Islands (AIR),804601890.00
+rp_100,Caribbean Windstorm Cayman Islands (AIR),1867419984.00
+rp_200,Caribbean Windstorm Cayman Islands (AIR),2809587127.00
+rp_250,Caribbean Windstorm Cayman Islands (AIR),3242576140.00
+rp_500,Caribbean Windstorm Cayman Islands (AIR),5283940316.00
+rp_1000,Caribbean Windstorm Cayman Islands (AIR),7313740631.00
+rp_5,Caribbean Windstorm Cuba (AIR),548653187.00
+rp_10,Caribbean Windstorm Cuba (AIR),1458134840.00
+rp_25,Caribbean Windstorm Cuba (AIR),5027689006.00
+rp_50,Caribbean Windstorm Cuba (AIR),9115570437.00
+rp_100,Caribbean Windstorm Cuba (AIR),14230323071.00
+rp_200,Caribbean Windstorm Cuba (AIR),20828829931.00
+rp_250,Caribbean Windstorm Cuba (AIR),22388785137.00
+rp_500,Caribbean Windstorm Cuba (AIR),30683933512.00
+rp_1000,Caribbean Windstorm Cuba (AIR),34441607042.00
+rp_5,Caribbean Windstorm Dominica (AIR),5235400.00
+rp_10,Caribbean Windstorm Dominica (AIR),13239965.00
+rp_25,Caribbean Windstorm Dominica (AIR),41411846.00
+rp_50,Caribbean Windstorm Dominica (AIR),116960755.00
+rp_100,Caribbean Windstorm Dominica (AIR),322899430.00
+rp_200,Caribbean Windstorm Dominica (AIR),593363685.00
+rp_250,Caribbean Windstorm Dominica (AIR),687001776.00
+rp_500,Caribbean Windstorm Dominica (AIR),921002798.00
+rp_1000,Caribbean Windstorm Dominica (AIR),1119178159.00
+rp_5,Caribbean Windstorm Dominican Republic (AIR),140816166.00
+rp_10,Caribbean Windstorm Dominican Republic (AIR),400782920.00
+rp_25,Caribbean Windstorm Dominican Republic (AIR),1496937568.00
+rp_50,Caribbean Windstorm Dominican Republic (AIR),3623753603.00
+rp_100,Caribbean Windstorm Dominican Republic (AIR),7406644226.00
+rp_200,Caribbean Windstorm Dominican Republic (AIR),13551240103.00
+rp_250,Caribbean Windstorm Dominican Republic (AIR),15408132322.00
+rp_500,Caribbean Windstorm Dominican Republic (AIR),23292977518.00
+rp_1000,Caribbean Windstorm Dominican Republic (AIR),31183273914.00
+rp_5,Caribbean Windstorm Grenada (AIR),900928.00
+rp_10,Caribbean Windstorm Grenada (AIR),8229608.00
+rp_25,Caribbean Windstorm Grenada (AIR),33812798.00
+rp_50,Caribbean Windstorm Grenada (AIR),92271497.00
+rp_100,Caribbean Windstorm Grenada (AIR),184004518.00
+rp_200,Caribbean Windstorm Grenada (AIR),470234282.00
+rp_250,Caribbean Windstorm Grenada (AIR),627230166.00
+rp_500,Caribbean Windstorm Grenada (AIR),1096995814.00
+rp_1000,Caribbean Windstorm Grenada (AIR),1478157042.00
+rp_5,Caribbean Windstorm Guadeloupe (AIR),92666189.00
+rp_10,Caribbean Windstorm Guadeloupe (AIR),314701380.00
+rp_25,Caribbean Windstorm Guadeloupe (AIR),1275716401.00
+rp_50,Caribbean Windstorm Guadeloupe (AIR),3848306014.00
+rp_100,Caribbean Windstorm Guadeloupe (AIR),8935423221.00
+rp_200,Caribbean Windstorm Guadeloupe (AIR),13558443224.00
+rp_250,Caribbean Windstorm Guadeloupe (AIR),15329583532.00
+rp_500,Caribbean Windstorm Guadeloupe (AIR),18948634733.00
+rp_1000,Caribbean Windstorm Guadeloupe (AIR),23566090374.00
+rp_5,Caribbean Windstorm Haiti (AIR),45384413.00
+rp_10,Caribbean Windstorm Haiti (AIR),131125175.00
+rp_25,Caribbean Windstorm Haiti (AIR),410706346.00
+rp_50,Caribbean Windstorm Haiti (AIR),869768891.00
+rp_100,Caribbean Windstorm Haiti (AIR),1873818585.00
+rp_200,Caribbean Windstorm Haiti (AIR),3070937945.00
+rp_250,Caribbean Windstorm Haiti (AIR),3706928855.00
+rp_500,Caribbean Windstorm Haiti (AIR),5751228134.00
+rp_1000,Caribbean Windstorm Haiti (AIR),6680035432.00
+rp_5,Caribbean Windstorm Jamaica (AIR),47101243.00
+rp_10,Caribbean Windstorm Jamaica (AIR),196092364.00
+rp_25,Caribbean Windstorm Jamaica (AIR),654297146.00
+rp_50,Caribbean Windstorm Jamaica (AIR),1496996794.00
+rp_100,Caribbean Windstorm Jamaica (AIR),3057283570.00
+rp_200,Caribbean Windstorm Jamaica (AIR),5818023737.00
+rp_250,Caribbean Windstorm Jamaica (AIR),6598094971.00
+rp_500,Caribbean Windstorm Jamaica (AIR),9523425175.00
+rp_1000,Caribbean Windstorm Jamaica (AIR),13594966466.00
+rp_5,Caribbean Windstorm Martinique (AIR),47650259.00
+rp_10,Caribbean Windstorm Martinique (AIR),132089818.00
+rp_25,Caribbean Windstorm Martinique (AIR),315960144.00
+rp_50,Caribbean Windstorm Martinique (AIR),593162798.00
+rp_100,Caribbean Windstorm Martinique (AIR),1439300814.00
+rp_200,Caribbean Windstorm Martinique (AIR),4215273447.00
+rp_250,Caribbean Windstorm Martinique (AIR),5476761302.00
+rp_500,Caribbean Windstorm Martinique (AIR),9011356278.00
+rp_1000,Caribbean Windstorm Martinique (AIR),14940402865.00
+rp_5,Caribbean Windstorm Montserrat (AIR),317502.00
+rp_10,Caribbean Windstorm Montserrat (AIR),2153912.00
+rp_25,Caribbean Windstorm Montserrat (AIR),18163224.00
+rp_50,Caribbean Windstorm Montserrat (AIR),58273631.00
+rp_100,Caribbean Windstorm Montserrat (AIR),137051475.00
+rp_200,Caribbean Windstorm Montserrat (AIR),188138702.00
+rp_250,Caribbean Windstorm Montserrat (AIR),195853457.00
+rp_500,Caribbean Windstorm Montserrat (AIR),231937471.00
+rp_1000,Caribbean Windstorm Montserrat (AIR),243175543.00
+rp_5,Caribbean Windstorm Puerto Rico (AIR),36483268.00
+rp_10,Caribbean Windstorm Puerto Rico (AIR),185436016.00
+rp_25,Caribbean Windstorm Puerto Rico (AIR),2625057626.00
+rp_50,Caribbean Windstorm Puerto Rico (AIR),10740071474.00
+rp_100,Caribbean Windstorm Puerto Rico (AIR),22096447780.00
+rp_200,Caribbean Windstorm Puerto Rico (AIR),38145048250.00
+rp_250,Caribbean Windstorm Puerto Rico (AIR),42585015889.00
+rp_500,Caribbean Windstorm Puerto Rico (AIR),63634303659.00
+rp_1000,Caribbean Windstorm Puerto Rico (AIR),78889170071.00
+rp_5,Caribbean Windstorm Saint Barthelemy (AIR),1597139.00
+rp_10,Caribbean Windstorm Saint Barthelemy (AIR),16204631.00
+rp_25,Caribbean Windstorm Saint Barthelemy (AIR),184753735.00
+rp_50,Caribbean Windstorm Saint Barthelemy (AIR),562223992.00
+rp_100,Caribbean Windstorm Saint Barthelemy (AIR),1157317610.00
+rp_200,Caribbean Windstorm Saint Barthelemy (AIR),1550373414.00
+rp_250,Caribbean Windstorm Saint Barthelemy (AIR),1660077697.00
+rp_500,Caribbean Windstorm Saint Barthelemy (AIR),2006675917.00
+rp_1000,Caribbean Windstorm Saint Barthelemy (AIR),2225387019.00
+rp_5,Caribbean Windstorm Saint Kitts & Nevis (AIR),3667756.00
+rp_10,Caribbean Windstorm Saint Kitts & Nevis (AIR),20556040.00
+rp_25,Caribbean Windstorm Saint Kitts & Nevis (AIR),177178408.00
+rp_50,Caribbean Windstorm Saint Kitts & Nevis (AIR),668983992.00
+rp_100,Caribbean Windstorm Saint Kitts & Nevis (AIR),1265440119.00
+rp_200,Caribbean Windstorm Saint Kitts & Nevis (AIR),1637880948.00
+rp_250,Caribbean Windstorm Saint Kitts & Nevis (AIR),1763443675.00
+rp_500,Caribbean Windstorm Saint Kitts & Nevis (AIR),2114487354.00
+rp_1000,Caribbean Windstorm Saint Kitts & Nevis (AIR),2358020663.00
+rp_5,Caribbean Windstorm Saint Lucia (AIR),5481922.00
+rp_10,Caribbean Windstorm Saint Lucia (AIR),16745410.00
+rp_25,Caribbean Windstorm Saint Lucia (AIR),46955502.00
+rp_50,Caribbean Windstorm Saint Lucia (AIR),106433163.00
+rp_100,Caribbean Windstorm Saint Lucia (AIR),363945551.00
+rp_200,Caribbean Windstorm Saint Lucia (AIR),1089045514.00
+rp_250,Caribbean Windstorm Saint Lucia (AIR),1279421379.00
+rp_500,Caribbean Windstorm Saint Lucia (AIR),2427916006.00
+rp_1000,Caribbean Windstorm Saint Lucia (AIR),3635200060.00
+rp_5,Caribbean Windstorm Saint Martin (AIR),2273629.00
+rp_10,Caribbean Windstorm Saint Martin (AIR),16579211.00
+rp_25,Caribbean Windstorm Saint Martin (AIR),147432879.00
+rp_50,Caribbean Windstorm Saint Martin (AIR),453150351.00
+rp_100,Caribbean Windstorm Saint Martin (AIR),787900628.00
+rp_200,Caribbean Windstorm Saint Martin (AIR),1073244916.00
+rp_250,Caribbean Windstorm Saint Martin (AIR),1182642965.00
+rp_500,Caribbean Windstorm Saint Martin (AIR),1319742262.00
+rp_1000,Caribbean Windstorm Saint Martin (AIR),1643798268.00
+rp_5,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),2982908.00
+rp_10,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),8732950.00
+rp_25,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),21695326.00
+rp_50,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),42787947.00
+rp_100,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),84283476.00
+rp_200,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),261373581.00
+rp_250,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),416232523.00
+rp_500,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),701735834.00
+rp_1000,Caribbean Windstorm Saint Vincent and the Grenadines (AIR),1174156493.00
+rp_5,Caribbean Windstorm Trinidad & Tobago (AIR),10522.00
+rp_10,Caribbean Windstorm Trinidad & Tobago (AIR),2359227.00
+rp_25,Caribbean Windstorm Trinidad & Tobago (AIR),48431556.00
+rp_50,Caribbean Windstorm Trinidad & Tobago (AIR),119975447.00
+rp_100,Caribbean Windstorm Trinidad & Tobago (AIR),213681539.00
+rp_200,Caribbean Windstorm Trinidad & Tobago (AIR),340606427.00
+rp_250,Caribbean Windstorm Trinidad & Tobago (AIR),372168811.00
+rp_500,Caribbean Windstorm Trinidad & Tobago (AIR),568922238.00
+rp_1000,Caribbean Windstorm Trinidad & Tobago (AIR),1787552723.00
+rp_5,Caribbean Windstorm Turks & Caicos Islands (AIR),871992.00
+rp_10,Caribbean Windstorm Turks & Caicos Islands (AIR),8642761.00
+rp_25,Caribbean Windstorm Turks & Caicos Islands (AIR),87391451.00
+rp_50,Caribbean Windstorm Turks & Caicos Islands (AIR),286723139.00
+rp_100,Caribbean Windstorm Turks & Caicos Islands (AIR),705073405.00
+rp_200,Caribbean Windstorm Turks & Caicos Islands (AIR),1446414841.00
+rp_250,Caribbean Windstorm Turks & Caicos Islands (AIR),1645587150.00
+rp_500,Caribbean Windstorm Turks & Caicos Islands (AIR),2735318264.00
+rp_1000,Caribbean Windstorm Turks & Caicos Islands (AIR),3732310772.00
+rp_5,Caribbean Windstorm US Virgin Islands (AIR),2712567.00
+rp_10,Caribbean Windstorm US Virgin Islands (AIR),37239106.00
+rp_25,Caribbean Windstorm US Virgin Islands (AIR),864895113.00
+rp_50,Caribbean Windstorm US Virgin Islands (AIR),2800283323.00
+rp_100,Caribbean Windstorm US Virgin Islands (AIR),4391657307.00
+rp_200,Caribbean Windstorm US Virgin Islands (AIR),6928665127.00
+rp_250,Caribbean Windstorm US Virgin Islands (AIR),7184579622.00
+rp_500,Caribbean Windstorm US Virgin Islands (AIR),8546911718.00
+rp_1000,Caribbean Windstorm US Virgin Islands (AIR),11035255111.00
+rp_5,Caribbean Earthquake All (AIR),83292282.00
+rp_10,Caribbean Earthquake All (AIR),301367769.00
+rp_25,Caribbean Earthquake All (AIR),1041667265.00
+rp_50,Caribbean Earthquake All (AIR),2420136434.00
+rp_100,Caribbean Earthquake All (AIR),4041544650.00
+rp_200,Caribbean Earthquake All (AIR),5988339805.00
+rp_250,Caribbean Earthquake All (AIR),6960851462.00
+rp_500,Caribbean Earthquake All (AIR),10817076013.00
+rp_1000,Caribbean Earthquake All (AIR),14368030690.00
+rp_5,Caribbean Earthquake Anguilla (AIR),0.00
+rp_10,Caribbean Earthquake Anguilla (AIR),0.00
+rp_25,Caribbean Earthquake Anguilla (AIR),0.00
+rp_50,Caribbean Earthquake Anguilla (AIR),808391.00
+rp_100,Caribbean Earthquake Anguilla (AIR),27642953.00
+rp_200,Caribbean Earthquake Anguilla (AIR),71130123.00
+rp_250,Caribbean Earthquake Anguilla (AIR),84070884.00
+rp_500,Caribbean Earthquake Anguilla (AIR),251777049.00
+rp_1000,Caribbean Earthquake Anguilla (AIR),410916235.00
+rp_5,Caribbean Earthquake Antigua & Barbuda (AIR),0.00
+rp_10,Caribbean Earthquake Antigua & Barbuda (AIR),0.00
+rp_25,Caribbean Earthquake Antigua & Barbuda (AIR),340722.00
+rp_50,Caribbean Earthquake Antigua & Barbuda (AIR),9040648.00
+rp_100,Caribbean Earthquake Antigua & Barbuda (AIR),39215018.00
+rp_200,Caribbean Earthquake Antigua & Barbuda (AIR),185122505.00
+rp_250,Caribbean Earthquake Antigua & Barbuda (AIR),256845304.00
+rp_500,Caribbean Earthquake Antigua & Barbuda (AIR),584745183.00
+rp_1000,Caribbean Earthquake Antigua & Barbuda (AIR),1369970192.00
+rp_5,Caribbean Earthquake Aruba (AIR),0.00
+rp_10,Caribbean Earthquake Aruba (AIR),0.00
+rp_25,Caribbean Earthquake Aruba (AIR),0.00
+rp_50,Caribbean Earthquake Aruba (AIR),18957.00
+rp_100,Caribbean Earthquake Aruba (AIR),2471276.00
+rp_200,Caribbean Earthquake Aruba (AIR),17644914.00
+rp_250,Caribbean Earthquake Aruba (AIR),24205542.00
+rp_500,Caribbean Earthquake Aruba (AIR),85107812.00
+rp_1000,Caribbean Earthquake Aruba (AIR),242310775.00
+rp_5,Caribbean Earthquake Bahamas (AIR),0.00
+rp_10,Caribbean Earthquake Bahamas (AIR),0.00
+rp_25,Caribbean Earthquake Bahamas (AIR),0.00
+rp_50,Caribbean Earthquake Bahamas (AIR),72302.00
+rp_100,Caribbean Earthquake Bahamas (AIR),637725.00
+rp_200,Caribbean Earthquake Bahamas (AIR),1909722.00
+rp_250,Caribbean Earthquake Bahamas (AIR),3439982.00
+rp_500,Caribbean Earthquake Bahamas (AIR),18551891.00
+rp_1000,Caribbean Earthquake Bahamas (AIR),95838039.00
+rp_5,Caribbean Earthquake Barbados (AIR),0.00
+rp_10,Caribbean Earthquake Barbados (AIR),0.00
+rp_25,Caribbean Earthquake Barbados (AIR),0.00
+rp_50,Caribbean Earthquake Barbados (AIR),4631254.00
+rp_100,Caribbean Earthquake Barbados (AIR),73701283.00
+rp_200,Caribbean Earthquake Barbados (AIR),421240382.00
+rp_250,Caribbean Earthquake Barbados (AIR),556009462.00
+rp_500,Caribbean Earthquake Barbados (AIR),1517744048.00
+rp_1000,Caribbean Earthquake Barbados (AIR),2957544767.00
+rp_5,Caribbean Earthquake Bermuda (AIR),0.00
+rp_10,Caribbean Earthquake Bermuda (AIR),0.00
+rp_25,Caribbean Earthquake Bermuda (AIR),0.00
+rp_50,Caribbean Earthquake Bermuda (AIR),0.00
+rp_100,Caribbean Earthquake Bermuda (AIR),4566.00
+rp_200,Caribbean Earthquake Bermuda (AIR),83856860.00
+rp_250,Caribbean Earthquake Bermuda (AIR),127121294.00
+rp_500,Caribbean Earthquake Bermuda (AIR),281413409.00
+rp_1000,Caribbean Earthquake Bermuda (AIR),502773274.00
+rp_5,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),0.00
+rp_10,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),0.00
+rp_25,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),0.00
+rp_50,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),971941.00
+rp_100,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),5151658.00
+rp_200,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),20183605.00
+rp_250,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),27850612.00
+rp_500,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),60905060.00
+rp_1000,Caribbean Earthquake Bonaire & Saint Eustatius & Saba (AIR),129845003.00
+rp_5,Caribbean Earthquake British Virgin Islands (AIR),0.00
+rp_10,Caribbean Earthquake British Virgin Islands (AIR),0.00
+rp_25,Caribbean Earthquake British Virgin Islands (AIR),7847.00
+rp_50,Caribbean Earthquake British Virgin Islands (AIR),1262591.00
+rp_100,Caribbean Earthquake British Virgin Islands (AIR),15277953.00
+rp_200,Caribbean Earthquake British Virgin Islands (AIR),50278410.00
+rp_250,Caribbean Earthquake British Virgin Islands (AIR),67905544.00
+rp_500,Caribbean Earthquake British Virgin Islands (AIR),198440432.00
+rp_1000,Caribbean Earthquake British Virgin Islands (AIR),396125688.00
+rp_5,Caribbean Earthquake Cayman Islands (AIR),0.00
+rp_10,Caribbean Earthquake Cayman Islands (AIR),0.00
+rp_25,Caribbean Earthquake Cayman Islands (AIR),691434.00
+rp_50,Caribbean Earthquake Cayman Islands (AIR),11737199.00
+rp_100,Caribbean Earthquake Cayman Islands (AIR),46259596.00
+rp_200,Caribbean Earthquake Cayman Islands (AIR),128695613.00
+rp_250,Caribbean Earthquake Cayman Islands (AIR),164311288.00
+rp_500,Caribbean Earthquake Cayman Islands (AIR),357840961.00
+rp_1000,Caribbean Earthquake Cayman Islands (AIR),525902551.00
+rp_5,Caribbean Earthquake Cuba (AIR),1286994.00
+rp_10,Caribbean Earthquake Cuba (AIR),13032392.00
+rp_25,Caribbean Earthquake Cuba (AIR),60596933.00
+rp_50,Caribbean Earthquake Cuba (AIR),149392854.00
+rp_100,Caribbean Earthquake Cuba (AIR),317930050.00
+rp_200,Caribbean Earthquake Cuba (AIR),627188904.00
+rp_250,Caribbean Earthquake Cuba (AIR),710738768.00
+rp_500,Caribbean Earthquake Cuba (AIR),1207508145.00
+rp_1000,Caribbean Earthquake Cuba (AIR),2460348792.00
+rp_5,Caribbean Earthquake Dominica (AIR),0.00
+rp_10,Caribbean Earthquake Dominica (AIR),0.00
+rp_25,Caribbean Earthquake Dominica (AIR),2349.00
+rp_50,Caribbean Earthquake Dominica (AIR),1669165.00
+rp_100,Caribbean Earthquake Dominica (AIR),8589795.00
+rp_200,Caribbean Earthquake Dominica (AIR),26542236.00
+rp_250,Caribbean Earthquake Dominica (AIR),35413107.00
+rp_500,Caribbean Earthquake Dominica (AIR),58808507.00
+rp_1000,Caribbean Earthquake Dominica (AIR),190697109.00
+rp_5,Caribbean Earthquake Dominican Republic (AIR),2806365.00
+rp_10,Caribbean Earthquake Dominican Republic (AIR),23119440.00
+rp_25,Caribbean Earthquake Dominican Republic (AIR),135779799.00
+rp_50,Caribbean Earthquake Dominican Republic (AIR),395168818.00
+rp_100,Caribbean Earthquake Dominican Republic (AIR),1005500088.00
+rp_200,Caribbean Earthquake Dominican Republic (AIR),2145845105.00
+rp_250,Caribbean Earthquake Dominican Republic (AIR),2773648143.00
+rp_500,Caribbean Earthquake Dominican Republic (AIR),3999990386.00
+rp_1000,Caribbean Earthquake Dominican Republic (AIR),4969889994.00
+rp_5,Caribbean Earthquake Grenada (AIR),0.00
+rp_10,Caribbean Earthquake Grenada (AIR),0.00
+rp_25,Caribbean Earthquake Grenada (AIR),0.00
+rp_50,Caribbean Earthquake Grenada (AIR),1626475.00
+rp_100,Caribbean Earthquake Grenada (AIR),9514106.00
+rp_200,Caribbean Earthquake Grenada (AIR),23201789.00
+rp_250,Caribbean Earthquake Grenada (AIR),29895771.00
+rp_500,Caribbean Earthquake Grenada (AIR),73567420.00
+rp_1000,Caribbean Earthquake Grenada (AIR),235030222.00
+rp_5,Caribbean Earthquake Guadeloupe (AIR),0.00
+rp_10,Caribbean Earthquake Guadeloupe (AIR),13268.00
+rp_25,Caribbean Earthquake Guadeloupe (AIR),14722920.00
+rp_50,Caribbean Earthquake Guadeloupe (AIR),86398842.00
+rp_100,Caribbean Earthquake Guadeloupe (AIR),259431116.00
+rp_200,Caribbean Earthquake Guadeloupe (AIR),743516826.00
+rp_250,Caribbean Earthquake Guadeloupe (AIR),869835686.00
+rp_500,Caribbean Earthquake Guadeloupe (AIR),1927739944.00
+rp_1000,Caribbean Earthquake Guadeloupe (AIR),4156840201.00
+rp_5,Caribbean Earthquake Haiti (AIR),49526.00
+rp_10,Caribbean Earthquake Haiti (AIR),1994242.00
+rp_25,Caribbean Earthquake Haiti (AIR),25352669.00
+rp_50,Caribbean Earthquake Haiti (AIR),95624271.00
+rp_100,Caribbean Earthquake Haiti (AIR),267466249.00
+rp_200,Caribbean Earthquake Haiti (AIR),516772427.00
+rp_250,Caribbean Earthquake Haiti (AIR),724287843.00
+rp_500,Caribbean Earthquake Haiti (AIR),1375984660.00
+rp_1000,Caribbean Earthquake Haiti (AIR),2649341755.00
+rp_5,Caribbean Earthquake Jamaica (AIR),0.00
+rp_10,Caribbean Earthquake Jamaica (AIR),1355812.00
+rp_25,Caribbean Earthquake Jamaica (AIR),36495602.00
+rp_50,Caribbean Earthquake Jamaica (AIR),156178723.00
+rp_100,Caribbean Earthquake Jamaica (AIR),594987381.00
+rp_200,Caribbean Earthquake Jamaica (AIR),1515389941.00
+rp_250,Caribbean Earthquake Jamaica (AIR),1790155190.00
+rp_500,Caribbean Earthquake Jamaica (AIR),3215497879.00
+rp_1000,Caribbean Earthquake Jamaica (AIR),4478752187.00
+rp_5,Caribbean Earthquake Martinique (AIR),0.00
+rp_10,Caribbean Earthquake Martinique (AIR),0.00
+rp_25,Caribbean Earthquake Martinique (AIR),204852.00
+rp_50,Caribbean Earthquake Martinique (AIR),21495976.00
+rp_100,Caribbean Earthquake Martinique (AIR),94124403.00
+rp_200,Caribbean Earthquake Martinique (AIR),321426453.00
+rp_250,Caribbean Earthquake Martinique (AIR),490390884.00
+rp_500,Caribbean Earthquake Martinique (AIR),1293220827.00
+rp_1000,Caribbean Earthquake Martinique (AIR),3365686436.00
+rp_5,Caribbean Earthquake Montserrat (AIR),0.00
+rp_10,Caribbean Earthquake Montserrat (AIR),0.00
+rp_25,Caribbean Earthquake Montserrat (AIR),0.00
+rp_50,Caribbean Earthquake Montserrat (AIR),68125.00
+rp_100,Caribbean Earthquake Montserrat (AIR),703206.00
+rp_200,Caribbean Earthquake Montserrat (AIR),2715151.00
+rp_250,Caribbean Earthquake Montserrat (AIR),4038042.00
+rp_500,Caribbean Earthquake Montserrat (AIR),13859659.00
+rp_1000,Caribbean Earthquake Montserrat (AIR),26091684.00
+rp_5,Caribbean Earthquake Puerto Rico (AIR),0.00
+rp_10,Caribbean Earthquake Puerto Rico (AIR),139293.00
+rp_25,Caribbean Earthquake Puerto Rico (AIR),21027126.00
+rp_50,Caribbean Earthquake Puerto Rico (AIR),171218906.00
+rp_100,Caribbean Earthquake Puerto Rico (AIR),578662283.00
+rp_200,Caribbean Earthquake Puerto Rico (AIR),1779795335.00
+rp_250,Caribbean Earthquake Puerto Rico (AIR),2229962300.00
+rp_500,Caribbean Earthquake Puerto Rico (AIR),4739271028.00
+rp_1000,Caribbean Earthquake Puerto Rico (AIR),9103912899.00
+rp_5,Caribbean Earthquake Saint Barthelemy (AIR),0.00
+rp_10,Caribbean Earthquake Saint Barthelemy (AIR),0.00
+rp_25,Caribbean Earthquake Saint Barthelemy (AIR),0.00
+rp_50,Caribbean Earthquake Saint Barthelemy (AIR),558598.00
+rp_100,Caribbean Earthquake Saint Barthelemy (AIR),6615696.00
+rp_200,Caribbean Earthquake Saint Barthelemy (AIR),61321237.00
+rp_250,Caribbean Earthquake Saint Barthelemy (AIR),89718241.00
+rp_500,Caribbean Earthquake Saint Barthelemy (AIR),312691803.00
+rp_1000,Caribbean Earthquake Saint Barthelemy (AIR),487880766.00
+rp_5,Caribbean Earthquake Saint Kitts & Nevis (AIR),0.00
+rp_10,Caribbean Earthquake Saint Kitts & Nevis (AIR),0.00
+rp_25,Caribbean Earthquake Saint Kitts & Nevis (AIR),0.00
+rp_50,Caribbean Earthquake Saint Kitts & Nevis (AIR),1788926.00
+rp_100,Caribbean Earthquake Saint Kitts & Nevis (AIR),10573906.00
+rp_200,Caribbean Earthquake Saint Kitts & Nevis (AIR),30313889.00
+rp_250,Caribbean Earthquake Saint Kitts & Nevis (AIR),52889880.00
+rp_500,Caribbean Earthquake Saint Kitts & Nevis (AIR),166057930.00
+rp_1000,Caribbean Earthquake Saint Kitts & Nevis (AIR),299236771.00
+rp_5,Caribbean Earthquake Saint Lucia (AIR),0.00
+rp_10,Caribbean Earthquake Saint Lucia (AIR),0.00
+rp_25,Caribbean Earthquake Saint Lucia (AIR),0.00
+rp_50,Caribbean Earthquake Saint Lucia (AIR),8114203.00
+rp_100,Caribbean Earthquake Saint Lucia (AIR),46336039.00
+rp_200,Caribbean Earthquake Saint Lucia (AIR),126605064.00
+rp_250,Caribbean Earthquake Saint Lucia (AIR),157300135.00
+rp_500,Caribbean Earthquake Saint Lucia (AIR),272603301.00
+rp_1000,Caribbean Earthquake Saint Lucia (AIR),571282388.00
+rp_5,Caribbean Earthquake Saint Martin (AIR),0.00
+rp_10,Caribbean Earthquake Saint Martin (AIR),0.00
+rp_25,Caribbean Earthquake Saint Martin (AIR),0.00
+rp_50,Caribbean Earthquake Saint Martin (AIR),2776136.00
+rp_100,Caribbean Earthquake Saint Martin (AIR),15128387.00
+rp_200,Caribbean Earthquake Saint Martin (AIR),53750164.00
+rp_250,Caribbean Earthquake Saint Martin (AIR),68335084.00
+rp_500,Caribbean Earthquake Saint Martin (AIR),291871631.00
+rp_1000,Caribbean Earthquake Saint Martin (AIR),507034473.00
+rp_5,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),0.00
+rp_10,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),0.00
+rp_25,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),0.00
+rp_50,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),1294633.00
+rp_100,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),5893815.00
+rp_200,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),25291297.00
+rp_250,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),35777101.00
+rp_500,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),80099975.00
+rp_1000,Caribbean Earthquake Saint Vincent and the Grenadines (AIR),148861045.00
+rp_5,Caribbean Earthquake Trinidad & Tobago (AIR),0.00
+rp_10,Caribbean Earthquake Trinidad & Tobago (AIR),1376.00
+rp_25,Caribbean Earthquake Trinidad & Tobago (AIR),5072142.00
+rp_50,Caribbean Earthquake Trinidad & Tobago (AIR),45748355.00
+rp_100,Caribbean Earthquake Trinidad & Tobago (AIR),173720600.00
+rp_200,Caribbean Earthquake Trinidad & Tobago (AIR),394676482.00
+rp_250,Caribbean Earthquake Trinidad & Tobago (AIR),661729273.00
+rp_500,Caribbean Earthquake Trinidad & Tobago (AIR),1528711873.00
+rp_1000,Caribbean Earthquake Trinidad & Tobago (AIR),3778534505.00
+rp_5,Caribbean Earthquake Turks & Caicos Islands (AIR),0.00
+rp_10,Caribbean Earthquake Turks & Caicos Islands (AIR),0.00
+rp_25,Caribbean Earthquake Turks & Caicos Islands (AIR),0.00
+rp_50,Caribbean Earthquake Turks & Caicos Islands (AIR),0.00
+rp_100,Caribbean Earthquake Turks & Caicos Islands (AIR),0.00
+rp_200,Caribbean Earthquake Turks & Caicos Islands (AIR),1095068.00
+rp_250,Caribbean Earthquake Turks & Caicos Islands (AIR),2767925.00
+rp_500,Caribbean Earthquake Turks & Caicos Islands (AIR),9486901.00
+rp_1000,Caribbean Earthquake Turks & Caicos Islands (AIR),36191745.00
+rp_5,Caribbean Earthquake US Virgin Islands (AIR),0.00
+rp_10,Caribbean Earthquake US Virgin Islands (AIR),0.00
+rp_25,Caribbean Earthquake US Virgin Islands (AIR),3247.00
+rp_50,Caribbean Earthquake US Virgin Islands (AIR),2920284.00
+rp_100,Caribbean Earthquake US Virgin Islands (AIR),24769301.00
+rp_200,Caribbean Earthquake US Virgin Islands (AIR),163189260.00
+rp_250,Caribbean Earthquake US Virgin Islands (AIR),215750932.00
+rp_500,Caribbean Earthquake US Virgin Islands (AIR),590007492.00
+rp_1000,Caribbean Earthquake US Virgin Islands (AIR),1087856502.00
+rp_5,Central America Earthquake Belize (AIR),0.00
+rp_10,Central America Earthquake Belize (AIR),0.00
+rp_25,Central America Earthquake Belize (AIR),762.00
+rp_50,Central America Earthquake Belize (AIR),23578.00
+rp_100,Central America Earthquake Belize (AIR),269437.00
+rp_200,Central America Earthquake Belize (AIR),1016342.00
+rp_250,Central America Earthquake Belize (AIR),1583548.00
+rp_500,Central America Earthquake Belize (AIR),4792622.00
+rp_1000,Central America Earthquake Belize (AIR),12723529.00
+rp_5,Central America Earthquake Costa Rica (AIR),18548122.00
+rp_10,Central America Earthquake Costa Rica (AIR),79263560.00
+rp_25,Central America Earthquake Costa Rica (AIR),613018071.00
+rp_50,Central America Earthquake Costa Rica (AIR),2263322057.00
+rp_100,Central America Earthquake Costa Rica (AIR),4976420825.00
+rp_200,Central America Earthquake Costa Rica (AIR),7286358315.00
+rp_250,Central America Earthquake Costa Rica (AIR),8287179439.00
+rp_500,Central America Earthquake Costa Rica (AIR),10610247181.00
+rp_1000,Central America Earthquake Costa Rica (AIR),13002962918.00
+rp_5,Central America Earthquake El Salvador (AIR),9503363.00
+rp_10,Central America Earthquake El Salvador (AIR),129751125.00
+rp_25,Central America Earthquake El Salvador (AIR),1022272471.00
+rp_50,Central America Earthquake El Salvador (AIR),2275051488.00
+rp_100,Central America Earthquake El Salvador (AIR),3631920634.00
+rp_200,Central America Earthquake El Salvador (AIR),4894864267.00
+rp_250,Central America Earthquake El Salvador (AIR),5266153362.00
+rp_500,Central America Earthquake El Salvador (AIR),6302326314.00
+rp_1000,Central America Earthquake El Salvador (AIR),7024144493.00
+rp_5,Central America Earthquake Guatemala (AIR),5249455.00
+rp_10,Central America Earthquake Guatemala (AIR),43739497.00
+rp_25,Central America Earthquake Guatemala (AIR),256702083.00
+rp_50,Central America Earthquake Guatemala (AIR),598496993.00
+rp_100,Central America Earthquake Guatemala (AIR),1324760011.00
+rp_200,Central America Earthquake Guatemala (AIR),2249460060.00
+rp_250,Central America Earthquake Guatemala (AIR),2895496349.00
+rp_500,Central America Earthquake Guatemala (AIR),4319058127.00
+rp_1000,Central America Earthquake Guatemala (AIR),5582265882.00
+rp_5,Central America Earthquake Honduras (AIR),28238.00
+rp_10,Central America Earthquake Honduras (AIR),489652.00
+rp_25,Central America Earthquake Honduras (AIR),5827206.00
+rp_50,Central America Earthquake Honduras (AIR),23712977.00
+rp_100,Central America Earthquake Honduras (AIR),65055083.00
+rp_200,Central America Earthquake Honduras (AIR),171130208.00
+rp_250,Central America Earthquake Honduras (AIR),222696546.00
+rp_500,Central America Earthquake Honduras (AIR),621192137.00
+rp_1000,Central America Earthquake Honduras (AIR),1127007727.00
+rp_5,Central America Earthquake Nicaragua (AIR),95320.00
+rp_10,Central America Earthquake Nicaragua (AIR),1746386.00
+rp_25,Central America Earthquake Nicaragua (AIR),29708748.00
+rp_50,Central America Earthquake Nicaragua (AIR),131428596.00
+rp_100,Central America Earthquake Nicaragua (AIR),295188810.00
+rp_200,Central America Earthquake Nicaragua (AIR),467768172.00
+rp_250,Central America Earthquake Nicaragua (AIR),499188722.00
+rp_500,Central America Earthquake Nicaragua (AIR),617804235.00
+rp_1000,Central America Earthquake Nicaragua (AIR),750854735.00
+rp_5,Central America Earthquake Panama (AIR),596556.00
+rp_10,Central America Earthquake Panama (AIR),3209050.00
+rp_25,Central America Earthquake Panama (AIR),16007826.00
+rp_50,Central America Earthquake Panama (AIR),31312253.00
+rp_100,Central America Earthquake Panama (AIR),57712161.00
+rp_200,Central America Earthquake Panama (AIR),96317205.00
+rp_250,Central America Earthquake Panama (AIR),111155206.00
+rp_500,Central America Earthquake Panama (AIR),169165566.00
+rp_1000,Central America Earthquake Panama (AIR),250637870.00
+rp_5,Central America Earthquake (AIR),202888762.00
+rp_10,Central America Earthquake (AIR),781385757.00
+rp_25,Central America Earthquake (AIR),2567808204.00
+rp_50,Central America Earthquake (AIR),4515881682.00
+rp_100,Central America Earthquake (AIR),6097703778.00
+rp_200,Central America Earthquake (AIR),7600108755.00
+rp_250,Central America Earthquake (AIR),8384253457.00
+rp_500,Central America Earthquake (AIR),10610247181.00
+rp_1000,Central America Earthquake (AIR),13002962918.00
+rp_5,Central America Windstorm Belize (AIR),5098446.00
+rp_10,Central America Windstorm Belize (AIR),20059565.00
+rp_25,Central America Windstorm Belize (AIR),77368670.00
+rp_50,Central America Windstorm Belize (AIR),157997187.00
+rp_100,Central America Windstorm Belize (AIR),296360139.00
+rp_200,Central America Windstorm Belize (AIR),476242449.00
+rp_250,Central America Windstorm Belize (AIR),531017028.00
+rp_500,Central America Windstorm Belize (AIR),655362742.00
+rp_1000,Central America Windstorm Belize (AIR),728117099.00
+rp_5,Central America Windstorm Costa  (AIR),0.00
+rp_10,Central America Windstorm Costa  (AIR),9375.00
+rp_25,Central America Windstorm Costa  (AIR),7113140.00
+rp_50,Central America Windstorm Costa  (AIR),79085912.00
+rp_100,Central America Windstorm Costa  (AIR),260932687.00
+rp_200,Central America Windstorm Costa  (AIR),585238507.00
+rp_250,Central America Windstorm Costa  (AIR),731444757.00
+rp_500,Central America Windstorm Costa  (AIR),1128164553.00
+rp_1000,Central America Windstorm Costa  (AIR),2008966102.00
+rp_5,Central America Windstorm El Salvador (AIR),1316226.00
+rp_10,Central America Windstorm El Salvador (AIR),21506408.00
+rp_25,Central America Windstorm El Salvador (AIR),114537238.00
+rp_50,Central America Windstorm El Salvador (AIR),276839820.00
+rp_100,Central America Windstorm El Salvador (AIR),454893586.00
+rp_200,Central America Windstorm El Salvador (AIR),606263825.00
+rp_250,Central America Windstorm El Salvador (AIR),690725696.00
+rp_500,Central America Windstorm El Salvador (AIR),857891306.00
+rp_1000,Central America Windstorm El Salvador (AIR),1056998700.00
+rp_5,Central America Windstorm Guatemala (AIR),18522849.00
+rp_10,Central America Windstorm Guatemala (AIR),81524570.00
+rp_25,Central America Windstorm Guatemala (AIR),198102201.00
+rp_50,Central America Windstorm Guatemala (AIR),311194841.00
+rp_100,Central America Windstorm Guatemala (AIR),422939913.00
+rp_200,Central America Windstorm Guatemala (AIR),569450918.00
+rp_250,Central America Windstorm Guatemala (AIR),655955251.00
+rp_500,Central America Windstorm Guatemala (AIR),828353752.00
+rp_1000,Central America Windstorm Guatemala (AIR),961774387.00
+rp_5,Central America Windstorm Honduras (AIR),9727149.00
+rp_10,Central America Windstorm Honduras (AIR),46146478.00
+rp_25,Central America Windstorm Honduras (AIR),134108785.00
+rp_50,Central America Windstorm Honduras (AIR),241558924.00
+rp_100,Central America Windstorm Honduras (AIR),416377671.00
+rp_200,Central America Windstorm Honduras (AIR),680843644.00
+rp_250,Central America Windstorm Honduras (AIR),788571665.00
+rp_500,Central America Windstorm Honduras (AIR),1360848056.00
+rp_1000,Central America Windstorm Honduras (AIR),2302522900.00
+rp_5,Central America Windstorm Nicaragua (AIR),126942.00
+rp_10,Central America Windstorm Nicaragua (AIR),1817608.00
+rp_25,Central America Windstorm Nicaragua (AIR),14018443.00
+rp_50,Central America Windstorm Nicaragua (AIR),35295366.00
+rp_100,Central America Windstorm Nicaragua (AIR),73090405.00
+rp_200,Central America Windstorm Nicaragua (AIR),135016835.00
+rp_250,Central America Windstorm Nicaragua (AIR),151051453.00
+rp_500,Central America Windstorm Nicaragua (AIR),212804842.00
+rp_1000,Central America Windstorm Nicaragua (AIR),311083515.00
+rp_5,Central America Windstorm Panama (AIR),0.00
+rp_10,Central America Windstorm Panama (AIR),0.00
+rp_25,Central America Windstorm Panama (AIR),47199.00
+rp_50,Central America Windstorm Panama (AIR),1200701.00
+rp_100,Central America Windstorm Panama (AIR),3375823.00
+rp_200,Central America Windstorm Panama (AIR),8415034.00
+rp_250,Central America Windstorm Panama (AIR),10256856.00
+rp_500,Central America Windstorm Panama (AIR),27424539.00
+rp_1000,Central America Windstorm Panama (AIR),38776184.00
+rp_5,Central America Windstorm (AIR),104724814.00
+rp_10,Central America Windstorm (AIR),255964370.00
+rp_25,Central America Windstorm (AIR),561249229.00
+rp_50,Central America Windstorm (AIR),816115413.00
+rp_100,Central America Windstorm (AIR),1224853561.00
+rp_200,Central America Windstorm (AIR),1720395552.00
+rp_250,Central America Windstorm (AIR),1944114076.00
+rp_500,Central America Windstorm (AIR),2524252743.00
+rp_1000,Central America Windstorm (AIR),3356978647.00
+rp_5,South America Earthquake Chile (AIR),84135508.00
+rp_10,South America Earthquake Chile (AIR),458405212.00
+rp_25,South America Earthquake Chile (AIR),2763142496.00
+rp_50,South America Earthquake Chile (AIR),8451669942.00
+rp_100,South America Earthquake Chile (AIR),18035965088.00
+rp_200,South America Earthquake Chile (AIR),24049772867.00
+rp_250,South America Earthquake Chile (AIR),25776759985.00
+rp_500,South America Earthquake Chile (AIR),30724966746.00
+rp_1000,South America Earthquake Chile (AIR),34036762354.00
+rp_5,South America Earthquake Colombia (AIR),6400836.00
+rp_10,South America Earthquake Colombia (AIR),46836395.00
+rp_25,South America Earthquake Colombia (AIR),284046588.00
+rp_50,South America Earthquake Colombia (AIR),736859972.00
+rp_100,South America Earthquake Colombia (AIR),1432084563.00
+rp_200,South America Earthquake Colombia (AIR),2279683210.00
+rp_250,South America Earthquake Colombia (AIR),2433746142.00
+rp_500,South America Earthquake Colombia (AIR),7162698735.00
+rp_1000,South America Earthquake Colombia (AIR),32142791076.00
+rp_5,South America Earthquake Peru (AIR),36946280.00
+rp_10,South America Earthquake Peru (AIR),257967251.00
+rp_25,South America Earthquake Peru (AIR),916282474.00
+rp_50,South America Earthquake Peru (AIR),1924991377.00
+rp_100,South America Earthquake Peru (AIR),13760388822.00
+rp_200,South America Earthquake Peru (AIR),30268120623.00
+rp_250,South America Earthquake Peru (AIR),35779380321.00
+rp_500,South America Earthquake Peru (AIR),42239890176.00
+rp_1000,South America Earthquake Peru (AIR),46646712860.00
+rp_5,South America Earthquake (AIR),576438284.00
+rp_10,South America Earthquake (AIR),1926725100.00
+rp_25,South America Earthquake (AIR),10680729685.00
+rp_50,South America Earthquake (AIR),23274099394.00
+rp_100,South America Earthquake (AIR),31945323629.00
+rp_200,South America Earthquake (AIR),37986162368.00
+rp_250,South America Earthquake (AIR),41371023309.00
+rp_500,South America Earthquake (AIR),48760868052.00
+rp_1000,South America Earthquake (AIR),56836366562.00
+rp_5,Asia Earthquake China (AIR),15942202.00
+rp_10,Asia Earthquake China (AIR),58541245.00
+rp_25,Asia Earthquake China (AIR),209945062.00
+rp_50,Asia Earthquake China (AIR),519167004.00
+rp_100,Asia Earthquake China (AIR),1092376031.00
+rp_200,Asia Earthquake China (AIR),2057778977.00
+rp_250,Asia Earthquake China (AIR),2816429021.00
+rp_500,Asia Earthquake China (AIR),4479012759.00
+rp_1000,Asia Earthquake China (AIR),8180378359.00
+rp_5,Asia Earthquake Indonesia (AIR),9903715.00
+rp_10,Asia Earthquake Indonesia (AIR),24036264.00
+rp_25,Asia Earthquake Indonesia (AIR),59912313.00
+rp_50,Asia Earthquake Indonesia (AIR),109687863.00
+rp_100,Asia Earthquake Indonesia (AIR),207974988.00
+rp_200,Asia Earthquake Indonesia (AIR),371082694.00
+rp_250,Asia Earthquake Indonesia (AIR),469928281.00
+rp_500,Asia Earthquake Indonesia (AIR),645744174.00
+rp_1000,Asia Earthquake Indonesia (AIR),891256818.00
+rp_5,Asia Earthquake Philippines (AIR),47939994.00
+rp_10,Asia Earthquake Philippines (AIR),131085712.00
+rp_25,Asia Earthquake Philippines (AIR),388914549.00
+rp_50,Asia Earthquake Philippines (AIR),729524690.00
+rp_100,Asia Earthquake Philippines (AIR),1263933643.00
+rp_200,Asia Earthquake Philippines (AIR),2089267091.00
+rp_250,Asia Earthquake Philippines (AIR),2367974439.00
+rp_500,Asia Earthquake Philippines (AIR),2998813163.00
+rp_1000,Asia Earthquake Philippines (AIR),4222323295.00
+rp_5,Asia Earthquake Taiwan (AIR),203835665.00
+rp_10,Asia Earthquake Taiwan (AIR),680710223.00
+rp_25,Asia Earthquake Taiwan (AIR),2325351537.00
+rp_50,Asia Earthquake Taiwan (AIR),4484431478.00
+rp_100,Asia Earthquake Taiwan (AIR),7936958627.00
+rp_200,Asia Earthquake Taiwan (AIR),10916056448.00
+rp_250,Asia Earthquake Taiwan (AIR),11853927827.00
+rp_500,Asia Earthquake Taiwan (AIR),14458850797.00
+rp_1000,Asia Earthquake Taiwan (AIR),17032998151.00
+rp_5,Asia Earthquake (ex Japan) (AIR),387377004.00
+rp_10,Asia Earthquake (ex Japan) (AIR),995502253.00
+rp_25,Asia Earthquake (ex Japan) (AIR),2770160600.00
+rp_50,Asia Earthquake (ex Japan) (AIR),5178967862.00
+rp_100,Asia Earthquake (ex Japan) (AIR),8488698298.00
+rp_200,Asia Earthquake (ex Japan) (AIR),11276899471.00
+rp_250,Asia Earthquake (ex Japan) (AIR),12396739361.00
+rp_500,Asia Earthquake (ex Japan) (AIR),15082438360.00
+rp_1000,Asia Earthquake (ex Japan) (AIR),18655021938.00
+rp_5,Asia Windstorm China (AIR),296462816.00
+rp_10,Asia Windstorm China (AIR),469670017.00
+rp_25,Asia Windstorm China (AIR),762376145.00
+rp_50,Asia Windstorm China (AIR),1107794969.00
+rp_100,Asia Windstorm China (AIR),1582964180.00
+rp_200,Asia Windstorm China (AIR),2461355736.00
+rp_250,Asia Windstorm China (AIR),2607664350.00
+rp_500,Asia Windstorm China (AIR),3985923532.00
+rp_1000,Asia Windstorm China (AIR),5774434518.00
+rp_5,Asia Windstorm Hong Kong (AIR),142715050.00
+rp_10,Asia Windstorm Hong Kong (AIR),310167207.00
+rp_25,Asia Windstorm Hong Kong (AIR),617408361.00
+rp_50,Asia Windstorm Hong Kong (AIR),919139159.00
+rp_100,Asia Windstorm Hong Kong (AIR),1388177663.00
+rp_200,Asia Windstorm Hong Kong (AIR),1974911150.00
+rp_250,Asia Windstorm Hong Kong (AIR),2191862748.00
+rp_500,Asia Windstorm Hong Kong (AIR),2702062610.00
+rp_1000,Asia Windstorm Hong Kong (AIR),3475127309.00
+rp_5,Asia Windstorm Philippines (AIR),139313676.00
+rp_10,Asia Windstorm Philippines (AIR),209868172.00
+rp_25,Asia Windstorm Philippines (AIR),339628812.00
+rp_50,Asia Windstorm Philippines (AIR),455137419.00
+rp_100,Asia Windstorm Philippines (AIR),605024193.00
+rp_200,Asia Windstorm Philippines (AIR),781705499.00
+rp_250,Asia Windstorm Philippines (AIR),864912356.00
+rp_500,Asia Windstorm Philippines (AIR),1076021422.00
+rp_1000,Asia Windstorm Philippines (AIR),1494125720.00
+rp_5,Asia Windstorm South Korea (AIR),156457771.00
+rp_10,Asia Windstorm South Korea (AIR),355545469.00
+rp_25,Asia Windstorm South Korea (AIR),659582783.00
+rp_50,Asia Windstorm South Korea (AIR),990696472.00
+rp_100,Asia Windstorm South Korea (AIR),1349874858.00
+rp_200,Asia Windstorm South Korea (AIR),1726910673.00
+rp_250,Asia Windstorm South Korea (AIR),1878337865.00
+rp_500,Asia Windstorm South Korea (AIR),2562021505.00
+rp_1000,Asia Windstorm South Korea (AIR),3093547739.00
+rp_5,Asia Windstorm Taiwan (AIR),44121939.00
+rp_10,Asia Windstorm Taiwan (AIR),78659459.00
+rp_25,Asia Windstorm Taiwan (AIR),146101519.00
+rp_50,Asia Windstorm Taiwan (AIR),229771607.00
+rp_100,Asia Windstorm Taiwan (AIR),321597890.00
+rp_200,Asia Windstorm Taiwan (AIR),464191055.00
+rp_250,Asia Windstorm Taiwan (AIR),553883829.00
+rp_500,Asia Windstorm Taiwan (AIR),817225197.00
+rp_1000,Asia Windstorm Taiwan (AIR),1040872341.00
+rp_5,Asia windstorm (ex Japan) (AIR),719684821.00
+rp_10,Asia windstorm (ex Japan) (AIR),964533748.00
+rp_25,Asia windstorm (ex Japan) (AIR),1538689109.00
+rp_50,Asia windstorm (ex Japan) (AIR),2132519414.00
+rp_100,Asia windstorm (ex Japan) (AIR),3047444954.00
+rp_200,Asia windstorm (ex Japan) (AIR),4010266533.00
+rp_250,Asia windstorm (ex Japan) (AIR),4507555833.00
+rp_500,Asia windstorm (ex Japan) (AIR),5828380984.00
+rp_1000,Asia windstorm (ex Japan) (AIR),7562271145.00
+rp_5,US Windstorm/Hurricane (RMS),17022359114.00
+rp_10,US Windstorm/Hurricane (RMS),37317823658.00
+rp_25,US Windstorm/Hurricane (RMS),74475134797.00
+rp_50,US Windstorm/Hurricane (RMS),110892838162.00
+rp_100,US Windstorm/Hurricane (RMS),155076232223.00
+rp_200,US Windstorm/Hurricane (RMS),210691182639.00
+rp_250,US Windstorm/Hurricane (RMS),231620221337.00
+rp_500,US Windstorm/Hurricane (RMS),305130613567.00
+rp_1000,US Windstorm/Hurricane (RMS),392272342528.00
+rp_5,US Winterstorm (RMS),2085239318.00
+rp_10,US Winterstorm (RMS),3417290053.00
+rp_25,US Winterstorm (RMS),5991138801.00
+rp_50,US Winterstorm (RMS),8697748273.00
+rp_100,US Winterstorm (RMS),12070577057.00
+rp_200,US Winterstorm (RMS),16199647825.00
+rp_250,US Winterstorm (RMS),17738585584.00
+rp_500,US Winterstorm (RMS),23528422961.00
+rp_1000,US Winterstorm (RMS),31161333463.00
+rp_5,US EQ & FF (RMS),1049738057.00
+rp_10,US EQ & FF (RMS),4247181125.00
+rp_25,US EQ & FF (RMS),16570137713.00
+rp_50,US EQ & FF (RMS),32078125092.00
+rp_100,US EQ & FF (RMS),51696220218.00
+rp_200,US EQ & FF (RMS),74838160199.00
+rp_250,US EQ & FF (RMS),83051521756.00
+rp_500,US EQ & FF (RMS),111879798505.00
+rp_1000,US EQ & FF (RMS),146121159259.00
+rp_5,US Convective Storm (RMS),5540882796.00
+rp_10,US Convective Storm (RMS),7484652174.00
+rp_25,US Convective Storm (RMS),10416619231.00
+rp_50,US Convective Storm (RMS),12970333797.00
+rp_100,US Convective Storm (RMS),15954323295.00
+rp_200,US Convective Storm (RMS),19545089994.00
+rp_250,US Convective Storm (RMS),20881815430.00
+rp_500,US Convective Storm (RMS),25754391076.00
+rp_1000,US Convective Storm (RMS),32098826011.00
+rp_5,Florida HU & SS (RMS),7378967310.00
+rp_10,Florida HU & SS (RMS),23963856279.00
+rp_25,Florida HU & SS (RMS),53969819729.00
+rp_50,Florida HU & SS (RMS),84920507224.00
+rp_100,Florida HU & SS (RMS),124031366953.00
+rp_200,Florida HU & SS (RMS),174762897409.00
+rp_250,Florida HU & SS (RMS),196199398163.00
+rp_500,Florida HU & SS (RMS),269731867971.00
+rp_1000,Florida HU & SS (RMS),342478347127.00
+rp_5,US Wildfire,147015000.00
+rp_10,US Wildfire,208180000.00
+rp_25,US Wildfire,364901667.00
+rp_50,US Wildfire,536860000.00
+rp_100,US Wildfire,715750000.00
+rp_200,US Wildfire,987236667.00
+rp_250,US Wildfire,1122980000.00
+rp_500,US Wildfire,1361680000.00
+rp_1000,US Wildfire,1839080000.00
+rp_5,US Winterstorm (AIR),2436274935.00
+rp_10,US Winterstorm (AIR),3403262052.00
+rp_25,US Winterstorm (AIR),5110203336.00
+rp_50,US Winterstorm (AIR),6683549969.00
+rp_100,US Winterstorm (AIR),8954096117.00
+rp_200,US Winterstorm (AIR),11113582302.00
+rp_250,US Winterstorm (AIR),11856592323.00
+rp_500,US Winterstorm (AIR),14503906149.00
+rp_1000,US Winterstorm (AIR),18790068614.00
+rp_5,Curve Placeholder 1,0
+rp_10,Curve Placeholder 1,0
+rp_25,Curve Placeholder 1,0
+rp_50,Curve Placeholder 1,0
+rp_100,Curve Placeholder 1,0
+rp_200,Curve Placeholder 1,0
+rp_250,Curve Placeholder 1,0
+rp_500,Curve Placeholder 1,0
+rp_1000,Curve Placeholder 1,0
+rp_5,Nat Cat General - Hail,1.00
+rp_10,Nat Cat General - Hail,1.35080499801711
+rp_25,Nat Cat General - Hail,1.87995660898848
+rp_50,Nat Cat General - Hail,2.340842475064280
+rp_100,Nat Cat General - Hail,2.879382922116320
+rp_200,Nat Cat General - Hail,3.527432489486330
+rp_250,Nat Cat General - Hail,3.768680226703200
+rp_500,Nat Cat General - Hail,4.648066386931690
+rp_1000,Nat Cat General - Hail,5.793088790264170
+rp_5,Nat Cat General - Wildfire,1.00
+rp_10,Nat Cat General - Wildfire,1.416045981702550
+rp_25,Nat Cat General - Wildfire,2.482070992755840
+rp_50,Nat Cat General - Wildfire,3.651736217392780
+rp_100,Nat Cat General - Wildfire,4.868550828146790
+rp_200,Nat Cat General - Wildfire,6.715210468319560
+rp_250,Nat Cat General - Wildfire,7.638540285004930
+rp_500,Nat Cat General - Wildfire,9.262184130871000
+rp_1000,Nat Cat General - Wildfire,12.509471822603100
+rp_5,Nat Cat General - Flood,1.00
+rp_10,Nat Cat General - Flood,2.090339875016110
+rp_25,Nat Cat General - Flood,4.150695802386170
+rp_50,Nat Cat General - Flood,6.171790464380740
+rp_100,Nat Cat General - Flood,9.054479008149300
+rp_200,Nat Cat General - Flood,12.996878922232200
+rp_250,Nat Cat General - Flood,14.529978564059200
+rp_500,Nat Cat General - Flood,19.427833226790700
+rp_1000,Nat Cat General - Flood,24.307912376274400
+rp_5,Nat Cat General - SRCC,1.00
+rp_10,Nat Cat General - SRCC,1.35080499801711
+rp_25,Nat Cat General - SRCC,1.87995660898848
+rp_50,Nat Cat General - SRCC,2.340842475064280
+rp_100,Nat Cat General - SRCC,2.879382922116320
+rp_200,Nat Cat General - SRCC,3.527432489486330
+rp_250,Nat Cat General - SRCC,3.768680226703200
+rp_500,Nat Cat General - SRCC,4.648066386931690
+rp_1000,Nat Cat General - SRCC,5.793088790264170
+rp_5,Nat Cat General - Freeze,1.00
+rp_10,Nat Cat General - Freeze,1.35080499801711
+rp_25,Nat Cat General - Freeze,1.87995660898848
+rp_50,Nat Cat General - Freeze,2.340842475064280
+rp_100,Nat Cat General - Freeze,2.879382922116320
+rp_200,Nat Cat General - Freeze,3.527432489486330
+rp_250,Nat Cat General - Freeze,3.768680226703200
+rp_500,Nat Cat General - Freeze,4.648066386931690
+rp_1000,Nat Cat General - Freeze,5.793088790264170

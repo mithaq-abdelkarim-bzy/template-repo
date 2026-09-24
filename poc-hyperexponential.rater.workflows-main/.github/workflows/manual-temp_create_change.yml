@@ -1,0 +1,160 @@
+name: Manual - TEMP - Create Change Request
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to deploy'
+        required: true
+        type: string
+      release_notes:
+        description: 'Release notes'
+        required: true
+        type: string
+
+jobs:
+  deploy:
+    name: Deploy Application
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: "main"
+      
+      # ... deployment steps ...
+
+  create-change:
+    name: Create Change Request
+    needs: deploy
+    if: always()  # Create change request regardless of deployment outcome
+    uses: beazley/servicenow-change/.github/workflows/create-change.yml@v1
+    with:
+      version: ${{ inputs.version }}
+      release-notes: ${{ inputs.release_notes }}
+      job-status: ${{ needs.deploy.result }}
+      service-now-service-offering: "Hyperexponential Rater - Portfolio Underwriting"
+      service-now-configuration-item: "Hyperexponential Renew Prd"
+      service-now-business-service: "Rating Support Services"
+    secrets: inherit
+
+
+
+
+
+
+# name: Manual - TEMP - Create Change Request
+
+# permissions:
+#   contents: write
+#   issues: write
+#   pull-requests: write
+
+# on:
+#   workflow_dispatch:
+
+# jobs:
+
+#   create-change:
+#     uses: beazley/servicenow-change/.github/workflows/create-change.yml@v1
+#     with:
+#       version: "1.0.0"
+#       release-notes: "Your release notes"
+#       job-status: "success"
+#       service-now-service-offering: "Digital Platforms"
+#       service-now-configuration-item: "MyApplication"
+#       service-now-business-service: "Core Systems"
+#     secrets: inherit
+
+
+
+  # create-change:
+  #   name: Create ServiceNow Change Request
+  #   needs: deploy
+  #   uses: beazley/servicenow-change/.github/workflows/create-change.yml@v1
+  #   with:
+  #     version: ${{ github.event.release.tag_name }}
+  #     release-notes: ${{ github.event.release.body }}
+  #     job-status: ${{ needs.deploy.result }}
+  #     service-now-service-offering: "Digital Platforms"
+  #     service-now-configuration-item: "MyApplication"
+  #     service-now-business-service: "Core Systems"
+  #     service-now-standard-change-template: "EXISTING production service (INTERNALLY developed) - 1"
+  #   secrets: inherit
+
+
+
+  # create-change:
+  #   runs-on: ubuntu-latest
+  #   name: Create Change Reque
+  #   steps:
+  #     - name: Get Github Release Notes
+  #       id: releaseNotes
+  #       shell: bash
+  #       run: |
+  #         releaseNotes="$(gh release view v${{ needs.build-and-test.outputs.version }} --repo ${{ github.repository }} --json body --jq .body)"
+  #         echo "releaseNotes<<EOF" >> $GITHUB_OUTPUT
+  #         echo "$releaseNotes" >> $GITHUB_OUTPUT
+  #         echo "EOF" >> $GITHUB_OUTPUT
+  #     - name: Create Change Request
+  #       uses: beazley/action-service-now@v1
+  #       with:
+  #         job-status: ${{ needs.us-prd-apply.result }} # This needs to be changed according to the status of the job that deploys into production
+  #         release-notes: |
+  #           ${{ steps.releaseNotes.outputs.releaseNotes }}
+  #         version: ${{ needs.build-and-test.outputs.version }}
+  #         service-now-instance-url: ${{ vars.SERVICE_NOW_INSTANCE_URL }}
+  #         service-now-username: ${{ secrets.SERVICE_NOW_USERNAME }}
+  #         service-now-password: ${{ secrets.SERVICE_NOW_PASSWORD }}
+  #         service-now-configuration-item: ${{ vars.SERVICE_NOW_CONFIGURATION_ITEM }}
+  #         service-now-business-service: ${{ vars.SERVICE_NOW_BUSINESS_SERVICE }}
+
+
+
+    # create-change:
+  #   runs-on: ubuntu-latest
+  #   if: ${{ (success() || failure()) && (needs.us-prd-apply.result != 'skipped') }}
+  #   needs: [approve-releases] # This needs to be changed according to the name of the job that creates a release and the job that deploys into production
+  #   name: Create Change Request
+  #   steps:
+  #     - name: Get Github Release Notes
+  #       id: releaseNotes
+  #       shell: bash
+  #       run: |
+  #         releaseNotes="$(gh release view v${{ needs.build-and-test.outputs.version }} --repo ${{ github.repository }} --json body --jq .body)"
+  #         echo "releaseNotes<<EOF" >> $GITHUB_OUTPUT
+  #         echo "$releaseNotes" >> $GITHUB_OUTPUT
+  #         echo "EOF" >> $GITHUB_OUTPUT
+  #     - name: Create Change Request
+  #       uses: beazley/action-service-now@v1
+  #       with:
+  #         job-status: ${{ needs.us-prd-apply.result }} # This needs to be changed according to the status of the job that deploys into production
+  #         release-notes: |
+  #           ${{ steps.releaseNotes.outputs.releaseNotes }}
+  #         version: ${{ needs.build-and-test.outputs.version }}
+  #         service-now-instance-url: ${{ vars.SERVICE_NOW_INSTANCE_URL }}
+  #         service-now-username: ${{ secrets.SERVICE_NOW_USERNAME }}
+  #         service-now-password: ${{ secrets.SERVICE_NOW_PASSWORD }}
+  #         service-now-configuration-item: ${{ vars.SERVICE_NOW_CONFIGURATION_ITEM }}
+  #         service-now-business-service: ${{ vars.SERVICE_NOW_BUSINESS_SERVICE }}
+
+
+    # create-change:
+  #   runs-on: ubuntu-latest
+  #   if: ${{ (success() || failure()) && (needs.datafix.result != 'skipped') }}
+  #   needs: [datafix]
+  #   name: Create Change Request
+  #   steps:
+  #     - name: Create Change Request
+  #       uses: beazley/action-service-now@v3
+  #       with:
+  #         job-status: ${{ needs.datafix.result }}
+  #         release-notes: |
+  #           ${{ inputs.RELEASE_NOTES }}
+  #         version: ${{ inputs.JIRA_NUMBER }}
+  #         service-now-instance-url: ${{ vars.SERVICE_NOW_INSTANCE_URL }}
+  #         service-now-client-id: ${{ secrets.SERVICE_NOW_CLIENT_ID }}
+  #         service-now-client-secret: ${{ secrets.SERVICE_NOW_CLIENT_SECRET }}
+  #         service-now-service-offering: ${{ vars.SERVICE_NOW_CONFIGURATION_ITEM }}
+  #         service-now-configuration-item: "Hyperexponential Renew Prd"
+  #         service-now-business-service: "Rating Support Services"
+  #         #service-now-standard-change-template: "EXISTING production service (INTERNALLY developed) - 1"

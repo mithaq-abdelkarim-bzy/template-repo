@@ -1,0 +1,6 @@
+﻿Admitted,Global,Min,Max
+<10 shareholders,10 or fewer shareholders,0.85,1
+11-25 shareholders,11 to 25 shareholders,0.9,1
+25-50 shareholders,25 to 50 shareholders,1,1.05
+>50 shareholders,More than 50 shareholders or ESOP exposure,1,1.15
+Major shareholder/family exclusion,Major shareholder/family exclusion,0.8,1

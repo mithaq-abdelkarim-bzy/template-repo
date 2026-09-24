@@ -1,0 +1,4 @@
+﻿Response,Factor,Description
+Above Average,0.95,"Majority of plans use top 100 investment managers (as listed annually in P&I), top actuary firms, and top accounting firms."
+Average,1,"Majority of plans use outside investment managers, actuaries, and accountants which are not included in the Above Average category."
+Below Average,1.1,"Majority of plans do not use outside professionals such as investment managers, actuaries, and accountants."

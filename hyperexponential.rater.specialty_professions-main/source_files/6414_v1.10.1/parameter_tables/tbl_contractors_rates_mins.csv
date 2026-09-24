@@ -1,0 +1,35 @@
+Discipline,Selected Base Rate,Minimum Premium $1m,Minimum Retention $1m
+Asbestos / Lead Contractor,0.6,3000,5000
+Building Enveloping Contractor,1,10000,7500
+Carpenter,0.15,1000,2500
+Concrete Contractor,0.75,10000,7500
+Demolition Contractor,0.75,3000,5000
+Drywall Contractor,0.2,1000,2500
+Electrical Contractor,0.15,1000,2500
+Environmental Contractor,0.6,3000,5000
+Fire Protection (Dry) Contractor,0.3,1000,2500
+Fire Protection (Wet) Contractor,0.75,3000,5000
+Foundation & Excavation Contractor,1,10000,7500
+General Contractor (Commercial),0.5,3000,5000
+General Contractor (Residential),1,10000,7500
+Glazing Contractor ,1,10000,7500
+HVAC (Industrial) Contractor,0.75,10000,7500
+HVAC (Non-Industrial) Contractor,0.35,1000,2500
+Landscape Contractor,0.2,1000,2500
+Masonry Contractor,0.7,3000,5000
+Mechanical Contractor,0.4,1000,2500
+Non residential Renovation Contractor,0.25,1000,2500
+O&G Contractor,0.9,10000,7500
+Painting Contractor,0.15,1000,2500
+Plumbing Contractor,0.3,1000,2500
+Renovation Contractor (Residential),0.35,4000,5000
+Roofing Contractor,1,10000,7500
+Steel Contractor,0.6,3000,5000
+Telecommunications (Heavy) Contractor ,1,3000,5000
+Telecommunications (Light) Contractor ,0.15,1000,2500
+Utility Contractor,0.85,10000,7500
+Other 1 (Specify),1,2500,2500
+Other 2 (Specify),1,2500,2500
+Other 3 (Specify),1,2500,2500
+Other 4 (Specify),1,2500,2500
+Other 5 (Specify),1,2500,2500

@@ -1,0 +1,6 @@
+category,code,factor
+Target,1,-0.25
+Average,2,-0.1
+Expensive,3,0.1
+Refer,4,0.5
+Decline,5,0

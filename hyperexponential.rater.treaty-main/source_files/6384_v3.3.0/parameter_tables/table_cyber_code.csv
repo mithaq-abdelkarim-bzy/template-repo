@@ -1,0 +1,13 @@
+code
+"CY1 = Personal lines, with exclusion"
+"CY2 = Personal lines, no exclusion"
+"CY3 = Commercial lines, with exclusion"
+"CY4 = Commercial lines, no exclusion."
+"CY5 = Not Applicable"
+TCY001: Full Exclusion
+TCY002: Exclusion with Physical Writeback for Listed Perils (excluding data)
+TCY003: Exclusion with Physical Writeback for Listed Perils (including data)
+TCY004: Exclusion with Physical Writeback for All Perils (excluding data)
+TCY005: Exclusion with Physical Writeback for All Perils (including data)
+TCY006: Named Peril (no exclusion)
+TCY007: Affirmative Cyber

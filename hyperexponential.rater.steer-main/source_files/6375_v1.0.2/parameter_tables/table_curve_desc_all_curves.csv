@@ -1,0 +1,95 @@
+﻿Description,Parametric,Curve Description,Source
+A&E Large Risks,Yes,,Professions model.
+A&E Small Risks,No,,BUSA US A&E curve
+CAL - 1 Light And Medium Trucks (Group 1),No,See Curve Descriptions for groupings.,ISO
+CAL - 1 Light And Medium Trucks (Group 2),No,See Curve Descriptions for groupings.,ISO
+CAL - 1 Light And Medium Trucks (Group 3),No,See Curve Descriptions for groupings.,ISO
+CAL - 1 Light And Medium Trucks (Group 4),No,See Curve Descriptions for groupings.,ISO
+CAL - 1 Light And Medium Trucks (Group 5),No,See Curve Descriptions for groupings.,ISO
+CAL - 1 Light And Medium Trucks (Group 6),No,See Curve Descriptions for groupings.,ISO
+CAL - 1 Light And Medium Trucks (Group 7),No,See Curve Descriptions for groupings.,ISO
+CAL - 1 Light And Medium Trucks (Group 8),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),No,See Curve Descriptions for groupings.,ISO
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),No,See Curve Descriptions for groupings.,ISO
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 1),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 2),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 3),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 4),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 5),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 6),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 7),No,See Curve Descriptions for groupings.,ISO
+CAL - 4 Zone Rated Risks (Group 8),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 1),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 2),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 3),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 4),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 5),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 6),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 7),No,See Curve Descriptions for groupings.,ISO
+CAL - 5 All Other Risks (Group 8),No,See Curve Descriptions for groupings.,ISO
+Crime,No,,ISO
+Cyber (High),No,See industry grouping below,Cyber model
+Cyber (Low),No,See industry grouping below,Cyber model
+EPL,No,,ISO
+Everest Segruos GL (Low),No,,
+Financial Institutions (Crime),Yes,,FI model
+Financial Institutions (D&O),Yes,,FI model
+Financial Institutions (PI),Yes,,FI model
+GL - High,No,,ISO
+GL - Low,No,,ISO
+GL - Medium,No,,ISO
+Healthcare (High),No,See Curve Descriptions for groupings.,HPL model
+Healthcare (Low),No,See Curve Descriptions for groupings.,HPL model
+Healthcare (Medium),No,See Curve Descriptions for groupings.,HPL model
+Healthcare (Medium/High),No,See Curve Descriptions for groupings.,HPL model
+Healthcare (Very High),No,See Curve Descriptions for groupings.,HPL model
+Lawyers,Yes,,
+Long Term Care,Yes,Claims excess $2m only. Curve fitted to settlement year.,KBR sourced 303 largest cases 1992 to 2004
+Media (High),No,,
+Media (Low),No,,
+Physicians,No,,ISO
+Primary Physicians,Yes,Physicians Liability,MUOP (Ohio) 2005 proposal 33 cases above $100k
+Private D&O (Low),Yes,,Intl D&O model
+Private D&O (Medium),Yes,See Curve Descriptions for groupings.,Intl D&O model
+Private D&O (High),Yes,See Curve Descriptions for groupings.,Intl D&O model
+Private D&O (Very High),Yes,See Curve Descriptions for groupings.,Intl D&O model
+Private D&O (Extreme),Yes,See Curve Descriptions for groupings.,Intl D&O model
+Public D&O (Small),No,,US D&O model
+Public D&O (Medium),No,,US D&O model
+Public D&O (Large),No,,US D&O model
+Reps And Warranties (Extreme),Yes,MBBEFD Formulation,Reps & Warranties model
+Reps And Warranties (Large),Yes,MBBEFD Formulation,Reps & Warranties model
+Reps And Warranties (Low),Yes,MBBEFD Formulation,Reps & Warranties model
+Reps And Warranties (Medium),Yes,MBBEFD Formulation,Reps & Warranties model
+Reps And Warranties (Med-Large),Yes,MBBEFD Formulation,Reps & Warranties model
+Reps And Warranties (Very Low),Yes,MBBEFD Formulation,Reps & Warranties model
+Salzmann A,Yes,MBBEFD Formulation,SwissReCurves and MBBEFD.pdf. Like Ludwig Curves
+Salzmann B,Yes,MBBEFD Formulation,1960 Homeowners Fire Claims Data (Frame Protected)
+Small Accountants,Yes,Fitted CRICO (note state behaviour on Docs v hospital liability placement),CRICO
+Stamford I / II E&O Revised,Yes,MBBEFD Formulation,Used in BFL for Terrorism Rating (Avg Salzmann)
+Stamford III E&O Revised,Yes,for light E&O business,"fitted to data used for Stanford II, using Nexus"
+Stamford III E&O Revised HEAVY,Yes,mixture of hard-to-place and high value law firms,fitted to ILFs used. Only suitable for larger ILFs
+Standard E&O,Yes,Hospital Professional Liability,Annual exercise c 160000 claims 2004
+SwissRe LloydsScale,Yes,MBBEFD Formulation,SwissReCurves and MBBEFD.pdf
+SwissRe Y1,Yes,Small Personal,SwissRe
+SwissRe Y2,Yes,Small Commercial,SwissRe
+SwissRe Y3,Yes,Medium Commercial,SwissRe
+SwissRe Y4,Yes,Large Commercial,SwissRe
+PI - LATAM,No,,
+UK PI (HC20 2m),No,Hazard class 20. Use for revenues between 1m and 2m.,UK PI model
+UK PI (HC8 2m),No,Hazard class 8 Use for revenues between 1m and 2m,UK PI model
+US Large Law Firms,No,,Professions model.

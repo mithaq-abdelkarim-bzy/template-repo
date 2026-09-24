@@ -1,0 +1,3 @@
+Description,Min,Max,No Range Value,Default Value
+In business for 2 or more years,1,1,1,1
+In business for less than 2 years,1.25,1.25,1.25,1.25

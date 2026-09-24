@@ -1,0 +1,32 @@
+﻿Description,LongDescription,Curve Type,FirstLoss_Ind,P1,P2,P3,P4
+Reps And Warranties (Extreme),MBBEFD Formulation,MBBEFD,TRUE,10,0.23,0,0
+Reps And Warranties (Large),MBBEFD Formulation,MBBEFD,TRUE,50,0.23,0,0
+Reps And Warranties (Low),MBBEFD Formulation,MBBEFD,TRUE,350,0.23,0,0
+Reps And Warranties (Medium),MBBEFD Formulation,MBBEFD,TRUE,250,0.23,0,0
+Reps And Warranties (Med-Large),MBBEFD Formulation,MBBEFD,TRUE,100,0.23,0,0
+Reps And Warranties (Very Low),MBBEFD Formulation,MBBEFD,TRUE,500,0.23,0,0
+Salzmann A,MBBEFD Formulation,MBBEFD,TRUE,150.707,0.5474,0,0
+Salzmann B,MBBEFD Formulation,MBBEFD,TRUE,27.689,20.577,0,0
+Small Accountants,For Firms below $10m revenue,LogNormal,FALSE,12.628,1.601,0,0
+Stamford I / II E&O Revised,for light E&O business,Restricted Benktander,FALSE,664.555,0.000102703,0,0
+Stamford III E&O Revised,for heavy E&O risks,Restricted Benktander,FALSE,2551.25,0.000102703,0,0
+Stamford III E&O Revised HEAVY,for heavy E&O risks,Restricted Benktander,FALSE,3061.5,0.000102703,0,0
+Standard E&O,Standard E&O,LogNormal,FALSE,10.69817343,2.378027347,0,0
+SwissRe LloydsScale,MBBEFD Formulation,MBBEFD,TRUE,992.275,0.247,0,0
+SwissRe Y1,MBBEFD Formulation,MBBEFD,TRUE,4.221,12.648,0,0
+SwissRe Y2,MBBEFD Formulation,MBBEFD,TRUE,7.691,9.025,0,0
+SwissRe Y3,MBBEFD Formulation,MBBEFD,TRUE,30.569,3.669,0,0
+SwissRe Y4,MBBEFD Formulation,MBBEFD,TRUE,154.47,1.105,0,0
+Lawyers,,Weibull,FALSE,3.876601,-3.15797988,-0.175309541,1.0468771
+US Large Law Firms,From LACE rater,LogNormal,FALSE,13.892,1.538,0,0
+Long Term Care,Physicians Liaibility,LogNormal,FALSE,5.375,3.35,0,0
+Primary Physicians,Physicians Liaibility,MMF,FALSE,2.30315E-05,3.3486758,0.59219063,0.60205441
+Private D&O (Low),From Private D&O rater,Power,FALSE,100000,1.3,0,0
+Private D&O (Medium),From Private D&O rater,Power,FALSE,100000,1.4,0,0
+Private D&O (High),From Private D&O rater,Power,FALSE,100000,1.5,0,0
+Private D&O (Very High),From Private D&O rater,Power,FALSE,100000,1.8,0,0
+Private D&O (Extreme),From Private D&O rater,Power,FALSE,100000,2,0,0
+Financial Institutions (Crime),From FI rater,Power,FALSE,100000,1.3,0,0
+Financial Institutions (PI),From FI rater,Power,FALSE,100000,1.4,0,0
+Financial Institutions (D&O),From FI rater,Power,FALSE,100000,1.5,0,0
+A&E Large Risks,From LACE rater,LogNormal,FALSE,11.87,2.17,0,0

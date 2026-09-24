@@ -1,0 +1,100 @@
+{
+    "lst_yn": {
+        "YesNo": "str"
+    },
+    "lst_claimstatus": {
+        "ClaimStatus": "str"
+    },
+    "lst_dealstatus": {
+        "DealStatus": "str"
+    },
+    "lst_underwriters": {
+        "Underwriters": "str"
+    },
+    "tbl_ccy": {
+        "Currency code": "str",
+        "Units Per USD": "float"
+    },
+    "tbl_ilfs": {
+        "Limit": "int",
+        "Light": "float",
+        "Heavy": "float",
+        "BUSA A&E": "float"
+    },
+    "tbl_reinstatements": {
+        "Number of Reinstatement": "int",
+        "Factor": "float"
+    },
+    "tbl_primarymins": {
+        "Limit": "int",
+        "A&E": "str",
+        "DBC": "str"
+    },
+    "tbl_engineeringmins": {
+        "Discipline": "str",
+        "Minimum Premium $1m": "int",
+        "Minimum Retention $1m": "int"
+    },
+    "tbl_contractorsmins": {
+        "Discipline": "str",
+        "Minimum Premium $1m": "int",
+        "Minimum Retention $1m": "int"
+    },
+    "tbl_exposureprop": {
+        "Proportion": "str",
+        "Construction Values": "float",
+        "Professional Fees": "float"
+    },
+    "tbl_yrsinbusiness": {
+        "Years in Business": "float",
+        "Factor": "float"
+    },
+    "tbl_erp": {
+        "Extended Reporting Period": "str",
+        "Factor": "float"
+    },
+    "tbl_retro": {
+        "Retro": "int",
+        "Factor": "float"
+    },
+    "tbl_quotedguidelineded": {
+        "Lower Ratio": "float",
+        "Upper Ratio": "float",
+        "Lower Ratio Factor": "float",
+        "Upper Ratio Factor": "float"
+    },
+    "tbl_riskgroup": {
+        "Risk Group": "str",
+        "Factor": "float"
+    },
+    "tbl_state": {
+        "State": "str",
+        "State Abbrev": "str",
+        "Risk Group": "str",
+        "Default Factor": "float",
+        "Gross Billings Factor": "int",
+        "Selected Factor": "float",
+        "Claims Heat Map Factor": "float",
+        "Residential Factor": "float"
+    },
+    "tbl_baserate": {
+        "Engineering Discipline": "str",
+        "Contractor Discipline": "str",
+        "Selected Base Rate": "float"
+    },
+    "tbl_excessilf": {
+        "LimitandAttachment": "int",
+        "Limit": "int",
+        "Attachment": "int",
+        "Light": "float",
+        "Heavy": "float",
+        "BUSA A&E": "float"
+    },
+    "lst_excessilfs": {
+        "Excess Limit": "int"
+    },
+    "tbl_sizeadjust": {
+        "Rateable Revenue": "int",
+        "Size discount": "float"
+    }
+}

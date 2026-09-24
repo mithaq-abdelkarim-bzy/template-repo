@@ -1,0 +1,125 @@
+﻿State,Liberal,Factor
+Alabama,TRUE,1
+Alaska,TRUE,1.3
+Arizona,TRUE,1
+Arkansas,TRUE,1
+California,TRUE,1.3
+Colorado,TRUE,1
+Connecticut,TRUE,1
+Delaware,TRUE,1
+District of Columbia,TRUE,1
+Florida,TRUE,1.15
+Georgia,TRUE,1
+Hawaii,TRUE,1
+Idaho,TRUE,1
+Illinois,TRUE,1.15
+Indiana,TRUE,1
+Iowa,TRUE,1
+Kansas,TRUE,1
+Kentucky,TRUE,1
+Louisiana,TRUE,1
+Maine,TRUE,1
+Maryland,TRUE,1
+Massachusetts,TRUE,1.15
+Michigan,TRUE,1
+Minnesota,TRUE,1
+Mississippi,TRUE,1
+Missouri,TRUE,1
+Montana,TRUE,1
+Nebraska,TRUE,1
+Nevada,TRUE,1
+New Hampshire,TRUE,1
+New Jersey,TRUE,1
+New Mexico,TRUE,1
+New York - metro,TRUE,1.15
+New York - non-metro,TRUE,1.15
+North Carolina,TRUE,1
+North Dakota,TRUE,1
+Ohio,TRUE,1
+Oklahoma,TRUE,1
+Oregon,TRUE,1
+Pennsylvania,TRUE,1
+Rhode Island,TRUE,1
+South Carolina,TRUE,1
+South Dakota,TRUE,1
+Tennessee,TRUE,1
+Texas,TRUE,1.15
+Utah,TRUE,1
+Vermont,TRUE,1
+Virginia,TRUE,1
+Washington,TRUE,1
+West Virginia,TRUE,1.3
+Wisconsin,TRUE,1
+Wyoming,TRUE,1
+Canada,TRUE,0.8
+ROW,TRUE,0.7
+UK,TRUE,0.7
+France,TRUE,0.7
+Germany,TRUE,0.7
+China,TRUE,0.7
+All other EU,TRUE,0.7
+Italy,TRUE,0.7
+Australia,TRUE,0.7
+Japan,TRUE,0.7
+Alabama,FALSE,1
+Alaska,FALSE,1
+Arizona,FALSE,1
+Arkansas,FALSE,1
+California,FALSE,1.15
+Colorado,FALSE,1
+Connecticut,FALSE,1
+Delaware,FALSE,1
+District of Columbia,FALSE,1
+Florida,FALSE,1
+Georgia,FALSE,1
+Hawaii,FALSE,1
+Idaho,FALSE,1
+Illinois,FALSE,1
+Indiana,FALSE,1
+Iowa,FALSE,1
+Kansas,FALSE,1
+Kentucky,FALSE,1
+Louisiana,FALSE,1
+Maine,FALSE,1
+Maryland,FALSE,1
+Massachusetts,FALSE,1
+Michigan,FALSE,1
+Minnesota,FALSE,1
+Mississippi,FALSE,1
+Missouri,FALSE,1
+Montana,FALSE,1
+Nebraska,FALSE,1
+Nevada,FALSE,1
+New Hampshire,FALSE,1
+New Jersey,FALSE,1
+New Mexico,FALSE,1
+New York - metro,FALSE,1
+New York - non-metro,FALSE,1
+North Carolina,FALSE,1
+North Dakota,FALSE,1
+Ohio,FALSE,1
+Oklahoma,FALSE,1
+Oregon,FALSE,1
+Pennsylvania,FALSE,1
+Rhode Island,FALSE,1
+South Carolina,FALSE,1
+South Dakota,FALSE,1
+Tennessee,FALSE,1
+Texas,FALSE,1
+Utah,FALSE,1
+Vermont,FALSE,1
+Virginia,FALSE,1
+Washington,FALSE,1
+West Virginia,FALSE,1
+Wisconsin,FALSE,1
+Wyoming,FALSE,1
+Canada,FALSE,1
+ROW,FALSE,1
+UK,FALSE,1
+France,FALSE,1
+Germany,FALSE,1
+China,FALSE,1
+All other EU,FALSE,1
+Italy,FALSE,1
+Australia,FALSE,1
+Japan,FALSE,1

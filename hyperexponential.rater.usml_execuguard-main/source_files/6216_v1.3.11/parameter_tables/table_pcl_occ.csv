@@ -1,0 +1,68 @@
+﻿BealeyOcc,RatedOn,Factor,AcceptDecline,DOInformation
+Accountants,Revenue,1,OK,
+Accounting Services,Revenue,1,OK,
+Advertising,Revenue,1,OK,
+Agriculture,Assets,1,OK,
+Architects & Engineers,Revenue,1,OK,
+Assisted Living,Revenue,1,OK,
+Auto Dealer,Assets,1,OK,Auto Dealer triggers a D&O decline rule
+Auto Repair,Revenue,1,OK,
+Bio-tech,Assets,1,OK,
+Casinos,Assets,1,OK,Casinos triggers a D&O decline rule
+Collection Agencies,Revenue,1,OK,Collection Agencies triggers a D&O decline rule
+Communications,Assets,1,OK,Communications triggers a D&O referral rule
+Construction,Revenue,1,OK,Construction triggers a D&O referral rule
+Consulting,Revenue,1,OK,
+Contractors,Revenue,1,OK,
+Distributor,Revenue,1,OK,
+Education,Assets,1,OK,DECLINE D&O - if for profit
+Entertainment,Assets,1,OK,Entertainment triggers a D&O decline rule
+Gas Station,Assets,1,OK,
+Golf Club or Country Club,Assets,1,OK,Golf Club or Country Club triggers a D&O decline rule
+Health Club,Assets,1,OK,
+Healthcare,Assets,1,OK,"DECLINE D&O - if health management, managed care, home health and drug/alcohol rehabs"
+Hi-tech,Assets,1,OK,
+Hotel,Assets,1,OK,
+Household Staff,Assets,1,OK,
+Insurance,Assets,1,OK,
+Investment,Assets,1,OK,
+Law Firm,Revenue,1,OK,Law Firm triggers a D&O referral rule - if less than 20 attorneys decline
+Leasing,Assets,1,OK,
+Leisure,Assets,1,OK,
+Lumber,Assets,1,OK,
+Management Services,Revenue,1,OK,Management Services triggers a D&O referral rule
+Manufacturing,Assets,1,OK,
+Mining,Assets,1,OK,Mining triggers a D&O referral rule
+Municipality,Assets,1,OK,Municipality triggers a D&O decline rule
+NonProfit,Revenue,1,OK,DECLINE D&O - unless revenue > 100m
+Nursing Homes,Assets,1,OK,
+Oil & Gas,Assets,1,OK,Oil & Gas triggers a D&O referral rule
+Other Club,Assets,1,OK,DECLINE D&O for strip/night clubs
+Other Financial,Assets,1,OK,
+Personal Care,Revenue,1,OK,
+Pharmaceutical,Assets,1,OK,
+Printing,Assets,1,OK,
+Processing,Assets,1,OK,
+Professional,Revenue,1,OK,Professional triggers a D&O referral rule
+Professional Employer Organisation,Revenue,1,OK,
+Property Managers,Revenue,1,OK,Property Managers triggers a D&O decline rule
+Publishing,Assets,1,OK,
+Real Estate,Assets,1,OK,Real Estate triggers a D&O referral rule
+Religious,Assets,1,OK,Religious triggers a D&O decline rule
+Rental,Assets,1,OK,
+Research & Development,Assets,1,OK,
+Restaurant (Franchise),Revenue,1,OK,
+Restaurant (Non Franchise),Revenue,1,OK,
+Retail,Assets,1,OK,
+Savings & Loans,Assets,1,OK,Savings & Loans triggers a D&O decline rule
+Security,Revenue,1,OK,Security triggers a D&O referral rule
+Service,Assets,1,OK,
+Social Services,Revenue,1,OK,Social Services triggers a D&O decline rule
+Staffing (excluding PEOs),Revenue,1,OK,
+Storage,Assets,1,OK,
+Transportation,Assets,1,OK,
+Trucking,Assets,1,OK,
+Utilities,Assets,1,OK,Utilities triggers a D&O referral rule
+Veterinary,Revenue,1,OK,
+Wholesale,Assets,1,OK,
+Hotel Management Company,Assets,1,OK,Hotel Management Company triggers a D&O referral rule

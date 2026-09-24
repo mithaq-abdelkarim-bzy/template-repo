@@ -1,0 +1,4 @@
+﻿Admitted,Global,Min,Max
+>10 Years,More than 10 years,0.9,0.95
+3-10 Years,3 to 10 years,0.95,1.05
+<3 Years,Less than 3 years,1.05,1.2

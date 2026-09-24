@@ -1,0 +1,24 @@
+﻿Industry,NAICS Code Filter,lookup
+Accommodation and Food Services,72,Hotel
+Administrative and Support and Waste Management and Remediation Services,56,Collection Agencies
+"Agriculture, Forestry, Fishing and Hunting",11,Lumber
+"Arts, Entertainment, and Recreation",71,Casinos
+Construction,23,#N/A
+Educational Services,61,#N/A
+Finance and Insurance,52,Insurance
+Health Care and Social Assistance,62,Healthcare
+Information,51,Information Services
+Management of Companies and Enterprises,55,#N/A
+Manufacturing (Agricultural),31,#N/A
+Manufacturing (Metal and Other Miscellaneous),33,#N/A
+Manufacturing (Non-metal),32,#N/A
+Mining,21,#N/A
+Other Services (except Public Administration),81,Auto Repair
+Postal Services,49,#N/A
+"Professional, Scientific, and Technical Services",54,Bio-tech
+Public Administration,92,Municipality
+Real Estate and Rental and Leasing,53,Leasing
+Retail Trade,44,Gas Station
+Transportation,48,#N/A
+Utilities,22,Utilities
+Wholesale Trade,42,Wholesale

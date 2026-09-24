@@ -1,0 +1,4 @@
+﻿Admitted,Global,Min,Max
+None,No exposure from the above events in prior two years and none anticipated during the next year.,1,1
+Some,Some exposure from past events over prior two years or anticipated during the next year.,0.95,1.05
+Significant,Significant exposure from past events over prior two years or anticipated during next year,1.05,1.15

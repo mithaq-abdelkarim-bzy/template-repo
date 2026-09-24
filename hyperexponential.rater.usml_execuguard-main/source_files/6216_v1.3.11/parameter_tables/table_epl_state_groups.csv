@@ -1,0 +1,6 @@
+LowerState,UpperState,RetGroup
+0.01,0.65,Group5
+0.65,0.8,Group4
+0.8,1.05,Group3
+1.05,1.5,Group2
+1.5,2.5,Group1

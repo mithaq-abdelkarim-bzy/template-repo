@@ -1,0 +1,10 @@
+﻿Category,Assumption,Comment
+Attritional LR,0.26816588179427,
+Cat LR,0.089731097851235,
+1 in 50 LR,1.10,
+Exponential Decay,102.37,Goal seek
+Exponential Decay (L1),102.37,Formula driven
+Exponential Decay (L2),102.37,Formula driven
+Exponential Decay (L3),102.37,Formula driven
+Exponential Decay (L4),102.37,Formula driven
+Exponential Decay (L5),102.37,Formula driven

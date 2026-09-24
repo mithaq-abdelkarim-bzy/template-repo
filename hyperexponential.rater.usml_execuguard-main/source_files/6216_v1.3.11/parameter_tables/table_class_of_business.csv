@@ -1,0 +1,6 @@
+Table,Modifier
+Table A,1.25
+Table B,1.5
+Table C,2
+Table D,0.9
+"Class not in Table A, B, C, or D",1

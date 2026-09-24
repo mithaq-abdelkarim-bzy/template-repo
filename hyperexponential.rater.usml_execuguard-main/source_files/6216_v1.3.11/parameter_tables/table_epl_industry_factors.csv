@@ -1,0 +1,75 @@
+﻿BeazleyOcc,NonCAFactor,CAFactor,LevelUp,NonCAMinRet,CAMinRet,NonCAMinPrem,CAMinPrem,TPFactor,Category,Status,Information,WHStatus,WHInformation,CCVisible,DoubleRetCat
+Accountants,0.8,0.8,0,7500,100000,0,7500,0.99,High,OK,Watch salaries,Refer,Accountants triggers a W&H refer rule,FALSE,FALSE
+Accounting Services,0.8,0.8,0,5000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Advertising,1,1,0,25000,100000,10000,25000,0.98,High,OK,,OK,,FALSE,FALSE
+Agriculture,0.7,0.7,0,5000,100000,0,7500,0.99,High,OK,,Refer,Agriculture triggers a W&H decline rule,FALSE,FALSE
+Architects & Engineers,1,1,0,7500,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Assisted Living,1.2,1.45,0,5000,100000,0,7500,0.95,High,OK,,OK,DECLINE W&H if home health,FALSE,FALSE
+Auto Dealer,1.35,1.35,1,15000,100000,10000,25000,0.95,High,OK, REFER EPL if claims or FTEs greater than 250,Refer,Auto Dealer triggers a W&H decline rule,FALSE,FALSE
+Auto Repair,0.85,0.85,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Bio-tech,1,1,0,25000,100000,7500,10000,0.99,High,OK,,OK,,FALSE,FALSE
+Casinos,1,1,0,50000,100000,15000,15000,0.95,High,OK,,Refer,Casinos triggers a W&H decline rule,FALSE,FALSE
+Collection Agencies,1,1,0,5000,100000,0,7500,0.95,High,OK,"TP ok if admin duties only, otherwise exclude TP",OK,,FALSE,FALSE
+Communications,1,1,0,5000,100000,5000,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Construction,0.7,0.7,0,5000,100000,5000,7500,0.98,High,OK,,Refer,Construction triggers a W&H refer rule,FALSE,FALSE
+Consulting,1,1,0,15000,100000,0,7500,0.99,High,OK,Watch salaries,OK,,FALSE,FALSE
+Contractors,0.7,0.7,0,5000,100000,0,7500,0.95,High,OK,,OK,Refer W&H if general contractors,FALSE,FALSE
+Distributor,0.7,0.7,0,5000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Education,1,1,1,5000,100000,5000,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Entertainment,1,1,0,50000,100000,0,7500,0.93,High,OK,Entertainment triggers an EPL decline rule,Refer,Entertainment triggers a W&H decline rule,FALSE,FALSE
+Gas Station,0.7,0.7,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Golf Club or Country Club,1,1,0,5000,100000,5000,7500,0.95,High,OK,Apply membership discrimination exclusion for EPL,OK,Golf Club or Country Club triggers a W&H decline rule,FALSE,FALSE
+Health Club,1,1,0,5000,100000,5000,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Healthcare,1,1.45,0,5000,100000,5000,7500,0.95,High,OK,DECLINE EPL if drug/alcohol rehab,OK,,FALSE,FALSE
+Hi-tech,1.15,1.25,0,50000,100000,7500,10000,0.99,High,OK,,OK,"If CA, W&H SIR needs to be increased one level up",FALSE,FALSE
+Hotel,1,1.25,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Household Staff,1,1,0,5000,100000,0,7500,0.93,High,OK,Household Staff triggers an EPL decline rule,Refer,Household Staff triggers a WH decline rule,FALSE,FALSE
+Insurance,1,1.45,0,25000,100000,5000,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Investment,1,1,0,100000,100000,0,7500,0.93,High,OK,Investment triggers an EPL refferal rule,Refer,Investment triggers a WH refferal rule,FALSE,FALSE
+Law Firm,1.15,1.25,0,15000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Leasing,1,1,0,5000,100000,0,7500,0.98,High,OK,,OK,,FALSE,FALSE
+Leisure,1,1,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Lumber,0.7,0.7,0,5000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Management Services,1,1,0,7500,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Manufacturing,0.9,1,0,5000,100000,0,7500,0.99,High,OK,,OK,"DECLINE W&H if cut, sewing or canning",FALSE,FALSE
+Mining,1,1,0,5000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Municipality,1,1,0,50000,100000,0,7500,0.93,High,OK,Municipality triggers an EPL referral rule,Refer,Municipality triggers a W&H decline rule,FALSE,FALSE
+NonProfit,1,1,0,50000,100000,0,7500,0.95,High,OK,NonProfit triggers an EPL referral rule,Refer,NonProfit triggers a W&H decline rule,FALSE,FALSE
+Nursing Homes,1,1.45,0,5000,100000,0,7500,0.95,High,OK,,OK,DECLINE W&H if home health,FALSE,FALSE
+Oil & Gas,1,1,0,15000,100000,0,7500,0.99,High,OK,Watch salaries,OK,,FALSE,FALSE
+Other Club,1,1,0,5000,100000,0,7500,0.95,High,OK,"Refer EPL for strip clubs. Minimum SIR is 50k in CA, 25k elsewhere. Exclude TP. Entertainment exclusion when applicable",Refer,Other Club triggers a W&H decline rule,FALSE,FALSE
+Other Financial,2,2,0,15000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Personal Care,1,1,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Pharmaceutical,1,1,0,25000,100000,7500,10000,0.99,High,OK,,Refer,Pharmaceutical triggers a W&H decline rule,FALSE,FALSE
+Printing,1,1,0,5000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Processing,1,1,0,5000,100000,0,7500,0.99,High,OK,,OK,DECLINE W&H if food processing or slaughter,FALSE,FALSE
+Professional,1,1,0,15000,100000,5000,7500,0.99,High,OK,"Treat the following with caution: Advertising & related service, advertising agencies, public relations agencies, media buying agencies, media representatives",OK,,FALSE,FALSE
+Professional Employer Organisation,0.85,1,0,5000,100000,0,7500,0.98,Med,OK,,OK,W&H coverage provided for in-housed employees only,TRUE,FALSE
+Property Managers,0.9,0.9,0,25000,100000,7500,25000,0.93,High,OK,Apply 10% debit for Tenant Discrimination or Property Owner extension. REFER EPL if claims or FTEs greater than 250,Refer,Property Managers triggers a W&H decline rule,FALSE,FALSE
+Publishing,1,1,0,15000,100000,0,7500,0.98,High,OK,Exclude TP coverage,OK,,FALSE,FALSE
+Real Estate,0.9,0.9,0,15000,100000,5000,7500,0.95,High,OK,,Refer,Real Estate triggers a W&H decline rule for real estate agents. For all others refer,FALSE,FALSE
+Religious,1,1,0,15000,100000,0,7500,0.93,High,OK,Religious triggers an EPL decline rule,OK,,FALSE,FALSE
+Rental,0.7,0.7,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Research & Development,1,1,0,25000,100000,7500,10000,0.99,High,OK,,OK,,FALSE,FALSE
+Restaurant,1.2,1.35,0,5000,100000,0,7500,0.95,High,OK,Refer EPL if revenue per FTE >=$70K,OK,"Adult themed restaurants:
+Min SIR for W&H is 50k for all states.
+DECLINE W&H for Domino’s Pizza, Pizza Hut, Papa Johns, Jimmy Johns franchisees and any restaurant with a delivery service. ",FALSE,FALSE
+Restaurant (Franchise),1.15,1.35,0,5000,100000,0,7500,0.95,High,OK,Refer EPL if revenue per FTE >=$70K,OK,"Adult themed restaurants:
+Min SIR for W&H is 50k for all states.
+DECLINE W&H for Domino’s Pizza, Pizza Hut, Papa Johns, Jimmy Johns franchisees and any restaurant with a delivery service. ",FALSE,FALSE
+Restaurant (Non Franchise),1.15,1.35,0,5000,100000,0,7500,0.95,High,OK,Refer EPL if revenue per FTE >=$70K,OK,,FALSE,FALSE
+Retail,1,1.25,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Savings & Loans,1.15,1.25,0,15000,100000,5000,7500,0.95,High,OK,Refer EPL if more than 15% headcount in CA or if pay day or mortgage lending,OK,DECLINE W&H for mortgage lenders,FALSE,FALSE
+Security,1,1,0,25000,100000,5000,7500,0.93,High,OK,REFER EPL if claims or FTEs greater than 250,Refer,Security triggers a W&H decline rule,FALSE,FALSE
+Service,1.1,1.35,0,5000,100000,0,7500,0.98,High,OK,,OK,"DECLINE W&H if janitorial, car parking services, landscaping, Massage Envy",FALSE,FALSE
+Social Services,1,1,0,15000,100000,0,7500,0.93,High,OK,,OK,,FALSE,FALSE
+Staffing,0.65,0.75,0,5000,100000,0,7500,0.98,Med,OK,TP for temps at 5% AP,OK,W&H coverage provided for in-housed employees only,TRUE,FALSE
+Staffing (excluding PEOs),0.65,0.75,0,5000,100000,0,7500,0.98,Med,OK,TP for temps at 5% AP,OK,W&H coverage provided for in-housed employees only,TRUE,FALSE
+Storage,1,1,0,5000,100000,0,7500,0.98,High,OK,,OK,,FALSE,FALSE
+Public Transportation,1,1,0,5000,100000,0,7500,0.95,High,OK,,,,,
+Transportation,0.9,0.9,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE
+Trucking,0.7,0.7,0,5000,100000,0,7500,0.99,High,OK,,Refer,Trucking triggers a W&H refer rule,FALSE,FALSE
+Utilities,1,1,0,5000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Veterinary,1,1,0,5000,100000,0,7500,0.98,High,OK,,OK,,FALSE,FALSE
+Hotel Management Company,1,1.25,0,5000,100000,0,7500,0.99,High,OK,,OK,,FALSE,FALSE
+Wholesale,0.7,0.7,0,5000,100000,0,7500,0.95,High,OK,,OK,,FALSE,FALSE

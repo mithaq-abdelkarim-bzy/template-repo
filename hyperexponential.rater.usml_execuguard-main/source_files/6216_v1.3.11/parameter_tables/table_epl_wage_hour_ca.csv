@@ -1,0 +1,7 @@
+Response,Modifier,Minimum Premium
+0% coinsurance; $150k sublimit,1.1,0
+25% coinsurance; $150k sublimit,1,0
+25% coinsurance; $250k sublimit,1.1,0
+25% coinsurance; $500k sublimit,1.15,0
+25% coinsurance; $1m sublimit,1.25,0
+Not Purchased,1,0

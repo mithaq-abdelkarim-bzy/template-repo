@@ -1,0 +1,5 @@
+﻿Response,Factor
+None in prior two years and none anticipated during the next year.,0.95
+Greater than 0% but less than 5% in prior two years or anticipated during the next year.,1
+Greater than 5% but less than 10% in prior two years or anticipated during the next year. ,1.05
+10% or more in prior two years or anticipated during the next year.,1.15

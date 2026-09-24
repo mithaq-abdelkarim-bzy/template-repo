@@ -1,0 +1,7 @@
+Reponse,Sublimit,Coinsurance
+Not Purchased,0,0
+0% coinsurance; $150k sublimit,150000,0
+25% coinsurance; $150k sublimit,150000,0.25
+25% coinsurance; $250k sublimit,250000,0.25
+25% coinsurance; $500k sublimit,500000,0.25
+25% coinsurance; $1m sublimit,1000000,0.25

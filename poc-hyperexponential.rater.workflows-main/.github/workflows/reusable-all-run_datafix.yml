@@ -1,0 +1,142 @@
+name: Reusable - All - Run Datafix
+
+env:
+  PATH_REPO: staging
+  PATH_SHARED: shared
+  PATH_DATAFIX: datafix
+  OUTPUT_FOLDER: outputs
+on:
+  workflow_call:
+    inputs:
+      ENVIRONMENT:
+        required: true
+        type: string
+      JIRA_NUMBER:
+        required: true
+        type: string
+      RELEASE_NOTES:
+        required: true
+        type: string
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET:
+        required: true
+      READ_GITHUB_REPO_PAT:
+        required: true
+      SERVICE_NOW_CLIENT_ID:
+        required: true
+      SERVICE_NOW_CLIENT_SECRET:
+        required: true
+
+jobs:
+  datafix:
+    name: Run datafix
+    runs-on:
+      group: ubuntu-arm-runners
+    environment: ${{ inputs.ENVIRONMENT }}
+
+    steps:
+
+      - name: Checkout model repository
+        id: checkout-model-repository
+        uses: actions/checkout@v4
+        with:
+          path: ${{ env.PATH_REPO }}
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+          
+      - name: Prepare datafix
+        id: prepare-datafix
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_REPO }}/datafixes/${{ inputs.JIRA_NUMBER }} ${{ env.PATH_DATAFIX }}
+          mkdir -p ${{ env.PATH_DATAFIX }}/${{ env.OUTPUT_FOLDER }}
+          
+      - name: Set up python
+        id: set-up-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          
+      - name: Restore cached virtualenv
+        id: restore-cached-virtualenv
+        uses: actions/cache/restore@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_DATAFIX)) }}
+          path: .venv
+
+      - name: Set up virtualenv and install dependencies
+        id: setup-virtualenv
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r ${{ env.PATH_DATAFIX }}/requirements.txt
+          echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+
+      - name: Saved cached virtualenv
+        id: save-cached-virtualenv
+        if: steps.restore-cached-virtualenv.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_DATAFIX)) }}
+          path: .venv
+
+      - name: Run script
+        id: run-script
+        working-directory: ${{ env.PATH_DATAFIX }}
+        run: |
+          echo "script_commenced=true" >> $GITHUB_OUTPUT;
+          python -u datafix.py
+        env: 
+          HX_API_BASE_URL: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_API_BASE_URL[inputs.environment] }}
+          HX_AZURE_AD_TENANTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_TENANTID }}
+          HX_AZURE_AD_CLIENTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_CLIENTID[inputs.environment] }}
+          HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+          HX_AZURE_AD_SCOPE: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_SCOPE[inputs.environment] }}
+          INPUT_FILE: datafix_scheme_${{ inputs.ENVIRONMENT }}.csv
+          OUTPUT_DIR: ${{ env.OUTPUT_FOLDER }}
+
+      - name: Upload artifacts
+        id: upload-artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: outputs
+          path: ${{ env.PATH_DATAFIX }}/${{ env.OUTPUT_FOLDER }}
+
+  # create-change:
+  #   runs-on: ubuntu-latest
+  #   if: ${{ (success() || failure()) && (needs.datafix.result != 'skipped') }}
+  #   needs: [datafix]
+  #   name: Create Change Request
+  #   steps:
+  #     - name: Create Change Request
+  #       uses: beazley/action-service-now@v3
+  #       with:
+  #         job-status: ${{ needs.datafix.result }}
+  #         release-notes: |
+  #           ${{ inputs.RELEASE_NOTES }}
+  #         version: ${{ inputs.JIRA_NUMBER }}
+  #         service-now-instance-url: ${{ vars.SERVICE_NOW_INSTANCE_URL }}
+  #         service-now-client-id: ${{ secrets.SERVICE_NOW_CLIENT_ID }}
+  #         service-now-client-secret: ${{ secrets.SERVICE_NOW_CLIENT_SECRET }}
+  #         service-now-service-offering: ${{ vars.SERVICE_NOW_CONFIGURATION_ITEM }}
+  #         service-now-configuration-item: "Hyperexponential Renew Prd"
+  #         service-now-business-service: "Rating Support Services"
+  #         #service-now-standard-change-template: "EXISTING production service (INTERNALLY developed) - 1"

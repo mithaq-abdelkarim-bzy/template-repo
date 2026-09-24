@@ -1,0 +1,13 @@
+code
+"9a = No exclusion including NBCR"
+"9b = No exclusion including NBCR - No exposure"
+"10a = No exclusion except NBCR"
+"10b = No exclusion except NBCR - No exposure"
+"11 = Terrorism ceded to a Government Pool"
+"12a = Terrorism excl with PL write-back (TRIPRA)"
+"12b = Terrorism excl with PL write-back (TRIPRA) - No exposure"
+"13a = Terrorism excl with PL & Domestic CL write back"
+"13b = Terrorism excl with PL & Domestic CL write back - No exposure"
+"14a = Terrorism excl with PL, Domestic CL & limited CL foreign write-back"
+"14b = Terrorism excl with PL, Domestic CL & limited CL foreign write-back - No exposure"
+"15 = Full exclusion"

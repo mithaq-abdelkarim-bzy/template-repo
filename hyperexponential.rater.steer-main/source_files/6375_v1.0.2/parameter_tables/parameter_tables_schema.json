@@ -1,0 +1,202 @@
+{
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_basic_experience_rating": {
+    "Clean Years": "str",
+    "Adjustment": "float"
+  },
+  "table_claims_inflation": {
+    "year": "int",
+    "claims_inflation": "float"
+  },
+  "table_currency": {
+    "ccy": "str",
+    "fx_rate": "float",
+    "period": "str"
+  },
+  "table_development_method": {
+    "development": "float",
+    "method": "str"
+  },
+  "table_development_patterns": {
+    "years": "int",
+    "development": "float"
+  },
+  "table_exposure_inflation": {
+    "year": "int",
+    "exposure_inflation": "float"
+  },
+  "table_premium_rate_change": {
+    "year": "int",
+    "rate_change": "float"
+  },
+  "insured_names": {
+    "insured_name": "str"
+  },
+  "table_cob_code_assumptions": {
+    "Class of Business": "str",
+    "Class of Business Code": "str",
+    "Pareto Parameter": "float",
+    "Neg BI ODF": "float",
+    "Comment": "str"
+  },
+  "table_steer_expe_data_mapping": {
+    "node_name": "str",
+    "Field": "str",
+    "Field Name": "str",
+    "Description": "str",
+    "Mandatory Column": "str",
+    "Accept Missing Values": "str",
+    "Field Type": "str",
+    "Value Within Range": "str",
+    "Replace Missing with Default Value": "str",
+    "Mandatory Column Costs Inclusive": "str",
+    "Mandatory Column Costs Exclusive": "str",
+    "Mandatory Column Costs Pro-Rata": "str"
+  },
+  "lst_benchmarknames": {
+    "Benchmark Class": "str"
+  },
+  "tb_afbdevelopmentpatterns": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "qtr": "int",
+    "value": "float"
+  },
+  "tb_rule_tail_factor": {
+    "Version": "int",
+    "tail_desc": "str",
+    "tail_code": "str",
+    "basis": "str",
+    "tail_df": "float",
+    "num_yr_developed": "str",
+    "percent_develop": "float",
+    "incurred_dev_factor": "float"
+  },
+  "tb_rule_pattern_weight": {
+    "Version": "int",
+    "tail_desc": "str",
+    "tail_code": "str",
+    "average_total_claims": "int",
+    "num_yr_data": "int",
+    "wgt_experience": "float",
+    "wgt_benchmark": "float"
+  },
+  "tb_afbdevelopmentpatternsoc": {
+    "Version": "int",
+    "Benchmark Class": "str",
+    "qtr": "int",
+    "value": "float"
+  },
+  "table_ilf_curve_list": {
+    "Description": "str",
+    "Parametric": "str"
+  },
+  "table_ilf_curve": {
+    "Description": "str",
+    "LongDescription": "str",
+    "Curve Type": "str",
+    "FirstLoss_Ind": "str",
+    "P1": "float",
+    "P2": "float",
+    "P3": "float",
+    "P4": "float"
+  },
+  "table_ilf_tabular": {
+    "curve": "str",
+    "LimitLow": "float",
+    "LimitHigh": "float",
+    "Ilf": "float"
+  },
+  "table_curve_desc_all_curves": {
+    "Description": "str",
+    "Parametric": "str",
+    "Curve Description": "str",
+    "Source": "str"
+  },
+  "table_curve_desc_commercial_auto_state": {
+    "Group 1": "str",
+    "Group 2": "str",
+    "Group 3": "str",
+    "Group 4": "str",
+    "Group 5": "str",
+    "Group 6": "str",
+    "Group 7": "str",
+    "Group 8": "str"
+  },
+  "table_curve_desc_cyber": {
+    "Low": "str",
+    "High": "str"
+  },
+  "table_curve_desc_healthcare": {
+    "Low": "str",
+    "Medium": "str",
+    "Medium/High": "str",
+    "High": "str",
+    "Very High": "str"
+  },
+  "table_curve_desc_private_d_o": {
+    "Low": "str",
+    "Medium": "str",
+    "High": "str",
+    "Very High": "str"
+  },
+  "random_numbers": {
+    "x": "float"
+  },
+  "table_hc_exp_base": {
+    "Exposure Base": "str",
+    "Relativity": "float"
+  },
+  "table_hc_high_low": {
+    "High low agreement": "str",
+    "Loading": "float"
+  },
+  "table_hc_location": {
+    "Area": "str",
+    "Risk Level": "str",
+    "Loading": "float",
+    "Cap on Damage": "str",
+    "Adjustment": "float",
+    "Area Code": "str"
+  },
+  "table_hc_loss_distribution_summary_percentile": {
+    "Loss Percentile": "float"
+  },
+  "table_hc_lr_assumptions": {
+    "Category": "str",
+    "Assumption": "float",
+    "Comment": "str"
+  },
+  "table_hc_social_inflation": {
+    "Level": "str",
+    "Loading": "float"
+  },
+  "table_hc_specialty": {
+    "Profession": "str",
+    "Premium": "float",
+    "Raw Relativity": "float",
+    "Risk Band": "str",
+    "Selected Relativity": "float"
+  },
+  "table_hc_surgical_type": {
+    "Specialty": "str",
+    "Relativity": "float"
+  },
+  "table_hc_trial_history": {
+    "Win %": "float",
+    "Loading": "float"
+  },
+  "table_hc_dammage_cap": {
+    "Cap on Damage": "str",
+    "Loading": "float"
+  }
+}

@@ -1,4 +1,0 @@
-experience,min,max,default
-No claim activity or claim activity with little severity or frequency,0.65,1,1
-Moderate claim activity,1.01,1.1,1.1
-Frequent or severe claim activity,1.11,1.65,1.3

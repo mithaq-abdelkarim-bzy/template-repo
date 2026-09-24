@@ -1,0 +1,53 @@
+name: Manual - TEMP - Parse Release Notes
+
+env:
+  PATH_SHARED: shared
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Temp
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const FORM_BODY = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/form.txt', 'utf8');
+            core.setOutput('FORM_BODY', FORM_BODY);
+            core.notice(FORM_BODY)
+
+      - name: Issue Forms Body Parser
+        id: parse
+        uses: zentered/issue-forms-body-parser@93bd9fdcb3679be1889d2006e9c2cf496899402e
+        with:
+          body: ${{ steps.read-shared-config.outputs.FORM_BODY }}
+
+      - name: Display
+        id: display
+        uses: actions/github-script@v7
+        env:
+          ISSUE_FORM_JSON: ${{ steps.parse.outputs.data }}
+        with:
+          script: 
+            const issueForm = JSON.parse(process.env.ISSUE_FORM_JSON);
+            core.notice(process.env.ISSUE_FORM_JSON);
+            release_note = issueForm["release-note"].text;
+            core.notice(release_note);
+            release_note = issueForm["release-note"].text.replace("```", "").trim();
+            core.notice(release_note);
+
+        #release_note = issueForm["release-note"].text.replace("```\\r\\n", "");
+        #release_note = issueForm["release-note"].text.replace("```", "");

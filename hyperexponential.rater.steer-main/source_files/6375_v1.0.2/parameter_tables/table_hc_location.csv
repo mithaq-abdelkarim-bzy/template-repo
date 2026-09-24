@@ -1,0 +1,53 @@
+﻿Area,Risk Level,Loading,Cap on Damage,Adjustment,Area Code
+Alabama,L,0.8,No,1,AL
+Alaska,L,0.8,Yes,0.5,AK
+Arizona,L,0.8,No,1,AZ
+Arkansas,L,0.8,No,1,AR
+California,H,1.15,Yes,0.5,CA
+Colorado,M,1,Yes,0.5,CO
+Connecticut,L,0.8,No,1,CT
+Delaware,L,0.8,No,1,DE
+Florida,H,1.15,No,1,FL
+Georgia,H,1.15,No,1,GA
+Hawaii,L,0.8,Yes,0.5,HI
+Idaho,L,0.8,Yes,0.5,ID
+Illinois,H,1.15,No,1,IL
+Indiana,L,0.8,Yes,0.5,IN
+Iowa,L,0.8,No,1,IA
+Kansas,M,1,No,1,KS
+Kentucky,L,0.8,No,1,KY
+Louisiana,H,1.15,Yes,0.5,LA
+Maine,L,0.8,No,1,ME
+Maryland,M,1,Yes,0.5,MD
+Massachusetts,M,1,Yes,0.5,MA
+Michigan,L,0.8,No,1,MI
+Minnesota,H,1.15,No,1,MN
+Mississippi,L,0.8,Yes,0.5,MS
+Missouri,H,1.15,Yes,0.5,MO
+Montana,M,1,Yes,0.5,MT
+Nebraska,L,0.8,Yes,0.5,NE
+Nevada,L,0.8,No,1,NV
+New Hampshire,L,0.8,No,1,NH
+New Jersey,M,1,No,1,NJ
+New Mexico,L,0.8,Yes,0.5,NM
+New York,H,1.15,No,1,NY
+North Carolina,L,0.8,Yes,0.5,NC
+North Dakota,L,0.8,Yes,0.5,ND
+Ohio,L,0.8,Yes,0.5,OH
+Oklahoma,M,1,No,1,OK
+Oregon,L,0.8,No,1,OR
+Pennsylvania,H,1.15,No,1,PA
+Rhode Island,L,0.8,No,1,RI
+South Carolina,H,1.15,Yes,0.5,SC
+South Dakota,L,0.8,Yes,0.5,SD
+Tennessee,M,1,Yes,0.5,TN
+Texas,L,0.8,Yes,0.5,TX
+Utah,L,0.8,Yes,0.5,UT
+Vermont,L,0.8,No,1,VT
+Virginia,L,0.8,Yes,0.5,VA
+Washington,M,1,No,1,WA
+West Virginia,M,1,Yes,0.5,WV
+Wisconsin,L,0.8,Yes,0.5,WI
+Wyoming,L,0.8,No,1,WY
+ROW,L,0.8,No,1,
+United Kingdom,L,0.8,No,1,

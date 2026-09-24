@@ -1,0 +1,255 @@
+name: Reusable - All - Model Movement Trigger
+
+env:
+  PATH_SHARED: shared
+
+on:
+  workflow_call:
+    inputs:
+      MOVEMENT_SOURCE:
+        required: true
+        type: string
+      ISSUE_NUMBER:
+        required: true
+        type: string
+      TITLE:
+        required: true
+        type: string
+    secrets:
+      READ_GITHUB_REPO_PAT:
+        required: true
+      READ_GITHUB_PACKAGE_PAT:
+        required: true
+      HX_MODEL_MOVEMENT_AZURE_AD_USERNAME:
+        required: true
+      HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD:
+        required: true
+      EMAIL_AZURE_AD_CLIENTSECRET:
+        required: true
+
+jobs:
+
+  parse-form:
+    name: Parse issue form
+    runs-on:
+      group: ubuntu-arm-runners
+    outputs:
+      source_environment: ${{ steps.set-parameters.outputs.source_environment }}
+      target_environment: ${{ steps.set-parameters.outputs.target_environment }}
+      model: ${{ steps.set-parameters.outputs.model }}
+      label: ${{ steps.set-parameters.outputs.label }}
+      target_label: ${{ steps.set-parameters.outputs.target_label }}
+      model_branch: ${{ steps.set-parameters.outputs.model_branch }}
+
+    steps:
+
+      - name: Add commencement comment
+        id: commencement-comment
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            const body = 'Commencing model movement...'
+            await github.rest.issues.createComment({
+              issue_number: ${{ inputs.ISSUE_NUMBER }},
+              owner: owner,
+              repo: repo,
+              body: body
+            }).catch(err => {
+              console.error('Error adding issue comment:', err)
+              throw err;
+            })
+
+      - name: Get issue body
+        id: get-issue-body
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: ${{ inputs.ISSUE_NUMBER }}
+            })
+            core.setOutput('title', issue.data.title)
+            core.setOutput('body', issue.data.body)
+
+      - name: Issue Forms Body Parser
+        id: parse
+        uses: beazley/mirror-issue-forms-body-parser@93bd9fdcb3679be1889d2006e9c2cf496899402e
+        with:
+          body: ${{ steps.get-issue-body.outputs.body }}
+
+      - name: Set parameters
+        id: set-parameters
+        uses: actions/github-script@v7
+        env:
+          ISSUE_FORM_JSON: ${{ steps.parse.outputs.data }}
+        with:
+          script: |
+            const issueForm = JSON.parse(process.env.ISSUE_FORM_JSON);
+            var source_environment;
+            var target_environment;
+            var model;
+            var label;
+            var model_branch;
+            var target_label;
+            if ("${{ inputs.MOVEMENT_SOURCE }}" == "DEV") {
+              source_environment = 'us-dev';
+              target_environment = 'us-tst';
+            } else {
+              source_environment = 'us-prd';
+              target_environment = 'us-dev';
+            };
+            model = issueForm["model-name"].text.replace(/\\/g,"");
+            label = issueForm["model-version-label"].text;
+            model_branch = issueForm["destination-branch"].text;
+            target_label = label;
+            if (model_branch == "MAIN (PROD)") {
+              target_label = label + '-from-prod';
+            };
+            core.setOutput('source_environment', source_environment);
+            core.setOutput('target_environment', target_environment);
+            core.setOutput('model', model);
+            core.setOutput('label', label);
+            core.setOutput('model_branch', model_branch);
+            core.setOutput('target_label', target_label);
+
+  model-movement:
+    name: Model movement
+    uses: beazley/hyperexponential.renew.model.movement/.github/workflows/model-move.yml@main
+    needs: parse-form
+    with:
+      source_environment: ${{ needs.parse-form.outputs.source_environment }}
+      target_environment: ${{ needs.parse-form.outputs.target_environment }}
+      model: ${{ needs.parse-form.outputs.model }}
+      label: ${{ needs.parse-form.outputs.label }}
+      target_label: ${{ needs.parse-form.outputs.target_label }}
+      model_branch: ${{ needs.parse-form.outputs.model_branch }}
+      inputs_only: false
+      use_auth_0: false
+    secrets:
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}
+      READ_GITHUB_PACKAGE_PAT:  ${{ secrets.READ_GITHUB_PACKAGE_PAT }}
+      AZURE_AD_USERNAME: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_USERNAME }}
+      AZURE_AD_PASSWORD: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD }}
+  
+  model-movement-results:
+    name: Model movement results
+    runs-on:
+      group: ubuntu-arm-runners
+    needs: [parse-form, model-movement]
+    if: ${{ always() }}
+
+    steps:
+      
+      - name: Add completion comment
+        id: completion-comment
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            var body;
+            if (${{ needs.model-movement.result == 'success' }}) {
+              body = 'Model movement successful.'
+            } else {
+              body = 'Model movement failure - please refer to logs. Please add a \`/lgtm\` comment to re-attempt the Model Movement.'
+            }
+            await github.rest.issues.createComment({
+              issue_number: ${{ inputs.ISSUE_NUMBER }},
+              owner: owner,
+              repo: repo,
+              body: body
+            }).catch(err => {
+              console.error('Error adding issue comment:', err)
+              throw err;
+            })
+
+      - name: Close Issue
+        id: close-issue
+        if: needs.model-movement.result == 'success'
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: ${{ inputs.ISSUE_NUMBER }},
+              state: 'closed'
+            }).catch(err => {
+              console.error('Error closing Issue:', err)
+              throw err;
+            })
+
+  handle_failures:
+    name: Handle failures
+    runs-on:
+      group: ubuntu-arm-runners
+    needs: [parse-form, model-movement, model-movement-results]
+    if: ${{ (always()) && (needs.model-movement.result == 'failure') }}
+    
+    steps:
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+
+      - name: Set Issue Assignees
+        id: set_issue_assignees
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const shared_config = ${{ steps.read-shared-config.outputs.shared_config }}
+            var issue_assignees = JSON.stringify(shared_config["ISSUE_ASSIGNEES"])
+            core.setOutput('issue_assignees', issue_assignees)
+
+      - name: Add Assignees
+        id: add-assignees
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            await github.rest.issues.addAssignees({
+              owner: owner,
+              repo: repo,
+              issue_number: ${{ inputs.ISSUE_NUMBER }},
+              assignees: ${{ steps.set_issue_assignees.outputs.issue_assignees }}
+            }).catch(err => {
+              console.error('Error adding assignees:', err)
+              throw err;
+            })
+
+  model_movement_emails:
+    name: Model movement emails
+    uses: beazley/poc-hyperexponential.rater.workflows/.github/workflows/reusable-all-model-movement-emails.yml@main
+    needs: [parse-form, model-movement, model-movement-results]
+    if: ${{ always() }}
+    with:
+      RESULT: ${{ needs.model-movement.result }}
+      MOVEMENT_SOURCE: ${{ inputs.MOVEMENT_SOURCE }}
+      TITLE: ${{ inputs.TITLE }}
+      ISSUE_NUMBER: ${{ inputs.ISSUE_NUMBER }}
+    secrets:
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}
+      EMAIL_AZURE_AD_CLIENTSECRET: ${{ secrets.EMAIL_AZURE_AD_CLIENTSECRET }}

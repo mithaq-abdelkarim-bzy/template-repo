@@ -1,0 +1,207 @@
+{
+  "table_input_underwriters": {
+    "underwriter": "str"
+  },
+  "table_insured": {
+    "insured_name": "str"
+  },
+  "table_currency": {
+    "currency": "str",
+    "to_usd": "float"
+  },
+  "table_am_best_rating": {
+    "rating": "str"
+  },
+  "table_carrier_type": {
+    "type": "str"
+  },
+  "table_com_disease": {
+    "code": "str"
+  },
+  "table_cyber_code": {
+    "code": "str"
+  },
+  "table_peril_name": {
+    "peril_label": "str",
+    "peril_reference": "str"
+  },
+  "table_personal_commercial": {
+    "type": "str"
+  },
+  "table_reason_for_declinature": {
+    "reason": "str"
+  },
+  "table_risk_carrier": {
+    "risk_carrier": "str"
+  },
+  "table_sanctions_clause": {
+    "clause": "str"
+  },
+  "table_territorial_focus_group": {
+    "group": "str"
+  },
+  "table_terrorism_code": {
+    "code": "str"
+  },
+  "table_return_periods": {
+    "return_period": "int",
+    "return_period_label": "str"
+  },
+  "table_nmp_curve_count": {
+    "count": "int"
+  },
+  "table_exposure_type": {
+    "type": "str"
+  },
+  "table_deal_status": {
+    "status": "str"
+  },
+  "table_large_loss_event": {
+    "event": "str",
+    "yol": "int"
+  },
+  "table_nmp_curves": {
+    "rp": "str",
+    "curve": "str",
+    "loss": "float"
+  },
+  "table_years": {
+    "year": "int"
+  },
+  "table_reins_cov": {
+    "parameter": "str",
+    "value": "float"
+  },
+  "table_ri_cede": {
+    "region": "str",
+    "ceded_per_aal": "float"
+  },
+  "table_ri_cede_ly": {
+    "region": "str",
+    "ceded_per_aal": "float"
+  },
+  "table_tp_params": {
+    "item": "str",
+    "load": "float"
+  },
+  "table_tp_params_ly": {
+    "item": "str",
+    "load": "float"
+  },
+  "table_address": {
+    "country": "str",
+    "state": "str",
+    "county": "str"
+  },
+  "table_input_broker": {
+    "broker": "str"
+  },
+  "table_nmp_curve_names": {
+    "curve": "str"
+  },
+  "table_underwriter_authority": {
+    "underwriter": "str",
+    "programme": "str",
+    "exposure_limit_new": "float",
+    "exposure_limit_renewal": "float",
+    "premium_new": "float",
+    "premium_renewal": "float",
+    "currency": "str"
+  },
+  "table_territory": {
+    "territory": "str"
+  },
+  "table_area_code_can_car": {
+    "field": "str",
+    "code": "str",
+    "name": "str"
+  },
+  "table_area_code_europe": {
+    "field": "str",
+    "code": "str",
+    "name": "str"
+  },
+  "table_area_code_far_east_amei": {
+    "field": "str",
+    "code": "str",
+    "name": "str"
+  },
+  "table_area_code_us_aus": {
+    "field": "str",
+    "code": "str",
+    "name": "str"
+  },
+  "table_rds_regions_us_ri": {
+    "region": "str"
+  },
+  "table_rds_regions_all": {
+    "region": "str",
+    "area_code": "str"
+  },
+  "table_event_state_map": {
+    "eventid": "int",
+    "region_desc_id": "int",
+    "remetrica_description": "str",
+    "state": "str"
+  },
+  "table_state_gate_map": {
+    "state": "str",
+    "gates": "str"
+  },
+  "table_ws_event_state_map": {
+    "eventid": "int",
+    "AL": "float",
+    "CT": "float",
+    "DC": "float",
+    "DE": "float",
+    "FL": "float",
+    "GA": "float",
+    "HI": "float",
+    "LA": "float",
+    "MA": "float",
+    "MD": "float",
+    "ME": "float",
+    "MS": "float",
+    "NC": "float",
+    "NH": "float",
+    "NJ": "float",
+    "NY": "float",
+    "PA": "float",
+    "RI": "float",
+    "SC": "float",
+    "TX": "float",
+    "VA": "float",
+    "VT": "float",
+    "WV": "float",
+    "Caribbean": "float"
+  },
+  "table_eso_authority": {
+    "Underwriter": "str",
+    "Cob": "str",
+    "Cob Description": "str",
+    "Exposure Limit (New Business Risks)": "float",
+    "Exposure Limit (Renewal Risks)": "float",
+    "Max Net Limit Per Risk (Exposure)": "float",
+    "Treaty Risks (New Business) Premium Authority": "float",
+    "Treaty Risks (Renewal) Premium Authority ": "float",
+    "Policy Period (New Business)": "int",
+    "Policy Period (Renewal)": "int",
+    "Letter Currency": "str"
+  },
+  "table_cob_list": {
+    "cob": "str"
+  },
+  "table_authority_as_at": {
+    "as_at": "date"
+  },
+  "table_risk_xl_curves": {
+    "curve_name": "str",
+    "swiss_re_c": "float"
+  },
+  "table_risk_xl_us_pml_code": {
+    "code": "str"
+  },
+  "table_risk_xl_intl_pml_code": {
+    "code": "str"
+  }
+}

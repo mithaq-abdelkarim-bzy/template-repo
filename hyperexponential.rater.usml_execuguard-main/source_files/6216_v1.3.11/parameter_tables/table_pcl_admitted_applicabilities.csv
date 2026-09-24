@@ -1,0 +1,54 @@
+﻿State,Allows Ranges?,Minimum Aggregate Limit,Minimum Premium,Rounding,Min Before Schedule Rating,Schedule Rating Table,Max Aggregate Schedule Rating Debit,Max Aggregate Schedule Rating Credit,Risk Characteristic Change,Allows Removal of Punitive Damages?
+AL,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+AK,FALSE,100000,0,1,500,tblPCL_ScheduleRatingCW,-0.4,0.4,Deleted,Yes
+AZ,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+AR,TRUE,500000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+CA,FALSE,100000,0,1,500,tblPCL_ScheduleRatingCA,-0.25,0.25,No,Yes
+CO,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+CT,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+DE,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+DC,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+FL,FALSE,100000,500,1,1000,tblPCL_ScheduleRatingCW,-0.25,0.25,Refined Definitions,Mandate
+GA,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.4,No,Yes
+HI,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,0,0,No,Yes
+ID,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+IL,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+IN,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,Refined Definitions,Yes
+IA,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+KS,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+KY,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+LA,FALSE,100000,0,Standard,6000,tblPCL_ScheduleRatingLA,-0.25,0.25,No,Yes
+ME,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+MD,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+MA,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.25,No,Yes
+MI,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+MN,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+MS,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Deleted
+MO,FALSE,100000,0,0,500,tblPCL_ScheduleRatingMO,-0.25,0.25,No,Yes
+MT,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+NE,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,0,0,Refined Definitions,Yes
+NV,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+NH,TRUE,500000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+NJ,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+NM,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+NY,FALSE,100000,0,Standard,2500,tblPCL_ScheduleRatingCW,-0.15,0.15,No,Yes
+NYFTZ,TRUE,100000,0,Standard,2500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+NC,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+ND,TRUE,1000000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+OH,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Mandate
+OK,FALSE,100000,500,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+OR,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+PA,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+RI,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+SC,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.25,No,Deleted
+SD,FALSE,1000000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+TN,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+TX,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.25,No,Yes
+UT,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.25,0.25,No,Yes
+VT,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.25,No,Yes
+VA,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Deleted
+WA,FALSE,100000,0,1,1000,tblPCL_ScheduleRatingCW,-0.25,0.25,Refined Definitions,Yes
+WV,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.4,0.4,No,Yes
+WI,TRUE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+WY,FALSE,100000,0,Standard,500,tblPCL_ScheduleRatingCW,-0.5,0.5,No,Yes
+Surplus,TRUE,500000,0,Standard,500,tblPCL_ScheduleRatingCW,-1,1,No,Yes

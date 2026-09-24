@@ -1,0 +1,63 @@
+name: Reusable - Prod - Auto Reject PR
+
+on:
+  workflow_call:
+    secrets:
+      READ_GITHUB_REPO_PAT:
+        required: true
+
+jobs:
+
+  auto-reject:
+    runs-on: 
+      ubuntu-latest
+    steps:
+
+      - name: Close PR
+        id: close-pr
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              state: 'closed'
+            }).catch(err => {
+              console.error('Error closing PR:', err)
+              throw err;
+            })
+
+      - name: Get branch name
+        id: get-branch
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const branch = context.payload.pull_request.head.ref;
+            core.setOutput('branch', branch);
+
+      - name: Delete release branch
+        id: delete-release-branch
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const branch = '${{ steps.get-branch.outputs.branch }}';
+            if (branch.startsWith('release/')) {
+              try {
+                response = await github.rest.git.deleteRef({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  ref: `heads/${branch}`
+                }).catch(err => {
+                console.error('Error deleting branch:', err)
+                throw err;
+              });
+                core.notice('Branch deleted');
+              } catch (error) {
+                core.notice('Unable to delete branch - has it already been manually deleted?');
+              }
+            } 

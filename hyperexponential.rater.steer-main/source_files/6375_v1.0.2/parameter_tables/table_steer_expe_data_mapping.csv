@@ -1,0 +1,19 @@
+﻿node_name,Field,Field Name,Description,Mandatory Column,Accept Missing Values,Field Type,Value Within Range,Replace Missing with Default Value,Mandatory Column Costs Inclusive,Mandatory Column Costs Exclusive,Mandatory Column Costs Pro-Rata
+field_01,1,Reference,,Yes,No,String,,,Yes,Yes,Yes
+field_02,2,Claimant,,No,Yes,String,,,No,No,No
+field_03,3,Insured,,No,Yes,String,,,No,No,No
+field_04,4,Status,Status of the claim,Yes,Yes,String,,,Yes,Yes,Yes
+field_05,5,Incident date,,No,Yes,Date,Policy Year  - Inception Year,"1900-01-01",No,No,No
+field_06,6,Report date,,No,Yes,Date,Policy Year  - Inception Year,"1900-01-01",No,No,No
+field_07,7,Closed date,,No,Yes,Date,Policy Year  - Inception Year,"1900-01-01",No,No,No
+field_08,8,Incident year,,No,Yes,Integer,Policy Year  - Inception Year,,No,No,No
+field_09,9,Policy year,,Yes,No,Integer,,,Yes,Yes,Yes
+field_10,10,Closed year,,Yes,Yes,Integer,Policy Year  - Inception Year,,Yes,Yes,Yes
+field_11,11,Policy limit,,No,Yes,Decimal,>=0,9999999999,No,No,No
+field_12,12,Policy excess,,No,Yes,Decimal,>=0,0,No,No,No
+field_13,13,Indemnity paid,Specify first column,No,Yes,Decimal,>=0,0,No,No,No
+field_14,14,Indemnity inc,Specify first column,No,Yes,Decimal,>=0,0,No,Yes,Yes
+field_15,15,Defense cost paid,Specify first column,No,Yes,Decimal,>=0,0,No,No,No
+field_16,16,Defense cost inc,Specify first column,No,Yes,Decimal,>=0,0,No,No,Yes
+field_17,17,Claim paid,Specify first column,No,Yes,Decimal,>=0,0,No,No,No
+field_18,18,Claim inc,Specify first column,No,Yes,Decimal,>=0,0,Yes,No,No

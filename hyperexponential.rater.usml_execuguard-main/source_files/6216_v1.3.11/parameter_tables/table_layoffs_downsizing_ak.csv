@@ -1,0 +1,4 @@
+﻿Response,Factor,Description
+Above Average,0.95,No mergers or acquisitions in prior two years and none anticipated during the next year.
+Average,1,Mergers or acquisitions between 0% and 10% over prior two years or anticipated during the next year.
+Below Average,1.05,Mergers or acquisitions equal to or greater than 10% over prior two years or anticipated during the next year.

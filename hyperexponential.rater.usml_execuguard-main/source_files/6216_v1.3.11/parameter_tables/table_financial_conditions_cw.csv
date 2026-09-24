@@ -1,0 +1,5 @@
+﻿Response,Factor,Description,Global
+Above Average,0.9,"Majority of balance sheet and income statement financial ratios above average such as ROE, ROA, debt/equity, debt payments, etc. ",Above Average
+Average,1,"Majority of balance sheet and income statement financial ratios are average such as ROE, ROA, debt/equity, debt payments, etc.",Average
+Below Average,1.1,"Majority of balance sheet and income statement financial ratios below average such as ROE, ROA, debt/equity, debt payments, etc. ",Below Average
+Declining Financial Performance,1.2,Above average to below average financial condition as defined above and significant declining trends in financial condition.,Below Average

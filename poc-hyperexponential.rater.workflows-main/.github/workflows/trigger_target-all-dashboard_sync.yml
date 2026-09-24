@@ -1,0 +1,25 @@
+name: Trigger Target - All - Dashboard Sync
+
+permissions:
+  contents: read
+
+on:
+  repository_dispatch:
+    types: [trigger-dashboard-sync]
+
+jobs:
+
+  refresh-dashboard:
+    strategy:
+      matrix:
+        environment: ${{ github.event.client_payload.env }}
+      fail-fast: true
+      max-parallel: 1
+    name: refresh-dashboard - ${{ matrix.environment }}
+    uses: beazley/poc-hyperexponential.rater.workflows/.github/workflows/reusable-all-dashboard_sync.yml@main
+    with:
+      ENVIRONMENT: ${{ matrix.environment }}
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+      CONFLUENCE_API_TOKEN: ${{ secrets.CONFLUENCE_API_TOKEN }}
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}

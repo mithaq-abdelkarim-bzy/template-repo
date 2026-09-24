@@ -1,0 +1,4 @@
+﻿Response,Factor,Description
+Above Average,0.9,"Any sponsor in a stable and growing industry which is not subject to deregulation, severe price competition, cyclical sales, significant merger/acquisition activity, or industry litigation."
+Average,1,Any sponsor that is not Above Average or Below Average
+Below Average,1.1,"Any sponsor in a declining industry that is characterized by deregulation, severe price competition, cyclical sales, significant merger/acquisition activity, or industry litigation."

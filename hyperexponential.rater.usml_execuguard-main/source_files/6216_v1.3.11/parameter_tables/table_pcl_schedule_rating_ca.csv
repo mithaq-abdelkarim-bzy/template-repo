@@ -1,0 +1,7 @@
+﻿Reason,+/-,Description
+Classification Peculiarities,0.1,Particular characteristics which would make insured better or worse than the average risk
+Significant Transactional Event,0.05,Existence of an event that would have a positive or negative effect on exposure to loss
+Regulatory Exposure,0.05,Insured's exposure to governmental and or local regulatory control
+Board of Directors,0.05,Ratio of board members with industry experience to those without; potential conflict of interests
+Management Practices,0.1,Extent to which insured has/has not introduced management practices to reduce exposure
+Experience,0.06,Insured's history of D&O complaints and known settlements

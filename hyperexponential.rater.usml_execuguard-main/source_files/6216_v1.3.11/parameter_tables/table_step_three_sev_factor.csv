@@ -1,0 +1,4 @@
+Severity Component,Low Risk - LB,Low Risk - UB,Normal Risk - LB,Normal Risk - UB,High Risk - LB,High Risk - UB
+Industry/ Sector Factor,0.75,0.9,0.9,1.1,1.1,1.25
+Company Specific Factor,0.75,0.9,0.9,1.1,1.1,1.25
+Litigation Potential Factor,0.75,0.9,0.9,1.1,1.1,1.25

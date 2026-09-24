@@ -1,0 +1,4290 @@
+[
+  {
+    "bug_report_email": null,
+    "cds": {
+      "add_excess_1": false,
+      "add_excess_2": false,
+      "add_excess_3": false,
+      "add_excess_4": false,
+      "add_excess_5": false,
+      "broker_contact": "",
+      "brokerage": 0.25,
+      "carrier_primary": false,
+      "ccy": "USD",
+      "ccy_factor": 1.0,
+      "currencies": {
+        "multi_currency_support": false,
+        "rates": [
+          {
+            "code": null,
+            "rate": null
+          }
+        ],
+        "source_currency": "USD",
+        "target_currency": null
+      },
+      "currency_label": "Amounts in USD",
+      "database_id": 1659935,
+      "excess_1_beazley_participation": false,
+      "excess_2_beazley_participation": false,
+      "excess_3_beazley_participation": false,
+      "excess_4_beazley_participation": false,
+      "excess_5_beazley_participation": false,
+      "experience_rating": {
+        "claims_available": false,
+        "claims_fgu": false,
+        "claims_net_of_deductible": false
+      },
+      "expiring_ccy_factor": null,
+      "expiring_riskinfo": {
+        "broker_contact": null,
+        "brokerage": null,
+        "ccy": null,
+        "ccy_factor": null,
+        "currency_label": null,
+        "database_id": null,
+        "expiring_ccy_factor": null,
+        "term_adj_factor": null
+      },
+      "exposure": {
+        "aggregate": {
+          "project_type_category": {
+            "cat_type_average": {
+              "category_factor": -0.1,
+              "code": 2.0,
+              "fee_percentage": 0.0,
+              "proportional_loading": -0.0
+            },
+            "cat_type_decline": {
+              "code": 5.0,
+              "fee_percentage": 0.0
+            },
+            "cat_type_expensive": {
+              "category_factor": 0.1,
+              "code": 3.0,
+              "fee_percentage": 1.0,
+              "proportional_loading": 0.1
+            },
+            "cat_type_refer": {
+              "category_factor": 0.5,
+              "code": 4.0,
+              "fee_percentage": 0.0,
+              "proportional_loading": 0.0
+            },
+            "cat_type_target": {
+              "category_factor": -0.25,
+              "code": 1.0,
+              "fee_percentage": 0.0,
+              "proportional_loading": -0.0
+            },
+            "cat_type_total": {
+              "fee_percentage": 1.0,
+              "proportional_loading": 0.1
+            }
+          },
+          "rateable_exposure": 330000.0,
+          "rateable_exposure_expiry": null,
+          "size_discount": 0.0,
+          "uw_comment": null
+        },
+        "granular": {
+          "agency_construction_management": {
+            "current_yr_avg_rateable_exposure": 0.0,
+            "current_yr_construction_value": 0.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 0.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "override_avg_rateable_exposure": 0.0,
+            "rateable_exposure_discipline": "Engineering",
+            "selected_avg_rateable_exposure": {
+              "calculated": 0.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 0.0
+            },
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          },
+          "at_risk_construction_management": {
+            "current_yr_avg_rateable_exposure": 0.0,
+            "current_yr_construction_value": 0.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 0.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "override_avg_rateable_exposure": 0.0,
+            "rateable_exposure_discipline": "Engineering",
+            "selected_avg_rateable_exposure": {
+              "calculated": 0.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 0.0
+            },
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          },
+          "construction_only_no_design": {
+            "current_yr_avg_rateable_exposure": 0.0,
+            "current_yr_construction_value": 0.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 0.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "override_avg_rateable_exposure": 0.0,
+            "rateable_exposure_discipline": "Contractor",
+            "selected_avg_rateable_exposure": {
+              "calculated": 0.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 0.0
+            },
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          },
+          "construction_with_in_house_design": {
+            "current_yr_avg_rateable_exposure": 330000.0,
+            "current_yr_construction_value": 3300000.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 330000.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "override_avg_rateable_exposure": 330000.0,
+            "rateable_exposure_discipline": "Engineering",
+            "selected_avg_rateable_exposure": {
+              "calculated": 330000.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 330000.0
+            },
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          },
+          "construction_with_sub_contracted_design": {
+            "current_yr_avg_rateable_exposure": 0.0,
+            "current_yr_construction_value": 0.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 0.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "override_avg_rateable_exposure": 0.0,
+            "rateable_exposure_discipline": "Contractor",
+            "selected_avg_rateable_exposure": {
+              "calculated": 0.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 0.0
+            },
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          },
+          "contractor": {
+            "asbestos_lead": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "build_envelop": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "carpenter": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.75,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.75
+              },
+              "default_base_rate": 0.75,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "concrete": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "considerations": "Consider: Minimums, $10m CVs Lower, RDI, Good state, No resi, No GL Claims, Clean",
+            "demolition": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "drywall": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.2,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.2
+              },
+              "default_base_rate": 0.2,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "electrical": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.25,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.25
+              },
+              "default_base_rate": 0.25,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "enviro": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.6,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.6
+              },
+              "default_base_rate": 0.6,
+              "guidelines": "Less EX CPL",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "foundation_excav": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "fp_dry": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.3,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.3
+              },
+              "default_base_rate": 0.3,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "fp_wet": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.75,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.75
+              },
+              "default_base_rate": 0.75,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "general_comm": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "general_resi": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": "Regret NYC. Watch CT crumbling foundations & concrete",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "glazing": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "hvac_industrial": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.75,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.75
+              },
+              "default_base_rate": 0.75,
+              "guidelines": "Industrial HVAC is C. Think about Mold exposures",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "hvac_non_industrial": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.3,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.3
+              },
+              "default_base_rate": 0.3,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "landscape": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.25,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.25
+              },
+              "default_base_rate": 0.25,
+              "guidelines": "Referr Golf Courses. Sublimit BI/PD Swimming pools",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "masonry": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "mech": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "oil_gas": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": "No pipeline work",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_five": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_four": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_one": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_three": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_two": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "painting": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.75,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.75
+              },
+              "default_base_rate": 0.75,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "plumbing": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.75,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.75
+              },
+              "default_base_rate": 0.75,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "reno_non_resi": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "resi_reno": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": "No condo conversions or Metro office space",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "roofing": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "steel": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "telecom_heavy": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": "Regret Condos. 25% AP for homes over $500k",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "telecom_light": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.15,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.15
+              },
+              "default_base_rate": 0.15,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "total": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "min_deductible": 0.0,
+              "min_premium": 0.0,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": null
+            },
+            "utilities": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": "No California post wildfires",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            }
+          },
+          "design_only_no_construction": {
+            "current_yr_avg_rateable_exposure": 0.0,
+            "current_yr_construction_value": 0.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 0.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "override_avg_rateable_exposure": 0.0,
+            "rateable_exposure_discipline": "Engineering",
+            "selected_avg_rateable_exposure": {
+              "calculated": 0.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 0.0
+            },
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          },
+          "engineering": {
+            "aerospace": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.4,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.4
+              },
+              "default_base_rate": 0.4,
+              "guidelines": "Avoid Critical Parts & Safety Features",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "architect_comm": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.7,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.7
+              },
+              "default_base_rate": 0.7,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "architect_resi": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": "Avoid Condos and Poor states",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "aviation": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": "Avoid Critical Parts & Safety Features",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "chemical": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.7,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.7
+              },
+              "default_base_rate": 0.7,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "civil": {
+              "base_premium": 2309.9999999999995,
+              "base_premium_size_discount": 2309.9999999999995,
+              "base_rate_override": {
+                "calculated": 0.7,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.7
+              },
+              "default_base_rate": 0.7,
+              "guidelines": "Avoid Bridges & Road Projects",
+              "percentage": 1.0,
+              "rateable_exposure": 330000.0,
+              "rateable_exposure_size_discount": 330000.0
+            },
+            "civil_bridges_roads": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": "Use site safety endorsement",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "cm_agency": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "cm_atrisk": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "considerations": "Decline: Landman, Roofing Consultants, Roofing Inspector, Safety Consulting, Utility Locating Services, Welding Inspector",
+            "drafting": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.6,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.6
+              },
+              "default_base_rate": 0.6,
+              "guidelines": "Sub Stamped by PE",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "electrical": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.25,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.25
+              },
+              "default_base_rate": 0.25,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "enviro_cons": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.6,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.6
+              },
+              "default_base_rate": 0.6,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "enviro_labs": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.25,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.25
+              },
+              "default_base_rate": 0.25,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "forensic": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.25,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.25
+              },
+              "default_base_rate": 0.25,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "fp": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.75,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.75
+              },
+              "default_base_rate": 0.75,
+              "guidelines": "PFOS exposures",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "geotechnical": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": "Avoid Colorado",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "hvac": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.6,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.6
+              },
+              "default_base_rate": 0.6,
+              "guidelines": "Avoid Industrial HVAC",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "int_design": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.25,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.25
+              },
+              "default_base_rate": 0.25,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "landscape": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.25,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.25
+              },
+              "default_base_rate": 0.25,
+              "guidelines": "Avoid Golf Courses & Condos",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "leed_cons": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.7,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.7
+              },
+              "default_base_rate": 0.7,
+              "guidelines": "Size of project",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "mech": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": "Look for BI Exposured Projects (Lifts, Cranes)",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "mech_electrical": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.35,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.35
+              },
+              "default_base_rate": 0.35,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "mining": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.5
+              },
+              "default_base_rate": 1.5,
+              "guidelines": "Avoid Tailings Dams / Landfil/Coal. Deposit Estimation - Not for FI's",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "non_destructive_testing": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.6,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.6
+              },
+              "default_base_rate": 0.6,
+              "guidelines": "What are they testing? Avoid infrastrucure and ageing machinery / equipment",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "nuclear": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "oil_gas": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.5,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.5
+              },
+              "default_base_rate": 0.5,
+              "guidelines": "Avoid Landmen / Pipeline Inspectors",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_five": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_four": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_one": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_three": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "other_two": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": 1.0,
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "other_specify": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "process": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": "Ask about W2E, Biofuels, Renewables",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "struct_non_resi_inst": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "struct_resi_inst": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.4,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.4
+              },
+              "default_base_rate": 1.4,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "struct_steel_stairs": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.9,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.9
+              },
+              "default_base_rate": 0.9,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "surveyor": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 0.7,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 0.7
+              },
+              "default_base_rate": 0.7,
+              "guidelines": "Check for Underground Utility Locating / Underground Work",
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "surveyor_resi": {
+              "base_premium": 0.0,
+              "base_premium_size_discount": 0.0,
+              "base_rate_override": {
+                "calculated": 1.0,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": 1.0
+              },
+              "default_base_rate": 1.0,
+              "guidelines": null,
+              "percentage": 0.0,
+              "rateable_exposure": 0.0,
+              "rateable_exposure_size_discount": 0.0
+            },
+            "total": {
+              "base_premium": 2309.9999999999995,
+              "base_premium_size_discount": 2309.9999999999995,
+              "base_rate_override": 0.7,
+              "default_base_rate": 0.7,
+              "min_deductible": 5000.0,
+              "min_premium": 5000.0,
+              "percentage": 1.0,
+              "rateable_exposure": 330000.0,
+              "rateable_exposure_size_discount": null
+            }
+          },
+          "other": {
+            "current_yr_avg_rateable_exposure": 0.0,
+            "current_yr_construction_value": 0.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 0.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "other_specify": null,
+            "override_avg_rateable_exposure": 0.0,
+            "rateable_exposure_discipline": "Engineering",
+            "selected_avg_rateable_exposure": {
+              "calculated": 0.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 0.0
+            },
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          },
+          "project_type": [
+            {
+              "code_e_o": 3.0,
+              "fee_percentage": 1.0,
+              "project_type_index": 94.0,
+              "project_type_name": "Wastewater"
+            }
+          ],
+          "total": {
+            "current_yr_avg_rateable_exposure": 330000.0,
+            "current_yr_construction_value": 3300000.0,
+            "current_yr_professional_fees": 0.0,
+            "current_yr_rateable_exposure": 330000.0,
+            "last_yr_construction_value": 0.0,
+            "last_yr_professional_fees": 0.0,
+            "last_yr_rateable_exposure": 0.0,
+            "override_avg_rateable_exposure": {
+              "calculated": 330000.0,
+              "override": null,
+              "is_dirty": false,
+              "is_overridden": false,
+              "overridden_calculated": null,
+              "selected": 330000.0
+            },
+            "selected_avg_rateable_exposure": 330000.0,
+            "three_yr_avg_rateable_exposure": 0.0,
+            "two_yr_ago_construction_value": 0.0,
+            "two_yr_ago_professional_fees": 0.0,
+            "two_yr_ago_rateable_exposure": 0.0,
+            "two_yr_avg_rateable_exposure": 0.0
+          }
+        }
+      },
+      "key_industry": {
+        "code": null,
+        "code_name": null,
+        "code_type": null
+      },
+      "layers": [
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": 2000000.0,
+          "aggregate_limit_view": 1000000.0,
+          "benchmark_premium": 7500.0,
+          "benchmark_premium_100": 7500.0,
+          "benchmark_premium_annual": 7500.0,
+          "benchmark_premium_annual_100": 7500.0,
+          "benchmark_premium_net": null,
+          "benchmark_premium_net_100": null,
+          "benchmark_premium_pre_uw_adj": 7500.0,
+          "benchmark_premium_usd": 7500.0,
+          "bpi": 0.0,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.25,
+          "carrier": null,
+          "carrier_premium": null,
+          "cum_attachment": 0.0,
+          "cum_benchmark_premium": null,
+          "cum_carrier_premium": null,
+          "cum_model_premium": null,
+          "cum_model_premium_pre_uw_adj": null,
+          "cum_technical_premium": null,
+          "cum_technical_premium_pre_uw_adj": null,
+          "currency": "USD",
+          "deductible": 25000.0,
+          "excess": 0.0,
+          "excess_flag": false,
+          "expected_loss_cost": 3937.5,
+          "expected_loss_cost_100": 3937.5,
+          "expected_loss_cost_pre_uw_adj": 3937.5,
+          "expected_loss_cost_usd": 3937.5,
+          "ilf_curve": 1.5,
+          "is_primary_excess": "Primary",
+          "layer_label": "Primary",
+          "limit": 2000000.0,
+          "model_premium": 7500.0,
+          "model_premium_pre_uw_adj": 7500.0,
+          "model_premium_usd": 7500.0,
+          "pflr": 0.0,
+          "pflr_att": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "premium": null,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_100": 0.0,
+          "quoted_premium_annual": 0.0,
+          "quoted_premium_annual_100": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_net_100": null,
+          "quoted_premium_view": 0.0,
+          "rate_change": {
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.25
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "USD",
+              "renewal": "USD"
+            },
+            "deductible": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 25000.0
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "excess": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.0
+            },
+            "expiring_layer": 1,
+            "expiring_layer_info": "Expiring: Primary Layer",
+            "expiring_policy_info": {
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_deductible": null,
+              "expiring_excess": null,
+              "expiring_limit": null,
+              "expiring_quoted_premium": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual": null,
+              "expiring_quoted_premium_annual_100": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 2000000.0
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": "",
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "uw_selected_net_brokerage": null
+            },
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": false,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": 0.0,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 10295.205072827504,
+          "technical_premium_100": 10295.205072827504,
+          "technical_premium_net": 7721.403804620629,
+          "technical_premium_net_100": null,
+          "technical_premium_pre_uw_adj": 10295.205072827504,
+          "technical_premium_usd": 10295.205072827504,
+          "tpi": 0.0,
+          "tpi_pre_uw_adj": 0.0,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": null,
+          "aggregate_limit_view": 1000000.0,
+          "benchmark_premium": 1500.0000000000002,
+          "benchmark_premium_100": 1500.0000000000002,
+          "benchmark_premium_annual": 1500.0000000000002,
+          "benchmark_premium_annual_100": 1500.0000000000002,
+          "benchmark_premium_net": null,
+          "benchmark_premium_net_100": null,
+          "benchmark_premium_pre_uw_adj": 1500.0000000000002,
+          "benchmark_premium_usd": 1500.0000000000002,
+          "bpi": 0.0,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.25,
+          "carrier": null,
+          "carrier_premium": null,
+          "cum_attachment": 2000000.0,
+          "cum_benchmark_premium": null,
+          "cum_carrier_premium": null,
+          "cum_model_premium": null,
+          "cum_model_premium_pre_uw_adj": null,
+          "cum_technical_premium": null,
+          "cum_technical_premium_pre_uw_adj": null,
+          "currency": "USD",
+          "deductible": 0.0,
+          "excess": 2000000.0,
+          "excess_flag": false,
+          "expected_loss_cost": 787.5000000000001,
+          "expected_loss_cost_100": 787.5000000000001,
+          "expected_loss_cost_pre_uw_adj": 787.5000000000001,
+          "expected_loss_cost_usd": 787.5000000000001,
+          "ilf_curve": 0.30000000000000004,
+          "is_primary_excess": "Excess",
+          "layer_label": "Excess 1",
+          "limit": 1000000.0,
+          "model_premium": 1500.0000000000002,
+          "model_premium_pre_uw_adj": 1500.0000000000002,
+          "model_premium_usd": 1500.0000000000002,
+          "pflr": 0.0,
+          "pflr_att": 0.0,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "premium": null,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_100": 0.0,
+          "quoted_premium_annual": 0.0,
+          "quoted_premium_annual_100": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_net_100": null,
+          "quoted_premium_view": 0.0,
+          "rate_change": {
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.25
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "USD",
+              "renewal": "USD"
+            },
+            "deductible": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.0
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "excess": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 2000000.0
+            },
+            "expiring_layer": 1,
+            "expiring_layer_info": "Expiring: Primary Layer",
+            "expiring_policy_info": {
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_deductible": null,
+              "expiring_excess": null,
+              "expiring_limit": null,
+              "expiring_quoted_premium": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual": null,
+              "expiring_quoted_premium_annual_100": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 1000000.0
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": "",
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "uw_selected_net_brokerage": null
+            },
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": false,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": 0.0,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 3340.031050702002,
+          "technical_premium_100": 3340.031050702002,
+          "technical_premium_net": 2505.0232880265016,
+          "technical_premium_net_100": null,
+          "technical_premium_pre_uw_adj": 3340.031050702002,
+          "technical_premium_usd": 3340.031050702002,
+          "tpi": 0.0,
+          "tpi_pre_uw_adj": 0.0,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": null,
+          "aggregate_limit_view": 1000000.0,
+          "benchmark_premium": 749.9999999999995,
+          "benchmark_premium_100": 749.9999999999995,
+          "benchmark_premium_annual": 749.9999999999995,
+          "benchmark_premium_annual_100": 749.9999999999995,
+          "benchmark_premium_net": null,
+          "benchmark_premium_net_100": null,
+          "benchmark_premium_pre_uw_adj": 749.9999999999995,
+          "benchmark_premium_usd": 749.9999999999995,
+          "bpi": 0.0,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.25,
+          "carrier": null,
+          "carrier_premium": null,
+          "cum_attachment": 3000000.0,
+          "cum_benchmark_premium": null,
+          "cum_carrier_premium": null,
+          "cum_model_premium": null,
+          "cum_model_premium_pre_uw_adj": null,
+          "cum_technical_premium": null,
+          "cum_technical_premium_pre_uw_adj": null,
+          "currency": "USD",
+          "deductible": 0.0,
+          "excess": 3000000.0,
+          "excess_flag": false,
+          "expected_loss_cost": 393.7499999999998,
+          "expected_loss_cost_100": 393.7499999999998,
+          "expected_loss_cost_pre_uw_adj": 393.7499999999998,
+          "expected_loss_cost_usd": 393.7499999999998,
+          "ilf_curve": 0.1499999999999999,
+          "is_primary_excess": "Excess",
+          "layer_label": "Excess 2",
+          "limit": 1000000.0,
+          "model_premium": 749.9999999999995,
+          "model_premium_pre_uw_adj": 749.9999999999995,
+          "model_premium_usd": 749.9999999999995,
+          "pflr": 0.0,
+          "pflr_att": 0.0,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "premium": null,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_100": 0.0,
+          "quoted_premium_annual": 0.0,
+          "quoted_premium_annual_100": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_net_100": null,
+          "quoted_premium_view": 0.0,
+          "rate_change": {
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.25
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "USD",
+              "renewal": "USD"
+            },
+            "deductible": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.0
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "excess": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 3000000.0
+            },
+            "expiring_layer": 1,
+            "expiring_layer_info": "Expiring: Primary Layer",
+            "expiring_policy_info": {
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_deductible": null,
+              "expiring_excess": null,
+              "expiring_limit": null,
+              "expiring_quoted_premium": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual": null,
+              "expiring_quoted_premium_annual_100": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 1000000.0
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": "",
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "uw_selected_net_brokerage": null
+            },
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": false,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": 0.0,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 2470.6342979363135,
+          "technical_premium_100": 2470.6342979363135,
+          "technical_premium_net": 1852.9757234522351,
+          "technical_premium_net_100": null,
+          "technical_premium_pre_uw_adj": 2470.6342979363135,
+          "technical_premium_usd": 2470.6342979363135,
+          "tpi": 0.0,
+          "tpi_pre_uw_adj": 0.0,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": null,
+          "aggregate_limit_view": 1000000.0,
+          "benchmark_premium": 750.0000000000008,
+          "benchmark_premium_100": 750.0000000000008,
+          "benchmark_premium_annual": 750.0000000000008,
+          "benchmark_premium_annual_100": 750.0000000000008,
+          "benchmark_premium_net": null,
+          "benchmark_premium_net_100": null,
+          "benchmark_premium_pre_uw_adj": 750.0000000000008,
+          "benchmark_premium_usd": 750.0000000000008,
+          "bpi": 0.0,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.25,
+          "carrier": null,
+          "carrier_premium": null,
+          "cum_attachment": 4000000.0,
+          "cum_benchmark_premium": null,
+          "cum_carrier_premium": null,
+          "cum_model_premium": null,
+          "cum_model_premium_pre_uw_adj": null,
+          "cum_technical_premium": null,
+          "cum_technical_premium_pre_uw_adj": null,
+          "currency": "USD",
+          "deductible": 0.0,
+          "excess": 4000000.0,
+          "excess_flag": false,
+          "expected_loss_cost": 393.75000000000034,
+          "expected_loss_cost_100": 393.75000000000034,
+          "expected_loss_cost_pre_uw_adj": 393.75000000000034,
+          "expected_loss_cost_usd": 393.75000000000034,
+          "ilf_curve": 0.15000000000000013,
+          "is_primary_excess": "Excess",
+          "layer_label": "Excess 3",
+          "limit": 1000000.0,
+          "model_premium": 750.0000000000006,
+          "model_premium_pre_uw_adj": 750.0000000000006,
+          "model_premium_usd": 750.0000000000006,
+          "pflr": 0.0,
+          "pflr_att": 0.0,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "premium": null,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_100": 0.0,
+          "quoted_premium_annual": 0.0,
+          "quoted_premium_annual_100": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_net_100": null,
+          "quoted_premium_view": 0.0,
+          "rate_change": {
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.25
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "USD",
+              "renewal": "USD"
+            },
+            "deductible": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.0
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "excess": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 4000000.0
+            },
+            "expiring_layer": 1,
+            "expiring_layer_info": "Expiring: Primary Layer",
+            "expiring_policy_info": {
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_deductible": null,
+              "expiring_excess": null,
+              "expiring_limit": null,
+              "expiring_quoted_premium": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual": null,
+              "expiring_quoted_premium_annual_100": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 1000000.0
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": "",
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "uw_selected_net_brokerage": null
+            },
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": false,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": 0.0,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 2470.634297936315,
+          "technical_premium_100": 2470.634297936315,
+          "technical_premium_net": 1852.9757234522363,
+          "technical_premium_net_100": null,
+          "technical_premium_pre_uw_adj": 2470.634297936315,
+          "technical_premium_usd": 2470.634297936315,
+          "tpi": 0.0,
+          "tpi_pre_uw_adj": 0.0,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": null,
+          "aggregate_limit_view": 1000000.0,
+          "benchmark_premium": 1399.999999999999,
+          "benchmark_premium_100": 1399.999999999999,
+          "benchmark_premium_annual": 1399.999999999999,
+          "benchmark_premium_annual_100": 1399.999999999999,
+          "benchmark_premium_net": null,
+          "benchmark_premium_net_100": null,
+          "benchmark_premium_pre_uw_adj": 1399.999999999999,
+          "benchmark_premium_usd": 1399.999999999999,
+          "bpi": 0.0,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.25,
+          "carrier": null,
+          "carrier_premium": null,
+          "cum_attachment": 5000000.0,
+          "cum_benchmark_premium": null,
+          "cum_carrier_premium": null,
+          "cum_model_premium": null,
+          "cum_model_premium_pre_uw_adj": null,
+          "cum_technical_premium": null,
+          "cum_technical_premium_pre_uw_adj": null,
+          "currency": "USD",
+          "deductible": 0.0,
+          "excess": 5000000.0,
+          "excess_flag": false,
+          "expected_loss_cost": 734.9999999999994,
+          "expected_loss_cost_100": 734.9999999999994,
+          "expected_loss_cost_pre_uw_adj": 734.9999999999994,
+          "expected_loss_cost_usd": 734.9999999999994,
+          "ilf_curve": 0.2799999999999998,
+          "is_primary_excess": "Excess",
+          "layer_label": "Excess 4",
+          "limit": 1000000.0,
+          "model_premium": 1399.999999999999,
+          "model_premium_pre_uw_adj": 1399.999999999999,
+          "model_premium_usd": 1399.999999999999,
+          "pflr": 0.0,
+          "pflr_att": 0.0,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "premium": null,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_100": 0.0,
+          "quoted_premium_annual": 0.0,
+          "quoted_premium_annual_100": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_net_100": null,
+          "quoted_premium_view": 0.0,
+          "rate_change": {
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.25
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "USD",
+              "renewal": "USD"
+            },
+            "deductible": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.0
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "excess": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 5000000.0
+            },
+            "expiring_layer": 1,
+            "expiring_layer_info": "Expiring: Primary Layer",
+            "expiring_policy_info": {
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_deductible": null,
+              "expiring_excess": null,
+              "expiring_limit": null,
+              "expiring_quoted_premium": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual": null,
+              "expiring_quoted_premium_annual_100": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 1000000.0
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": "",
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "uw_selected_net_brokerage": null
+            },
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": false,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": 0.0,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 3224.111483666576,
+          "technical_premium_100": 3224.111483666576,
+          "technical_premium_net": 2418.083612749932,
+          "technical_premium_net_100": null,
+          "technical_premium_pre_uw_adj": 3224.111483666576,
+          "technical_premium_usd": 3224.111483666576,
+          "tpi": 0.0,
+          "tpi_pre_uw_adj": 0.0,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_deductible": null,
+          "aggregate_excess": null,
+          "aggregate_limit": null,
+          "aggregate_limit_view": 1000000.0,
+          "benchmark_premium": 1300.0000000000011,
+          "benchmark_premium_100": 1300.0000000000011,
+          "benchmark_premium_annual": 1300.0000000000011,
+          "benchmark_premium_annual_100": 1300.0000000000011,
+          "benchmark_premium_net": null,
+          "benchmark_premium_net_100": null,
+          "benchmark_premium_pre_uw_adj": 1300.0000000000011,
+          "benchmark_premium_usd": 1300.0000000000011,
+          "bpi": 0.0,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.25,
+          "carrier": null,
+          "carrier_premium": null,
+          "cum_attachment": 6000000.0,
+          "cum_benchmark_premium": null,
+          "cum_carrier_premium": null,
+          "cum_model_premium": null,
+          "cum_model_premium_pre_uw_adj": null,
+          "cum_technical_premium": null,
+          "cum_technical_premium_pre_uw_adj": null,
+          "currency": "USD",
+          "deductible": 0.0,
+          "excess": 6000000.0,
+          "excess_flag": false,
+          "expected_loss_cost": 682.5000000000006,
+          "expected_loss_cost_100": 682.5000000000006,
+          "expected_loss_cost_pre_uw_adj": 682.5000000000006,
+          "expected_loss_cost_usd": 682.5000000000006,
+          "ilf_curve": 0.26000000000000023,
+          "is_primary_excess": "Excess",
+          "layer_label": "Excess 5",
+          "limit": 1000000.0,
+          "model_premium": 1300.0000000000011,
+          "model_premium_pre_uw_adj": 1300.0000000000011,
+          "model_premium_usd": 1300.0000000000011,
+          "pflr": 0.0,
+          "pflr_att": 0.0,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "premium": null,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_100": 0.0,
+          "quoted_premium_annual": 0.0,
+          "quoted_premium_annual_100": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_net_100": null,
+          "quoted_premium_view": 0.0,
+          "rate_change": {
+            "brokerage": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.25
+            },
+            "brokerage_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "currency": {
+              "expiring": "USD",
+              "expiring_revalued": "USD",
+              "renewal": "USD"
+            },
+            "deductible": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 0.0
+            },
+            "deductible_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "error_message": null,
+            "excess": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 6000000.0
+            },
+            "expiring_layer": 1,
+            "expiring_layer_info": "Expiring: Primary Layer",
+            "expiring_policy_info": {
+              "expiring_brokerage": null,
+              "expiring_currency": null,
+              "expiring_deductible": null,
+              "expiring_excess": null,
+              "expiring_limit": null,
+              "expiring_quoted_premium": null,
+              "expiring_quoted_premium_100": null,
+              "expiring_quoted_premium_annual": null,
+              "expiring_quoted_premium_annual_100": null
+            },
+            "exposure_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "limit": {
+              "expiring": 0.0,
+              "expiring_revalued": 0.0,
+              "renewal": 1000000.0
+            },
+            "limit_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "new_layer": false,
+            "other_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "premium": {
+              "beazley_line": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              },
+              "line_100pct": {
+                "annualised": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": 0.0,
+                  "renewal": 0.0
+                },
+                "policy_term": {
+                  "expiring": 0.0,
+                  "expiring_revalued": 0.0,
+                  "rebased_expiring": null,
+                  "renewal": 0.0
+                }
+              }
+            },
+            "rate_change": {
+              "comments": null,
+              "final": 1.0,
+              "lloyds_breadth_of_cover_change": null,
+              "lloyds_limit_attachment_point_change": null,
+              "model_calculated": 1.0,
+              "other_factors_change": null,
+              "uw_override": null,
+              "uw_selected": null
+            },
+            "renewing_layer": true,
+            "risk_adjusted_rate_change": 1.0,
+            "risk_adjusted_rate_change_case_priced": {
+              "comments": "",
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              },
+              "uw_selected_net_brokerage": null
+            },
+            "risk_adjusted_rate_change_gross_for_reporting": 1.0,
+            "risk_characteristics_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            },
+            "show_expiring_revalued": false,
+            "temp_storage": {
+              "benchmark_premium": null,
+              "currency": null,
+              "quoted_premium": null
+            },
+            "terms_conditions_change": {
+              "comments": null,
+              "final": null,
+              "model_calculated": null,
+              "uw_override": null,
+              "uw_selected": {
+                "calculated": null,
+                "override": null,
+                "is_dirty": false,
+                "is_overridden": false,
+                "overridden_calculated": null,
+                "selected": null
+              }
+            }
+          },
+          "roc": 0.0,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 3108.191916631153,
+          "technical_premium_100": 3108.191916631153,
+          "technical_premium_net": 2331.143937473365,
+          "technical_premium_net_100": null,
+          "technical_premium_pre_uw_adj": 3108.191916631153,
+          "technical_premium_usd": 3108.191916631153,
+          "tpi": 0.0,
+          "tpi_pre_uw_adj": 0.0,
+          "trifocus": null,
+          "unity_premium": null,
+          "uw_adj_impact": 0.0,
+          "written_line": 1.0,
+          "written_line_view": 1.0
+        }
+      ],
+      "modifiers": {
+        "exp_mod": {
+          "exp_mod_factor": {
+            "calculated": 1.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 1.0
+          },
+          "exp_mod_factor_info_label": "Sliding scale factor based on incurred loss ratio, or can be overwritten",
+          "incurred_loss": null,
+          "incurred_lr": {
+            "calculated": null,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": null
+          },
+          "incurred_lr_info_label": "Calculated as total incurred loss divided by total written premium, or can be overwritten",
+          "number_of_claims": null,
+          "number_of_incidents": null,
+          "uw_comment": null,
+          "written_premium": null
+        },
+        "schedule_rating_factor": {
+          "client_type": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "contractual_practices": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "engi_procure_construct": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "foreign_work": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "loss_prev": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "peer_review": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "qual_of_staff": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "rm_attendance": {
+            "comment": null,
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          },
+          "total": {
+            "factor": 0.0,
+            "max": 0.5,
+            "min": -0.25
+          }
+        }
+      },
+      "option_selected": 1.0,
+      "options": [
+        {
+          "aggregate_limit": {
+            "calculated": 2000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 2000000.0
+          },
+          "aggregate_limit_view": null,
+          "beazley_primary": true,
+          "benchmark_premium": 7500.0,
+          "benchmark_premium_case_priced": null,
+          "benchmark_premium_pre_uw_adj": 7500.0,
+          "bpi": 0.0,
+          "bpi_case_priced": 0.0,
+          "bpi_case_priced_view": null,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.0,
+          "brokerage_primary": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "brokerage_view": null,
+          "carrier": null,
+          "carrier_premium": 0.0,
+          "deductible": 25000.0,
+          "deductible_factor": 1.0,
+          "excess_1_beazley_participation": false,
+          "excess_1_benchmark_premium": 1500.0000000000002,
+          "excess_1_bpi": 0.0,
+          "excess_1_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_1_carrier_bpi": 0.0,
+          "excess_1_carrier_premium": 0.0,
+          "excess_1_carrier_tpi": 0.0,
+          "excess_1_cum_attachment": 2000000.0,
+          "excess_1_excess": {
+            "calculated": 2000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 2000000.0
+          },
+          "excess_1_ilf_curve": 0.30000000000000004,
+          "excess_1_limit": 1000000.0,
+          "excess_1_pflr": 0.0,
+          "excess_1_quoted_premium": 0.0,
+          "excess_1_roc": 0.0,
+          "excess_1_technical_premium": 3340.031050702002,
+          "excess_1_tpi": 0.0,
+          "excess_2_beazley_participation": false,
+          "excess_2_benchmark_premium": 749.9999999999995,
+          "excess_2_bpi": 0.0,
+          "excess_2_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_2_carrier_bpi": 0.0,
+          "excess_2_carrier_premium": 0.0,
+          "excess_2_carrier_tpi": 0.0,
+          "excess_2_cum_attachment": 3000000.0,
+          "excess_2_excess": {
+            "calculated": 3000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 3000000.0
+          },
+          "excess_2_ilf_curve": 0.1499999999999999,
+          "excess_2_limit": 1000000.0,
+          "excess_2_pflr": 0.0,
+          "excess_2_quoted_premium": 0.0,
+          "excess_2_roc": 0.0,
+          "excess_2_technical_premium": 2470.6342979363135,
+          "excess_2_tpi": 0.0,
+          "excess_3_beazley_participation": false,
+          "excess_3_benchmark_premium": 750.0000000000008,
+          "excess_3_bpi": 0.0,
+          "excess_3_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_3_carrier_bpi": 0.0,
+          "excess_3_carrier_premium": 0.0,
+          "excess_3_carrier_tpi": 0.0,
+          "excess_3_cum_attachment": 4000000.0,
+          "excess_3_excess": {
+            "calculated": 4000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 4000000.0
+          },
+          "excess_3_ilf_curve": 0.15000000000000013,
+          "excess_3_limit": 1000000.0,
+          "excess_3_pflr": 0.0,
+          "excess_3_quoted_premium": 0.0,
+          "excess_3_roc": 0.0,
+          "excess_3_technical_premium": 2470.634297936315,
+          "excess_3_tpi": 0.0,
+          "excess_4_beazley_participation": false,
+          "excess_4_benchmark_premium": 1399.999999999999,
+          "excess_4_bpi": 0.0,
+          "excess_4_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_4_carrier_bpi": 0.0,
+          "excess_4_carrier_premium": 0.0,
+          "excess_4_carrier_tpi": 0.0,
+          "excess_4_cum_attachment": 5000000.0,
+          "excess_4_excess": {
+            "calculated": 5000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 5000000.0
+          },
+          "excess_4_ilf_curve": 0.2799999999999998,
+          "excess_4_limit": 1000000.0,
+          "excess_4_pflr": 0.0,
+          "excess_4_quoted_premium": 0.0,
+          "excess_4_roc": 0.0,
+          "excess_4_technical_premium": 3224.111483666576,
+          "excess_4_tpi": 0.0,
+          "excess_5_beazley_participation": false,
+          "excess_5_benchmark_premium": 1300.0000000000011,
+          "excess_5_bpi": 0.0,
+          "excess_5_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_5_carrier_bpi": 0.0,
+          "excess_5_carrier_premium": 0.0,
+          "excess_5_carrier_tpi": 0.0,
+          "excess_5_cum_attachment": 6000000.0,
+          "excess_5_excess": {
+            "calculated": 6000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 6000000.0
+          },
+          "excess_5_ilf_curve": 0.26000000000000023,
+          "excess_5_limit": 1000000.0,
+          "excess_5_pflr": 0.0,
+          "excess_5_quoted_premium": 0.0,
+          "excess_5_roc": 0.0,
+          "excess_5_technical_premium": 3108.191916631153,
+          "excess_5_tpi": 0.0,
+          "expected_loss_cost": 3937.5,
+          "expected_loss_cost_pre_uw_adj": 3937.5,
+          "expiring_option": null,
+          "guideline_deductible": {
+            "calculated": 5000.0,
+            "override": 25000.0,
+            "is_dirty": true,
+            "is_overridden": true,
+            "overridden_calculated": 7500.0,
+            "selected": 25000.0
+          },
+          "ilf_factor": 1.5,
+          "ilf_type": "Heavy",
+          "limit": 2000000.0,
+          "minimum_deductible": null,
+          "minimum_deductible_flag": "No",
+          "minimum_premium": 7500.0,
+          "minimum_premium_flag": "Yes",
+          "model_premium": 7500.0,
+          "model_premium_pre_uw_adj": 7500.0,
+          "number_of_reinstatements": 1.0,
+          "option_label": 1.0,
+          "pflr": 0.0,
+          "pflr_att": null,
+          "pflr_case_priced": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_view": 0.0,
+          "reinstatements_factor": 1.0,
+          "roc": 0.0,
+          "roc_case_priced": null,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 10295.205072827504,
+          "technical_premium_case_priced": null,
+          "technical_premium_net": 7721.403804620629,
+          "technical_premium_pre_uw_adj": 10295.205072827504,
+          "tpi": 0.0,
+          "tpi_case_priced": null,
+          "tpi_pre_uw_adj": 0.0,
+          "uw_adj_impact": null,
+          "uw_comment": null,
+          "written_line_case_priced": null,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_limit": {
+            "calculated": 1000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 1000000.0
+          },
+          "aggregate_limit_view": null,
+          "beazley_primary": true,
+          "benchmark_premium": 7000.0,
+          "benchmark_premium_case_priced": null,
+          "benchmark_premium_pre_uw_adj": 7000.0,
+          "bpi": 0.0,
+          "bpi_case_priced": 0.0,
+          "bpi_case_priced_view": null,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.0,
+          "brokerage_primary": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "brokerage_view": null,
+          "carrier": null,
+          "carrier_premium": 0.0,
+          "deductible": 0.0,
+          "deductible_factor": 1.4,
+          "excess_1_beazley_participation": false,
+          "excess_1_benchmark_premium": 2450.0000000000005,
+          "excess_1_bpi": 0.0,
+          "excess_1_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_1_carrier_bpi": 0.0,
+          "excess_1_carrier_premium": 0.0,
+          "excess_1_carrier_tpi": 0.0,
+          "excess_1_cum_attachment": 1000000.0,
+          "excess_1_excess": {
+            "calculated": 1000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 1000000.0
+          },
+          "excess_1_ilf_curve": 0.3500000000000001,
+          "excess_1_limit": 1000000.0,
+          "excess_1_pflr": 0.0,
+          "excess_1_quoted_premium": 0.0,
+          "excess_1_roc": 0.0,
+          "excess_1_technical_premium": 4441.26693753854,
+          "excess_1_tpi": 0.0,
+          "excess_2_beazley_participation": false,
+          "excess_2_benchmark_premium": 2169.9999999999986,
+          "excess_2_bpi": 0.0,
+          "excess_2_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_2_carrier_bpi": 0.0,
+          "excess_2_carrier_premium": 0.0,
+          "excess_2_carrier_tpi": 0.0,
+          "excess_2_cum_attachment": 2000000.0,
+          "excess_2_excess": {
+            "calculated": 2000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 2000000.0
+          },
+          "excess_2_ilf_curve": 0.30999999999999983,
+          "excess_2_limit": 1000000.0,
+          "excess_2_pflr": 0.0,
+          "excess_2_quoted_premium": 0.0,
+          "excess_2_roc": 0.0,
+          "excess_2_technical_premium": 4116.6921498393485,
+          "excess_2_tpi": 0.0,
+          "excess_3_beazley_participation": false,
+          "excess_3_benchmark_premium": 1050.000000000001,
+          "excess_3_bpi": 0.0,
+          "excess_3_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_3_carrier_bpi": 0.0,
+          "excess_3_carrier_premium": 0.0,
+          "excess_3_carrier_tpi": 0.0,
+          "excess_3_cum_attachment": 3000000.0,
+          "excess_3_excess": {
+            "calculated": 3000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 3000000.0
+          },
+          "excess_3_ilf_curve": 0.15000000000000013,
+          "excess_3_limit": 1000000.0,
+          "excess_3_pflr": 0.0,
+          "excess_3_quoted_premium": 0.0,
+          "excess_3_roc": 0.0,
+          "excess_3_technical_premium": 2818.392999042591,
+          "excess_3_tpi": 0.0,
+          "excess_4_beazley_participation": false,
+          "excess_4_benchmark_premium": 1049.9999999999993,
+          "excess_4_bpi": 0.0,
+          "excess_4_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_4_carrier_bpi": 0.0,
+          "excess_4_carrier_premium": 0.0,
+          "excess_4_carrier_tpi": 0.0,
+          "excess_4_cum_attachment": 4000000.0,
+          "excess_4_excess": {
+            "calculated": 4000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 4000000.0
+          },
+          "excess_4_ilf_curve": 0.1499999999999999,
+          "excess_4_limit": 1000000.0,
+          "excess_4_pflr": 0.0,
+          "excess_4_quoted_premium": 0.0,
+          "excess_4_roc": 0.0,
+          "excess_4_technical_premium": 2818.392999042589,
+          "excess_4_tpi": 0.0,
+          "excess_5_beazley_participation": false,
+          "excess_5_benchmark_premium": 1260.0000000000011,
+          "excess_5_bpi": 0.0,
+          "excess_5_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_5_carrier_bpi": 0.0,
+          "excess_5_carrier_premium": 0.0,
+          "excess_5_carrier_tpi": 0.0,
+          "excess_5_cum_attachment": 5000000.0,
+          "excess_5_excess": {
+            "calculated": 5000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 5000000.0
+          },
+          "excess_5_ilf_curve": 0.18000000000000016,
+          "excess_5_limit": 1000000.0,
+          "excess_5_pflr": 0.0,
+          "excess_5_quoted_premium": 0.0,
+          "excess_5_roc": 0.0,
+          "excess_5_technical_premium": 3061.824089816983,
+          "excess_5_tpi": 0.0,
+          "expected_loss_cost": 3675.0,
+          "expected_loss_cost_pre_uw_adj": 3675.0,
+          "expiring_option": null,
+          "guideline_deductible": {
+            "calculated": 5000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 5000.0
+          },
+          "ilf_factor": 1.0,
+          "ilf_type": "Light",
+          "limit": 1000000.0,
+          "minimum_deductible": null,
+          "minimum_deductible_flag": "Yes",
+          "minimum_premium": 7000.0,
+          "minimum_premium_flag": "Yes",
+          "model_premium": 7000.0,
+          "model_premium_pre_uw_adj": 7000.0,
+          "number_of_reinstatements": 1.0,
+          "option_label": 2.0,
+          "pflr": 0.0,
+          "pflr_att": null,
+          "pflr_case_priced": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_view": 0.0,
+          "reinstatements_factor": 1.0,
+          "roc": 0.0,
+          "roc_case_priced": null,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 9715.60723765038,
+          "technical_premium_case_priced": null,
+          "technical_premium_net": 7286.705428237785,
+          "technical_premium_pre_uw_adj": 9715.60723765038,
+          "tpi": 0.0,
+          "tpi_case_priced": null,
+          "tpi_pre_uw_adj": 0.0,
+          "uw_adj_impact": null,
+          "uw_comment": null,
+          "written_line_case_priced": null,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_limit": {
+            "calculated": 1000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 1000000.0
+          },
+          "aggregate_limit_view": null,
+          "beazley_primary": true,
+          "benchmark_premium": 7000.0,
+          "benchmark_premium_case_priced": null,
+          "benchmark_premium_pre_uw_adj": 7000.0,
+          "bpi": 0.0,
+          "bpi_case_priced": 0.0,
+          "bpi_case_priced_view": null,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.0,
+          "brokerage_primary": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "brokerage_view": null,
+          "carrier": null,
+          "carrier_premium": 0.0,
+          "deductible": 0.0,
+          "deductible_factor": 1.4,
+          "excess_1_beazley_participation": false,
+          "excess_1_benchmark_premium": 2450.0000000000005,
+          "excess_1_bpi": 0.0,
+          "excess_1_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_1_carrier_bpi": 0.0,
+          "excess_1_carrier_premium": 0.0,
+          "excess_1_carrier_tpi": 0.0,
+          "excess_1_cum_attachment": 1000000.0,
+          "excess_1_excess": {
+            "calculated": 1000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 1000000.0
+          },
+          "excess_1_ilf_curve": 0.3500000000000001,
+          "excess_1_limit": 1000000.0,
+          "excess_1_pflr": 0.0,
+          "excess_1_quoted_premium": 0.0,
+          "excess_1_roc": 0.0,
+          "excess_1_technical_premium": 4441.26693753854,
+          "excess_1_tpi": 0.0,
+          "excess_2_beazley_participation": false,
+          "excess_2_benchmark_premium": 2169.9999999999986,
+          "excess_2_bpi": 0.0,
+          "excess_2_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_2_carrier_bpi": 0.0,
+          "excess_2_carrier_premium": 0.0,
+          "excess_2_carrier_tpi": 0.0,
+          "excess_2_cum_attachment": 2000000.0,
+          "excess_2_excess": {
+            "calculated": 2000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 2000000.0
+          },
+          "excess_2_ilf_curve": 0.30999999999999983,
+          "excess_2_limit": 1000000.0,
+          "excess_2_pflr": 0.0,
+          "excess_2_quoted_premium": 0.0,
+          "excess_2_roc": 0.0,
+          "excess_2_technical_premium": 4116.6921498393485,
+          "excess_2_tpi": 0.0,
+          "excess_3_beazley_participation": false,
+          "excess_3_benchmark_premium": 1050.000000000001,
+          "excess_3_bpi": 0.0,
+          "excess_3_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_3_carrier_bpi": 0.0,
+          "excess_3_carrier_premium": 0.0,
+          "excess_3_carrier_tpi": 0.0,
+          "excess_3_cum_attachment": 3000000.0,
+          "excess_3_excess": {
+            "calculated": 3000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 3000000.0
+          },
+          "excess_3_ilf_curve": 0.15000000000000013,
+          "excess_3_limit": 1000000.0,
+          "excess_3_pflr": 0.0,
+          "excess_3_quoted_premium": 0.0,
+          "excess_3_roc": 0.0,
+          "excess_3_technical_premium": 2818.392999042591,
+          "excess_3_tpi": 0.0,
+          "excess_4_beazley_participation": false,
+          "excess_4_benchmark_premium": 1049.9999999999993,
+          "excess_4_bpi": 0.0,
+          "excess_4_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_4_carrier_bpi": 0.0,
+          "excess_4_carrier_premium": 0.0,
+          "excess_4_carrier_tpi": 0.0,
+          "excess_4_cum_attachment": 4000000.0,
+          "excess_4_excess": {
+            "calculated": 4000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 4000000.0
+          },
+          "excess_4_ilf_curve": 0.1499999999999999,
+          "excess_4_limit": 1000000.0,
+          "excess_4_pflr": 0.0,
+          "excess_4_quoted_premium": 0.0,
+          "excess_4_roc": 0.0,
+          "excess_4_technical_premium": 2818.392999042589,
+          "excess_4_tpi": 0.0,
+          "excess_5_beazley_participation": false,
+          "excess_5_benchmark_premium": 1260.0000000000011,
+          "excess_5_bpi": 0.0,
+          "excess_5_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_5_carrier_bpi": 0.0,
+          "excess_5_carrier_premium": 0.0,
+          "excess_5_carrier_tpi": 0.0,
+          "excess_5_cum_attachment": 5000000.0,
+          "excess_5_excess": {
+            "calculated": 5000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 5000000.0
+          },
+          "excess_5_ilf_curve": 0.18000000000000016,
+          "excess_5_limit": 1000000.0,
+          "excess_5_pflr": 0.0,
+          "excess_5_quoted_premium": 0.0,
+          "excess_5_roc": 0.0,
+          "excess_5_technical_premium": 3061.824089816983,
+          "excess_5_tpi": 0.0,
+          "expected_loss_cost": 3675.0,
+          "expected_loss_cost_pre_uw_adj": 3675.0,
+          "expiring_option": null,
+          "guideline_deductible": {
+            "calculated": 5000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 5000.0
+          },
+          "ilf_factor": 1.0,
+          "ilf_type": "Light",
+          "limit": 1000000.0,
+          "minimum_deductible": null,
+          "minimum_deductible_flag": "Yes",
+          "minimum_premium": 7000.0,
+          "minimum_premium_flag": "Yes",
+          "model_premium": 7000.0,
+          "model_premium_pre_uw_adj": 7000.0,
+          "number_of_reinstatements": 1.0,
+          "option_label": 3.0,
+          "pflr": 0.0,
+          "pflr_att": null,
+          "pflr_case_priced": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_view": 0.0,
+          "reinstatements_factor": 1.0,
+          "roc": 0.0,
+          "roc_case_priced": null,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 9715.60723765038,
+          "technical_premium_case_priced": null,
+          "technical_premium_net": 7286.705428237785,
+          "technical_premium_pre_uw_adj": 9715.60723765038,
+          "tpi": 0.0,
+          "tpi_case_priced": null,
+          "tpi_pre_uw_adj": 0.0,
+          "uw_adj_impact": null,
+          "uw_comment": null,
+          "written_line_case_priced": null,
+          "written_line_view": 1.0
+        },
+        {
+          "aggregate_limit": {
+            "calculated": 1000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 1000000.0
+          },
+          "aggregate_limit_view": null,
+          "beazley_primary": true,
+          "benchmark_premium": 7000.0,
+          "benchmark_premium_case_priced": null,
+          "benchmark_premium_pre_uw_adj": 7000.0,
+          "bpi": 0.0,
+          "bpi_case_priced": 0.0,
+          "bpi_case_priced_view": null,
+          "bpi_pre_uw_adj": 0.0,
+          "brokerage": 0.0,
+          "brokerage_primary": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "brokerage_view": null,
+          "carrier": null,
+          "carrier_premium": 0.0,
+          "deductible": 0.0,
+          "deductible_factor": 1.4,
+          "excess_1_beazley_participation": false,
+          "excess_1_benchmark_premium": 2450.0000000000005,
+          "excess_1_bpi": 0.0,
+          "excess_1_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_1_carrier_bpi": 0.0,
+          "excess_1_carrier_premium": 0.0,
+          "excess_1_carrier_tpi": 0.0,
+          "excess_1_cum_attachment": 1000000.0,
+          "excess_1_excess": {
+            "calculated": 1000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 1000000.0
+          },
+          "excess_1_ilf_curve": 0.3500000000000001,
+          "excess_1_limit": 1000000.0,
+          "excess_1_pflr": 0.0,
+          "excess_1_quoted_premium": 0.0,
+          "excess_1_roc": 0.0,
+          "excess_1_technical_premium": 4441.26693753854,
+          "excess_1_tpi": 0.0,
+          "excess_2_beazley_participation": false,
+          "excess_2_benchmark_premium": 2169.9999999999986,
+          "excess_2_bpi": 0.0,
+          "excess_2_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_2_carrier_bpi": 0.0,
+          "excess_2_carrier_premium": 0.0,
+          "excess_2_carrier_tpi": 0.0,
+          "excess_2_cum_attachment": 2000000.0,
+          "excess_2_excess": {
+            "calculated": 2000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 2000000.0
+          },
+          "excess_2_ilf_curve": 0.30999999999999983,
+          "excess_2_limit": 1000000.0,
+          "excess_2_pflr": 0.0,
+          "excess_2_quoted_premium": 0.0,
+          "excess_2_roc": 0.0,
+          "excess_2_technical_premium": 4116.6921498393485,
+          "excess_2_tpi": 0.0,
+          "excess_3_beazley_participation": false,
+          "excess_3_benchmark_premium": 1050.000000000001,
+          "excess_3_bpi": 0.0,
+          "excess_3_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_3_carrier_bpi": 0.0,
+          "excess_3_carrier_premium": 0.0,
+          "excess_3_carrier_tpi": 0.0,
+          "excess_3_cum_attachment": 3000000.0,
+          "excess_3_excess": {
+            "calculated": 3000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 3000000.0
+          },
+          "excess_3_ilf_curve": 0.15000000000000013,
+          "excess_3_limit": 1000000.0,
+          "excess_3_pflr": 0.0,
+          "excess_3_quoted_premium": 0.0,
+          "excess_3_roc": 0.0,
+          "excess_3_technical_premium": 2818.392999042591,
+          "excess_3_tpi": 0.0,
+          "excess_4_beazley_participation": false,
+          "excess_4_benchmark_premium": 1049.9999999999993,
+          "excess_4_bpi": 0.0,
+          "excess_4_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_4_carrier_bpi": 0.0,
+          "excess_4_carrier_premium": 0.0,
+          "excess_4_carrier_tpi": 0.0,
+          "excess_4_cum_attachment": 4000000.0,
+          "excess_4_excess": {
+            "calculated": 4000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 4000000.0
+          },
+          "excess_4_ilf_curve": 0.1499999999999999,
+          "excess_4_limit": 1000000.0,
+          "excess_4_pflr": 0.0,
+          "excess_4_quoted_premium": 0.0,
+          "excess_4_roc": 0.0,
+          "excess_4_technical_premium": 2818.392999042589,
+          "excess_4_tpi": 0.0,
+          "excess_5_beazley_participation": false,
+          "excess_5_benchmark_premium": 1260.0000000000011,
+          "excess_5_bpi": 0.0,
+          "excess_5_brokerage": {
+            "calculated": 0.25,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 0.25
+          },
+          "excess_5_carrier_bpi": 0.0,
+          "excess_5_carrier_premium": 0.0,
+          "excess_5_carrier_tpi": 0.0,
+          "excess_5_cum_attachment": 5000000.0,
+          "excess_5_excess": {
+            "calculated": 5000000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 5000000.0
+          },
+          "excess_5_ilf_curve": 0.18000000000000016,
+          "excess_5_limit": 1000000.0,
+          "excess_5_pflr": 0.0,
+          "excess_5_quoted_premium": 0.0,
+          "excess_5_roc": 0.0,
+          "excess_5_technical_premium": 3061.824089816983,
+          "excess_5_tpi": 0.0,
+          "expected_loss_cost": 3675.0,
+          "expected_loss_cost_pre_uw_adj": 3675.0,
+          "expiring_option": null,
+          "guideline_deductible": {
+            "calculated": 5000.0,
+            "override": null,
+            "is_dirty": false,
+            "is_overridden": false,
+            "overridden_calculated": null,
+            "selected": 5000.0
+          },
+          "ilf_factor": 1.0,
+          "ilf_type": "Light",
+          "limit": 1000000.0,
+          "minimum_deductible": null,
+          "minimum_deductible_flag": "Yes",
+          "minimum_premium": 7000.0,
+          "minimum_premium_flag": "Yes",
+          "model_premium": 7000.0,
+          "model_premium_pre_uw_adj": 7000.0,
+          "number_of_reinstatements": 1.0,
+          "option_label": 4.0,
+          "pflr": 0.0,
+          "pflr_att": null,
+          "pflr_case_priced": null,
+          "pflr_cat": null,
+          "pflr_pre_uw_adj": 0.0,
+          "quoted_ilf_curve": null,
+          "quoted_premium": 0.0,
+          "quoted_premium_net": 0.0,
+          "quoted_premium_view": 0.0,
+          "reinstatements_factor": 1.0,
+          "roc": 0.0,
+          "roc_case_priced": null,
+          "section_reference": null,
+          "section_reference_view": null,
+          "status": null,
+          "status_view": null,
+          "technical_premium": 9715.60723765038,
+          "technical_premium_case_priced": null,
+          "technical_premium_net": 7286.705428237785,
+          "technical_premium_pre_uw_adj": 9715.60723765038,
+          "tpi": 0.0,
+          "tpi_case_priced": null,
+          "tpi_pre_uw_adj": 0.0,
+          "uw_adj_impact": null,
+          "uw_comment": null,
+          "written_line_case_priced": null,
+          "written_line_view": 1.0
+        }
+      ],
+      "primary": {
+        "aggregate_limit_view": null,
+        "benchmark_premium": 7500.0,
+        "benchmark_premium_100": 7500.0,
+        "bpi": 0.0,
+        "brokerage": 0.25,
+        "carrier": null,
+        "carrier_premium": 0.0,
+        "limit": 2000000.0,
+        "model_premium": 7500.0,
+        "pflr": 0.0,
+        "pflr_att": null,
+        "quoted_premium": 0.0,
+        "quoted_premium_100": 0.0,
+        "roc": 0.0,
+        "section_reference_view": null,
+        "status_view": null,
+        "technical_premium": 10295.205072827504,
+        "technical_premium_100": 10295.205072827504,
+        "tpi": 0.0
+      },
+      "rate_change": {
+        "expiring_expiry_date": null,
+        "expiring_inception_date": null,
+        "expiring_policy_option_id": {
+          "calculated": null,
+          "override": null,
+          "is_dirty": false,
+          "is_overridden": false,
+          "overridden_calculated": null,
+          "selected": null
+        },
+        "has_fetch_not_run": true,
+        "has_fetch_run": null,
+        "has_rarc_not_run": true,
+        "has_rarc_run": null,
+        "instructions": "The rate change tab calculates the change in premium associated with each component (detailed descriptions in the table below). The most appropriate method to obtain a rate change is to calculate the change on premium rather than the change in underlying factors as there are numerous interactions and products to consider.\n\n                    To calculate the rate change, please follow the steps below:\n                    1) The user should fist click 'Fetch Expiring Data' to initialise the rate change calculation.\n                    2) Select mapping between renewing layers and expiry, this needs to be a 1-1 mapping. For new layers that do not have any link to expiring layer, set the expiring layer to the blank value.\n                    3) If there have been any changes to the previous tabs (including the first instance of reaching this tab in any record/YOA), please press 'Calculate Rate Change'.\n                    4) The rater will derive the rate changes to each component from the user input.\n                    5) The user will be able to override the rate change values as appropriate in the 'UW Selected %' column.\n                    6) To recalculate rate change following further changes, please press 'Calculate Rate Change' again.\n                    7) Following the task running, the user will be able to override 'Expiring' and 'Renewal' fields with rate change automatically calculating WITHOUT having to run the task again. \n\n                    _Rate Change Components Include:_\n                    _**Exposure Change**_: Driven by changes to base premium due to market cap, assets, country, industry, and ADR percentage\n                    _**Risk Characteristics Change**_: Driven by changes to schedule modifiers\n                    _**Deductible Change**_: Driven by changes to excesses, and deductibles\n                    _**Limit Change**_: Driven by changes to limits \n                    _**Terms and Conditions Change**_: Driven by changes to coverages selected\n                    _**Other Change**_: Driven by any other factors such as brokerage\n                    ",
+        "layer_mapping": null,
+        "rarc_coverage_use": null,
+        "rarc_insured_asset_use": null,
+        "rarc_message_show": null,
+        "rarc_run_again_message": null,
+        "show_layer_1": true,
+        "show_layer_2": true,
+        "show_layer_3": true,
+        "show_layer_4": true,
+        "show_layer_5": true,
+        "show_layer_6": true
+      },
+      "rating_factors": {
+        "erp": {
+          "erp": "None",
+          "erp_factor": 1.0
+        },
+        "location": {
+          "percentage": 1.0,
+          "risk_group": null,
+          "state": "Total",
+          "state_factor_selected": 0.8,
+          "states": [
+            {
+              "percentage": 1.0,
+              "risk_group": "Low",
+              "state": "Canada",
+              "state_factor_selected": 0.8
+            }
+          ]
+        },
+        "longevity": {
+          "longevity_factor": 1.1,
+          "yr_start": null,
+          "yrs_in_business": 0.0
+        },
+        "longevity_with_carrier": {
+          "longevity_with_carrier_factor": 1.0,
+          "lr": true,
+          "yrs_insured": 1.0
+        },
+        "opt_coverages": {
+          "cpl": true,
+          "cpl_factor": 1.0,
+          "full_prior_act": false,
+          "full_prior_act_date": null,
+          "non_contributary": false,
+          "non_contributary_factor": 1.0,
+          "retro_factor": 0.8,
+          "tech": true,
+          "tech_cpl_factor": 1.0
+        },
+        "resi": {
+          "condos": false,
+          "condos_factor": 1.0,
+          "high_value": false,
+          "high_value_factor": 1.0,
+          "multiple_units": false,
+          "multiple_units_factor": 1.0,
+          "resi_proj": false,
+          "resi_proj_factor": 1.0
+        },
+        "written_contracts": {
+          "percentage": null,
+          "written_contracts_factor": 1.0
+        }
+      },
+      "retention": {},
+      "standard_fields": {
+        "benchmark_class": "Specialty Professions",
+        "broker": null,
+        "expiry_date": "2027-06-28",
+        "facility_reference": null,
+        "inception_date": "2026-06-29",
+        "insured_country": null,
+        "insured_name": "Proteus Waters Inc",
+        "insured_postal_code": null,
+        "insured_state_or_province": null,
+        "is_admitted_or_surplus": null,
+        "is_case_priced": false,
+        "is_free_trade_zone": false,
+        "is_rater_priced": true,
+        "is_renewal": true,
+        "policy_reference": null,
+        "rating_methodology": "Rater",
+        "trifocus": null,
+        "underwriter": null,
+        "uw_rationale": null
+      },
+      "term_adj_factor": 1.0,
+      "xslayer_considerations": null
+    },
+    "hx_core": {
+      "charged_premium": 0.0,
+      "class_code": "0",
+      "expiry_date": "2027-06-28",
+      "inception_date": "2026-06-29",
+      "model_premium": 0.0,
+      "premium_currency": "",
+      "ulr": 0.0
+    },
+    "model_state": {
+      "coverage_use": false,
+      "expiring_policy_option_id": null,
+      "insured_asset_use": false,
+      "landing_page_info": "Click the 'import expiring policy data' arrow in the top right corner then click **Start Policy**. ",
+      "layer_no_ia_use": true,
+      "pressed_start_renewal_task": null,
+      "show_after_landing_page": true,
+      "show_landing_page": false,
+      "show_rate_change": null,
+      "show_rate_change_layer_no_ia_use": true
+    },
+    "page_info": {
+      "rate_change": {
+        "notification_flag": null,
+        "notification_text": null
+      }
+    },
+    "policy_doc": {
+      "data_dict": null,
+      "output_file": null,
+      "premium_check": null,
+      "show_download": null,
+      "show_generate_button": null,
+      "show_premium_check": null,
+      "task_data_dict": null
+    }
+  }
+]

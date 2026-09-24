@@ -1,0 +1,49 @@
+field,code,name
+usa01,USA01,North East
+usa02,USA02,Mid Atlantic
+usa03,USA03,Carolinas + Georgia
+usa04,USA04,Florida South East
+usa05,USA05,Florida North East
+usa06,USA06,AL + MS
+usa07,USA07,Louisiana
+usa08,USA08,Texas East
+usa09,USA09,Texas West
+usa10,USA10,Los Angeles
+usa11,USA11,San Francisco
+usa12,USA12,Pacific NW
+usa13,USA13,T1
+usa14,USA14,T2
+usa15,USA15,New Madrid
+usa16,USA16,Hawaii + Alaska
+usa20,USA20,2nd event cover
+usa21,USA21,Wildfire
+usa22,USA22,Flood
+sar,SAR,Argentina
+sbz,SBZ,Belize
+sbv,SBV,Bolivia
+sbr,SBR,Brazil
+scl,SCL,Chile
+sco,SCO,Colombia
+scr,SCR,Costa Rica
+sec,SEC,Ecuador
+sel,SEL,El Salvador
+sgt,SGT,Guatemala
+sgy,SGY,Guyana
+shn,SHN,Honduras
+smx,SMX,Mexico
+snq,SNQ,Nicaragua
+spa,SPA,Panama
+spy,SPY,Paraguay
+spe,SPE,Peru
+suy,SUY,Uruguay
+sve,SVE,Venezuela
+oa1,OA1,New South Wales
+oa2,OA2,Northern Territory
+oa3,OA3,Queensland
+oa4,OA4,South Australia
+oa5,OA5,Victoria
+oa6,OA6,Western Australia
+ota,OTA,Tasmania
+onz,ONZ,New Zealand
+ofj,OFJ,Fiji
+ofg,OFG,French Guiana

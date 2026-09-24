@@ -1,0 +1,63 @@
+﻿Profession,Premium,Raw Relativity,Risk Band,Selected Relativity
+Neurosurgery,85167,4.392078154,high,2
+General Surgery (Bariatric),60243,3.106742802,high,2
+Hospitalist (Obstetrics & Gynecology),52007,2.682010738,high,2
+Obstetrics & Gynecology (All Other),48831,2.518223823,high,2
+Thoracic/Cardiovascular Surgery,45150,2.328393963,high,2
+General Surgery (All Other),40310,2.078794256,high,2
+Hospitalist (General Surgery),40128,2.069408482,high,2
+Obstetrics & Gynecology (No Deliveries),34909,1.800263673,high,2
+Orthopedic Surgery (With Spinal),34475,1.777882212,high,2
+Gynecology (With In-Vitro Fertilization),33623,1.733944412,high,2
+Family General Practice (With Obstetrics),32517,1.676907785,high,2
+Hospitalist (Orthopedic Surgery),32514,1.676753074,high,2
+Orthopedic Surgery (No Spinal),29384,1.515338388,high,2
+Colon & Rectal Surgery (Minor Surgery Limited to Anal Ring),28280,1.458404901,high,2
+Anesthesiology-Pain Management,25739,1.327365055,medium,1
+Plastic Surgery,25644,1.322465887,medium,1
+Dermatology (With Liposuction),25023,1.2904408,medium,1
+Emergency Medicine,24269,1.251556879,medium,1
+Gynecology (Major Surgery),22847,1.178224072,medium,1
+Neonatology,22191,1.14439403,medium,1
+Diagnostic Radiology (Interventional),22056,1.137432054,medium,1
+Otolaryngology (Major With Facial Plastic),18348,0.946209799,medium,1
+Family General Practice (Restricted Major Surgery-No Obstetrics),17848,0.920424705,medium,1
+Urology,17082,0.880921942,medium,1
+Hand & Foot Surgery,17021,0.87777616,medium,1
+Reproductive Endocrinology,16409,0.846215206,medium,1
+Diagnostic Radiology (Non-Interventional),16053,0.827856219,medium,1
+Otolaryngology (Major With No Facial Plastic),15728,0.811095908,medium,1
+Neurology,15504,0.799544186,medium,1
+Cardiology (Invasive),15280,0.787992464,medium,1
+Physical Medicine & Rehabilitation-Pain Management (Major Procedures),14470,0.746220612,medium,1
+Surgical Specialty (Office with Minor Surgery),14246,0.73466889,medium,1
+Pulmonary Medicine,12623,0.650970476,medium,1
+Gastroenterology,12403,0.639625035,medium,1
+Family General Practice (Minor Surgery-No Obstetrics),11656,0.601102105,medium,1
+Hematology,11272,0.581299153,medium,1
+Anesthesiology,11224,0.578823784,medium,1
+Ophthalmology (Major Surgery),10310,0.531688633,low,0.5
+Hospitalist (Pediatrics),10248,0.528491281,low,0.5
+Hospitalist (Primary Care),10111,0.521426165,low,0.5
+Internal Medicine,10111,0.521426165,low,0.5
+Pathology,10010,0.516217576,low,0.5
+General Medicine (Restricted),9985,0.514928322,low,0.5
+Pediatrics,9385,0.483986209,low,0.5
+Nuclear Medicine,9215,0.475219277,low,0.5
+Physical Medicine & Rehabilitation,8771,0.452322114,low,0.5
+Physical Medicine & Rehabilitation-Pain Management (Minor Procedures),8704,0.448866911,low,0.5
+Cardiology (Non-Invasive),8597,0.443348901,low,0.5
+Endocrinology,8597,0.443348901,low,0.5
+Infectious Disease,8597,0.443348901,low,0.5
+Nephrology,8597,0.443348901,low,0.5
+Oncology,8597,0.443348901,low,0.5
+Rheumatology,8597,0.443348901,low,0.5
+Therapeutic Radiology,8314,0.428754538,low,0.5
+Family General Practice (No Surgery-Hospital Care),8257,0.425815038,low,0.5
+Ophthalmology (Minor Surgery),6595,0.340105386,low,0.5
+Dermatology,6529,0.336701754,low,0.5
+Psychiatry,5557,0.286575532,low,0.5
+Occupational Medicine,4640,0.23928567,low,0.5
+Ophthalmology (No Surgery),4053,0.20901397,low,0.5
+Allergy/Immunology,3808,0.196379274,low,0.5
+Administrative Medicine,3586,0.184930692,low,0.5

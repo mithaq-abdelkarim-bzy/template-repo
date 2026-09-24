@@ -1,0 +1,41 @@
+name: Manual - All - Sync Repos
+
+permissions: write-all
+
+env:
+  PATH_SHARED: shared
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Sync
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Temp
+        id: temp
+        working-directory: ${{ env.PATH_SHARED }}
+        run: |
+          gh secret set MYSECRET --body "Hello World!"
+        env:
+          # GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.WRITE_TO_APIM_REPO_PAT }}
+
+
+#       # https://github.com/actions/github-script/issues/345
+    #  https://github.com/orgs/community/discussions/154258
+#       # github.repos.createOrUpdateEnvironment
+#       # github.rest.actions.createOrUpdateEnvironmentSecret
+#       # github.rest.actions.createOrUpdateRepoSecret
+# https://oneuptime.com/blog/post/2026-01-25-github-actions-manage-secrets/view
+#################### https://cli.github.com/manual/gh_secret_set

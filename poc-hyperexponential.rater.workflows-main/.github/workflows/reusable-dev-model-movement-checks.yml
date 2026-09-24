@@ -1,0 +1,343 @@
+name: Reusable - Dev - Model Movement Checks
+
+env:
+  PATH_STAGING: staging
+  PATH_SHARED: shared
+  PATH_PIPELINE: pipeline
+  OUTPUT_FOLDER: source_files
+  PATH_DEV: dev
+  PATH_TST: tst
+  #PATH_PREPROD: preprod
+  REPO_NAME: ${{ github.event.repository.name }}
+  
+on:
+  workflow_call:
+    inputs:
+      BRANCH_DEV:
+          required: true
+          type: string
+      BRANCH_TST:
+          required: true
+          type: string
+      BRANCH_PREPROD:
+          required: true
+          type: string
+    secrets:
+      READ_GITHUB_REPO_PAT:
+        required: true
+      READ_GITHUB_PACKAGE_PAT:
+        required: true
+      HX_MODEL_MOVEMENT_AZURE_AD_USERNAME:
+        required: true
+      HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD:
+        required: true
+      EMAIL_AZURE_AD_CLIENTSECRET:
+        required: true
+
+jobs:
+
+  model_movement_checks:
+    name: Model movement checks
+    runs-on:
+      ubuntu-latest
+    outputs:
+      model_movement_dev_req: ${{ steps.model-movement-checks.outputs.model_movement_dev_req }}
+      model_movement_dev_model_name: ${{ steps.model-movement-checks.outputs.model_movement_dev_model_name }}
+      model_movement_dev_model_is_live: ${{ steps.model-movement-checks.outputs.model_movement_dev_model_is_live }}
+      model_movement_dev_model_version_id: ${{ steps.model-movement-checks.outputs.model_movement_dev_model_version_id }}
+      model_movement_dev_model_version_label: ${{ steps.model-movement-checks.outputs.model_movement_dev_model_version_label }}
+      model_movement_dev_model_version_developer: ${{ steps.model-movement-checks.outputs.model_movement_dev_model_version_developer }}
+      model_movement_dev_model_version_description: ${{ steps.model-movement-checks.outputs.model_movement_dev_model_version_description }}
+      model_movement_dev_dest_branch: ${{ steps.model-movement-checks.outputs.model_movement_dev_dest_branch }}
+      model_movement_dev_python_package_changes: ${{ steps.model-movement-checks.outputs.model_movement_dev_python_package_changes }}
+      model_movement_dev_user_library_changes: ${{ steps.model-movement-checks.outputs.model_movement_dev_user_library_changes }}
+      issue_assignees: ${{ steps.set_issue_assignees.outputs.issue_assignees }}
+
+    steps:
+          
+      - name: Checkout dev branch
+        id: checkout-model-repository-dev
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.BRANCH_DEV }}
+          path: ${{ env.PATH_DEV }}
+          sparse-checkout: |
+            /source_files/
+            !/source_files/*/
+            /source_files/model_versions.json
+            /source_files/*/metadata.json
+          sparse-checkout-cone-mode: false
+
+      - name: Checkout tst branch
+        id: checkout-model-repository-tst
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.BRANCH_TST }}
+          path: ${{ env.PATH_TST }}
+          sparse-checkout: |
+            /source_files/
+            !/source_files/*/
+            /source_files/model_versions.json
+            /source_files/*/metadata.json
+          sparse-checkout-cone-mode: false
+
+      # - name: Checkout preprod branch
+      #   id: checkout-model-repository-preprod
+      #   uses: actions/checkout@v4
+      #   with:
+      #     ref: ${{ inputs.BRANCH_PREPROD }}
+      #     path: ${{ env.PATH_PREPROD }}
+      #     sparse-checkout: |
+      #       /source_files/
+      #       !/source_files/*/
+      #       /source_files/model_versions.json
+      #       /source_files/*/metadata.json
+      #     sparse-checkout-cone-mode: false
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+
+      - name: Set Issue Assignees
+        id: set_issue_assignees
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const shared_config = ${{ steps.read-shared-config.outputs.shared_config }}
+            var issue_assignees = JSON.stringify(shared_config["ISSUE_ASSIGNEES"])
+            core.setOutput('issue_assignees', issue_assignees)
+
+      - name: Prepare pipeline
+        id: prepare-pipeline
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_SHARED }}/.github/workflows/pipeline ${{ env.PATH_PIPELINE }}
+          mkdir -p ${{ env.PATH_PIPELINE }}/source_files_dev
+          mkdir -p ${{ env.PATH_PIPELINE }}/source_files_tst
+          mkdir -p ${{ env.PATH_PIPELINE }}/source_files_preprod
+          rsync -a --include='*.json' --include='*/' --exclude='*' ${{ env.PATH_DEV }}/source_files/ ${{ env.PATH_PIPELINE }}/source_files_dev/
+          rsync -a --include='*.json' --include='*/' --exclude='*' ${{ env.PATH_TST }}/source_files/ ${{ env.PATH_PIPELINE }}/source_files_tst/
+          #rsync -a --include='*.json' --include='*/' --exclude='*' ${{ env.PATH_PREPROD }}/source_files/ ${{ env.PATH_PIPELINE }}/source_files_preprod/
+
+      - name: Set up python
+        id: set-up-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          
+      - name: Restore cached virtualenv
+        id: restore-cached-virtualenv
+        uses: actions/cache/restore@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Set up virtualenv and install dependencies
+        id: setup-virtualenv
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r ${{ env.PATH_PIPELINE }}/requirements.txt
+          echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+
+      - name: Saved cached virtualenv
+        id: save-cached-virtualenv
+        if: steps.restore-cached-virtualenv.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Model movement checks
+        id: model-movement-checks
+        working-directory: ${{ env.PATH_PIPELINE }}
+        run: python -u hx_model_movement_checks.py
+        env: 
+          ENVIRONMENT: "DEV"
+
+      - name: Notify for no movements required
+        id: notify-for-no-movements_required
+        if: ${{ steps.model-movement-checks.outputs.model_movement_dev_req == 'False' }}
+        run: echo "::notice::No model movements required"   
+
+  model_movement_issue:
+    name: Model movement issue
+    if: ${{ needs.model_movement_checks.outputs.model_movement_dev_req == 'True' }}
+    runs-on:
+      group: ubuntu-arm-runners
+    outputs:
+      issue_title: ${{ steps.set-issue-title-dev.outputs.issue_title }}
+      issue_number: ${{ steps.create-model-movement-issue-dev.outputs.issue_number }}
+      auto_movement: ${{ steps.validate-auto-movement.outputs.auto_movement }}
+    needs: model_movement_checks
+
+    steps:
+
+      - name: Set issue title
+        id: set-issue-title-dev
+        run: |
+          issue_title="DEV Model Movement: ${{ needs.model_movement_checks.outputs.model_movement_dev_model_version_id }}-${{ needs.model_movement_checks.outputs.model_movement_dev_model_version_label }}"
+          echo "issue_title=$issue_title" >> $GITHUB_OUTPUT
+
+      - name: 'Check if issue already exists'
+        id: check-if-issue-exists-dev
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const issues = await github.rest.search.issuesAndPullRequests({
+              q: 'repo:${{ github.repository }} is:issue label:hx_model_movement_dev ${{ steps.set-issue-title-dev.outputs.issue_title }} in:title',
+              per_page: 1,
+            }).catch(err => {
+              console.error('Error checking if issue already exists:', err)
+              throw err;
+            });
+            if (issues.data.items.length < 1) {
+              core.setOutput('issue_exists', false)
+            } else {
+              core.notice("Dev model movement required - issue ${{ steps.set-issue-title-dev.outputs.issue_title }} already exists.")
+              const existingIssue = issues.data.items[0];
+              core.setOutput('issue_exists', true)
+              core.setOutput('EXISTING_ISSUE', existingIssue.number)
+            }
+
+      - name: Create model movement issue
+        id: create-model-movement-issue-dev
+        if: ${{ steps.check-if-issue-exists-dev.outputs.issue_exists == 'False' }}
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            //const required_actions = "A new model version has been created in DEV. Please move to TST and PREPROD.";
+            const required_actions = "A new model version has been created in DEV. Please move to TST.";
+            let response = await github.rest.issues.create({
+              owner: owner,
+              repo: repo,
+              title: '${{ steps.set-issue-title-dev.outputs.issue_title }}',
+              labels: ["hx_model_movement_dev"],
+              body: [
+                '### Model Name',
+                '',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_model_name }}',
+                '',
+                '### Model Version Id',
+                '',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_model_version_id }}',
+                '',
+                '### Model Version Label',
+                '',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_model_version_label }}',
+                '',
+                '### Developer',
+                '',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_model_version_developer }}',
+                '',
+                '### Release Note',
+                '',
+                '```',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_model_version_description }}',
+                '```',
+                '',
+                '### Required Actions',
+                '',
+                required_actions,
+
+                '',
+                '### Python Package Changes',
+                '',
+                '```',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_python_package_changes }}',
+                '```',
+                '',
+                '### User Library Changes',
+                '',
+                '```',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_user_library_changes }}',
+                '```',
+                '### Destination Branch',
+                '',
+                '${{ needs.model_movement_checks.outputs.model_movement_dev_dest_branch }}',
+              ].join('\n')
+            }).catch(err => {
+              console.error('Error creating issue:', err)
+              throw err;
+            });
+            core.setOutput('issue_number', response.data.number)
+            core.notice("Dev model movement required - issue ${{ steps.set-issue-title-dev.outputs.issue_title }} created.")
+            return response.data.number
+
+      - name: Validate auto movement
+        id: validate-auto-movement
+        if: ${{ steps.check-if-issue-exists-dev.outputs.issue_exists == 'False' }}
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            var body;
+            if (${{ (needs.model_movement_checks.outputs.model_movement_dev_python_package_changes == '[]') && (needs.model_movement_checks.outputs.model_movement_dev_user_library_changes == '[]') }}) {
+              body = 'There are no user library / python package changes and manual intervention is not required. Model modement will commence shortly.';
+              core.setOutput('auto_movement', true)
+            } else {
+              body = 'There are user library / python package changes and manual intervention is required. Please move the model manually and close the issue once complete.';
+              core.setOutput('auto_movement', false)
+            }
+            await github.rest.issues.createComment({
+              issue_number: ${{ steps.create-model-movement-issue-dev.outputs.result }},
+              owner: owner,
+              repo: repo,
+              body: body
+            }).catch(err => {
+              console.error('Error adding issue comment:', err)
+              throw err;
+            })
+
+      - name: Add Assignees
+        id: add-assignees
+        if: ${{ steps.validate-auto-movement.outputs.auto_movement == 'False' }}
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            await github.rest.issues.addAssignees({
+              owner: owner,
+              repo: repo,
+              issue_number: ${{ steps.create-model-movement-issue-dev.outputs.issue_number }},
+              assignees: ${{ needs.model_movement_checks.outputs.issue_assignees }}
+            }).catch(err => {
+              console.error('Error adding assignees:', err)
+              throw err;
+            })
+
+  model_movement_trigger:
+    if: ${{ needs.model_movement_issue.outputs.auto_movement == 'True' }}
+    uses: beazley/poc-hyperexponential.rater.workflows/.github/workflows/reusable-all-model-movement-trigger.yml@main
+    needs: [model_movement_checks, model_movement_issue]
+    with:
+      MOVEMENT_SOURCE: 'DEV'
+      ISSUE_NUMBER: ${{ needs.model_movement_issue.outputs.issue_number }}
+      TITLE: ${{ needs.model_movement_issue.outputs.issue_title }}
+    secrets:
+      READ_GITHUB_REPO_PAT: ${{ secrets.READ_GITHUB_REPO_PAT }}
+      READ_GITHUB_PACKAGE_PAT:  ${{ secrets.READ_GITHUB_PACKAGE_PAT }}
+      HX_MODEL_MOVEMENT_AZURE_AD_USERNAME: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_USERNAME }}
+      HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD: ${{ secrets.HX_MODEL_MOVEMENT_AZURE_AD_PASSWORD }}
+      EMAIL_AZURE_AD_CLIENTSECRET: ${{ secrets.EMAIL_AZURE_AD_CLIENTSECRET }}

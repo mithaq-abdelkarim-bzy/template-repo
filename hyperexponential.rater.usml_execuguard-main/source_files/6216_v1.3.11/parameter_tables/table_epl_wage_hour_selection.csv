@@ -1,0 +1,6 @@
+WageAndHour,Modifier,Minimum Premium
+Not Purchased,1,0
+0% coinsurance; $150k sublimit,1.1,1000
+10% coinsurance; $250k sublimit,1.15,1500
+25% coinsurance; $500k sublimit,1.15,2500
+25% coinsurance; $1m sublimit,1.25,3500

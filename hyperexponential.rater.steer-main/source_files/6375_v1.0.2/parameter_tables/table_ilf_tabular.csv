@@ -1,0 +1,1387 @@
+﻿curve,LimitLow,LimitHigh,Ilf
+Crime,0,100000,0.35
+Crime,100000,250000,0.5
+Crime,250000,500000,0.75
+Crime,500000,750000,0.9
+Crime,750000,1000000,1
+Crime,1000000,2000000,1.366
+Crime,2000000,2500000,1.51
+Crime,2500000,3000000,1.639
+Crime,3000000,4000000,1.866
+Crime,4000000,5000000,2.063
+Crime,5000000,7500000,2.476
+Crime,7500000,10000000,2.818
+Crime,10000000,15000000,3.383
+Crime,15000000,20000000,4.257
+Crime,20000000,30000000,4.713751142
+Crime,30000000,40000000,5.3714166
+Crime,40000000,50000000,5.9440983
+Crime,50000000,75000000,6.498852359
+Crime,75000000,100000000,7.717670047
+Crime,100000000,150000000,8.718683176
+Crime,150000000,200000000,10.35381576
+Crime,200000000,300000000,11.69674769
+EPL,0,100000,0.316387484
+EPL,100000,250000,0.47158715
+EPL,250000,500000,0.725
+EPL,500000,750000,0.775
+EPL,750000,1000000,0.825
+EPL,1000000,2000000,1
+EPL,2000000,2500000,1.15
+EPL,2500000,3000000,1.3
+EPL,3000000,4000000,1.55
+EPL,4000000,5000000,1.75
+EPL,5000000,7500000,2.075
+EPL,7500000,10000000,2.4
+EPL,10000000,15000000,2.8
+EPL,15000000,20000000,3.175
+EPL,20000000,30000000,3.79
+EPL,30000000,40000000,4.302061623
+EPL,40000000,50000000,4.741225687
+EPL,50000000,75000000,5.016199597
+EPL,75000000,100000000,5.899790051
+EPL,100000000,150000000,6.619572806
+EPL,150000000,200000000,7.785593262
+EPL,200000000,300000000,8.735446684
+Media (Low),0,100000,0.6
+Media (Low),100000,250000,0.675
+Media (Low),250000,500000,0.8
+Media (Low),500000,750000,0.9
+Media (Low),750000,1000000,1
+Media (Low),1000000,2000000,1.32
+Media (Low),2000000,2500000,1.491
+Media (Low),2500000,3000000,1.625
+Media (Low),3000000,4000000,1.9
+Media (Low),4000000,5000000,2.15
+Media (Low),5000000,7500000,2.5725
+Media (Low),7500000,10000000,2.935
+Media (Low),10000000,15000000,3.525
+Media (Low),15000000,20000000,4.432171197
+Media (Low),20000000,30000000,5.423177926
+Media (Low),30000000,40000000,6.157819928
+Media (Low),40000000,50000000,6.892461931
+Media (Low),50000000,75000000,7
+Media (Low),75000000,100000000,8.178121331
+Media (Low),100000000,150000000,9.23747278
+Media (Low),150000000,200000000,10.96758481
+Media (Low),200000000,300000000,12.3882689
+Media (High),0,100000,0.55
+Media (High),100000,250000,0.6188
+Media (High),250000,500000,0.7333
+Media (High),500000,750000,0.86665
+Media (High),750000,1000000,1
+Media (High),1000000,2000000,1.5907
+Media (High),2000000,2500000,1.886
+Media (High),2500000,3000000,2.0786
+Media (High),3000000,4000000,2.4638
+Media (High),4000000,5000000,2.849
+Media (High),5000000,7500000,3.5611
+Media (High),7500000,10000000,4.2934
+Media (High),10000000,15000000,5.2621
+Media (High),15000000,20000000,6.230769231
+Media (High),20000000,30000000,7.623931624
+Media (High),30000000,40000000,8.656695157
+Media (High),40000000,50000000,9.689458689
+Media (High),50000000,75000000,10.97851602
+Media (High),75000000,100000000,13.51820147
+Media (High),100000000,150000000,15.66899683
+Media (High),150000000,200000000,19.29374203
+Media (High),200000000,300000000,22.36344704
+CAL - 1 Light And Medium Trucks (Group 1),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 1),100000,250000,1.2
+CAL - 1 Light And Medium Trucks (Group 1),250000,500000,1.38
+CAL - 1 Light And Medium Trucks (Group 1),500000,750000,1.49
+CAL - 1 Light And Medium Trucks (Group 1),750000,1000000,1.58
+CAL - 1 Light And Medium Trucks (Group 1),1000000,2000000,1.83
+CAL - 1 Light And Medium Trucks (Group 1),2000000,2500000,1.91
+CAL - 1 Light And Medium Trucks (Group 1),2500000,3000000,1.99
+CAL - 1 Light And Medium Trucks (Group 1),3000000,4000000,2.109547264
+CAL - 1 Light And Medium Trucks (Group 1),4000000,5000000,2.21
+CAL - 1 Light And Medium Trucks (Group 1),5000000,7500000,2.4
+CAL - 1 Light And Medium Trucks (Group 1),7500000,10000000,2.56
+CAL - 1 Light And Medium Trucks (Group 1),10000000,15000000,2.762642147
+CAL - 1 Light And Medium Trucks (Group 1),15000000,20000000,2.929674133
+CAL - 1 Light And Medium Trucks (Group 1),20000000,30000000,3.182380135
+CAL - 1 Light And Medium Trucks (Group 1),30000000,40000000,3.374789882
+CAL - 1 Light And Medium Trucks (Group 1),40000000,50000000,3.532010218
+CAL - 1 Light And Medium Trucks (Group 1),50000000,75000000,3.659149418
+CAL - 1 Light And Medium Trucks (Group 1),75000000,100000000,3.949619409
+CAL - 1 Light And Medium Trucks (Group 1),100000000,150000000,4.169590069
+CAL - 1 Light And Medium Trucks (Group 1),150000000,200000000,4.500579775
+CAL - 1 Light And Medium Trucks (Group 1),200000000,300000000,4.751235699
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),100000,250000,1.25
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),250000,500000,1.5
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),500000,750000,1.67
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),750000,1000000,1.79
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),1000000,2000000,2.12
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),2000000,2500000,2.23
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),2500000,3000000,2.33
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),3000000,4000000,2.496319324
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),4000000,5000000,2.62
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),5000000,7500000,2.89
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),7500000,10000000,3.12
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),10000000,15000000,3.456291437
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),15000000,20000000,3.709938656
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),20000000,30000000,4.099353798
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),30000000,40000000,4.400193502
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),40000000,50000000,4.64866523
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),50000000,75000000,4.840246796
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),75000000,100000000,5.305038291
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),100000000,150000000,5.66163652
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),150000000,200000000,6.205303116
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),200000000,300000000,6.622416053
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),100000,250000,1.25
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),250000,500000,1.47
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),500000,750000,1.62
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),750000,1000000,1.73
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),1000000,2000000,2.02
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),2000000,2500000,2.12
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),2500000,3000000,2.2
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),3000000,4000000,2.369426497
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),4000000,5000000,2.47
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),5000000,7500000,2.73
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),7500000,10000000,2.96
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),10000000,15000000,3.218068673
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),15000000,20000000,3.439794656
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),20000000,30000000,3.778480838
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),30000000,40000000,4.038819402
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),40000000,50000000,4.253044018
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),50000000,75000000,4.414353491
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),75000000,100000000,4.811453426
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),100000000,150000000,5.114680634
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),150000000,200000000,5.574779572
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),200000000,300000000,5.926113086
+CAL - 4 Zone Rated Risks (Group 1),0,100000,1
+CAL - 4 Zone Rated Risks (Group 1),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 1),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 1),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 1),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 1),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 1),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 1),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 1),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 1),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 1),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 1),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 1),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 1),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 1),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 1),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 1),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 1),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 1),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 1),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 1),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 1),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 1),0,100000,1
+CAL - 5 All Other Risks (Group 1),100000,250000,1.19
+CAL - 5 All Other Risks (Group 1),250000,500000,1.34
+CAL - 5 All Other Risks (Group 1),500000,750000,1.44
+CAL - 5 All Other Risks (Group 1),750000,1000000,1.51
+CAL - 5 All Other Risks (Group 1),1000000,2000000,1.7
+CAL - 5 All Other Risks (Group 1),2000000,2500000,1.76
+CAL - 5 All Other Risks (Group 1),2500000,3000000,1.82
+CAL - 5 All Other Risks (Group 1),3000000,4000000,1.907046181
+CAL - 5 All Other Risks (Group 1),4000000,5000000,1.97
+CAL - 5 All Other Risks (Group 1),5000000,7500000,2.11
+CAL - 5 All Other Risks (Group 1),7500000,10000000,2.23
+CAL - 5 All Other Risks (Group 1),10000000,15000000,2.392544963
+CAL - 5 All Other Risks (Group 1),15000000,20000000,2.513613707
+CAL - 5 All Other Risks (Group 1),20000000,30000000,2.694724078
+CAL - 5 All Other Risks (Group 1),30000000,40000000,2.83108384
+CAL - 5 All Other Risks (Group 1),40000000,50000000,2.941586795
+CAL - 5 All Other Risks (Group 1),50000000,75000000,3.020299805
+CAL - 5 All Other Risks (Group 1),75000000,100000000,3.218586052
+CAL - 5 All Other Risks (Group 1),100000000,150000000,3.367117944
+CAL - 5 All Other Risks (Group 1),150000000,200000000,3.588173212
+CAL - 5 All Other Risks (Group 1),200000000,300000000,3.753760878
+CAL - 1 Light And Medium Trucks (Group 2),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 2),100000,250000,1.23
+CAL - 1 Light And Medium Trucks (Group 2),250000,500000,1.43
+CAL - 1 Light And Medium Trucks (Group 2),500000,750000,1.56
+CAL - 1 Light And Medium Trucks (Group 2),750000,1000000,1.66
+CAL - 1 Light And Medium Trucks (Group 2),1000000,2000000,1.9
+CAL - 1 Light And Medium Trucks (Group 2),2000000,2500000,1.98
+CAL - 1 Light And Medium Trucks (Group 2),2500000,3000000,2.06
+CAL - 1 Light And Medium Trucks (Group 2),3000000,4000000,2.192921376
+CAL - 1 Light And Medium Trucks (Group 2),4000000,5000000,2.28
+CAL - 1 Light And Medium Trucks (Group 2),5000000,7500000,2.49
+CAL - 1 Light And Medium Trucks (Group 2),7500000,10000000,2.66
+CAL - 1 Light And Medium Trucks (Group 2),10000000,15000000,2.890853035
+CAL - 1 Light And Medium Trucks (Group 2),15000000,20000000,3.070045627
+CAL - 1 Light And Medium Trucks (Group 2),20000000,30000000,3.341621327
+CAL - 1 Light And Medium Trucks (Group 2),30000000,40000000,3.54875527
+CAL - 1 Light And Medium Trucks (Group 2),40000000,50000000,3.718222533
+CAL - 1 Light And Medium Trucks (Group 2),50000000,75000000,3.840865705
+CAL - 1 Light And Medium Trucks (Group 2),75000000,100000000,4.15045569
+CAL - 1 Light And Medium Trucks (Group 2),100000000,150000000,4.385131856
+CAL - 1 Light And Medium Trucks (Group 2),150000000,200000000,4.73859199
+CAL - 1 Light And Medium Trucks (Group 2),200000000,300000000,5.006522714
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),100000,250000,1.28
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),250000,500000,1.54
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),500000,750000,1.71
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),750000,1000000,1.85
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),1000000,2000000,2.18
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),2000000,2500000,2.3
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),2500000,3000000,2.39
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),3000000,4000000,2.569429397
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),4000000,5000000,2.69
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),5000000,7500000,2.97
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),7500000,10000000,3.21
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),10000000,15000000,3.57611094
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),15000000,20000000,3.842909317
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),20000000,30000000,4.253077964
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),30000000,40000000,4.570381963
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),40000000,50000000,4.832715436
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),50000000,75000000,5.021176094
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),75000000,100000000,5.508484845
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),100000000,150000000,5.882656114
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),150000000,200000000,6.453572121
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),200000000,300000000,6.89193972
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),100000,250000,1.31
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),250000,500000,1.62
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),500000,750000,1.85
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),750000,1000000,2.02
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),1000000,2000000,2.48
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),2000000,2500000,2.64
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),2500000,3000000,2.76
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),3000000,4000000,2.97897557
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),4000000,5000000,3.16
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),5000000,7500000,3.52
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),7500000,10000000,3.82
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),10000000,15000000,4.381177153
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),15000000,20000000,4.764887241
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),20000000,30000000,5.363430624
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),30000000,40000000,5.833167949
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),40000000,50000000,6.225675218
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),50000000,75000000,6.523788436
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),75000000,100000000,7.271263954
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),100000000,150000000,7.852989499
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),150000000,200000000,8.752760766
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),200000000,300000000,9.453011033
+CAL - 4 Zone Rated Risks (Group 2),0,100000,1
+CAL - 4 Zone Rated Risks (Group 2),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 2),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 2),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 2),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 2),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 2),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 2),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 2),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 2),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 2),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 2),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 2),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 2),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 2),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 2),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 2),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 2),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 2),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 2),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 2),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 2),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 2),0,100000,1
+CAL - 5 All Other Risks (Group 2),100000,250000,1.25
+CAL - 5 All Other Risks (Group 2),250000,500000,1.46
+CAL - 5 All Other Risks (Group 2),500000,750000,1.59
+CAL - 5 All Other Risks (Group 2),750000,1000000,1.68
+CAL - 5 All Other Risks (Group 2),1000000,2000000,1.92
+CAL - 5 All Other Risks (Group 2),2000000,2500000,2
+CAL - 5 All Other Risks (Group 2),2500000,3000000,2.07
+CAL - 5 All Other Risks (Group 2),3000000,4000000,2.216333904
+CAL - 5 All Other Risks (Group 2),4000000,5000000,2.3
+CAL - 5 All Other Risks (Group 2),5000000,7500000,2.51
+CAL - 5 All Other Risks (Group 2),7500000,10000000,2.69
+CAL - 5 All Other Risks (Group 2),10000000,15000000,2.920207818
+CAL - 5 All Other Risks (Group 2),15000000,20000000,3.100871277
+CAL - 5 All Other Risks (Group 2),20000000,30000000,3.374638912
+CAL - 5 All Other Risks (Group 2),30000000,40000000,3.583416499
+CAL - 5 All Other Risks (Group 2),40000000,50000000,3.7542115
+CAL - 5 All Other Risks (Group 2),50000000,75000000,3.868123529
+CAL - 5 All Other Risks (Group 2),75000000,100000000,4.177319291
+CAL - 5 All Other Risks (Group 2),100000000,150000000,4.411572888
+CAL - 5 All Other Risks (Group 2),150000000,200000000,4.764208895
+CAL - 5 All Other Risks (Group 2),200000000,300000000,5.03137379
+CAL - 1 Light And Medium Trucks (Group 3),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 3),100000,250000,1.3
+CAL - 1 Light And Medium Trucks (Group 3),250000,500000,1.58
+CAL - 1 Light And Medium Trucks (Group 3),500000,750000,1.77
+CAL - 1 Light And Medium Trucks (Group 3),750000,1000000,1.9
+CAL - 1 Light And Medium Trucks (Group 3),1000000,2000000,2.25
+CAL - 1 Light And Medium Trucks (Group 3),2000000,2500000,2.37
+CAL - 1 Light And Medium Trucks (Group 3),2500000,3000000,2.47
+CAL - 1 Light And Medium Trucks (Group 3),3000000,4000000,2.6546645
+CAL - 1 Light And Medium Trucks (Group 3),4000000,5000000,2.78
+CAL - 1 Light And Medium Trucks (Group 3),5000000,7500000,3.07
+CAL - 1 Light And Medium Trucks (Group 3),7500000,10000000,3.31
+CAL - 1 Light And Medium Trucks (Group 3),10000000,15000000,3.723181342
+CAL - 1 Light And Medium Trucks (Group 3),15000000,20000000,4.00763515
+CAL - 1 Light And Medium Trucks (Group 3),20000000,30000000,4.445831322
+CAL - 1 Light And Medium Trucks (Group 3),30000000,40000000,4.785496122
+CAL - 1 Light And Medium Trucks (Group 3),40000000,50000000,5.066731846
+CAL - 1 Light And Medium Trucks (Group 3),50000000,75000000,5.258466638
+CAL - 1 Light And Medium Trucks (Group 3),75000000,100000000,5.778958541
+CAL - 1 Light And Medium Trucks (Group 3),100000000,150000000,6.17920737
+CAL - 1 Light And Medium Trucks (Group 3),150000000,200000000,6.790835745
+CAL - 1 Light And Medium Trucks (Group 3),200000000,300000000,7.261166868
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),100000,250000,1.33
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),250000,500000,1.66
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),500000,750000,1.89
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),750000,1000000,2.06
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),1000000,2000000,2.5
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),2000000,2500000,2.65
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),2500000,3000000,2.79
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),3000000,4000000,3.047369948
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),4000000,5000000,3.22
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),5000000,7500000,3.63
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),7500000,10000000,3.99
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),10000000,15000000,4.509888987
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),15000000,20000000,4.911554645
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),20000000,30000000,5.539141148
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),30000000,40000000,6.032475414
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),40000000,50000000,6.445197055
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),50000000,75000000,6.750192541
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),75000000,100000000,7.535086635
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),100000000,150000000,8.146725566
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),150000000,200000000,9.094004735
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),200000000,300000000,9.832184348
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),100000,250000,1.34
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),250000,500000,1.7
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),500000,750000,1.94
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),750000,1000000,2.12
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),1000000,2000000,2.6
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),2000000,2500000,2.77
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),2500000,3000000,2.92
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),3000000,4000000,3.215081203
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),4000000,5000000,3.4
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),5000000,7500000,3.88
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),7500000,10000000,4.3
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),10000000,15000000,4.858518647
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),15000000,20000000,5.315343975
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),20000000,30000000,6.03305865
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),30000000,40000000,6.600320855
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),40000000,50000000,7.076803377
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),50000000,75000000,7.437569519
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),75000000,100000000,8.352883864
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),100000000,150000000,9.069840446
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),150000000,200000000,10.18603238
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),200000000,300000000,11.06033436
+CAL - 4 Zone Rated Risks (Group 3),0,100000,1
+CAL - 4 Zone Rated Risks (Group 3),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 3),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 3),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 3),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 3),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 3),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 3),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 3),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 3),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 3),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 3),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 3),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 3),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 3),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 3),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 3),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 3),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 3),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 3),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 3),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 3),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 3),0,100000,1
+CAL - 5 All Other Risks (Group 3),100000,250000,1.28
+CAL - 5 All Other Risks (Group 3),250000,500000,1.54
+CAL - 5 All Other Risks (Group 3),500000,750000,1.72
+CAL - 5 All Other Risks (Group 3),750000,1000000,1.85
+CAL - 5 All Other Risks (Group 3),1000000,2000000,2.18
+CAL - 5 All Other Risks (Group 3),2000000,2500000,2.3
+CAL - 5 All Other Risks (Group 3),2500000,3000000,2.4
+CAL - 5 All Other Risks (Group 3),3000000,4000000,2.607092141
+CAL - 5 All Other Risks (Group 3),4000000,5000000,2.73
+CAL - 5 All Other Risks (Group 3),5000000,7500000,3.05
+CAL - 5 All Other Risks (Group 3),7500000,10000000,3.33
+CAL - 5 All Other Risks (Group 3),10000000,15000000,3.659269896
+CAL - 5 All Other Risks (Group 3),15000000,20000000,3.939499233
+CAL - 5 All Other Risks (Group 3),20000000,30000000,4.371275053
+CAL - 5 All Other Risks (Group 3),30000000,40000000,4.706030222
+CAL - 5 All Other Risks (Group 3),40000000,50000000,4.983241889
+CAL - 5 All Other Risks (Group 3),50000000,75000000,5.190841569
+CAL - 5 All Other Risks (Group 3),75000000,100000000,5.709908039
+CAL - 5 All Other Risks (Group 3),100000000,150000000,6.109374344
+CAL - 5 All Other Risks (Group 3),150000000,200000000,6.720290962
+CAL - 5 All Other Risks (Group 3),200000000,300000000,7.190443858
+CAL - 1 Light And Medium Trucks (Group 4),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 4),100000,250000,1.38
+CAL - 1 Light And Medium Trucks (Group 4),250000,500000,1.74
+CAL - 1 Light And Medium Trucks (Group 4),500000,750000,1.94
+CAL - 1 Light And Medium Trucks (Group 4),750000,1000000,2.09
+CAL - 1 Light And Medium Trucks (Group 4),1000000,2000000,2.45
+CAL - 1 Light And Medium Trucks (Group 4),2000000,2500000,2.57
+CAL - 1 Light And Medium Trucks (Group 4),2500000,3000000,2.67
+CAL - 1 Light And Medium Trucks (Group 4),3000000,4000000,2.886577653
+CAL - 1 Light And Medium Trucks (Group 4),4000000,5000000,3
+CAL - 1 Light And Medium Trucks (Group 4),5000000,7500000,3.31
+CAL - 1 Light And Medium Trucks (Group 4),7500000,10000000,3.57
+CAL - 1 Light And Medium Trucks (Group 4),10000000,15000000,4.09950368
+CAL - 1 Light And Medium Trucks (Group 4),15000000,20000000,4.424763379
+CAL - 1 Light And Medium Trucks (Group 4),20000000,30000000,4.92747822
+CAL - 1 Light And Medium Trucks (Group 4),30000000,40000000,5.318430444
+CAL - 1 Light And Medium Trucks (Group 4),40000000,50000000,5.642913907
+CAL - 1 Light And Medium Trucks (Group 4),50000000,75000000,5.811161418
+CAL - 1 Light And Medium Trucks (Group 4),75000000,100000000,6.397413415
+CAL - 1 Light And Medium Trucks (Group 4),100000000,150000000,6.848894342
+CAL - 1 Light And Medium Trucks (Group 4),150000000,200000000,7.539836771
+CAL - 1 Light And Medium Trucks (Group 4),200000000,300000000,8.071941275
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),100000,250000,1.41
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),250000,500000,1.78
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),500000,750000,2
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),750000,1000000,2.16
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),1000000,2000000,2.59
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),2000000,2500000,2.74
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),2500000,3000000,2.88
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),3000000,4000000,3.170659719
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),4000000,5000000,3.32
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),5000000,7500000,3.76
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),7500000,10000000,4.15
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),10000000,15000000,4.691518258
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),15000000,20000000,5.109163525
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),20000000,30000000,5.761687055
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),30000000,40000000,6.274600187
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),40000000,50000000,6.703686801
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),50000000,75000000,6.963051109
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),75000000,100000000,7.760106893
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),100000000,150000000,8.380367552
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),150000000,200000000,9.339662597
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),200000000,300000000,10.08617619
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),100000,250000,1.41
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),250000,500000,1.82
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),500000,750000,2.08
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),750000,1000000,2.27
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),1000000,2000000,2.78
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),2000000,2500000,2.97
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),2500000,3000000,3.13
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),3000000,4000000,3.459662188
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),4000000,5000000,3.65
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),5000000,7500000,4.17
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),7500000,10000000,4.63
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),10000000,15000000,5.306011944
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),15000000,20000000,5.823627823
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),20000000,30000000,6.640029333
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),30000000,40000000,7.287782233
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),40000000,50000000,7.833426173
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),50000000,75000000,8.196983982
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),75000000,100000000,9.233177355
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),100000000,150000000,10.0468715
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),150000000,200000000,11.31691201
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),200000000,300000000,12.31423988
+CAL - 4 Zone Rated Risks (Group 4),0,100000,1
+CAL - 4 Zone Rated Risks (Group 4),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 4),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 4),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 4),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 4),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 4),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 4),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 4),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 4),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 4),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 4),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 4),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 4),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 4),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 4),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 4),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 4),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 4),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 4),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 4),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 4),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 4),0,100000,1
+CAL - 5 All Other Risks (Group 4),100000,250000,1.37
+CAL - 5 All Other Risks (Group 4),250000,500000,1.7
+CAL - 5 All Other Risks (Group 4),500000,750000,1.9
+CAL - 5 All Other Risks (Group 4),750000,1000000,2.04
+CAL - 5 All Other Risks (Group 4),1000000,2000000,2.39
+CAL - 5 All Other Risks (Group 4),2000000,2500000,2.51
+CAL - 5 All Other Risks (Group 4),2500000,3000000,2.62
+CAL - 5 All Other Risks (Group 4),3000000,4000000,2.843902837
+CAL - 5 All Other Risks (Group 4),4000000,5000000,2.96
+CAL - 5 All Other Risks (Group 4),5000000,7500000,3.29
+CAL - 5 All Other Risks (Group 4),7500000,10000000,3.57
+CAL - 5 All Other Risks (Group 4),10000000,15000000,4.038209671
+CAL - 5 All Other Risks (Group 4),15000000,20000000,4.35844475
+CAL - 5 All Other Risks (Group 4),20000000,30000000,4.853371434
+CAL - 5 All Other Risks (Group 4),30000000,40000000,5.238249862
+CAL - 5 All Other Risks (Group 4),40000000,50000000,5.557681703
+CAL - 5 All Other Risks (Group 4),50000000,75000000,5.737679548
+CAL - 5 All Other Risks (Group 4),75000000,100000000,6.319365506
+CAL - 5 All Other Risks (Group 4),100000000,150000000,6.767501839
+CAL - 5 All Other Risks (Group 4),150000000,200000000,7.453591182
+CAL - 5 All Other Risks (Group 4),200000000,300000000,7.982160864
+CAL - 1 Light And Medium Trucks (Group 5),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 5),100000,250000,1.44
+CAL - 1 Light And Medium Trucks (Group 5),250000,500000,1.89
+CAL - 1 Light And Medium Trucks (Group 5),500000,750000,2.18
+CAL - 1 Light And Medium Trucks (Group 5),750000,1000000,2.39
+CAL - 1 Light And Medium Trucks (Group 5),1000000,2000000,2.92
+CAL - 1 Light And Medium Trucks (Group 5),2000000,2500000,3.1
+CAL - 1 Light And Medium Trucks (Group 5),2500000,3000000,3.26
+CAL - 1 Light And Medium Trucks (Group 5),3000000,4000000,3.567234244
+CAL - 1 Light And Medium Trucks (Group 5),4000000,5000000,3.76
+CAL - 1 Light And Medium Trucks (Group 5),5000000,7500000,4.23
+CAL - 1 Light And Medium Trucks (Group 5),7500000,10000000,4.63
+CAL - 1 Light And Medium Trucks (Group 5),10000000,15000000,5.472856116
+CAL - 1 Light And Medium Trucks (Group 5),15000000,20000000,6.007193265
+CAL - 1 Light And Medium Trucks (Group 5),20000000,30000000,6.850043861
+CAL - 1 Light And Medium Trucks (Group 5),30000000,40000000,7.518841438
+CAL - 1 Light And Medium Trucks (Group 5),40000000,50000000,8.082249604
+CAL - 1 Light And Medium Trucks (Group 5),50000000,75000000,8.414199441
+CAL - 1 Light And Medium Trucks (Group 5),75000000,100000000,9.469064555
+CAL - 1 Light And Medium Trucks (Group 5),100000000,150000000,10.29676841
+CAL - 1 Light And Medium Trucks (Group 5),150000000,200000000,11.58764604
+CAL - 1 Light And Medium Trucks (Group 5),200000000,300000000,12.60053799
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),100000,250000,1.46
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),250000,500000,1.98
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),500000,750000,2.35
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),750000,1000000,2.62
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),1000000,2000000,3.31
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),2000000,2500000,3.55
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),2500000,3000000,3.75
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),3000000,4000000,4.134636199
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),4000000,5000000,4.4
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),5000000,7500000,5.02
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),7500000,10000000,5.55
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),10000000,15000000,6.714813637
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),15000000,20000000,7.462264387
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),20000000,30000000,8.659120582
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),30000000,40000000,9.622999332
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),40000000,50000000,10.44393446
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),50000000,75000000,10.98067054
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),75000000,100000000,12.56360403
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),100000000,150000000,13.82325365
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),150000000,200000000,15.81596357
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),200000000,300000000,17.40170063
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),100000,250000,1.45
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),250000,500000,1.91
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),500000,750000,2.22
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),750000,1000000,2.45
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),1000000,2000000,3.04
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),2000000,2500000,3.26
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),2500000,3000000,3.44
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),3000000,4000000,3.813727214
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),4000000,5000000,4.04
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),5000000,7500000,4.63
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),7500000,10000000,5.15
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),10000000,15000000,6.033087508
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),15000000,20000000,6.666434499
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),20000000,30000000,7.673573117
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),30000000,40000000,8.479136511
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),40000000,50000000,9.161774448
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),50000000,75000000,9.607538049
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),75000000,100000000,10.91319779
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),100000000,150000000,11.94582972
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),150000000,200000000,13.56926217
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),200000000,300000000,14.85321703
+CAL - 4 Zone Rated Risks (Group 5),0,100000,1
+CAL - 4 Zone Rated Risks (Group 5),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 5),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 5),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 5),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 5),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 5),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 5),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 5),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 5),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 5),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 5),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 5),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 5),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 5),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 5),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 5),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 5),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 5),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 5),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 5),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 5),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 5),0,100000,1
+CAL - 5 All Other Risks (Group 5),100000,250000,1.41
+CAL - 5 All Other Risks (Group 5),250000,500000,1.82
+CAL - 5 All Other Risks (Group 5),500000,750000,2.09
+CAL - 5 All Other Risks (Group 5),750000,1000000,2.29
+CAL - 5 All Other Risks (Group 5),1000000,2000000,2.79
+CAL - 5 All Other Risks (Group 5),2000000,2500000,2.96
+CAL - 5 All Other Risks (Group 5),2500000,3000000,3.1
+CAL - 5 All Other Risks (Group 5),3000000,4000000,3.37105349
+CAL - 5 All Other Risks (Group 5),4000000,5000000,3.55
+CAL - 5 All Other Risks (Group 5),5000000,7500000,3.97
+CAL - 5 All Other Risks (Group 5),7500000,10000000,4.32
+CAL - 5 All Other Risks (Group 5),10000000,15000000,5.084040001
+CAL - 5 All Other Risks (Group 5),15000000,20000000,5.559649396
+CAL - 5 All Other Risks (Group 5),20000000,30000000,6.306481411
+CAL - 5 All Other Risks (Group 5),30000000,40000000,6.896449587
+CAL - 5 All Other Risks (Group 5),40000000,50000000,7.391813571
+CAL - 5 All Other Risks (Group 5),50000000,75000000,7.691829591
+CAL - 5 All Other Risks (Group 5),75000000,100000000,8.61720071
+CAL - 5 All Other Risks (Group 5),100000000,150000000,9.340519922
+CAL - 5 All Other Risks (Group 5),150000000,200000000,10.46423792
+CAL - 5 All Other Risks (Group 5),200000000,300000000,11.34259559
+CAL - 1 Light And Medium Trucks (Group 6),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 6),100000,250000,1.22
+CAL - 1 Light And Medium Trucks (Group 6),250000,500000,1.42
+CAL - 1 Light And Medium Trucks (Group 6),500000,750000,1.55
+CAL - 1 Light And Medium Trucks (Group 6),750000,1000000,1.64
+CAL - 1 Light And Medium Trucks (Group 6),1000000,2000000,1.87
+CAL - 1 Light And Medium Trucks (Group 6),2000000,2500000,1.95
+CAL - 1 Light And Medium Trucks (Group 6),2500000,3000000,2.02
+CAL - 1 Light And Medium Trucks (Group 6),3000000,4000000,2.168937453
+CAL - 1 Light And Medium Trucks (Group 6),4000000,5000000,2.25
+CAL - 1 Light And Medium Trucks (Group 6),5000000,7500000,2.47
+CAL - 1 Light And Medium Trucks (Group 6),7500000,10000000,2.66
+CAL - 1 Light And Medium Trucks (Group 6),10000000,15000000,2.854171308
+CAL - 1 Light And Medium Trucks (Group 6),15000000,20000000,3.029920774
+CAL - 1 Light And Medium Trucks (Group 6),20000000,30000000,3.296153944
+CAL - 1 Light And Medium Trucks (Group 6),30000000,40000000,3.49911909
+CAL - 1 Light And Medium Trucks (Group 6),40000000,50000000,3.665118888
+CAL - 1 Light And Medium Trucks (Group 6),50000000,75000000,3.789059248
+CAL - 1 Light And Medium Trucks (Group 6),75000000,100000000,4.093265183
+CAL - 1 Light And Medium Trucks (Group 6),100000000,150000000,4.323802172
+CAL - 1 Light And Medium Trucks (Group 6),150000000,200000000,4.670940128
+CAL - 1 Light And Medium Trucks (Group 6),200000000,300000000,4.934012376
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),100000,250000,1.27
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),250000,500000,1.51
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),500000,750000,1.66
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),750000,1000000,1.77
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),1000000,2000000,2.07
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),2000000,2500000,2.18
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),2500000,3000000,2.28
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),3000000,4000000,2.490493766
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),4000000,5000000,2.6
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),5000000,7500000,2.93
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),7500000,10000000,3.21
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),10000000,15000000,3.449332518
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),15000000,20000000,3.702727689
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),20000000,30000000,4.091788769
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),30000000,40000000,4.392380117
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),40000000,50000000,4.640662078
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),50000000,75000000,4.831077643
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),75000000,100000000,5.295459475
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),100000000,150000000,5.651770358
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),150000000,200000000,6.195040341
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),200000000,300000000,6.611880524
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),100000,250000,1.28
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),250000,500000,1.54
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),500000,750000,1.69
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),750000,1000000,1.8
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),1000000,2000000,2.09
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),2000000,2500000,2.19
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),2500000,3000000,2.28
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),3000000,4000000,2.469715179
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),4000000,5000000,2.57
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),5000000,7500000,2.85
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),7500000,10000000,3.1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),10000000,15000000,3.382928261
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),15000000,20000000,3.622713336
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),20000000,30000000,3.989806295
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),30000000,40000000,4.272607445
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),40000000,50000000,4.505697652
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),50000000,75000000,4.665404568
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),75000000,100000000,5.093909242
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),100000000,150000000,5.421600299
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),150000000,200000000,5.919559487
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),200000000,300000000,6.300364605
+CAL - 4 Zone Rated Risks (Group 6),0,100000,1
+CAL - 4 Zone Rated Risks (Group 6),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 6),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 6),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 6),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 6),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 6),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 6),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 6),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 6),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 6),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 6),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 6),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 6),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 6),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 6),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 6),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 6),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 6),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 6),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 6),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 6),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 6),0,100000,1
+CAL - 5 All Other Risks (Group 6),100000,250000,1.24
+CAL - 5 All Other Risks (Group 6),250000,500000,1.46
+CAL - 5 All Other Risks (Group 6),500000,750000,1.59
+CAL - 5 All Other Risks (Group 6),750000,1000000,1.69
+CAL - 5 All Other Risks (Group 6),1000000,2000000,1.92
+CAL - 5 All Other Risks (Group 6),2000000,2500000,2
+CAL - 5 All Other Risks (Group 6),2500000,3000000,2.06
+CAL - 5 All Other Risks (Group 6),3000000,4000000,2.196040067
+CAL - 5 All Other Risks (Group 6),4000000,5000000,2.27
+CAL - 5 All Other Risks (Group 6),5000000,7500000,2.47
+CAL - 5 All Other Risks (Group 6),7500000,10000000,2.63
+CAL - 5 All Other Risks (Group 6),10000000,15000000,2.879102309
+CAL - 5 All Other Risks (Group 6),15000000,20000000,3.053912384
+CAL - 5 All Other Risks (Group 6),20000000,30000000,3.318463207
+CAL - 5 All Other Risks (Group 6),30000000,40000000,3.519949899
+CAL - 5 All Other Risks (Group 6),40000000,50000000,3.684622312
+CAL - 5 All Other Risks (Group 6),50000000,75000000,3.791845469
+CAL - 5 All Other Risks (Group 6),75000000,100000000,4.088673963
+CAL - 5 All Other Risks (Group 6),100000000,150000000,4.313264573
+CAL - 5 All Other Risks (Group 6),150000000,200000000,4.650910144
+CAL - 5 All Other Risks (Group 6),200000000,300000000,4.906384352
+CAL - 1 Light And Medium Trucks (Group 7),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 7),100000,250000,1.37
+CAL - 1 Light And Medium Trucks (Group 7),250000,500000,1.74
+CAL - 1 Light And Medium Trucks (Group 7),500000,750000,1.99
+CAL - 1 Light And Medium Trucks (Group 7),750000,1000000,2.16
+CAL - 1 Light And Medium Trucks (Group 7),1000000,2000000,2.56
+CAL - 1 Light And Medium Trucks (Group 7),2000000,2500000,2.7
+CAL - 1 Light And Medium Trucks (Group 7),2500000,3000000,2.81
+CAL - 1 Light And Medium Trucks (Group 7),3000000,4000000,3.000426914
+CAL - 1 Light And Medium Trucks (Group 7),4000000,5000000,3.13
+CAL - 1 Light And Medium Trucks (Group 7),5000000,7500000,3.43
+CAL - 1 Light And Medium Trucks (Group 7),7500000,10000000,3.67
+CAL - 1 Light And Medium Trucks (Group 7),10000000,15000000,4.323721363
+CAL - 1 Light And Medium Trucks (Group 7),15000000,20000000,4.681590952
+CAL - 1 Light And Medium Trucks (Group 7),20000000,30000000,5.236835043
+CAL - 1 Light And Medium Trucks (Group 7),30000000,40000000,5.670282031
+CAL - 1 Light And Medium Trucks (Group 7),40000000,50000000,6.031046573
+CAL - 1 Light And Medium Trucks (Group 7),50000000,75000000,6.229876137
+CAL - 1 Light And Medium Trucks (Group 7),75000000,100000000,6.887979326
+CAL - 1 Light And Medium Trucks (Group 7),100000000,150000000,7.39665464
+CAL - 1 Light And Medium Trucks (Group 7),150000000,200000000,8.178012391
+CAL - 1 Light And Medium Trucks (Group 7),200000000,300000000,8.781956281
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),100000,250000,1.39
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),250000,500000,1.78
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),500000,750000,2.05
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),750000,1000000,2.25
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),1000000,2000000,2.78
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),2000000,2500000,2.97
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),2500000,3000000,3.14
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),3000000,4000000,3.480777749
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),4000000,5000000,3.69
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),5000000,7500000,4.24
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),7500000,10000000,4.72
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),10000000,15000000,5.386657285
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),15000000,20000000,5.923732382
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),20000000,30000000,6.772839813
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),30000000,40000000,7.448123836
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),40000000,50000000,8.017945639
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),50000000,75000000,8.430308315
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),75000000,100000000,9.526877992
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),100000000,150000000,10.39036305
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),150000000,200000000,11.74188623
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),200000000,300000000,12.80613239
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),100000,250000,1.4
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),250000,500000,1.8
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),500000,750000,2.12
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),750000,1000000,2.39
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),1000000,2000000,3.17
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),2000000,2500000,3.44
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),2500000,3000000,3.66
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),3000000,4000000,3.979798773
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),4000000,5000000,4.32
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),5000000,7500000,4.93
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),7500000,10000000,5.43
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),10000000,15000000,6.516252611
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),15000000,20000000,7.254460095
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),20000000,30000000,8.439063072
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),30000000,40000000,9.395100214
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),40000000,50000000,10.21063514
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),50000000,75000000,10.86834069
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),75000000,100000000,12.49120602
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),100000000,150000000,13.78757963
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),150000000,200000000,15.84634698
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),200000000,300000000,17.49092686
+CAL - 4 Zone Rated Risks (Group 7),0,100000,1
+CAL - 4 Zone Rated Risks (Group 7),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 7),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 7),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 7),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 7),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 7),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 7),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 7),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 7),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 7),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 7),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 7),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 7),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 7),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 7),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 7),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 7),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 7),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 7),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 7),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 7),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 7),0,100000,1
+CAL - 5 All Other Risks (Group 7),100000,250000,1.37
+CAL - 5 All Other Risks (Group 7),250000,500000,1.71
+CAL - 5 All Other Risks (Group 7),500000,750000,1.93
+CAL - 5 All Other Risks (Group 7),750000,1000000,2.09
+CAL - 5 All Other Risks (Group 7),1000000,2000000,2.49
+CAL - 5 All Other Risks (Group 7),2000000,2500000,2.62
+CAL - 5 All Other Risks (Group 7),2500000,3000000,2.73
+CAL - 5 All Other Risks (Group 7),3000000,4000000,2.937800686
+CAL - 5 All Other Risks (Group 7),4000000,5000000,3.07
+CAL - 5 All Other Risks (Group 7),5000000,7500000,3.39
+CAL - 5 All Other Risks (Group 7),7500000,10000000,3.65
+CAL - 5 All Other Risks (Group 7),10000000,15000000,4.219691068
+CAL - 5 All Other Risks (Group 7),15000000,20000000,4.565708282
+CAL - 5 All Other Risks (Group 7),20000000,30000000,5.102101752
+CAL - 5 All Other Risks (Group 7),30000000,40000000,5.520477174
+CAL - 5 All Other Risks (Group 7),40000000,50000000,5.868478696
+CAL - 5 All Other Risks (Group 7),50000000,75000000,6.069302549
+CAL - 5 All Other Risks (Group 7),75000000,100000000,6.70659137
+CAL - 5 All Other Risks (Group 7),100000000,150000000,7.198937869
+CAL - 5 All Other Risks (Group 7),150000000,200000000,7.954840642
+CAL - 5 All Other Risks (Group 7),200000000,300000000,8.538824029
+CAL - 1 Light And Medium Trucks (Group 8),0,100000,1
+CAL - 1 Light And Medium Trucks (Group 8),100000,250000,1.26
+CAL - 1 Light And Medium Trucks (Group 8),250000,500000,1.53
+CAL - 1 Light And Medium Trucks (Group 8),500000,750000,1.73
+CAL - 1 Light And Medium Trucks (Group 8),750000,1000000,1.88
+CAL - 1 Light And Medium Trucks (Group 8),1000000,2000000,2.28
+CAL - 1 Light And Medium Trucks (Group 8),2000000,2500000,2.42
+CAL - 1 Light And Medium Trucks (Group 8),2500000,3000000,2.53
+CAL - 1 Light And Medium Trucks (Group 8),3000000,4000000,2.724117363
+CAL - 1 Light And Medium Trucks (Group 8),4000000,5000000,2.88
+CAL - 1 Light And Medium Trucks (Group 8),5000000,7500000,3.21
+CAL - 1 Light And Medium Trucks (Group 8),7500000,10000000,3.48
+CAL - 1 Light And Medium Trucks (Group 8),10000000,15000000,3.907853036
+CAL - 1 Light And Medium Trucks (Group 8),15000000,20000000,4.227142664
+CAL - 1 Light And Medium Trucks (Group 8),20000000,30000000,4.721939229
+CAL - 1 Light And Medium Trucks (Group 8),30000000,40000000,5.107743456
+CAL - 1 Light And Medium Trucks (Group 8),40000000,50000000,5.428574792
+CAL - 1 Light And Medium Trucks (Group 8),50000000,75000000,5.691662648
+CAL - 1 Light And Medium Trucks (Group 8),75000000,100000000,6.303916483
+CAL - 1 Light And Medium Trucks (Group 8),100000000,150000000,6.7778568
+CAL - 1 Light And Medium Trucks (Group 8),150000000,200000000,7.506952861
+CAL - 1 Light And Medium Trucks (Group 8),200000000,300000000,8.07133972
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),0,100000,1
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),100000,250000,1.27
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),250000,500000,1.55
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),500000,750000,1.77
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),750000,1000000,1.94
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),1000000,2000000,2.42
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),2000000,2500000,2.59
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),2500000,3000000,2.74
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),3000000,4000000,2.987974022
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),4000000,5000000,3.19
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),5000000,7500000,3.64
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),7500000,10000000,4.01
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),10000000,15000000,4.473534323
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),15000000,20000000,4.884267084
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),20000000,30000000,5.527985293
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),30000000,40000000,6.03553134
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),40000000,50000000,6.461091419
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),50000000,75000000,6.844055296
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),75000000,100000000,7.679608874
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),100000000,150000000,8.33360332
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),150000000,200000000,9.351007734
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),200000000,300000000,10.14733828
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),0,100000,1
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),100000,250000,1.32
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),250000,500000,1.67
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),500000,750000,1.94
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),750000,1000000,2.16
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),1000000,2000000,2.75
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),2000000,2500000,2.96
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),2500000,3000000,3.14
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),3000000,4000000,3.474614564
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),4000000,5000000,3.73
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),5000000,7500000,4.32
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),7500000,10000000,4.82
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),10000000,15000000,5.47610332
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),15000000,20000000,6.046052882
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),20000000,30000000,6.951483103
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),30000000,40000000,7.674989311
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),40000000,50000000,8.287650142
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),50000000,75000000,8.824507666
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),75000000,100000000,10.04376129
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),100000000,150000000,11.00969027
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),150000000,200000000,12.53086349
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),200000000,300000000,13.73598216
+CAL - 4 Zone Rated Risks (Group 8),0,100000,1
+CAL - 4 Zone Rated Risks (Group 8),100000,250000,1.32
+CAL - 4 Zone Rated Risks (Group 8),250000,500000,1.64
+CAL - 4 Zone Rated Risks (Group 8),500000,750000,1.86
+CAL - 4 Zone Rated Risks (Group 8),750000,1000000,2.02
+CAL - 4 Zone Rated Risks (Group 8),1000000,2000000,2.41
+CAL - 4 Zone Rated Risks (Group 8),2000000,2500000,2.54
+CAL - 4 Zone Rated Risks (Group 8),2500000,3000000,2.66
+CAL - 4 Zone Rated Risks (Group 8),3000000,4000000,2.8679283
+CAL - 4 Zone Rated Risks (Group 8),4000000,5000000,3.01
+CAL - 4 Zone Rated Risks (Group 8),5000000,7500000,3.34
+CAL - 4 Zone Rated Risks (Group 8),7500000,10000000,3.62
+CAL - 4 Zone Rated Risks (Group 8),10000000,15000000,4.127876497
+CAL - 4 Zone Rated Risks (Group 8),15000000,20000000,4.468380018
+CAL - 4 Zone Rated Risks (Group 8),20000000,30000000,4.99651467
+CAL - 4 Zone Rated Risks (Group 8),30000000,40000000,5.408671099
+CAL - 4 Zone Rated Risks (Group 8),40000000,50000000,5.75163663
+CAL - 4 Zone Rated Risks (Group 8),50000000,75000000,5.985050117
+CAL - 4 Zone Rated Risks (Group 8),75000000,100000000,6.624839169
+CAL - 4 Zone Rated Risks (Group 8),100000000,150000000,7.119838503
+CAL - 4 Zone Rated Risks (Group 8),150000000,200000000,7.880934006
+CAL - 4 Zone Rated Risks (Group 8),200000000,300000000,8.469787105
+CAL - 5 All Other Risks (Group 8),0,100000,1
+CAL - 5 All Other Risks (Group 8),100000,250000,1.25
+CAL - 5 All Other Risks (Group 8),250000,500000,1.48
+CAL - 5 All Other Risks (Group 8),500000,750000,1.65
+CAL - 5 All Other Risks (Group 8),750000,1000000,1.77
+CAL - 5 All Other Risks (Group 8),1000000,2000000,2.1
+CAL - 5 All Other Risks (Group 8),2000000,2500000,2.22
+CAL - 5 All Other Risks (Group 8),2500000,3000000,2.32
+CAL - 5 All Other Risks (Group 8),3000000,4000000,2.532756432
+CAL - 5 All Other Risks (Group 8),4000000,5000000,2.66
+CAL - 5 All Other Risks (Group 8),5000000,7500000,3
+CAL - 5 All Other Risks (Group 8),7500000,10000000,3.29
+CAL - 5 All Other Risks (Group 8),10000000,15000000,3.551725548
+CAL - 5 All Other Risks (Group 8),15000000,20000000,3.822967779
+CAL - 5 All Other Risks (Group 8),20000000,30000000,4.240796896
+CAL - 5 All Other Risks (Group 8),30000000,40000000,4.564662914
+CAL - 5 All Other Risks (Group 8),40000000,50000000,4.83281059
+CAL - 5 All Other Risks (Group 8),50000000,75000000,5.05761839
+CAL - 5 All Other Risks (Group 8),75000000,100000000,5.567156964
+CAL - 5 All Other Risks (Group 8),100000000,150000000,5.959518241
+CAL - 5 All Other Risks (Group 8),150000000,200000000,6.559920286
+CAL - 5 All Other Risks (Group 8),200000000,300000000,7.022249391
+GL - Low,0,100000,0.96
+GL - Low,100000,250000,1.11375
+GL - Low,250000,500000,1.37
+GL - Low,500000,750000,1.44
+GL - Low,750000,1000000,1.51
+GL - Low,1000000,2000000,1.65
+GL - Low,2000000,2500000,1.705
+GL - Low,2500000,3000000,1.76
+GL - Low,3000000,4000000,1.85
+GL - Low,4000000,5000000,1.93
+GL - Low,5000000,7500000,2.113952642
+GL - Low,7500000,10000000,2.225726422
+GL - Low,10000000,15000000,2.393369355
+GL - Low,15000000,20000000,2.5199171
+GL - Low,20000000,30000000,2.709718636
+GL - Low,30000000,40000000,2.85299313
+GL - Low,40000000,50000000,2.969322091
+GL - Low,50000000,75000000,3.041047289
+GL - Low,75000000,100000000,3.248811272
+GL - Low,100000000,150000000,3.404774758
+GL - Low,150000000,200000000,3.637388556
+GL - Low,200000000,300000000,3.812006209
+GL - Medium,0,100000,0.96
+GL - Medium,100000,250000,1.12125
+GL - Medium,250000,500000,1.39
+GL - Medium,500000,750000,1.51
+GL - Medium,750000,1000000,1.63
+GL - Medium,1000000,2000000,1.89
+GL - Medium,2000000,2500000,1.985
+GL - Medium,2500000,3000000,2.08
+GL - Medium,3000000,4000000,2.22
+GL - Medium,4000000,5000000,2.34
+GL - Medium,5000000,7500000,2.535
+GL - Medium,7500000,10000000,2.73
+GL - Medium,10000000,15000000,2.983329648
+GL - Medium,15000000,20000000,3.182181911
+GL - Medium,20000000,30000000,3.485156398
+GL - Medium,30000000,40000000,3.717457659
+GL - Medium,40000000,50000000,3.90825549
+GL - Medium,50000000,75000000,4.09609412
+GL - Medium,75000000,100000000,4.463006491
+GL - Medium,100000000,150000000,4.743099116
+GL - Medium,150000000,200000000,5.167967708
+GL - Medium,200000000,300000000,5.492302804
+GL - High,0,100000,0.96
+GL - High,100000,250000,1.13625
+GL - High,250000,500000,1.43
+GL - High,500000,750000,1.59
+GL - High,750000,1000000,1.75
+GL - High,1000000,2000000,2.13
+GL - High,2000000,2500000,2.255
+GL - High,2500000,3000000,2.38
+GL - High,3000000,4000000,2.57
+GL - High,4000000,5000000,2.72
+GL - High,5000000,7500000,3
+GL - High,7500000,10000000,3.28
+GL - High,10000000,15000000,3.615963241
+GL - High,15000000,20000000,3.901735354
+GL - High,20000000,30000000,4.343265095
+GL - High,30000000,40000000,4.686516385
+GL - High,40000000,50000000,4.971336345
+GL - High,50000000,75000000,5.29022273
+GL - High,75000000,100000000,5.860050492
+GL - High,100000000,150000000,6.301197624
+GL - High,150000000,200000000,6.979920907
+GL - High,200000000,300000000,7.505372368
+Healthcare (Low),0,100000,0.395650134
+Healthcare (Low),100000,250000,0.641900377
+Healthcare (Low),250000,500000,0.832939744
+Healthcare (Low),500000,750000,0.93542769
+Healthcare (Low),750000,1000000,1
+Healthcare (Low),1000000,2000000,1.126499664
+Healthcare (Low),2000000,2500000,1.158151001
+Healthcare (Low),2500000,3000000,1.189802338
+Healthcare (Low),3000000,4000000,1.222366388
+Healthcare (Low),4000000,5000000,1.239979621
+Healthcare (Low),5000000,7500000,1.255750305
+Healthcare (Low),7500000,10000000,1.271520988
+Healthcare (Low),10000000,15000000,1.277599559
+Healthcare (Low),15000000,20000000,1.279467427
+Healthcare (Low),20000000,30000000,1.279467427
+Healthcare (Low),30000000,40000000,1.279467427
+Healthcare (Low),40000000,50000000,1.279467427
+Healthcare (Low),50000000,75000000,1.279467427
+Healthcare (Low),75000000,100000000,1.279467427
+Healthcare (Low),100000000,150000000,1.279467427
+Healthcare (Low),150000000,200000000,1.279467427
+Healthcare (Low),200000000,300000000,1.279467427
+Healthcare (Medium),0,100000,0.317905437
+Healthcare (Medium),100000,250000,0.551388539
+Healthcare (Medium),250000,500000,0.766430096
+Healthcare (Medium),500000,750000,0.900666711
+Healthcare (Medium),750000,1000000,1
+Healthcare (Medium),1000000,2000000,1.258193819
+Healthcare (Medium),2000000,2500000,1.345909405
+Healthcare (Medium),2500000,3000000,1.43362499
+Healthcare (Medium),3000000,4000000,1.553384429
+Healthcare (Medium),4000000,5000000,1.634575345
+Healthcare (Medium),5000000,7500000,1.734503176
+Healthcare (Medium),7500000,10000000,1.834431007
+Healthcare (Medium),10000000,15000000,1.907491799
+Healthcare (Medium),15000000,20000000,1.942545377
+Healthcare (Medium),20000000,30000000,1.970460255
+Healthcare (Medium),30000000,40000000,1.982392246
+Healthcare (Medium),40000000,50000000,1.989788044
+Healthcare (Medium),50000000,75000000,2.544849537
+Healthcare (Medium),75000000,100000000,2.777119442
+Healthcare (Medium),100000000,150000000,2.954663721
+Healthcare (Medium),150000000,200000000,3.224337606
+Healthcare (Medium),200000000,300000000,3.430473031
+Healthcare (Medium/High),0,100000,0.24731925
+Healthcare (Medium/High),100000,250000,0.469722817
+Healthcare (Medium/High),250000,500000,0.708597526
+Healthcare (Medium/High),500000,750000,0.872601083
+Healthcare (Medium/High),750000,1000000,1
+Healthcare (Medium/High),1000000,2000000,1.343110968
+Healthcare (Medium/High),2000000,2500000,1.455177585
+Healthcare (Medium/High),2500000,3000000,1.567244201
+Healthcare (Medium/High),3000000,4000000,1.720231049
+Healthcare (Medium/High),4000000,5000000,1.829568588
+Healthcare (Medium/High),5000000,7500000,1.971706758
+Healthcare (Medium/High),7500000,10000000,2.113844927
+Healthcare (Medium/High),10000000,15000000,2.231690824
+Healthcare (Medium/High),15000000,20000000,2.295919036
+Healthcare (Medium/High),20000000,30000000,2.356606656
+Healthcare (Medium/High),30000000,40000000,2.385761833
+Healthcare (Medium/High),40000000,50000000,2.401693602
+Healthcare (Medium/High),50000000,75000000,2.590657021
+Healthcare (Medium/High),75000000,100000000,2.893183557
+Healthcare (Medium/High),100000000,150000000,3.129020836
+Healthcare (Medium/High),150000000,200000000,3.494415339
+Healthcare (Medium/High),200000000,300000000,3.779261906
+Healthcare (High),0,100000,0.226831767
+Healthcare (High),100000,250000,0.441946451
+Healthcare (High),250000,500000,0.685026904
+Healthcare (High),500000,750000,0.86026851
+Healthcare (High),750000,1000000,1
+Healthcare (High),1000000,2000000,1.394439001
+Healthcare (High),2000000,2500000,1.528223357
+Healthcare (High),2500000,3000000,1.662007712
+Healthcare (High),3000000,4000000,1.848183356
+Healthcare (High),4000000,5000000,1.985261337
+Healthcare (High),5000000,7500000,2.167186844
+Healthcare (High),7500000,10000000,2.34911235
+Healthcare (High),10000000,15000000,2.500734509
+Healthcare (High),15000000,20000000,2.584140498
+Healthcare (High),20000000,30000000,2.66281673
+Healthcare (High),30000000,40000000,2.705497649
+Healthcare (High),40000000,50000000,2.726761686
+Healthcare (High),50000000,75000000,3.034483845
+Healthcare (High),75000000,100000000,3.436578533
+Healthcare (High),100000000,150000000,3.753784071
+Healthcare (High),150000000,200000000,4.251192102
+Healthcare (High),200000000,300000000,4.643588686
+Healthcare (Very High),0,100000,0.206727536
+Healthcare (Very High),100000,250000,0.411971916
+Healthcare (Very High),250000,500000,0.657584031
+Healthcare (Very High),500000,750000,0.844288845
+Healthcare (Very High),750000,1000000,1
+Healthcare (Very High),1000000,2000000,1.476110017
+Healthcare (Very High),2000000,2500000,1.655845262
+Healthcare (Very High),2500000,3000000,1.835580508
+Healthcare (Very High),3000000,4000000,2.101053265
+Healthcare (Very High),4000000,5000000,2.307533324
+Healthcare (Very High),5000000,7500000,2.624681342
+Healthcare (Very High),7500000,10000000,2.94182936
+Healthcare (Very High),10000000,15000000,3.260863346
+Healthcare (Very High),15000000,20000000,3.460226833
+Healthcare (Very High),20000000,30000000,3.691375636
+Healthcare (Very High),30000000,40000000,3.830670242
+Healthcare (Very High),40000000,50000000,3.921343249
+Healthcare (Very High),50000000,75000000,4.420165917
+Healthcare (Very High),75000000,100000000,5.174009592
+Healthcare (Very High),100000000,150000000,5.785617986
+Healthcare (Very High),150000000,200000000,6.772334685
+Healthcare (Very High),200000000,300000000,7.572877604
+Cyber (Low),0,100000,0.569730394
+Cyber (Low),100000,250000,0.569730394
+Cyber (Low),250000,500000,0.633363731
+Cyber (Low),500000,750000,0.676536435
+Cyber (Low),750000,1000000,0.71970914
+Cyber (Low),1000000,2000000,1.212153036
+Cyber (Low),2000000,2500000,1.389448838
+Cyber (Low),2500000,3000000,1.544641365
+Cyber (Low),3000000,4000000,1.812038305
+Cyber (Low),4000000,5000000,2.041539979
+Cyber (Low),5000000,7500000,2.517735741
+Cyber (Low),7500000,10000000,2.910333477
+Cyber (Low),10000000,15000000,3.557005073
+Cyber (Low),15000000,20000000,4.093912127
+Cyber (Low),20000000,30000000,4.982531486
+Cyber (Low),30000000,40000000,5.646551861
+Cyber (Low),40000000,50000000,6.167809758
+Cyber (Low),50000000,75000000,6.798296979
+Cyber (Low),75000000,100000000,8.182483375
+Cyber (Low),100000000,150000000,9.332331284
+Cyber (Low),150000000,200000000,11.23246687
+Cyber (Low),200000000,300000000,12.81091536
+Cyber (High),0,100000,0.569730394
+Cyber (High),100000,250000,0.569730394
+Cyber (High),250000,500000,0.633363731
+Cyber (High),500000,750000,0.676536435
+Cyber (High),750000,1000000,0.71970914
+Cyber (High),1000000,2000000,1.218173154
+Cyber (High),2000000,2500000,1.430941108
+Cyber (High),2500000,3000000,1.618029305
+Cyber (High),3000000,4000000,1.935485339
+Cyber (High),4000000,5000000,2.216895411
+Cyber (High),5000000,7500000,2.759064059
+Cyber (High),7500000,10000000,3.187913152
+Cyber (High),10000000,15000000,3.915642121
+Cyber (High),15000000,20000000,4.522225091
+Cyber (High),20000000,30000000,5.503813516
+Cyber (High),30000000,40000000,6.237304981
+Cyber (High),40000000,50000000,6.813097882
+Cyber (High),50000000,75000000,7.673775366
+Cyber (High),75000000,100000000,9.323611761
+Cyber (High),100000000,150000000,10.70511085
+Cyber (High),150000000,200000000,13.00667438
+Cyber (High),200000000,300000000,14.93390057
+Public D&O (Small),0,100000,0.365276098
+Public D&O (Small),100000,250000,0.642968999
+Public D&O (Small),250000,500000,0.98617876
+Public D&O (Small),500000,750000,1.266547728
+Public D&O (Small),750000,1000000,1.599001204
+Public D&O (Small),1000000,2000000,1.93145468
+Public D&O (Small),2000000,2500000,2.360489079
+Public D&O (Small),2500000,3000000,2.789523479
+Public D&O (Small),3000000,4000000,3.581435719
+Public D&O (Small),4000000,5000000,4.315149813
+Public D&O (Small),5000000,7500000,5.81932573
+Public D&O (Small),7500000,10000000,7.323501646
+Public D&O (Small),10000000,15000000,9.58345028
+Public D&O (Small),15000000,20000000,11.36868382
+Public D&O (Small),20000000,30000000,14.04619286
+Public D&O (Small),30000000,40000000,15.9824116
+Public D&O (Small),40000000,50000000,17.45937902
+Public D&O (Small),50000000,75000000,21.4407815
+Public D&O (Small),75000000,100000000,27.49569252
+Public D&O (Small),100000000,150000000,32.80265126
+Public D&O (Small),150000000,200000000,42.0661725
+Public D&O (Small),200000000,300000000,50.1853876
+Public D&O (Medium),0,100000,0.188594922
+Public D&O (Medium),100000,250000,0.390708184
+Public D&O (Medium),250000,500000,0.677861943
+Public D&O (Medium),500000,750000,0.935655972
+Public D&O (Medium),750000,1000000,1
+Public D&O (Medium),1000000,2000000,1.985970527
+Public D&O (Medium),2000000,2500000,2.468100875
+Public D&O (Medium),2500000,3000000,2.950231223
+Public D&O (Medium),3000000,4000000,3.889956456
+Public D&O (Medium),4000000,5000000,4.804347293
+Public D&O (Medium),5000000,7500000,6.90852635
+Public D&O (Medium),7500000,10000000,9.012705406
+Public D&O (Medium),10000000,15000000,12.69470889
+Public D&O (Medium),15000000,20000000,15.95317888
+Public D&O (Medium),20000000,30000000,21.49760077
+Public D&O (Medium),30000000,40000000,26.07683199
+Public D&O (Medium),40000000,50000000,29.95016464
+Public D&O (Medium),50000000,75000000,37.7846924
+Public D&O (Medium),75000000,100000000,51.87186815
+Public D&O (Medium),100000000,150000000,64.94892898
+Public D&O (Medium),150000000,200000000,89.16368154
+Public D&O (Medium),200000000,300000000,111.6421256
+Public D&O (Large),0,100000,0.154191343
+Public D&O (Large),100000,250000,0.35731444
+Public D&O (Large),250000,500000,0.674769244
+Public D&O (Large),500000,750000,0.978737395
+Public D&O (Large),750000,1000000,1
+Public D&O (Large),1000000,2000000,1.998714362
+Public D&O (Large),2000000,2500000,2.49631676
+Public D&O (Large),2500000,3000000,2.993919158
+Public D&O (Large),3000000,4000000,3.984217431
+Public D&O (Large),4000000,5000000,4.968505117
+Public D&O (Large),5000000,7500000,7.374217253
+Public D&O (Large),7500000,10000000,9.779929388
+Public D&O (Large),10000000,15000000,14.38644095
+Public D&O (Large),15000000,20000000,18.78453937
+Public D&O (Large),20000000,30000000,26.9940238
+Public D&O (Large),30000000,40000000,34.5049545
+Public D&O (Large),40000000,50000000,41.4123718
+Public D&O (Large),50000000,75000000,48.19048928
+Public D&O (Large),75000000,100000000,67.73514439
+Public D&O (Large),100000000,150000000,86.24168613
+Public D&O (Large),150000000,200000000,121.2187954
+Public D&O (Large),200000000,300000000,154.3380974
+Physicians,0,100000,0.392289617
+Physicians,100000,250000,0.682204005
+Physicians,250000,500000,0.89
+Physicians,500000,750000,1.02
+Physicians,750000,1000000,1.12
+Physicians,1000000,2000000,1.35
+Physicians,2000000,2500000,1.41
+Physicians,2500000,3000000,1.46
+Physicians,3000000,4000000,1.559451076
+Physicians,4000000,5000000,1.630053696
+Physicians,5000000,7500000,1.758342856
+Physicians,7500000,10000000,1.849365464
+Physicians,10000000,15000000,1.977654624
+Physicians,15000000,20000000,2.068677232
+Physicians,20000000,30000000,2.196966392
+Physicians,30000000,40000000,2.287989
+Physicians,40000000,50000000,2.358591619
+Physicians,50000000,75000000,2.675528889
+Physicians,75000000,100000000,2.907016243
+Physicians,100000000,150000000,3.08330647
+Physicians,150000000,200000000,3.350074831
+Physicians,200000000,300000000,3.553233466
+A&E Small Risks,0,100000,0.55
+A&E Small Risks,100000,250000,0.8
+A&E Small Risks,250000,500000,1
+A&E Small Risks,500000,750000,1.15
+A&E Small Risks,750000,1000000,1.25
+A&E Small Risks,1000000,2000000,1.566
+A&E Small Risks,2000000,2500000,1.7405
+A&E Small Risks,2500000,3000000,1.915
+A&E Small Risks,3000000,4000000,2.26
+A&E Small Risks,4000000,5000000,2.45
+A&E Small Risks,5000000,7500000,2.805
+A&E Small Risks,7500000,10000000,3.16
+A&E Small Risks,10000000,15000000,3.87
+A&E Small Risks,15000000,20000000,4.58
+A&E Small Risks,20000000,30000000,4.7379
+A&E Small Risks,30000000,40000000,5.7379
+A&E Small Risks,40000000,50000000,6.7379
+A&E Small Risks,50000000,75000000,6.949961729
+A&E Small Risks,75000000,100000000,8.07655947
+A&E Small Risks,100000000,150000000,8.98499288
+A&E Small Risks,150000000,200000000,10.44147179
+A&E Small Risks,200000000,300000000,11.61590527
+Crime - LATAM,0,100000,0.442557805
+Crime - LATAM,100000,250000,0.632306787
+Crime - LATAM,250000,500000,0.828226122
+Crime - LATAM,500000,750000,0.969881913
+Crime - LATAM,750000,1000000,1
+Crime - LATAM,1000000,2000000,1.396920959
+Crime - LATAM,2000000,2500000,1.549986243
+Crime - LATAM,2500000,3000000,1.670502922
+Crime - LATAM,3000000,4000000,1.88480418
+Crime - LATAM,4000000,5000000,2.063323889
+Crime - LATAM,5000000,7500000,2.377490883
+Crime - LATAM,7500000,10000000,2.692853672
+Crime - LATAM,10000000,15000000,3.11950407
+Crime - LATAM,15000000,20000000,3.451481273
+Crime - LATAM,20000000,30000000,3.96464066
+Crime - LATAM,30000000,40000000,4.562597571
+Crime - LATAM,40000000,50000000,4.976785512
+Crime - LATAM,50000000,75000000,5.311423343
+Crime - LATAM,75000000,100000000,6.147128078
+Crime - LATAM,100000000,150000000,6.818656331
+Crime - LATAM,150000000,200000000,7.891510633
+Crime - LATAM,200000000,300000000,8.753599772
+PI - LATAM,0,100000,0.361093759
+PI - LATAM,100000,250000,0.555815105
+PI - LATAM,250000,500000,0.770238395
+PI - LATAM,500000,750000,0.932204767
+PI - LATAM,750000,1000000,1
+PI - LATAM,1000000,2000000,1.464877862
+PI - LATAM,2000000,2500000,1.642972691
+PI - LATAM,2500000,3000000,1.804989927
+PI - LATAM,3000000,4000000,2.081982425
+PI - LATAM,4000000,5000000,2.319532552
+PI - LATAM,5000000,7500000,2.755569184
+PI - LATAM,7500000,10000000,3.203811176
+PI - LATAM,10000000,15000000,3.841788159
+PI - LATAM,15000000,20000000,4.358403861
+PI - LATAM,20000000,30000000,5.18987125
+PI - LATAM,30000000,40000000,6.059120933
+PI - LATAM,40000000,50000000,6.730156507
+PI - LATAM,50000000,75000000,7.307723903
+PI - LATAM,75000000,100000000,8.718303861
+PI - LATAM,100000000,150000000,9.881342445
+PI - LATAM,150000000,200000000,11.78869743
+PI - LATAM,200000000,300000000,13.36133245
+UK PI (HC20 2m),0,100000,1
+UK PI (HC20 2m),100000,250000,1.1
+UK PI (HC20 2m),250000,500000,1.2
+UK PI (HC20 2m),500000,750000,1.35
+UK PI (HC20 2m),750000,1000000,1.5
+UK PI (HC20 2m),1000000,2000000,2.25
+UK PI (HC20 2m),2000000,2500000,2.375
+UK PI (HC20 2m),2500000,3000000,2.5
+UK PI (HC20 2m),3000000,4000000,2.75
+UK PI (HC20 2m),4000000,5000000,3
+UK PI (HC20 2m),5000000,7500000,3
+UK PI (HC20 2m),7500000,10000000,3
+UK PI (HC20 2m),10000000,15000000,3
+UK PI (HC20 2m),15000000,20000000,3
+UK PI (HC20 2m),20000000,30000000,3
+UK PI (HC20 2m),30000000,40000000,3
+UK PI (HC20 2m),40000000,50000000,3
+UK PI (HC20 2m),50000000,75000000,3
+UK PI (HC20 2m),75000000,100000000,3
+UK PI (HC20 2m),100000000,150000000,3
+UK PI (HC20 2m),150000000,200000000,3
+UK PI (HC20 2m),200000000,300000000,3
+UK PI (HC8 2m),0,100000,0.8
+UK PI (HC8 2m),100000,250000,0.9
+UK PI (HC8 2m),250000,500000,1
+UK PI (HC8 2m),500000,750000,1.1
+UK PI (HC8 2m),750000,1000000,1.2
+UK PI (HC8 2m),1000000,2000000,1.44
+UK PI (HC8 2m),2000000,2500000,1.6
+UK PI (HC8 2m),2500000,3000000,1.76
+UK PI (HC8 2m),3000000,4000000,2.08
+UK PI (HC8 2m),4000000,5000000,2.4
+UK PI (HC8 2m),5000000,7500000,3.125
+UK PI (HC8 2m),7500000,10000000,3.85
+UK PI (HC8 2m),10000000,15000000,3.85
+UK PI (HC8 2m),15000000,20000000,3.85
+UK PI (HC8 2m),20000000,30000000,3.85
+UK PI (HC8 2m),30000000,40000000,3.85
+UK PI (HC8 2m),40000000,50000000,3.85
+UK PI (HC8 2m),50000000,75000000,3.85
+UK PI (HC8 2m),75000000,100000000,3.85
+UK PI (HC8 2m),100000000,150000000,3.85
+UK PI (HC8 2m),150000000,200000000,3.85
+UK PI (HC8 2m),200000000,300000000,3.85

@@ -1,0 +1,42 @@
+### FAO
+
+@satish-nichani-bzy (Approvers)
+
+### Model Name
+
+GitHub Workflow POC
+
+### Model Version Id
+
+6335
+
+### Model Version Label
+
+v1.6.3
+
+### Developer
+
+mark.fleet@beazley.com
+
+### Release Note
+```
+Merging Day-2 branch. Includes the following changes: 
+1) Section reference allocation
+2) Displaying 5 lobs
+3) Stopping users from running the “Start Policy” task for a renewed policy if “Import Expiring” clicked.
+4) Warning when weighting towards 0 experience
+BBT fetch timestamp
+5) Adding rate change total weighted by projected premium
+6) Improvements to policy document
+7) Example data matches excel
+8) Other bug fixes
+9) Increasing max Lobs & Risk Codes from 101 to 1001
+
+18/08/2026, 14:20:50 - mark.fleet@beazley.com
+```
+
+### Required Actions
+
+No breaking changes found
+
+Please approve PR to release Model Version.

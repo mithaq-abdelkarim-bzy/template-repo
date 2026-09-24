@@ -1,0 +1,17 @@
+item,load
+roc,0.15
+indirect_expenses,4952.79019865103
+direct_expenses,0.111570624379154
+lae,0.0348516101501719 
+gross_group_cat_risk,1575000000
+held_capital,5267426299.4731
+add_group_cat_risk,0.1
+add_cap_req,0.00821377506583411 
+attr_cap,0.0717103395583415
+inv_income,0.0519800137323411
+sd_factor_us,0.12
+sd_factor_intl,0.075
+maxlr,0.8
+comb_ratio,0.9
+black_swan,0
+default_line,0.05

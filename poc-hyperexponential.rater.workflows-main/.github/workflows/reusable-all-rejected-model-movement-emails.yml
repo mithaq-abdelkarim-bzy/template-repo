@@ -1,0 +1,204 @@
+name: Reusable - All - Rejected Model Movement Emails
+
+env:
+  PATH_MODEL: model
+  PATH_SHARED: shared
+  PATH_PIPELINE: pipeline
+
+on:
+  workflow_call:
+    inputs:
+      MOVEMENT_SOURCE:
+        required: true
+        type: string
+      TITLE:
+        required: true
+        type: string
+      ISSUE_NUMBER:
+        required: true
+        type: string
+    secrets:
+      READ_GITHUB_REPO_PAT:
+        required: true
+      EMAIL_AZURE_AD_CLIENTSECRET:
+        required: true
+
+jobs:
+  process:
+    name: Rejected model movement email
+    runs-on:
+      group: ubuntu-arm-runners
+    steps:
+
+      - name: Checkout model repository
+        id: checkout-model-repository-main
+        uses: actions/checkout@v4
+        with:
+          path: ${{ env.PATH_MODEL }}
+
+      - name: Read model config
+        id: read-model-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_MODEL }}/.github/workflows/model_config.json', 'utf8');
+            var model_config = JSON.parse(jsonString);
+            core.setOutput('model_config', model_config);
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+
+      - name: Prepare pipeline
+        id: prepare-pipeline
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_SHARED }}/.github/workflows/pipeline ${{ env.PATH_PIPELINE }}
+
+      - name: Set up python
+        id: set-up-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          
+      - name: Restore cached virtualenv
+        id: restore-cached-virtualenv
+        uses: actions/cache/restore@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Set up virtualenv and install dependencies
+        id: setup-virtualenv
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r ${{ env.PATH_PIPELINE }}/requirements.txt
+          echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+
+      - name: Saved cached virtualenv
+        id: save-cached-virtualenv
+        if: steps.restore-cached-virtualenv.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Get issue comments
+        id: get-issue-comments
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issueComments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: ${{ inputs.ISSUE_NUMBER }},
+            }).catch(err => {
+              console.error('Error getting issue comments:', err)
+              throw err;
+            });
+            if (issueComments.data.length == 0) {
+              core.setOutput('last', 'N/A');
+            } else {
+              var last = issueComments.data[issueComments.data.length - 1];
+              last = JSON.stringify(last.body).slice(1, -1).replace(/'/g, "\\'").replace(/’/g, "\\'")
+              core.setOutput('last', last);
+            }
+      
+      - name: Get issue body
+        id: get-issue-body
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: ${{ inputs.ISSUE_NUMBER }}
+            })
+            core.setOutput('title', issue.data.title)
+            core.setOutput('body', issue.data.body)
+
+      - name: Issue Forms Body Parser
+        id: parse
+        uses: beazley/mirror-issue-forms-body-parser@93bd9fdcb3679be1889d2006e9c2cf496899402e
+        with:
+          body: ${{ steps.get-issue-body.outputs.body }}
+
+      - name: Create email content
+        id: create-email-content
+        uses: actions/github-script@v7
+        env:
+          ISSUE_FORM_JSON: ${{ steps.parse.outputs.data }}
+        with:
+          script: |
+            const issueForm = JSON.parse(process.env.ISSUE_FORM_JSON)
+            const model_config = ${{ steps.read-model-config.outputs.model_config }}
+            const shared_config = ${{ steps.read-shared-config.outputs.shared_config }}
+            var sender_upn = shared_config["EMAIL_SENDER_UPN"];
+            const live_model = issueForm["model-version-label"].text.startsWith("v0.")
+            const recipients_developer = [issueForm["developer"].text.replace("<", "").replace(">", "")]
+            const recipients_ba_team = model_config["EMAIL_RECIPIENTS_BA_TEAM"] ?? shared_config["EMAIL_RECIPIENTS_BA_TEAM"];
+            const recipients_it_team = model_config["EMAIL_RECIPIENTS_IT_TEAM"] ?? shared_config["EMAIL_RECIPIENTS_IT_TEAM"];
+            const recipients_rating_support_and_enhancements_team = model_config["EMAIL_RECIPIENTS_RATING_SUPPORT_AND_ENHANCEMENTS_TEAM"] ?? shared_config["EMAIL_RECIPIENTS_RATING_SUPPORT_AND_ENHANCEMENTS_TEAM"];
+            const recipients_project_test_team = model_config["EMAIL_RECIPIENTS_PROJECT_TEST_TEAM"] ?? shared_config["EMAIL_RECIPIENTS_PROJECT_TEST_TEAM"];
+            const recipients_stakeholders = model_config["EMAIL_RECIPIENTS_STAKEHOLDERS"]
+            var recipients = [];
+            recipients = recipients.concat(recipients_developer, recipients_ba_team, recipients_it_team, recipients_rating_support_and_enhancements_team, recipients_stakeholders);
+            if (live_model) {
+              recipients = recipients.concat(recipients_project_test_team); 
+            }
+            recipients = recipients.filter(n => n);
+            var subject;
+            var body;
+            subject = '${{ inputs.MOVEMENT_SOURCE }} Model Movement - ' + issueForm["model-name"].text + ' - ' + issueForm["model-version-label"].text
+            body = [
+              'Please be advised that model movement issue \'${{ inputs.TITLE }}\ pertaining the the below mentioned model has been processed.',
+              '',
+              '<b>Model Name:</b> ' + issueForm["model-name"].text,
+              '<b>Model Version Id:</b> ' + issueForm["model-version-id"].text,
+              '<b>Model Version Label:</b> ' + issueForm["model-version-label"].text,
+              '<b>Developer:</b> ' + issueForm["developer"].text.replace("<", "").replace(">", ""),
+              '<b>Release Note:</b> ' + issueForm["release-note"].text,
+              '',
+              '<b>Required Actions:</b> ' + issueForm["required-actions"].text,
+              '',
+              '<b>Comments:</b> ${{ steps.get-issue-comments.outputs.last }}'
+            ].join('<br>')
+            core.setOutput('sender_upn', sender_upn)
+            core.setOutput('recipients', recipients)
+            core.setOutput('subject', subject)
+            core.setOutput('body', body)
+
+      - name: Send email
+        id: send-email
+        working-directory: ${{ env.PATH_PIPELINE }}
+        run: python -u graph_emails.py
+        env: 
+          EMAIL_UPN: ${{ steps.create-email-content.outputs.sender_upn }}
+          EMAIL_AZURE_AD_CLIENTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).EMAIL_AZURE_AD_CLIENTID }}
+          EMAIL_AZURE_AD_CLIENTSECRET: ${{ secrets.EMAIL_AZURE_AD_CLIENTSECRET }}
+          EMAIL_AZURE_AD_TENANTID:  ${{ fromJSON(steps.read-shared-config.outputs.shared_config).EMAIL_AZURE_AD_TENANTID }}
+          EMAIL_TO: ${{ steps.create-email-content.outputs.recipients }}
+          EMAIL_SUBJECT: ${{ steps.create-email-content.outputs.subject }}
+          EMAIL_BODY: ${{ steps.create-email-content.outputs.body }}

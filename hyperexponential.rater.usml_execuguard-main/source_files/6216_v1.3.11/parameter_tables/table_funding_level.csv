@@ -1,0 +1,4 @@
+﻿Response,Factor,Description
+Above Average,0.95,Current funding ratio between 100% and 120%. 
+Average,1,"Current funding ratio between 80% and 100%, or greater than 120% and financial condition of sponsor is average or above average"
+Below Average,1.1,"Current funding ratio less than 80%, or greater than 120% and financial condition of sponsor is below average"

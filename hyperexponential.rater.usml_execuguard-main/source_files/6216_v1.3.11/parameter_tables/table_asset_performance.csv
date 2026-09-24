@@ -1,0 +1,4 @@
+﻿Response,Factor,CW,"HI,NE"
+Average,1,0,0
+Decline in Asset Value,1.1,Asset values have declined at a rate greater than average when compared to plan contributions and employee count changes. ,Asset values have declined at a rate of between 15% and 25% taking into account plan contributions and employee count changes.
+Severe Asset Value Decline,1.2,Asset values have declined at a rate significantly higher than average when compared to plan contributions and employee count changes.,Asset values have declined at a rate of greater than 25% taking into account plan contributions and employee count changes.

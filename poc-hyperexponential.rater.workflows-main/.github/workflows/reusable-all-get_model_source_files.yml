@@ -1,0 +1,190 @@
+name: Reusable - All - Get Model Source Files
+
+env:
+  PATH_STAGING: staging
+  PATH_SHARED: shared
+  PATH_PIPELINE: pipeline
+  OUTPUT_FOLDER: source_files
+on:
+  workflow_call:
+    inputs:
+      ENVIRONMENT:
+        required: true
+        type: string
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET:
+        required: true
+      READ_GITHUB_REPO_PAT:
+        required: true
+    outputs:
+      source_files_changed:
+        value: ${{ jobs.refresh-source-files.outputs.source_files_changed }}
+      prod_pending_changes:
+        value: ${{ jobs.refresh-source-files.outputs.prod_pending_changes }}
+      dev_newly_marked_for_testing:
+        value: ${{ jobs.refresh-source-files.outputs.dev_newly_marked_for_testing }}
+
+jobs:
+  refresh-source-files:
+    name: Refresh source files
+    runs-on:
+      group: ubuntu-arm-runners
+    environment: ${{ inputs.ENVIRONMENT }}
+    outputs:
+      source_files_changed: ${{ steps.get-model-source-files.outputs.source_files_changed == 'True' && steps.get-model-source-files.outputs.source_files_changed || '' }}
+      prod_pending_changes: ${{ inputs.environment == 'us-prd' && steps.get-model-source-files.outputs.pending_changes || '' }}
+      dev_newly_marked_for_testing: ${{ inputs.environment == 'us-dev' && steps.get-model-source-files.outputs.newly_marked_for_testing || '' }}
+
+    steps:
+
+      - name: Checkout model repository
+        id: checkout-model-repository
+        uses: actions/checkout@v4
+        with:
+          path: ${{ env.PATH_STAGING }}
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+
+      - name: Check if env branch exists
+        id: check-env-branch-exists
+        working-directory: ${{ env.PATH_STAGING }}
+        run: |
+          git fetch --all
+          if git branch -a | grep -q ${{ inputs.ENVIRONMENT }}; then
+            echo "EXISTS=true" >> $GITHUB_OUTPUT;
+          else
+            echo "EXISTS=false" >> $GITHUB_OUTPUT;
+          fi
+
+      - name: Clear staging
+        id: clear-staging
+        shell: bash
+        run: |
+          rm -rf -r ${{ env.PATH_STAGING }}
+        if: steps.check-env-branch-exists.outputs.EXISTS == 'true'
+
+      - name: Checkout env branch if exists
+        id: checkout-env-branch-if-exists
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ENVIRONMENT}}
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_STAGING }}
+          sparse-checkout: |
+            /source_files/
+            !/source_files/*/
+            /source_files/model_versions.json
+            /source_files/*/metadata.json
+          sparse-checkout-cone-mode: false
+        if: steps.check-env-branch-exists.outputs.EXISTS == 'true'
+
+      - name: Create and checkout env branch if not exists
+        id: create-and-checkout-env-branch-if-not-exists
+        working-directory: ${{ env.PATH_STAGING }}
+        shell: bash
+        run: |
+          git push -d origin ${{ inputs.ENVIRONMENT}} || true
+          git branch -D ${{ inputs.ENVIRONMENT}} || true
+          git checkout --orphan ${{ inputs.ENVIRONMENT}}
+          git rm -rf .
+        if: steps.check-env-branch-exists.outputs.EXISTS == 'false'
+          
+      - name: Prepare pipeline
+        id: prepare-pipeline
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_SHARED }}/.github/workflows/pipeline ${{ env.PATH_PIPELINE }}
+          if "${{steps.check-env-branch-exists.outputs.EXISTS}}" =='true'; then
+            cp -r ${{ env.PATH_STAGING }}/source_files ${{ env.PATH_PIPELINE }}/${{ env.OUTPUT_FOLDER }}
+            rm -rf -r ${{ env.PATH_STAGING }}/source_files/*
+          fi
+          
+      - name: Set up python
+        id: set-up-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          
+      - name: Restore cached virtualenv
+        id: restore-cached-virtualenv
+        uses: actions/cache/restore@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Set up virtualenv and install dependencies
+        id: setup-virtualenv
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r ${{ env.PATH_PIPELINE }}/requirements.txt
+          echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+
+      - name: Saved cached virtualenv
+        id: save-cached-virtualenv
+        if: steps.restore-cached-virtualenv.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Get model source files
+        id: get-model-source-files
+        working-directory: ${{ env.PATH_PIPELINE }}
+        run: python -u hx_get_model_source_files.py
+        env: 
+          HX_API_BASE_URL: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_API_BASE_URL[inputs.environment] }}
+          HX_MODEL_ID: ${{ vars.HX_MODEL_ID }}
+          HX_IGNORE_MODEL_VERSION_IDS: ${{ vars.HX_IGNORE_MODEL_VERSION_IDS }}
+          HX_AZURE_AD_TENANTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_TENANTID }}
+          HX_AZURE_AD_CLIENTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_CLIENTID[inputs.environment] }}
+          HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+          HX_AZURE_AD_SCOPE: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_SCOPE[inputs.environment] }}
+          
+      - name: Copy to staging
+        id: copy-to-staging
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_PIPELINE }}/${{ env.OUTPUT_FOLDER }} ${{ env.PATH_STAGING }}
+
+      - name: Remove redundant model version folders e.g. due to label change
+        id: remove-redundant-model-version-folders
+        shell: bash
+        working-directory: ${{ env.PATH_STAGING }}
+        run: |
+          declare -a arr=(${{ steps.get-model-source-files.outputs.redundant_model_version_folders }})
+          for i in "${arr[@]}"
+          do
+            echo "$i"
+            git rm --sparse -r "$i"
+          done
+
+      - name: Commit and push
+        id: CommitAndPush
+        if: ${{ steps.get-model-source-files.outputs.source_files_changed == 'True' }}
+        working-directory: ${{ env.PATH_STAGING }}
+        run: |
+          git config set advice.updateSparsePath false
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A --sparse
+          git commit -m "Sync ${{ inputs.ENVIRONMENT}}" -a
+          git push --set-upstream origin ${{ inputs.ENVIRONMENT}}

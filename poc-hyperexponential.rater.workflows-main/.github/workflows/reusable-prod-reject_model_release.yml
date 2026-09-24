@@ -1,0 +1,142 @@
+name: Reusable - Prod - Reject Model Release
+
+env:
+  PATH_STAGING: staging
+  PATH_SHARED: shared
+  PATH_PIPELINE: pipeline
+  OUTPUT_FOLDER: source_files
+  REVIEWER: satish-nichani-bzy
+  FAO: satish-nichani-bzy
+  
+  #REVIEWER: sec-sso-po-hyperexponential
+  #FAO: beazley/sec-sso-po-hyperexponential
+
+on:
+  workflow_call:
+    inputs:
+      ENVIRONMENT:
+        required: true
+        type: string
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET:
+        required: true
+      READ_GITHUB_REPO_PAT:
+        required: true
+      SERVICE_NOW_USERNAME:
+        required: true
+      SERVICE_NOW_PASSWORD:
+        required: true
+
+jobs:
+
+  reject-releases:
+    runs-on:
+      group: ubuntu-arm-runners
+    environment: ${{ inputs.ENVIRONMENT }}
+
+    steps:
+
+      - name: Checkout (fetch last commit) of the PR
+        id: checkout-last-commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+          path: ${{ env.PATH_STAGING }}
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+
+      - name: Prepare pipeline
+        id: prepare-pipeline
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_SHARED }}/.github/workflows/pipeline ${{ env.PATH_PIPELINE }}
+          if test -d ${{ env.PATH_STAGING }}/source_files; then
+            cp -r ${{ env.PATH_STAGING }}/source_files ${{ env.PATH_PIPELINE }}/${{ env.OUTPUT_FOLDER }}
+          fi
+
+      - name: Set up python
+        id: set-up-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          
+      - name: Restore cached virtualenv
+        id: restore-cached-virtualenv
+        uses: actions/cache/restore@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Set up virtualenv and install dependencies
+        id: setup-virtualenv
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r ${{ env.PATH_PIPELINE }}/requirements.txt
+          echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+
+      - name: Saved cached virtualenv
+        id: save-cached-virtualenv
+        if: steps.restore-cached-virtualenv.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Reject releases
+        id: reject-releases
+        working-directory: ${{ env.PATH_PIPELINE }}
+        run: python -u hx_reject_releases.py
+        env: 
+          HX_API_BASE_URL: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_API_BASE_URL[inputs.environment] }}
+          HX_MODEL_ID: ${{ vars.HX_MODEL_ID }}
+          HX_AZURE_AD_TENANTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_TENANTID }}
+          HX_AZURE_AD_CLIENTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_CLIENTID[inputs.environment] }}
+          HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+          HX_AZURE_AD_SCOPE: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_SCOPE[inputs.environment] }}
+
+      - name: Notify for rejected model versions
+        id: notify-rejected-model-versions
+        run: echo "::notice::The following Model Versions have been rejected:${{ steps.reject-releases.outputs.rejected_model_versions }}"
+
+      - name: Add PR Comment
+        id: add-pr-comment
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            const body = [
+              'FAO @${{ env.FAO }} (Approvers)',
+              '',
+              '# Model Version Rejected',
+              'The following Model Versions have been rejected:${{ steps.reject-releases.outputs.rejected_model_versions }}'
+            ].join('\n')
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: owner,
+              repo: repo,
+              body: body
+            }).catch(err => {
+              console.error('Error adding PR comment:', err)
+              throw err;
+            })

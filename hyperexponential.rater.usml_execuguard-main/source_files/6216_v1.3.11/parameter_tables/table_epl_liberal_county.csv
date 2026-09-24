@@ -1,0 +1,95 @@
+Lookup,State,County,Liberal
+CaliforniaAlameda,California,Alameda,TRUE
+CaliforniaLos Angeles,California,Los Angeles,TRUE
+CaliforniaMarin,California,Marin,TRUE
+CaliforniaMendocino,California,Mendocino,TRUE
+CaliforniaMonterey,California,Monterey,TRUE
+CaliforniaNapa,California,Napa,TRUE
+CaliforniaOrange,California,Orange,TRUE
+CaliforniaRiverside,California,Riverside,TRUE
+CaliforniaSan Benito,California,San Benito,TRUE
+CaliforniaSan Bernardino,California,San Bernardino,TRUE
+CaliforniaSan Francisco,California,San Francisco,TRUE
+CaliforniaSan Diego,California,San Diego,TRUE
+CaliforniaSan Luis Obispo,California,San Luis Obispo,TRUE
+CaliforniaSanta Barbara,California,Santa Barbara,TRUE
+CaliforniaSanta Clara,California,Santa Clara,TRUE
+CaliforniaSanta Cruz,California,Santa Cruz,TRUE
+FloridaBrevard,Florida,Brevard,TRUE
+FloridaBroward,Florida,Broward,TRUE
+FloridaMiami-Dade,Florida,Miami-Dade,TRUE
+FloridaPalm Beach,Florida,Palm Beach,TRUE
+IllinoisColes,Illinois,Coles,TRUE
+IllinoisCook,Illinois,Cook,TRUE
+IllinoisFayette,Illinois,Fayette,TRUE
+IllinoisFranklin,Illinois,Franklin,TRUE
+IllinoisMadison,Illinois,Madison,TRUE
+IllinoisMcLean,Illinois,McLean,TRUE
+IllinoisSaline,Illinois,Saline,TRUE
+IllinoisSt. Clair,Illinois,St. Clair,TRUE
+IllinoisVermillion,Illinois,Vermillion,TRUE
+IllinoisWill,Illinois,Will,TRUE
+IllinoisWilliamson,Illinois,Williamson,TRUE
+MassachusettsMiddlesex,Massachusetts,Middlesex,TRUE
+MassachusettsSuffolk,Massachusetts,Suffolk,TRUE
+TexasBrooks,Texas,Brooks,TRUE
+TexasCameron,Texas,Cameron,TRUE
+TexasCulberson,Texas,Culberson,TRUE
+TexasDimmit,Texas,Dimmit,TRUE
+TexasDuval,Texas,Duval,TRUE
+TexasEl Paso,Texas,El Paso,TRUE
+TexasFrio,Texas,Frio,TRUE
+TexasHidalgo,Texas,Hidalgo,TRUE
+TexasJefferson,Texas,Jefferson,TRUE
+TexasJim Hogg,Texas,Jim Hogg,TRUE
+TexasJim Wells,Texas,Jim Wells,TRUE
+TexasKenedy,Texas,Kenedy,TRUE
+TexasKieberg,Texas,Kieberg,TRUE
+TexasKinney,Texas,Kinney,TRUE
+TexasKleberg,Texas,Kleberg,TRUE
+TexasLa Salle,Texas,La Salle,TRUE
+TexasMaverick,Texas,Maverick,TRUE
+TexasPresidio,Texas,Presidio,TRUE
+TexasStarr,Texas,Starr,TRUE
+TexasVal Verde,Texas,Val Verde,TRUE
+TexasWebb,Texas,Webb,TRUE
+TexasZapata,Texas,Zapata,TRUE
+TexasZavala,Texas,Zavala,TRUE
+MichiganGenesee,Michigan,Genesee,TRUE
+MichiganOakland,Michigan,Oakland,TRUE
+MichiganWayne,Michigan,Wayne,TRUE
+NevadaClark,Nevada,Clark,TRUE
+NevadaNye,Nevada,Nye,TRUE
+NevadaWashoe,Nevada,Washoe,TRUE
+New JerseyAtlantic,New Jersey,Atlantic,TRUE
+New JerseyBergen,New Jersey,Bergen,TRUE
+New JerseyCamden,New Jersey,Camden,TRUE
+New JerseyCumberland,New Jersey,Cumberland,TRUE
+New JerseyEssex,New Jersey,Essex,TRUE
+New JerseyHudson,New Jersey,Hudson,TRUE
+New JerseyMercer,New Jersey,Mercer,TRUE
+New JerseyMiddlesex,New Jersey,Middlesex,TRUE
+New JerseyPassaic,New Jersey,Passaic,TRUE
+New JerseyUnion,New Jersey,Union,TRUE
+New York - metroBronx,New York - metro,Bronx,TRUE
+New York - metroKings,New York - metro,Kings,TRUE
+New York - metroNew York,New York - metro,New York,TRUE
+New York - metroQueens,New York - metro,Queens,TRUE
+New York - metroRichmond,New York - metro,Richmond,TRUE
+New York - metroRockland,New York - metro,Rockland,TRUE
+OhioCuyahoga,Ohio,Cuyahoga,TRUE
+OhioMontgomery,Ohio,Montgomery,TRUE
+OhioSummit,Ohio,Summit,TRUE
+AlabamaBarbuer,Alabama,Barbuer,TRUE
+AlabamaCoffee,Alabama,Coffee,TRUE
+AlabamaCrenshaw,Alabama,Crenshaw,TRUE
+AlabamaButler,Alabama,Butler,TRUE
+AlabamaElmore,Alabama,Elmore,TRUE
+AlabamaFranklin,Alabama,Franklin,TRUE
+AlabamaMorgan,Alabama,Morgan,TRUE
+PennsylvaniaAllegheny,Pennsylvania,Allegheny,TRUE
+PennsylvaniaPhiladelphia,Pennsylvania,Philadelphia,TRUE
+Washington Grays Harbor,Washington ,Grays Harbor,TRUE
+Washington King,Washington ,King,TRUE
+Washington Pierce,Washington ,Pierce,TRUE
+Washington Thurston,Washington ,Thurston,TRUE

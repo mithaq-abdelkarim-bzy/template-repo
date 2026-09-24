@@ -1,0 +1,5 @@
+﻿Response,Min,Max,Default Value
+Industry with Low Customer Contact,1.1,1.1,1.1
+Industry with High Customer Contact,1.2,1.2,1.2
+Predominant Work Performed on Customer Premises,1.3,1.3,1.3
+Not Purchased,1,1,1

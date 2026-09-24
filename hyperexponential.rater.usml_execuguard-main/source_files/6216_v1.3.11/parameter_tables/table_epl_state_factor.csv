@@ -1,0 +1,63 @@
+State,Liberal,NonLiberal,Average,StateGroupLiberal,StateGroupNonLiberal,Status,USState
+Alabama,0.7,0.6,0.65,Group4,Group5,OK,TRUE
+Alaska,0.65,0.65,0.65,Group4,Group4,OK,TRUE
+Arizona,1,1,1,Group3,Group3,OK,TRUE
+Arkansas,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+California,2.05,1.95,2,Group1,Group1,OK,TRUE
+Colorado,0.5,0.5,0.5,Group5,Group5,OK,TRUE
+Connecticut,0.7,0.7,0.7,Group4,Group4,OK,TRUE
+Delaware,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+District of Columbia,0.7,0.7,0.7,Group4,Group4,OK,TRUE
+Florida,0.8,0.6,0.7,Group3,Group5,OK,TRUE
+Georgia,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Hawaii,1,1,1,Group4,Group4,OK,TRUE
+Idaho,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Illinois,0.8,0.6,0.7,Group3,Group5,OK,TRUE
+Indiana,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Iowa,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Kansas,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Kentucky,0.65,0.65,0.65,Group4,Group4,OK,TRUE
+Louisiana,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Maine,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Maryland,0.65,0.65,0.65,Group4,Group4,OK,TRUE
+Massachusetts,0.7,0.6,0.65,Group4,Group5,OK,TRUE
+Michigan,0.9,0.8,0.85,Group4,Group5,OK,TRUE
+Minnesota,0.5,0.5,0.5,Group5,Group5,OK,TRUE
+Mississippi,0.5,0.5,0.5,Group5,Group5,OK,TRUE
+Missouri,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Montana,0.5,0.5,0.5,Group5,Group5,OK,TRUE
+Nebraska,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Nevada,0.9,0.8,0.85,Group3,Group3,OK,TRUE
+New Hampshire,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+New Jersey,1.15,1.15,1.15,Group3,Group3,OK,TRUE
+New Mexico,0.8,0.8,0.8,Group3,Group3,OK,TRUE
+New York - metro,1.25,1.25,1.25,Group2,Group2,OK,TRUE
+New York - non-metro,1.25,1.05,1.15,Group2,Group2,OK,TRUE
+North Carolina,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+North Dakota,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Ohio,0.85,0.75,0.8,Group3,Group4,OK,TRUE
+Oklahoma,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Oregon,0.75,0.75,0.75,Group4,Group4,OK,TRUE
+Pennsylvania,0.9,0.9,0.9,Group3,Group3,OK,TRUE
+Rhode Island,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+South Carolina,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+South Dakota,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Tennessee,0.5,0.4,0.45,Group5,Group5,OK,TRUE
+Texas,0.5,0.4,0.45,Group5,Group5,OK,TRUE
+Utah,0.35,0.35,0.65,Group4,Group4,OK,TRUE
+Vermont,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Virginia,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Washington,0.85,0.75,0.8,Group4,Group5,OK,TRUE
+West Virginia,1,1,1,Group3,Group3,OK,TRUE
+Wisconsin,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Wyoming,0.4,0.4,0.4,Group5,Group5,OK,TRUE
+Canada,0.3,0.3,0.3,Group5,Group5,OK,FALSE
+ROW,0.2,0.2,0.2,Group5,Group5,OK,FALSE
+UK,0.3,0.3,0.3,Group5,Group5,OK,FALSE
+France,0.3,0.3,0.3,Group5,Group5,OK,FALSE
+Germany,0.3,0.3,0.3,Group5,Group5,OK,FALSE
+China,0.2,0.2,0.2,Group5,Group5,OK,FALSE
+All other EU,0.3,0.3,0.3,Group5,Group5,OK,FALSE
+Italy,0.3,0.3,0.3,Group5,Group5,OK,FALSE
+Australia,0.3,0.3,0.3,Group5,Group5,OK,FALSE
+Japan,0.3,0.3,0.3,Group5,Group5,OK,FALSE

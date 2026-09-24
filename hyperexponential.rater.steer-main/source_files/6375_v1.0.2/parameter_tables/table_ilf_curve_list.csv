@@ -1,0 +1,95 @@
+﻿Description,Parametric
+A&E Large Risks,Yes
+A&E Small Risks,No
+CAL - 1 Light And Medium Trucks (Group 1),No
+CAL - 1 Light And Medium Trucks (Group 2),No
+CAL - 1 Light And Medium Trucks (Group 3),No
+CAL - 1 Light And Medium Trucks (Group 4),No
+CAL - 1 Light And Medium Trucks (Group 5),No
+CAL - 1 Light And Medium Trucks (Group 6),No
+CAL - 1 Light And Medium Trucks (Group 7),No
+CAL - 1 Light And Medium Trucks (Group 8),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 1),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 2),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 3),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 4),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 5),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 6),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 7),No
+CAL - 2 Heavy Trucks And Trucktractors (Group 8),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 1),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 2),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 3),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 4),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 5),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 6),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 7),No
+CAL - 3 Extra-heavy Trucks And Trucktractors (Group 8),No
+CAL - 4 Zone Rated Risks (Group 1),No
+CAL - 4 Zone Rated Risks (Group 2),No
+CAL - 4 Zone Rated Risks (Group 3),No
+CAL - 4 Zone Rated Risks (Group 4),No
+CAL - 4 Zone Rated Risks (Group 5),No
+CAL - 4 Zone Rated Risks (Group 6),No
+CAL - 4 Zone Rated Risks (Group 7),No
+CAL - 4 Zone Rated Risks (Group 8),No
+CAL - 5 All Other Risks (Group 1),No
+CAL - 5 All Other Risks (Group 2),No
+CAL - 5 All Other Risks (Group 3),No
+CAL - 5 All Other Risks (Group 4),No
+CAL - 5 All Other Risks (Group 5),No
+CAL - 5 All Other Risks (Group 6),No
+CAL - 5 All Other Risks (Group 7),No
+CAL - 5 All Other Risks (Group 8),No
+Crime,No
+Cyber (High),No
+Cyber (Low),No
+EPL,No
+Financial Institutions (Crime),Yes
+Financial Institutions (D&O),Yes
+Financial Institutions (PI),Yes
+GL - High,No
+GL - Low,No
+GL - Medium,No
+Healthcare (High),No
+Healthcare (Low),No
+Healthcare (Medium),No
+Healthcare (Medium/High),No
+Healthcare (Very High),No
+Lawyers,Yes
+Long Term Care,Yes
+Media (High),No
+Media (Low),No
+Physicians,No
+Primary Physicians,Yes
+Private D&O (Low),Yes
+Private D&O (Medium),Yes
+Private D&O (High),Yes
+Private D&O (Very High),Yes
+Private D&O (Extreme),Yes
+Public D&O (Small),No
+Public D&O (Medium),No
+Public D&O (Large),No
+Reps And Warranties (Extreme),Yes
+Reps And Warranties (Large),Yes
+Reps And Warranties (Low),Yes
+Reps And Warranties (Medium),Yes
+Reps And Warranties (Med-Large),Yes
+Reps And Warranties (Very Low),Yes
+Salzmann A,Yes
+Salzmann B,Yes
+Small Accountants,Yes
+Stamford I / II E&O Revised,Yes
+Stamford III E&O Revised,Yes
+Stamford III E&O Revised HEAVY,Yes
+Standard E&O,Yes
+SwissRe LloydsScale,Yes
+SwissRe Y1,Yes
+SwissRe Y2,Yes
+SwissRe Y3,Yes
+SwissRe Y4,Yes
+Crime - LATAM,No
+PI - LATAM,No
+UK PI (HC20 2m),No
+UK PI (HC8 2m),No
+US Large Law Firms,Yes

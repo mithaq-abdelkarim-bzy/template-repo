@@ -1,6 +1,0 @@
-Grade,Description,Charge
-MGA - No competing portfolio,MGA (or any related entity) DOES NOT underwrite a competing portfolio outside of this Market Facility,0
-MGA - With competing portfolio,MGA (or any related entity) DOES underwrite a competing portfolio outside of this Market Facility,0.005
-Consortium - No competing portfolio,Consortium where a competing portfolio IS NOT also underwritten by the Lead Underwriter,0
-Consortium - With competing portfolio,Consortium where a competing portfolio IS also underwritten by the Lead Underwriter,0.005
-Broker Group,Coverholder is a part of a Broker Group,0.01

@@ -1,0 +1,8 @@
+requests
+PyJWT
+deepdiff
+msal
+packaging
+pandas
+atlassian-python-api
+lxml

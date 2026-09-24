@@ -1,0 +1,8 @@
+Proportion,Construction Values,Professional Fees
+Construction with In House Design,0.1,1.0
+Construction with Sub Contracted Design,0.05,1.0
+Design Only – No Construction,1.0,1.0
+Construction Only – No Design,0.05,1.0
+At Risk Construction Management,0.1,1.0
+Agency Construction Management,0.075,1.0
+Other (specify),0.0,0.01

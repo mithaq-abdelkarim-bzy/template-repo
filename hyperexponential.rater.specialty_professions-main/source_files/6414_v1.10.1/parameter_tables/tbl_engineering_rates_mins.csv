@@ -1,0 +1,38 @@
+Discipline,Selected Base Rate,Minimum Premium $1m,Minimum Retention $1m
+Aerospace,0.4,2500,2500
+Architect (Residential),1,15000,15000
+Aviation,0.5,2500,2500
+Chemical,0.7,7500,7500
+Civil Engineer,0.7,5000,5000
+Civil Engineer (Bridges & Roads),1,15000,15000
+Fire Protection,0.75,15000,15000
+Geotechnical,1.5,25000,25000
+Mechanical Engineering,0.5,3000,5000
+Mining,1.5,15000,15000
+Nuclear,0.5,3500,2500
+Oil & Gas,0.5,4000,2500
+Process,1,7500,7500
+Structural (Steel Fabricators / Stairs etc),0.9,10000,10000
+Structural (Residential and Institutional),1.4,20000,20000
+Structural Engineer (Non resi & Institutional),1,10000,10000
+Architect (Commercial / Other),0.7,5000,5000
+Construction Manager @Risk,0.5,4000,5000
+Construction Manager Agency,0.5,3500,5000
+Electrical Engineering,0.25,2500,2500
+Environmental Consultant,0.6,5000,5000
+Environmental Labs,0.25,2500,2500
+Forensic Engineer,0.25,3000,5000
+Non Destructive Testing,0.6,4000,5000
+HVAC,0.6,5000,5000
+Interior Designer,0.25,2500,2500
+Landscape Architecture,0.25,2500,2500
+Mechanical/Electrical,0.35,4000,5000
+Surveyor,0.7,5000,5000
+Surveyor (Residential),1,15000,15000
+Drafting,0.6,5000,5000
+LEED Consulting,0.7,5000,5000
+Other 1 (Specify),1,2500,2500
+Other 2 (Specify),1,2500,2500
+Other 3 (Specify),1,2500,2500
+Other 4 (Specify),1,2500,2500
+Other 5 (Specify),1,2500,2500

@@ -1,0 +1,137 @@
+{
+  "lst_yn": {
+    "YesNo": "str"
+  },
+  "lst_claimstatus": {
+    "ClaimStatus": "str"
+  },
+  "lst_dealstatus": {
+    "DealStatus": "str"
+  },
+  "lst_underwriters": {
+    "Underwriters": "str"
+  },
+  "tbl_ccy": {
+    "Currency code": "str",
+    "Units Per USD": "float"
+  },
+  "tbl_ilfs": {
+    "Limit": "int",
+    "Light": "float",
+    "Heavy": "float",
+    "BUSA A&E": "float"
+  },
+  "tbl_reinstatements": {
+    "Number of Reinstatement": "int",
+    "Factor": "float"
+  },
+  "tbl_primarymins": {
+    "Limit": "int",
+    "A&E": "str",
+    "DBC": "str"
+  },
+  "tbl_engineering_rates_mins": {
+    "Discipline": "str",
+    "Selected Base Rate": "float",
+    "Minimum Premium $1m": "int",
+    "Minimum Retention $1m": "int"
+  },
+  "tbl_contractors_rates_mins": {
+    "Discipline": "str",
+    "Selected Base Rate": "float",
+    "Minimum Premium $1m": "int",
+    "Minimum Retention $1m": "int"
+  },
+  "tbl_exposureprop": {
+    "Proportion": "str",
+    "Construction Values": "float",
+    "Professional Fees": "float"
+  },
+  "tbl_yrsinbusiness": {
+    "Years in Business": "float",
+    "Factor": "float"
+  },
+  "tbl_erp": {
+    "Extended Reporting Period": "str",
+    "Factor": "float"
+  },
+  "tbl_retro": {
+    "Retro": "int",
+    "Factor": "float"
+  },
+  "tbl_quotedguidelineded": {
+    "Lower Ratio": "float",
+    "Upper Ratio": "float",
+    "Lower Ratio Factor": "float",
+    "Upper Ratio Factor": "float"
+  },
+  "tbl_riskgroup": {
+    "Risk Group": "str",
+    "Factor": "float"
+  },
+  "tbl_state": {
+    "State": "str",
+    "State Abbrev": "str",
+    "Risk Group": "str",
+    "Default Factor": "float",
+    "Gross Billings Factor": "float",
+    "Selected Factor": "float",
+    "Claims Heat Map Factor": "float",
+    "Residential Factor": "float"
+  },
+  "lst_excessilfs": {
+    "Excess Limit": "int"
+  },
+  "table_input_underwriters": {
+    "underwriter": "str",
+    "team": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_basic_experience_rating": {
+    "Clean Years": "str",
+    "Adjustment": "float"
+  },
+  "table_claims_inflation": {
+    "year": "int",
+    "claims_inflation": "float"
+  },
+  "table_currency": {
+    "currency": "str",
+    "exchange_rate": "float"
+  },
+  "table_development_method": {
+    "development": "float",
+    "method": "str"
+  },
+  "table_development_patterns": {
+    "years": "int",
+    "development": "float"
+  },
+  "table_exposure_inflation": {
+    "year": "int",
+    "exposure_inflation": "float"
+  },
+  "table_premium_rate_change": {
+    "year": "int",
+    "rate_change": "float"
+  },
+  "tbl_sizeadjust": {
+    "Rateable Revenue": "int",
+    "Size discount": "float"
+  },
+  "tbl_category_type": {
+    "category": "str",
+    "code": "float",
+    "factor": "float"
+  },
+  "tbl_project_type": {
+    "Index": "float",
+    "Project Type": "str",
+    "E&O": "float"
+  }
+}

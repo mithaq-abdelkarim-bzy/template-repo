@@ -1,0 +1,397 @@
+name: Reusable - Prod - Get Pending Model Releases
+
+env:
+  PATH_STAGING: staging
+  PATH_SHARED: shared
+  PATH_PIPELINE: pipeline
+  OUTPUT_FOLDER: source_files
+  PATH_PROD: prod
+  PATH_PREPROD: preprod
+  REPO_NAME: ${{ github.event.repository.name }}
+  REVIEWER: satish-nichani-bzy
+  FAO: satish-nichani-bzy
+  #REVIEWER: sec-sso-po-hyperexponential
+  #FAO: beazley/sec-sso-po-hyperexponential
+  
+on:
+  workflow_call:
+    inputs:
+      ENVIRONMENT:
+        required: true
+        type: string
+      BRANCH_PROD:
+        required: true
+        type: string
+      BRANCH_PREPROD:
+          required: true
+          type: string
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET:
+        required: true
+      READ_GITHUB_REPO_PAT:
+        required: true
+
+jobs:
+
+  get-pending-model-releases:
+    name: Get pending model releases
+    runs-on:
+      group: ubuntu-arm-runners
+    environment: ${{ inputs.ENVIRONMENT }}
+    outputs:
+      pending_changes: ${{ steps.get-pending-changes.outputs.pending_changes }}
+      breaking_changes: ${{ steps.get-pending-changes.outputs.breaking_changes }}
+      breaking_changes_desc: ${{ steps.get-pending-changes.outputs.breaking_changes_desc }}
+      preprod_in_sync: ${{ steps.get-pending-changes.outputs.preprod_in_sync }}
+      pending_model_name: ${{ steps.get-pending-changes.outputs.pending_model_name }}
+      pending_model_version_id: ${{ steps.get-pending-changes.outputs.pending_model_version_id }}
+      pending_model_version_label: ${{ steps.get-pending-changes.outputs.pending_model_version_label }}
+      pending_model_version_description: ${{ steps.get-pending-changes.outputs.pending_model_version_description }}
+      pending_model_version_developer: ${{ steps.get-pending-changes.outputs.pending_model_version_developer }}
+      pr_body: ${{ steps.get-pending-changes.outputs.pr_body }}
+
+    steps:
+        
+      - name: Checkout model repository
+        id: checkout-model-repository-main
+        uses: actions/checkout@v4
+        with:
+          path: ${{ env.PATH_STAGING }}
+          
+      - name: Checkout prod branch
+        id: checkout-model-repository-prod
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.BRANCH_PROD }}
+          path: ${{ env.PATH_PROD }}
+          sparse-checkout: |
+            /source_files/
+            !/source_files/*/
+            /source_files/model_versions.json
+            /source_files/*/metadata.json
+            !/source_files/*/data_schema/
+            /source_files/*/data_schema/data_schema_static.py
+          sparse-checkout-cone-mode: false
+          
+      - name: Checkout preprod branch
+        id: checkout-model-repository-preprod
+        uses: actions/checkout@v4
+        with:
+          #ref: ${{ inputs.BRANCH_PREPROD }} #Disable Preprod currently
+          ref: us-tst
+          path: ${{ env.PATH_PREPROD }}
+          sparse-checkout: |
+            /source_files/
+            !/source_files/*/
+            /source_files/model_versions.json
+            /source_files/*/metadata.json
+            !/source_files/*/data_schema/
+            /source_files/*/data_schema/data_schema_static.py
+          sparse-checkout-cone-mode: false
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+
+      - name: Prepare pipeline
+        id: prepare-pipeline
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_SHARED }}/.github/workflows/pipeline ${{ env.PATH_PIPELINE }}
+          if test -d ${{ env.PATH_PROD }}/source_files; then
+            cp -r ${{ env.PATH_PROD }}/source_files ${{ env.PATH_PIPELINE }}/source_files_prod
+          fi
+          if test -d ${{ env.PATH_PREPROD }}/source_files; then
+            cp -r ${{ env.PATH_PREPROD }}/source_files ${{ env.PATH_PIPELINE }}/source_files_preprod
+          fi
+          
+      - name: Set up python
+        id: set-up-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          
+      - name: Restore cached virtualenv
+        id: restore-cached-virtualenv
+        uses: actions/cache/restore@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Set up virtualenv and install dependencies
+        id: setup-virtualenv
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r ${{ env.PATH_PIPELINE }}/requirements.txt
+          echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+
+      - name: Saved cached virtualenv
+        id: save-cached-virtualenv
+        if: steps.restore-cached-virtualenv.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Get pending changes
+        id: get-pending-changes
+        working-directory: ${{ env.PATH_PIPELINE }}
+        run: python -u hx_get_pending_changes.py
+        env: 
+          HX_API_BASE_URL: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_API_BASE_URL[inputs.environment] }}
+          HX_MODEL_ID: ${{ vars.HX_MODEL_ID }}
+          HX_AZURE_AD_TENANTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_TENANTID }}
+          HX_AZURE_AD_CLIENTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_CLIENTID[inputs.environment] }}
+          HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+          HX_AZURE_AD_SCOPE: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_SCOPE[inputs.environment] }}
+
+      - name: Reject releases
+        id: reject-releases
+        if: ${{ (steps.get-pending-changes.outputs.breaking_changes == 'True') && (steps.get-pending-changes.outputs.preprod_in_sync == 'False') }}
+        working-directory: ${{ env.PATH_PIPELINE }}
+        run: python -u hx_reject_releases.py
+        env: 
+          HX_API_BASE_URL: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_API_BASE_URL[inputs.environment] }}
+          HX_MODEL_ID: ${{ vars.HX_MODEL_ID }}
+          HX_AZURE_AD_TENANTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_TENANTID }}
+          HX_AZURE_AD_CLIENTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_CLIENTID[inputs.environment] }}
+          HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+          HX_AZURE_AD_SCOPE: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_SCOPE[inputs.environment] }}
+
+      - name: Notify for no pending changes
+        id: notify-for-no-pending-changes
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'False' }}
+        run: echo "::notice::No pending changes"   
+
+      - name: Set release name
+        id: set-release-name
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        working-directory: ${{ env.PATH_STAGING }}
+        run: |
+          RELEASE_NAME="release/${{ steps.get-pending-changes.outputs.pending_model_version_id }}-${{ steps.get-pending-changes.outputs.pending_model_version_label }}"
+          RELEASE_NAME="${RELEASE_NAME// /_}"
+          echo "RELEASE_NAME=$RELEASE_NAME" >> $GITHUB_OUTPUT
+
+      - name: Create Release branch
+        id: create-release-branch
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        working-directory: ${{ env.PATH_STAGING }}
+        run: |
+          git switch --force-create=${{ steps.set-release-name.outputs.RELEASE_NAME }}
+
+      - name: 'Check if PR already exists'
+        id: check-if-pr-exists
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            const pulls = await github.rest.pulls.list({
+              owner: owner,
+              repo: repo,
+              head: '${{ steps.set-release-name.outputs.RELEASE_NAME }}',
+              base: 'main',
+              state: 'open',
+            }).catch(err => {
+              console.error('Error checking if PR exists:', err)
+              throw err;
+            });
+            if (pulls.data.length < 1) {
+              core.setOutput('PR_EXISTS', false)
+            } else {
+              core.notice("PR ${{ steps.set-release-name.outputs.RELEASE_NAME }} already exists.")
+              const existingPR = pulls.data[0];
+              core.setOutput('PR_EXISTS', true)
+              core.setOutput('EXISTING_PR', existingPR.number)
+            }
+
+      - name: Update local branch
+        id: update-local-branch
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        shell: bash
+        run: |
+          rm -rf ${{ env.PATH_STAGING }}/${{ env.OUTPUT_FOLDER }}
+          cp -r ${{ env.PATH_PIPELINE }}/${{ env.OUTPUT_FOLDER }} ${{ env.PATH_STAGING }}
+
+      - name: Commit and push
+        id: commit-and-push
+        if: ${{ (steps.get-pending-changes.outputs.pending_changes == 'True') && (steps.check-if-pr-exists.outputs.PR_EXISTS == 'False') }}
+        working-directory: ${{ env.PATH_STAGING }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "${{ steps.get-pending-changes.outputs.pending_model_version_id }}-${{ steps.get-pending-changes.outputs.pending_model_version_label }}" -a
+          git push --set-upstream origin ${{ steps.set-release-name.outputs.RELEASE_NAME }} -f
+
+      - name: Create PR body
+        id: create-pr-body
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        uses: actions/github-script@v7
+        env:
+          breaking_changes_desc: ${{ steps.get-pending-changes.outputs.breaking_changes_desc }}
+        with:
+          script: |
+            var required_actions;
+            if (${{ (steps.get-pending-changes.outputs.breaking_changes == 'True') && (steps.get-pending-changes.outputs.preprod_in_sync == 'False') }}) {
+              required_actions = [
+                'Breaking changes found',
+                '<details>',
+                '<summary>Breaking Changes</summary>',
+                process.env.breaking_changes_desc,
+                '</details>',
+                '',
+                'Model Version Rejected'
+              ].join('\n')
+            } else if (${{ (steps.get-pending-changes.outputs.breaking_changes == 'True') && (steps.get-pending-changes.outputs.preprod_in_sync == 'True') }}) {
+              required_actions = [
+                //'Breaking changes found but PreProd in sync',
+                'Breaking changes found but Tst in sync',
+                '<details>',
+                '<summary>Breaking Changes</summary>',
+                process.env.breaking_changes_desc,
+                '</details>',
+                '',
+                'Please approve PR to release Model Version.',
+              ].join('\n')
+            } else {
+              required_actions = [
+                'No breaking changes found',
+                '',
+                'Please approve PR to release Model Version.',
+              ].join('\n')
+            }
+            const body = [
+              '### FAO',
+              '',
+              '@${{ env.FAO }} (Approvers)',
+              '',
+              '### Model Name',
+              '',
+              '${{ steps.get-pending-changes.outputs.pending_model_name }}',
+              '',
+              '### Model Version Id',
+              '',
+              '${{ steps.get-pending-changes.outputs.pending_model_version_id }}',
+              '',
+              '### Model Version Label',
+              '',
+              '${{ steps.get-pending-changes.outputs.pending_model_version_label }}',
+              '',
+              '### Developer',
+              '',
+              '${{ steps.get-pending-changes.outputs.pending_model_version_developer }}',
+              '',
+              '### Release Note',
+              '',
+              '```',
+              '${{ steps.get-pending-changes.outputs.pending_model_version_description }}',
+              '```',
+              '',
+              '### Required Actions',
+              '',
+              required_actions
+            ].join('\n')
+            return body
+
+      - name: 'Create PR'
+        id: create-pr
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            if (${{ steps.check-if-pr-exists.outputs.PR_EXISTS == 'False' }}) {
+              let response = await github.rest.pulls.create({
+                title: 'PROD RELEASE - ${{ steps.get-pending-changes.outputs.pending_model_version_id }}-${{ steps.get-pending-changes.outputs.pending_model_version_label }}',
+                owner: owner,
+                repo: repo,
+                head: '${{ steps.set-release-name.outputs.RELEASE_NAME }}',
+                base: 'main',
+                body: ${{ steps.create-pr-body.outputs.result }},
+              }).catch(err => {
+                console.error('Error creating PR:', err)
+                throw err;
+              });
+              return response.data.number
+            } else {
+              return ${{ steps.check-if-pr-exists.outputs.EXISTING_PR }}
+            }
+
+      - name: Add Labels
+        id: add-labels
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          script: |
+            const { repo, owner } = context.repo;
+            const labels = ['hx_model_release'];
+            await github.rest.issues.addLabels({
+              owner: owner,
+              repo: repo,
+              issue_number: ${{ steps.create-pr.outputs.result }},
+              labels: labels
+            }).catch(err => {
+              console.error('Error adding label:', err)
+              throw err;
+            })
+
+      - name: Request reviewers or close PR and delete branch
+        id: request-reviewers-or-close-pr
+        if: ${{ steps.get-pending-changes.outputs.pending_changes == 'True' }}
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          script: |
+            if (${{ (steps.get-pending-changes.outputs.breaking_changes == 'True') && (steps.get-pending-changes.outputs.preprod_in_sync == 'False') }}) {
+              const { repo, owner } = context.repo;
+              await github.rest.pulls.update({
+                owner: owner,
+                repo: repo,
+                pull_number: ${{ steps.create-pr.outputs.result }},
+                state: 'closed'
+              }).catch(err => {
+                console.error('Error closing PR:', err)
+                throw err;
+              });
+              await github.rest.git.deleteRef({
+                owner: owner,
+                repo: repo,
+                ref: `heads/${{ steps.set-release-name.outputs.RELEASE_NAME }}`
+              }).catch(err => {
+                console.error('Error deleting branch:', err)
+                throw err;
+              });
+            } else {
+              const { repo, owner } = context.repo;
+              github.rest.pulls.requestReviewers({
+                  owner: owner,
+                  repo: repo,
+                  pull_number: ${{ steps.create-pr.outputs.result }},
+                  reviewers: ['${{ env.REVIEWER }}']
+              }).catch(err => {
+                console.error('Error requesting reviewers:', err)
+                throw err;
+              })
+            }

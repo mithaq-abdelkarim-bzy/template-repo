@@ -1,0 +1,70 @@
+name: Reusable - Prod - Auto Merge PR
+
+on:
+  workflow_call:
+    secrets:
+      READ_GITHUB_REPO_PAT:
+        required: true
+
+jobs:
+
+  auto-merge:
+    runs-on:
+      ubuntu-latest
+    steps:
+      - name: Auto Merge PR
+        id: auto-merge-pr
+        if: github.event.pull_request.merged == false
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            try {
+              // Attempt to merge the pull request
+              const response = await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                merge_method: 'merge'
+              }).catch(err => {
+                console.error('Error merging PR:', err)
+                throw err;
+              });
+              core.notice('PR Merged');
+            } catch (error) {
+              core.notice('Unable to merge PR - has it already been manually merged?');
+              core.notice(error.message);
+            }
+
+      - name: Get branch name
+        id: get-branch
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const branch = context.payload.pull_request.head.ref;
+            core.setOutput('branch', branch);
+ 
+      - name: Delete release branch
+        id: delete-release-branch
+        uses: actions/github-script@v7
+        with:
+          retries: 3
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const branch = '${{ steps.get-branch.outputs.branch }}';
+            if (branch.startsWith('release/')) {
+              try {
+                response = await github.rest.git.deleteRef({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  ref: `heads/${branch}`
+                }).catch(err => {
+                  console.error('Error deleting branch:', err)
+                  throw err;
+                });
+                core.notice('Branch deleted');
+              } catch (error) {
+                core.notice('Unable to delete branch - has it already been manually deleted?');
+              }
+            } 

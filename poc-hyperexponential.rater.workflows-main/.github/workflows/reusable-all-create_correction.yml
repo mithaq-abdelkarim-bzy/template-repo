@@ -1,0 +1,122 @@
+name: Reusable - All - Create Correction
+
+env:
+  PATH_SHARED: shared
+  PATH_PIPELINE: pipeline
+on:
+  workflow_call:
+    inputs:
+      ENVIRONMENT:
+        required: true
+        type: string
+      HX_POLICY_OPTION_ID:
+        required: true
+        type: string
+      HX_CORRECTION_NAME:
+        required: true
+        type: string
+    secrets:
+      HX_AZURE_AD_CLIENTSECRET:
+        required: true
+      READ_GITHUB_REPO_PAT:
+        required: true
+      SERVICE_NOW_CLIENT_ID:
+        required: true
+      SERVICE_NOW_CLIENT_SECRET:
+        required: true
+
+jobs:
+  correction:
+    name: Create Correction
+    runs-on:
+      group: ubuntu-arm-runners
+    environment: ${{ inputs.ENVIRONMENT }}
+
+    steps:
+
+      - name: Checkout shared repository
+        id: checkout-shared-repository
+        uses: actions/checkout@v4
+        with:
+          repository: beazley/poc-hyperexponential.rater.workflows
+          ref: main
+          token: ${{ secrets.READ_GITHUB_REPO_PAT }}
+          path: ${{ env.PATH_SHARED }}
+
+      - name: Read shared config
+        id: read-shared-config
+        uses: actions/github-script@v7
+        with:
+          script: 
+            const fs = require('fs');
+            const jsonString = fs.readFileSync('${{ env.PATH_SHARED }}/.github/workflows/shared_config.json', 'utf8');
+            var shared_config = JSON.parse(jsonString);
+            core.setOutput('shared_config', shared_config);
+          
+      - name: Prepare pipeline
+        id: prepare-pipeline
+        shell: bash
+        run: |
+          cp -r ${{ env.PATH_SHARED }}/.github/workflows/pipeline ${{ env.PATH_PIPELINE }}
+          
+      - name: Set up python
+        id: set-up-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          
+      - name: Restore cached virtualenv
+        id: restore-cached-virtualenv
+        uses: actions/cache/restore@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Set up virtualenv and install dependencies
+        id: setup-virtualenv
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r ${{ env.PATH_PIPELINE }}/requirements.txt
+          echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+
+      - name: Saved cached virtualenv
+        id: save-cached-virtualenv
+        if: steps.restore-cached-virtualenv.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          key: venv-${{ runner.arch }}-${{ runner.os }}-${{ steps.set-up-python.outputs.python-version }}-${{ hashFiles(format('{0}/requirements.txt', env.PATH_PIPELINE)) }}
+          path: .venv
+
+      - name: Create Correction
+        id: create_correction
+        working-directory: ${{ env.PATH_PIPELINE }}
+        run: |
+          echo "script_commenced=true" >> $GITHUB_OUTPUT;
+          python -u hx_create_correction.py
+        env: 
+          HX_POLICY_OPTION_ID: ${{ inputs.HX_POLICY_OPTION_ID }}
+          HX_CORRECTION_NAME: ${{ inputs.HX_CORRECTION_NAME }}
+          HX_MODEL_ID: ${{ vars.HX_MODEL_ID }}
+          HX_VERSIONED_API_BASE_URL: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_VERSIONED_API_BASE_URL[inputs.environment] }}
+          HX_VERSIONED_API_VERSION: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_VERSIONED_API_VERSION }}
+          HX_AZURE_AD_TENANTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_TENANTID }}
+          HX_AZURE_AD_CLIENTID: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_CLIENTID[inputs.environment] }}
+          HX_AZURE_AD_CLIENTSECRET: ${{ secrets.HX_AZURE_AD_CLIENTSECRET }}
+          HX_AZURE_AD_SCOPE: ${{ fromJSON(steps.read-shared-config.outputs.shared_config).HX_AZURE_AD_SCOPE[inputs.environment] }}
+          INPUT_FILE: datafix_scheme_${{ inputs.ENVIRONMENT }}.csv
+          OUTPUT_DIR: ${{ env.OUTPUT_FOLDER }}
+
+      - name: Raise failures
+        id: raise-failures
+        uses: actions/github-script@v7
+        with:
+          script: |
+            core.setFailed('${{ steps.create_correction.outputs.correction_status }}')
+        if: steps.create_correction.outputs.has_error == 'true'
+
+      - name: Successful notification
+        id: successful-notification
+        run: echo "::notice::${{ steps.create_correction.outputs.correction_status }}"
+        if: steps.create_correction.outputs.has_error == 'false'

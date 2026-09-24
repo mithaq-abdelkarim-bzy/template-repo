@@ -1,0 +1,14 @@
+Response,Modifier
+$500k limit per Client Company and $1m Aggregate Limit of Liability,1.15
+$500k limit per Client Company and $2m Aggregate Limit of Liability,1.2
+$500k limit per Client Company and $3m Aggregate Limit of Liability,1.25
+$500k limit per Client Company and $4m Aggregate Limit of Liability,1.3
+$500k limit per Client Company and $5m Aggregate Limit of Liability,1.35
+$500k limit per Client Company and $10m Aggregate Limit of Liability,1.75
+$1m limit per Client Company and $1m Aggregate Limit of Liability,1.25
+$1m limit per Client Company and $2m Aggregate Limit of Liability,1.3
+$1m limit per Client Company and $3m Aggregate Limit of Liability,1.35
+$1m limit per Client Company and $4m Aggregate Limit of Liability,1.45
+$1m limit per Client Company and $5m Aggregate Limit of Liability,1.55
+$1m limit per Client Company and $10m Aggregate Limit of Liability,1.95
+Not Purchased,1

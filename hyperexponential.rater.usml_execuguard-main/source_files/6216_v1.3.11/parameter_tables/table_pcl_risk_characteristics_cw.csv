@@ -1,0 +1,24 @@
+﻿Risk,Low,High,No Range,Description v1,Description v2
+Financial Condition&Below Average,1.1,1.4,1.25,Majority of Balance sheet and income statement financial ratios are below average,"More than one of: More than 1 year of operating losses; downward trend in revenues; less profitable than peers; write offs, restructuring"
+Financial Condition&Average,0.9,1.1,1,Majority of Balance sheet and income statement financial ratios are average,Generally positive earnings; profitability on par with peers; growth levels appropriate with industry
+Financial Condition&Above Average,0.75,0.9,0.85,Majority of Balance sheet and income statement financial ratios are above average,More than 1 of: consistently strong earnings; positive trend in revenues; more profitable than peers
+Profitability&Below Average,1.1,1.3,1.15,Company operating at a loss,Company operating at a loss
+Profitability&Average,0.9,1.1,1,Company showing moderate profit,Company showing less than or equal to a 5% profit
+Profitability&Above Average,0.75,0.9,0.85,Company consistently showing significant profit,Company consistently showing greater than 5% profit
+Merger Acquisition Activity&None,0.85,0.95,0.9,No M&A's in prior 12 months/upcoming year,No M&A's in prior 12 months/upcoming year
+Merger Acquisition Activity&Some,0.95,1.05,1,Some M&A's in prior 12 months/upcoming year,No more than two M&A's over prior 12 months/upcoming year
+Merger Acquisition Activity&Significant,1.05,1.15,1.1,Significant M&A activity in prior 12 months/upcoming year,More than 2 M&A's in prior 12 months/upcoming year
+"Layoffs, Downsizing, or spin-offs&None in prior two years and none anticipated during the next year",1,1,1,None in prior two years and none anticipated during the next year,None in prior two years and none anticipated during the next year
+"Layoffs, Downsizing, or spin-offs&5% or more in prior two years or anticipated during the next year",1.1,1.25,1.15,5% or more in prior two years or anticipated during the next year,5% or more in prior two years or anticipated during the next year
+Litigation&No D&O Claims,0.9,0.9,0.9,No D&O claims,No D&O claims
+Litigation&Insured involved in any litigation that could impact earnings or financial position,1,1.2,1.15,Insured involved in any litigation that could impact earnings or financial position,Insured involved in any litigation that could impact earnings or financial position
+Ownership&<10 shareholders,0.75,0.85,0.8,10 or fewer shareholders,10 or fewer shareholders
+Ownership&11-25 shareholders,0.85,0.95,0.9,11-25 shareholders,11-25 shareholders
+Ownership&25-50 shareholders,0.95,1.05,1,25-50 shareholders,25-50 shareholders
+Ownership&>50 shareholders,1.05,1.15,1.1,More than 50 shareholders,More than 50 shareholders
+Ownership&Major shareholder/family exclusion,0.8,1,0.9,Major shareholder/family exclusion,Major shareholder/family exclusion
+Length of time in business&>10 Years,0.8,0.95,0.9,More than 10 years,More than 10 years
+Length of time in business&3-10 Years,0.95,1.05,1,3-10 years,3-10 years
+Length of time in business&<3 Years,1.05,1.2,1.1,Less than 3 years,Less than 3 years
+Quality of Management&Experienced Professional Team,0.8,1,0.9,Experienced and professional management team,Management not primarily made up of family members or individuals with limited experience
+Quality of Management&Family Members/Limited Experience,1,1.2,1.1,Management primarily made up of family members or individuals with limited experience,Management primarily made up of family members or individuals with limited experience

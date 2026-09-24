@@ -1,0 +1,4 @@
+﻿Response,Factor,Description
+Above Average,0.9,"More than 50% of balance sheet and income statement financial ratios such as ROE, ROA, debt/equity, debt payments, etc. are positive."
+Average,1,"Majority of balance sheet and income statement financial ratios are average such as ROE, ROA, debt/equity, debt payments, etc."
+Below Average,1.1,"More than 50% of balance sheet and income statement financial ratios such as ROE, ROA, debt/equity, debt payments, etc. are negative."

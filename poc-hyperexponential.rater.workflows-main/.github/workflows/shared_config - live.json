@@ -1,0 +1,282 @@
+{
+  "EMAIL_SENDER_UPN": "noreply_globalrating@beazley.com",
+  "EMAIL_RECIPIENTS_BA_TEAM": [
+    "Alexandra.Manea@beazley.com",
+    "Jasdeep.Raja@beazley.com",
+    "Andreea.Serban@beazley.com",
+    "Antoniu.Ciocea@beazley.com"
+  ],
+  "EMAIL_RECIPIENTS_PROJECT_TEST_TEAM": [
+    "Priya.Saidavaram@beazley.com"
+  ],
+  "EMAIL_RECIPIENTS_RATING_SUPPORT_AND_ENHANCEMENTS_TEAM": [
+    "ratingdev@beazley.com"
+  ],
+  "EMAIL_RECIPIENTS_IT_TEAM": [
+    "mark.fleet@beazley.com",
+    "satish.nichani@beazley.com"
+  ],
+  "ISSUE_ASSIGNEES": [
+    "satish-nichani-bzy",
+    "angela-babarada-bzy",
+    "marko-velichkovski-bzy"
+  ],
+  "EMAIL_AZURE_AD_CLIENTID": "19fc65d7-71af-4842-a4eb-4869133ccca6",
+  "EMAIL_AZURE_AD_TENANTID": "9a50eba8-7568-447a-bcb9-27a0d464aa80",
+  "CONFLUENCE_BASE_URL": "https://beazley.atlassian.net",
+  "CONFLUENCE_DASHBOARD_PAGE_ID":5161418753,
+  "CONFLUENCE_API_USERNAME": "mark.fleet@beazley.com",
+  "HX_AZURE_AD_TENANTID": "9a50eba8-7568-447a-bcb9-27a0d464aa80",
+  "HX_API_BASE_URL": {
+    "us-dev": "https://api.beazley-dev.hxrenew.com/api/v2-beta/",
+    "us-tst": "https://api.beazley-tst.hxrenew.com/api/v2-beta/",
+    "us-pre-prod": "https://api.beazley-preprod.hxrenew.com/api/v2-beta/",
+    "us-prd": "https://api.beazley.hxrenew.com/api/v2-beta/"
+  },
+  "HX_VERSIONED_API_BASE_URL": {
+    "us-dev": "https://api.beazley-dev.hxrenew.com/api/",
+    "us-tst": "https://api.beazley-tst.hxrenew.com/api/",
+    "us-pre-prod": "https://api.beazley-preprod.hxrenew.com/api/",
+    "us-prd": "https://api.beazley.hxrenew.com/api/"
+  },
+  "HX_VERSIONED_API_VERSION": "2025-05-01",
+  "HX_AZURE_AD_CLIENTID": {
+    "us-dev": "6afe255f-e622-445f-bd22-0763ec26ce18",
+    "us-tst": "b0a8bbcd-c9b3-485b-9a8a-eaaabdcf2d78",
+    "us-pre-prod": "c1ab9558-9079-4c7e-b1d5-14cf56d87f37",
+    "us-prd": "0e70ff59-43b4-471b-a140-a55a8473178d"
+  },
+  "HX_AZURE_AD_SCOPE": {
+    "us-dev": "api://api.beazley-dev.hxrenew.com/.default",
+    "us-tst": "api://api.beazley-tst.hxrenew.com/.default",
+    "us-pre-prod": "api://api.beazley-preprod.hxrenew.com/.default",
+    "us-prd": "api://api.beazley.hxrenew.com/.default"
+  },
+  "HX_MODELS": [
+    {
+      "model_name": "All - BBT",
+      "model_id": {
+        "us-dev": 15,
+        "us-tst": 15,
+        "us-pre-prod": 16,
+        "us-prd": 146
+      }
+    },
+    {
+      "model_name": "MAP Risks - Marine - Cargo",
+      "model_id": {
+        "us-dev": 9,
+        "us-tst": 9,
+        "us-pre-prod": 10,
+        "us-prd": 110
+      }
+    },
+    {
+      "model_name": "MAP Risks - Marine - Combined Aviation",
+      "model_id": {
+        "us-dev": 19,
+        "us-tst": 19,
+        "us-pre-prod": 20,
+        "us-prd": 171
+      }
+    },
+    {
+      "model_name": "MAP Risks - Marine - Combined Hull",
+      "model_id": {
+        "us-dev": 38,
+        "us-tst": 26,
+        "us-pre-prod": 26,
+        "us-prd": 181
+      }
+    },
+    {
+      "model_name": "MAP Risks - PAC - CPR",
+      "model_id": {
+        "us-dev": 48,
+        "us-tst": 27,
+        "us-pre-prod": 27,
+        "us-prd": 182
+      }
+    },
+    {
+      "model_name": "MAP Risks - PAC - DWP",
+      "model_id": {
+        "us-dev": 25,
+        "us-tst": 24,
+        "us-pre-prod": 24,
+        "us-prd": 162
+      }
+    },
+    {
+      "model_name": "MAP Risks - PAC - Life",
+      "model_id": {
+        "us-dev": 17,
+        "us-tst": 17,
+        "us-pre-prod": 18,
+        "us-prd": 131
+      }
+    },
+    {
+      "model_name": "MAP Risks - PAC - Terrorism",
+      "model_id": {
+        "us-dev": 53,
+        "us-tst": 31,
+        "us-pre-prod": 31,
+        "us-prd": 187
+      }
+    },
+    {
+      "model_name": "Market Facilities",
+      "model_id": {
+        "us-dev": 41,
+        "us-tst": 29,
+        "us-pre-prod": 29,
+        "us-prd": 184
+      }
+    },
+    {
+      "model_name": "Property Risks - Covers",
+      "model_id": {
+        "us-dev": 16,
+        "us-tst": 16,
+        "us-pre-prod": 17,
+        "us-prd": 120
+      }
+    },
+    {
+      "model_name": "Property Risks - HVH",
+      "model_id": {
+        "us-dev": 54,
+        "us-tst": 34,
+        "us-pre-prod": 33,
+        "us-prd": 189
+      }
+    },
+    {
+      "model_name": "Property Risks - JFAS",
+      "model_id": {
+        "us-dev": 5,
+        "us-tst": 5,
+        "us-pre-prod": 5,
+        "us-prd": 42
+      }
+    },
+    {
+      "model_name": "Property Risks - Rex",
+      "model_id": {
+        "us-dev": 50,
+        "us-tst": 23,
+        "us-pre-prod": 32,
+        "us-prd": 1
+      }
+    },
+    {
+      "model_name": "Property Risks - Treaty",
+      "model_id": {
+        "us-dev": 52,
+        "us-tst": 30,
+        "us-pre-prod": 30,
+        "us-prd": 186
+      }
+    },
+    {
+      "model_name": "Specialty Risks - Excess Fidelity and Crime",
+      "model_id": {
+        "us-dev": 1,
+        "us-tst": 3,
+        "us-pre-prod": 1,
+        "us-prd": 69
+      }
+    },
+    {
+      "model_name": "Specialty Risks - Financial Fidelity",
+      "model_id": {
+        "us-dev": 4,
+        "us-tst": 4,
+        "us-pre-prod": 2,
+        "us-prd": 58
+      }
+    },
+    {
+      "model_name": "Specialty Risks - Financial Institutions",
+      "model_id": {
+        "us-dev": 20,
+        "us-tst": 20,
+        "us-pre-prod": 21,
+        "us-prd": 144
+      }
+    },
+    {
+      "model_name": "Specialty Risks - Global MMLS",
+      "model_id": {
+        "us-dev": 13,
+        "us-tst": 13,
+        "us-pre-prod": 14,
+        "us-prd": 119
+      }
+    },
+    {
+      "model_name": "Specialty Risks - International D&O",
+      "model_id": {
+        "us-dev": 39,
+        "us-tst": 28,
+        "us-pre-prod": 28,
+        "us-prd": 183
+      }
+    },
+    {
+      "model_name": "Specialty Risks - International PE",
+      "model_id": {
+        "us-dev": 12,
+        "us-tst": 12,
+        "us-pre-prod": 13,
+        "us-prd": 128
+      }
+    },
+    {
+      "model_name": "Specialty Risks - M&A",
+      "model_id": {
+        "us-dev": 30,
+        "us-tst": 25,
+        "us-pre-prod": 25,
+        "us-prd": 185
+      }
+    },
+    {
+      "model_name": "Specialty Risks - Public D&O",
+      "model_id": {
+        "us-dev": 18,
+        "us-tst": 18,
+        "us-pre-prod": 19,
+        "us-prd": 127
+      }
+    },
+    {
+      "model_name": "Specialty Risks - Specialty Professions",
+      "model_id": {
+        "us-dev": 10,
+        "us-tst": 10,
+        "us-pre-prod": 11,
+        "us-prd": 126
+      }
+    },
+    {
+      "model_name": "Specialty Risks - US ML Execuguard",
+      "model_id": {
+        "us-dev": 22,
+        "us-tst": 22,
+        "us-pre-prod": 23,
+        "us-prd": 147
+      }
+    },
+    {
+      "model_name": "Specialty Risks - US PE London",
+      "model_id": {
+        "us-dev": 21,
+        "us-tst": 21,
+        "us-pre-prod": 22,
+        "us-prd": 143
+      }
+    }
+  ]
+}

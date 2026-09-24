@@ -1,0 +1,652 @@
+﻿Name,Mode,CDS level,Coverage,Relative path,Rater Defined?,Type,Default,Label hx
+current_yr_construction_value,Input,cds/exposure/granular,,/construction_with_in_house_design/current_yr_construction_value,Y,float,0,Construction Values (Current Year)
+current_yr_professional_fees,Input,cds/exposure/granular,,/construction_with_in_house_design/current_yr_professional_fees,Y,float,0,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/construction_with_in_house_design/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_construction_value,Input,cds/exposure/granular,,/construction_with_in_house_design/last_yr_construction_value,Y,float,0,Construction Values (Last Fiscal Year)
+last_yr_professional_fees,Input,cds/exposure/granular,,/construction_with_in_house_design/last_yr_professional_fees,Y,float,0,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/construction_with_in_house_design/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_construction_value,Input,cds/exposure/granular,,/construction_with_in_house_design/two_yr_ago_construction_value,Y,float,0,Construction Values (2 Years Ago)
+two_yr_ago_professional_fees,Input,cds/exposure/granular,,/construction_with_in_house_design/two_yr_ago_professional_fees,Y,float,0,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/construction_with_in_house_design/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_in_house_design/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_in_house_design/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_in_house_design/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Override,cds/exposure/granular,,/construction_with_in_house_design/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_in_house_design/override_avg_rateable_exposure,Y,float,,Override
+rateable_exposure_discipline,Input,cds/exposure/granular,,/construction_with_in_house_design/rateable_exposure_discipline,Y,str,Engineering,Discipline
+current_yr_construction_value,Input,cds/exposure/granular,,/construction_with_sub_contracted_design/current_yr_construction_value,Y,float,0,Construction Values (Current Year)
+current_yr_professional_fees,Input,cds/exposure/granular,,/construction_with_sub_contracted_design/current_yr_professional_fees,Y,float,0,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/construction_with_sub_contracted_design/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_construction_value,Input,cds/exposure/granular,,/construction_with_sub_contracted_design/last_yr_construction_value,Y,float,0,Construction Values (Last Fiscal Year)
+last_yr_professional_fees,Input,cds/exposure/granular,,/construction_with_sub_contracted_design/last_yr_professional_fees,Y,float,0,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/construction_with_sub_contracted_design/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_construction_value,Input,cds/exposure/granular,,/construction_with_sub_contracted_design/two_yr_ago_construction_value,Y,float,0,Construction Values (2 Years Ago)
+two_yr_ago_professional_fees,Input,cds/exposure/granular,,/construction_with_sub_contracted_design/two_yr_ago_professional_fees,Y,float,0,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/construction_with_sub_contracted_design/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_sub_contracted_design/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_sub_contracted_design/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_sub_contracted_design/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Override,cds/exposure/granular,,/construction_with_sub_contracted_design/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_with_sub_contracted_design/override_avg_rateable_exposure,Y,float,,Override
+rateable_exposure_discipline,Input,cds/exposure/granular,,/construction_with_sub_contracted_design/rateable_exposure_discipline,Y,str,Contractors,Discipline
+current_yr_construction_value,Input,cds/exposure/granular,,/design_only_no_construction/current_yr_construction_value,Y,float,0,Construction Values (Current Year)
+current_yr_professional_fees,Input,cds/exposure/granular,,/design_only_no_construction/current_yr_professional_fees,Y,float,0,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/design_only_no_construction/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_construction_value,Input,cds/exposure/granular,,/design_only_no_construction/last_yr_construction_value,Y,float,0,Construction Values (Last Fiscal Year)
+last_yr_professional_fees,Input,cds/exposure/granular,,/design_only_no_construction/last_yr_professional_fees,Y,float,0,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/design_only_no_construction/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_construction_value,Input,cds/exposure/granular,,/design_only_no_construction/two_yr_ago_construction_value,Y,float,0,Construction Values (2 Years Ago)
+two_yr_ago_professional_fees,Input,cds/exposure/granular,,/design_only_no_construction/two_yr_ago_professional_fees,Y,float,0,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/design_only_no_construction/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/design_only_no_construction/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/design_only_no_construction/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/design_only_no_construction/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Override,cds/exposure/granular,,/design_only_no_construction/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Output,cds/exposure/granular,,/design_only_no_construction/override_avg_rateable_exposure,Y,float,,Override
+rateable_exposure_discipline,Input,cds/exposure/granular,,/design_only_no_construction/rateable_exposure_discipline,Y,str,Engineering,Discipline
+current_yr_construction_value,Input,cds/exposure/granular,,/construction_only_no_design/current_yr_construction_value,Y,float,0,Construction Values (Current Year)
+current_yr_professional_fees,Input,cds/exposure/granular,,/construction_only_no_design/current_yr_professional_fees,Y,float,0,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/construction_only_no_design/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_construction_value,Input,cds/exposure/granular,,/construction_only_no_design/last_yr_construction_value,Y,float,0,Construction Values (Last Fiscal Year)
+last_yr_professional_fees,Input,cds/exposure/granular,,/construction_only_no_design/last_yr_professional_fees,Y,float,0,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/construction_only_no_design/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_construction_value,Input,cds/exposure/granular,,/construction_only_no_design/two_yr_ago_construction_value,Y,float,0,Construction Values (2 Years Ago)
+two_yr_ago_professional_fees,Input,cds/exposure/granular,,/construction_only_no_design/two_yr_ago_professional_fees,Y,float,0,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/construction_only_no_design/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_only_no_design/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_only_no_design/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_only_no_design/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Override,cds/exposure/granular,,/construction_only_no_design/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Output,cds/exposure/granular,,/construction_only_no_design/override_avg_rateable_exposure,Y,float,,Override
+rateable_exposure_discipline,Input,cds/exposure/granular,,/construction_only_no_design/rateable_exposure_discipline,Y,str,Contractors,Discipline
+current_yr_construction_value,Input,cds/exposure/granular,,/at_risk_construction_management/current_yr_construction_value,Y,float,0,Construction Values (Current Year)
+current_yr_professional_fees,Input,cds/exposure/granular,,/at_risk_construction_management/current_yr_professional_fees,Y,float,0,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/at_risk_construction_management/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_construction_value,Input,cds/exposure/granular,,/at_risk_construction_management/last_yr_construction_value,Y,float,0,Construction Values (Last Fiscal Year)
+last_yr_professional_fees,Input,cds/exposure/granular,,/at_risk_construction_management/last_yr_professional_fees,Y,float,0,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/at_risk_construction_management/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_construction_value,Input,cds/exposure/granular,,/at_risk_construction_management/two_yr_ago_construction_value,Y,float,0,Construction Values (2 Years Ago)
+two_yr_ago_professional_fees,Input,cds/exposure/granular,,/at_risk_construction_management/two_yr_ago_professional_fees,Y,float,0,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/at_risk_construction_management/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/at_risk_construction_management/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/at_risk_construction_management/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/at_risk_construction_management/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Override,cds/exposure/granular,,/at_risk_construction_management/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Output,cds/exposure/granular,,/at_risk_construction_management/override_avg_rateable_exposure,Y,float,,Override
+rateable_exposure_discipline,Input,cds/exposure/granular,,/at_risk_construction_management/rateable_exposure_discipline,Y,str,Engineering,Discipline
+current_yr_construction_value,Input,cds/exposure/granular,,/agency_construction_management/current_yr_construction_value,Y,float,0,Construction Values (Current Year)
+current_yr_professional_fees,Input,cds/exposure/granular,,/agency_construction_management/current_yr_professional_fees,Y,float,0,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/agency_construction_management/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_construction_value,Input,cds/exposure/granular,,/agency_construction_management/last_yr_construction_value,Y,float,0,Construction Values (Last Fiscal Year)
+last_yr_professional_fees,Input,cds/exposure/granular,,/agency_construction_management/last_yr_professional_fees,Y,float,0,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/agency_construction_management/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_construction_value,Input,cds/exposure/granular,,/agency_construction_management/two_yr_ago_construction_value,Y,float,0,Construction Values (2 Years Ago)
+two_yr_ago_professional_fees,Input,cds/exposure/granular,,/agency_construction_management/two_yr_ago_professional_fees,Y,float,0,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/agency_construction_management/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/agency_construction_management/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/agency_construction_management/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/agency_construction_management/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Override,cds/exposure/granular,,/agency_construction_management/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Output,cds/exposure/granular,,/agency_construction_management/override_avg_rateable_exposure,Y,float,,Override
+rateable_exposure_discipline,Input,cds/exposure/granular,,/agency_construction_management/rateable_exposure_discipline,Y,str,Engineering,Discipline
+current_yr_professional_fees,Input,cds/exposure/granular,,/other/current_yr_professional_fees,Y,float,0,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/other/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_professional_fees,Input,cds/exposure/granular,,/other/last_yr_professional_fees,Y,float,0,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/other/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_professional_fees,Input,cds/exposure/granular,,/other/two_yr_ago_professional_fees,Y,float,0,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/other/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/other/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/other/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/other/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Override,cds/exposure/granular,,/other/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Output,cds/exposure/granular,,/other/override_avg_rateable_exposure,Y,float,,Override
+other_specify,Input,cds/exposure/granular,,/other/other_specify,Y,str,0,Other (Specify)
+rateable_exposure_discipline,Input,cds/exposure/granular,,/other/rateable_exposure_discipline,Y,str,Engineering,Discipline
+current_yr_construction_value,Output,cds/exposure/granular,,/total/current_yr_construction_value,Y,float,,Construction Values (Current Year)
+current_yr_professional_fees,Output,cds/exposure/granular,,/total/current_yr_professional_fees,Y,float,,Professional Fees (Current Year)
+current_yr_rateable_exposure,Output,cds/exposure/granular,,/total/current_yr_rateable_exposure,Y,float,,Rateable Exposure (Current Year)
+last_yr_construction_value,Output,cds/exposure/granular,,/total/last_yr_construction_value,Y,float,,Construction Values (Last Fiscal Year)
+last_yr_professional_fees,Output,cds/exposure/granular,,/total/last_yr_professional_fees,Y,float,,Professional Fees (Last Fiscal Year)
+last_yr_rateable_exposure,Output,cds/exposure/granular,,/total/last_yr_rateable_exposure,Y,float,,Rateable Exposure (Last Fiscal Year)
+two_yr_ago_construction_value,Output,cds/exposure/granular,,/total/two_yr_ago_construction_value,Y,float,,Construction Values (2 Years Ago)
+two_yr_ago_professional_fees,Output,cds/exposure/granular,,/total/two_yr_ago_professional_fees,Y,float,,Professional Fees (2 Years Ago)
+two_yr_ago_rateable_exposure,Output,cds/exposure/granular,,/total/two_yr_ago_rateable_exposure,Y,float,,Rateable Exposure (2 Years Ago)
+three_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/total/three_yr_avg_rateable_exposure,Y,float,,3 Year Average
+two_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/total/two_yr_avg_rateable_exposure,Y,float,,2 Year Average
+current_yr_avg_rateable_exposure,Output,cds/exposure/granular,,/total/current_yr_avg_rateable_exposure,Y,float,,Current Fiscal Year
+selected_avg_rateable_exposure,Output,cds/exposure/granular,,/total/selected_avg_rateable_exposure,Y,float,,Selected
+override_avg_rateable_exposure,Override,cds/exposure/granular,,/total/override_avg_rateable_exposure,Y,float,,Override
+uw_comment,Input,cds/exposure/aggregate,,/uw_comment,Y,str,,Underwriter Commentary
+considerations,Output,cds/exposure/granular,,/engineering/considerations,Y,str,,Considerations
+percentage,Input,cds/exposure/granular,,/engineering/aerospace/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/aerospace/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/aerospace/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/aerospace/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/aerospace/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/aerospace/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/architect_comm/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/architect_comm/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/architect_comm/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/architect_comm/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/architect_comm/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/architect_comm/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/architect_resi/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/architect_resi/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/architect_resi/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/architect_resi/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/architect_resi/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/architect_resi/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/aviation/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/aviation/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/aviation/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/aviation/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/aviation/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/aviation/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/chemical/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/chemical/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/chemical/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/chemical/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/chemical/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/chemical/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/civil/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/civil/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/civil/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/civil/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/civil/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/civil/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/civil_bridges_roads/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/civil_bridges_roads/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/civil_bridges_roads/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/civil_bridges_roads/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/civil_bridges_roads/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/civil_bridges_roads/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/cm_atrisk/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/cm_atrisk/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/cm_atrisk/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/cm_atrisk/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/cm_atrisk/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/cm_atrisk/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/cm_agency/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/cm_agency/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/cm_agency/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/cm_agency/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/cm_agency/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/cm_agency/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/drafting/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/drafting/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/drafting/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/drafting/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/drafting/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/drafting/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/electrical/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/electrical/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/electrical/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/electrical/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/electrical/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/electrical/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/enviro_cons/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/enviro_cons/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/enviro_cons/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/enviro_cons/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/enviro_cons/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/enviro_cons/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/enviro_labs/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/enviro_labs/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/enviro_labs/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/enviro_labs/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/enviro_labs/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/enviro_labs/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/fp/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/fp/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/fp/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/fp/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/fp/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/fp/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/forensic/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/forensic/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/forensic/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/forensic/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/forensic/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/forensic/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/geotechnical/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/geotechnical/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/geotechnical/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/geotechnical/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/geotechnical/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/geotechnical/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/hvac/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/hvac/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/hvac/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/hvac/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/hvac/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/hvac/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/int_design/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/int_design/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/int_design/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/int_design/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/int_design/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/int_design/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/landscape/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/landscape/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/landscape/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/landscape/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/landscape/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/landscape/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/leed_cons/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/leed_cons/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/leed_cons/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/leed_cons/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/leed_cons/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/leed_cons/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/mech/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/mech/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/mech/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/mech/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/mech/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/mech/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/mech_electrical/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/mech_electrical/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/mech_electrical/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/mech_electrical/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/mech_electrical/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/mech_electrical/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/mining/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/mining/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/mining/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/mining/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/mining/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/mining/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/non_destructive_testing/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/non_destructive_testing/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/non_destructive_testing/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/non_destructive_testing/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/non_destructive_testing/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/non_destructive_testing/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/nuclear/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/nuclear/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/nuclear/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/nuclear/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/nuclear/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/nuclear/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/oil_gas/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/oil_gas/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/oil_gas/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/oil_gas/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/oil_gas/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/oil_gas/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/process/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/process/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/process/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/process/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/process/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/process/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/struct_resi_inst/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/struct_resi_inst/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/struct_resi_inst/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/struct_resi_inst/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/struct_resi_inst/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/struct_resi_inst/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/struct_steel_stairs/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/struct_steel_stairs/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/struct_steel_stairs/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/struct_steel_stairs/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/struct_steel_stairs/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/struct_steel_stairs/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/struct_non_resi_inst/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/struct_non_resi_inst/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/struct_non_resi_inst/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/struct_non_resi_inst/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/struct_non_resi_inst/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/struct_non_resi_inst/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/surveyor/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/surveyor/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/surveyor/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/surveyor/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/surveyor/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/surveyor/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/surveyor_resi/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/surveyor_resi/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/surveyor_resi/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/engineering/surveyor_resi/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/surveyor_resi/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/surveyor_resi/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/engineering/other_one/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/other_one/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/other_one/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/engineering/other_one/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/other_one/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/other_one/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/engineering/other_one/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/engineering/other_two/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/other_two/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/other_two/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/engineering/other_two/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/other_two/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/other_two/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/engineering/other_two/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/engineering/other_three/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/other_three/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/other_three/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/engineering/other_three/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/other_three/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/other_three/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/engineering/other_three/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/engineering/other_four/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/other_four/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/other_four/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/engineering/other_four/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/other_four/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/other_four/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/engineering/other_four/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/engineering/other_five/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/other_five/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/other_five/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/engineering/other_five/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/other_five/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/engineering/other_five/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/engineering/other_five/other_specify,Y,str,,Other (Specify)
+percentage,Output,cds/exposure/granular,,/engineering/total/percentage,Y,float,,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/engineering/total/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/engineering/total/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Output,cds/exposure/granular,,/engineering/total/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/engineering/total/base_premium,Y,float,,Base Premium
+considerations,Output,cds/exposure/granular,,/contractor/considerations,Y,str,,Considerations
+percentage,Input,cds/exposure/granular,,/contractor/asbestos_lead/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/asbestos_lead/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/asbestos_lead/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/asbestos_lead/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/asbestos_lead/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/asbestos_lead/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/build_envelop/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/build_envelop/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/build_envelop/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/build_envelop/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/build_envelop/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/build_envelop/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/carpenter/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/carpenter/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/carpenter/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/carpenter/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/carpenter/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/carpenter/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/concrete/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/concrete/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/concrete/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/concrete/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/concrete/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/concrete/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/demolition/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/demolition/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/demolition/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/demolition/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/demolition/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/demolition/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/electrical/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/electrical/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/electrical/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/electrical/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/electrical/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/electrical/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/enviro/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/enviro/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/enviro/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/enviro/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/enviro/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/enviro/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/fp/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/fp/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/fp/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/fp/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/fp/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/fp/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/foundation_excav/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/foundation_excav/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/foundation_excav/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/foundation_excav/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/foundation_excav/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/foundation_excav/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/general_comm/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/general_comm/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/general_comm/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/general_comm/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/general_comm/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/general_comm/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/general_resi/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/general_resi/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/general_resi/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/general_resi/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/general_resi/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/general_resi/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/glazing/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/glazing/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/glazing/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/glazing/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/glazing/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/glazing/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/hvac/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/hvac/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/hvac/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/hvac/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/hvac/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/hvac/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/landscape/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/landscape/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/landscape/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/landscape/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/landscape/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/landscape/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/masonry/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/masonry/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/masonry/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/masonry/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/masonry/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/masonry/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/mech/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/mech/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/mech/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/mech/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/mech/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/mech/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/reno_non_resi/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/reno_non_resi/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/reno_non_resi/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/reno_non_resi/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/reno_non_resi/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/reno_non_resi/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/oil_gas/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/oil_gas/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/oil_gas/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/oil_gas/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/oil_gas/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/oil_gas/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/painting/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/painting/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/painting/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/painting/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/painting/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/painting/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/plumbing/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/plumbing/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/plumbing/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/plumbing/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/plumbing/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/plumbing/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/resi_reno/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/resi_reno/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/resi_reno/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/resi_reno/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/resi_reno/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/resi_reno/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/roofing/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/roofing/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/roofing/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/roofing/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/roofing/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/roofing/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/steel/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/steel/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/steel/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/steel/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/steel/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/steel/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/telecom/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/telecom/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/telecom/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/telecom/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/telecom/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/telecom/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/utilities/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/utilities/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/utilities/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Override,cds/exposure/granular,,/contractor/utilities/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/utilities/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/utilities/guidelines,Y,str,,Guidelines
+percentage,Input,cds/exposure/granular,,/contractor/other_one/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/other_one/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/other_one/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/contractor/other_one/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/other_one/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/other_one/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/contractor/other_one/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/contractor/other_two/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/other_two/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/other_two/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/contractor/other_two/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/other_two/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/other_two/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/contractor/other_two/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/contractor/other_three/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/other_three/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/other_three/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/contractor/other_three/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/other_three/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/other_three/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/contractor/other_three/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/contractor/other_four/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/other_four/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/other_four/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/contractor/other_four/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/other_four/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/other_four/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/contractor/other_four/other_specify,Y,str,,Other (Specify)
+percentage,Input,cds/exposure/granular,,/contractor/other_five/percentage,Y,float,0,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/other_five/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/other_five/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Input,cds/exposure/granular,,/contractor/other_five/base_rate_override,Y,float,1,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/other_five/base_premium,Y,float,,Base Premium
+guidelines,Output,cds/exposure/granular,,/contractor/other_five/guidelines,Y,str,,Guidelines
+other_specify,Input,cds/exposure/granular,,/contractor/other_five/other_specify,Y,str,,Other (Specify)
+percentage,Output,cds/exposure/granular,,/contractor/total/percentage,Y,float,,Percentage
+rateable_exposure,Output,cds/exposure/granular,,/contractor/total/rateable_exposure,Y,float,,Rateable Exposure
+default_base_rate,Output,cds/exposure/granular,,/contractor/total/default_base_rate,Y,float,,Default Base Rate
+base_rate_override,Output,cds/exposure/granular,,/contractor/total/base_rate_override,Y,float,,Base Rate Override
+base_premium,Output,cds/exposure/granular,,/contractor/total/base_premium,Y,float,,Base Premium
+min_premium,Output,cds/exposure/granular,,/engineering/total/minimum_premium,Y,float,,Minimum Premium
+min_premium,Output,cds/exposure/granular,,/contractor/total/minimum_premium,Y,float,,Minimum Premium
+incurred_loss,Input,cds,,/modifiers/exp_mod/incurred_loss,Y,float,,Total incurred loss
+number_of_claims,Input,cds,,/modifiers/exp_mod/number_of_claims,Y,float,,Number of claims
+number_of_incidents,Input,cds,,/modifiers/exp_mod/number_of_incidents,Y,float,,Number of incidents
+written_premium,Input,cds,,/modifiers/exp_mod/written_premium,Y,float,,Total written premium
+incurred_lr,Output,cds,,/modifiers/exp_mod/incurred_lr,Y,float,,Total incurred loss ratio
+exp_mod_factor,Input,cds,,/modifiers/exp_mod/exp_mod_factor,Y,float,1,Experience Modification Factor (Suggested Range: 0.80 - 2.00)
+uw_comment,Input,cds,,/modifiers/exp_mod/uw_comment,Y,str,,Underwriter Commentary
+percentage,Input,cds,,/modifiers/written_contracts/percentage,Y,float,,Enter the percent of projects that use written contracts
+written_contracts_factor,Input,cds,,/modifiers/written_contracts/written_contracts_factor,Y,float,1,Use of Written Contracts Factor (Suggested Range: 0.95 - 1.05)
+yrs_insured,Input,cds,,/modifiers/longevity_with_carrier/yrs_insured,Y,float,1,Number of years insured with the Company including this renewal
+lr,Input,cds,,/modifiers/longevity_with_carrier/lr,Y,bool,TRUE,Loss ratio less than 50% whilst with the Company (calculated up to 5 years with the Company)? 
+yr_start,Input,cds,,/modifiers/longevity/yr_start,Y,float,,Enter the year the Insured started in business
+yrs_in_business,Output,cds,,/modifiers/longevity/yrs_in_business,Y,float,,Years in business
+erp,Input,cds,,/modifiers/erp/erp,Y,str,,Select Extended Reporting Period
+resi_proj,Input,cds,,/modifiers/resi/resi_proj,Y,bool,FALSE,Residential Project?
+multiple_units,Input,cds,,/modifiers/resi/multiple_units,Y,bool,FALSE,Multiple Units - Over 25?
+high_value,Input,cds,,/modifiers/resi/high_value,Y,bool,FALSE,High Value - Largest Projects over $500k?
+condos,Input,cds,,/modifiers/resi/condos,Y,bool,FALSE,Condos
+full_prior_act,Input,cds,,/modifiers/opt_coverages/full_prior_act,Y,bool,FALSE,7. Full Prior Acts Coverage
+full_prior_act_date,Input,cds,,/modifiers/opt_coverages/full_prior_act_date,Y,date,,Enter Retroactive Date
+cpl,Input,cds,,/modifiers/opt_coverages/cpl,Y,bool,TRUE,8. CPL Coverage
+tech,Input,cds,,/modifiers/opt_coverages/tech,Y,bool,TRUE,9. Tech Coverage
+non_contributary,Input,cds,,/modifiers/opt_coverages/non_contributary,Y,bool,FALSE,10. Primary NoN Contributary
+min,Output,cds,,/modifiers/schedule_rating_factor/qual_of_staff/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/qual_of_staff/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/qual_of_staff/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/qual_of_staff/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/rm_attendance/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/rm_attendance/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/rm_attendance/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/rm_attendance/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/foreign_work/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/foreign_work/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/foreign_work/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/foreign_work/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/project_type/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/project_type/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/project_type/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/project_type/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/loss_prev/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/loss_prev/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/loss_prev/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/loss_prev/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/client_type/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/client_type/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/client_type/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/client_type/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/contractual_practices/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/contractual_practices/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/contractual_practices/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/contractual_practices/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/engi_procure_construct/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/engi_procure_construct/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/engi_procure_construct/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/engi_procure_construct/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/peer_review/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/peer_review/max,Y,float,,Max
+factor,Input,cds,,/modifiers/schedule_rating_factor/peer_review/factor,Y,float,0,Schedule Factor
+comment,Input,cds,,/modifiers/schedule_rating_factor/peer_review/comment,Y,str,,Comment
+min,Output,cds,,/modifiers/schedule_rating_factor/total/min,Y,float,,Min
+max,Output,cds,,/modifiers/schedule_rating_factor/total/max,Y,float,,Max
+factor,Output,cds,,/modifiers/schedule_rating_factor/total/factor,Y,float,,Schedule Factor
+brokerage,Input,cds,,/brokerage,Y,float,0.25,Brokerage
+state,Input,cds,,/location/state,Y,str,,State
+risk_group,Output,cds,,/location/risk_group,Y,str,,Risk Group
+ilf_curve,Output,cds/layers,,/ilf_curve,Y,float,,ILF Curve
+carrier,Input,cds/layers,,/carrier,Y,str,,Carrier
+carrier_premium,Input,cds/layers,,/carrier_premium,Y,float,,Gross Quoted Premium (Carrier)
+quoted_ilf_curve,Output,cds/layers,,/quoted_ilf_curve,Y,float,,Quoted ILF Curve
+aggregate_limit_view,Output,cds,,/primary/aggregate_limit_view,Y,float,,Aggregate Limit
+benchmark_premium,Output,cds,,/primary/benchmark_premium,Y,float,,Gross Benchmark Premium
+technical_premium,Output,cds,,/primary/technical_premium,Y,float,,Gross Technical Premium
+ilf_curve,Output,cds,,/primary/ilf_curve,Y,float,,ILF Curve
+carrier,Input,cds,,/primary/carrier,Y,str,,Carrier
+carrier_premium,Input,cds,,/primary/carrier_premium,Y,float,,Gross Quoted Premium (Carrier)
+quoted_ilf_curve,Output,cds,,/primary/quoted_ilf_curve,Y,float,,Quoted ILF Curve
+quoted_premium_view,Output,cds,,/primary/quoted_premium_view,Y,float,,Gross Quoted Premium
+status_view,Input,cds,,/primary/status_view,Y,str,,Status
+section_reference_view,Input,cds,,/primary/section_reference_view,Y,str,,Section Reference
+quoted_premium,Input,cds,,/primary/quoted_premium,Y,float,0,Gross Quoted Premium
+status,Output,cds,,/primary/status,Y,str,,Status
+section_reference,Output,cds,,/primary/section_reference,Y,str,,Section Reference
+bpi,Output,cds,,/primary/bpi,Y,float,,BPI
+tpi,Output,cds,,/primary/tpi,Y,float,,TPI
+uw_comment,Input,cds,,/primary/uw_comment,Y,str,,Underwriter Commentary
+cum_attachment,Output,cds/layers,,/cum_attachment,Y,str,,Attachment Point
+cum_benchmark_premium,Output,cds/layers,,/cum_benchmark_premium,Y,float,,Cumulative Benchmark Premium (Excess)
+cum_technical_premium,Output,cds/layers,,/cum_technical_premium,Y,float,,Cumulative Technical Premium (Excess)
+cum_carrier_premium,Output,cds/layers,,/cum_carrier_premium,Y,float,,Cumulative Carrier Premium (Excess)
+quoted_premium_net,Output,cds/layers,,/quoted_premium_net,Y,float,,Net Quoted Premium
+currency_label,Output,cds,,/currency_label,Y,str,,Currency Label
+xslayer_considerations,Output,cds,,/xslayer_considerations,Y,str,,Excess Layer Considerations
+ilf_type,Input,cds,,/primary/ilf_type,Y,str,,ILF Type
+limit,Input,cds,,/primary/limit,Y,float,,Limit
+number_of_reinstatements,Input,cds,,/primary/number_of_reinstatements,Y,int,,Number of Reinstatements
+guideline_deductible,Output,cds,,/primary/guideline_deductible,Y,float,,Guideline Deductible
+deductible,Input,cds,,/primary/deductible,Y,float,0,Deductible
+written_line,Input,cds,,/primary/written_line,Y,float,1,Written Line
+pflr,Output,cds,,/primary/pflr,Y,float,,Priced-for Loss Ratio
+roc,Output,cds,,/primary/roc,Y,float,,Return on Capital
+aggregate_limit_view,Input,cds/layers,,/aggregate_limit_view,Y,float,,Aggregate Limit
+quoted_premium_view,Input,cds/layers,,/quoted_premium_view,Y,float,0,Quoted Premium
+excess_flag,Output,cds/layers,,/excess_view,Y,bool,,Excess Flag
+status_view,Input,cds/layers,,/status_view,Y,str,,Status
+section_reference_view,Input,cds/layers,,/section_reference_view,Y,str,,Section Reference
+current_yr_construction_value,Output,cds/exposure/granular,,/expiring/construction_with_in_house_design/current_yr_construction_value,Y,float,,Construction Values (Current Year)
+current_yr_professional_fees,Output,cds/exposure/granular,,/expiring/construction_with_in_house_design/current_yr_professional_fees,Y,float,,Professional Fees (Current Year)

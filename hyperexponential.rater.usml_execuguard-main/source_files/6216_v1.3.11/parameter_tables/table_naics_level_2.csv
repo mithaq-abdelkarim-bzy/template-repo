@@ -1,0 +1,313 @@
+﻿Industry,NAICS Code Filter,NAICS Code
+Drinking Places (Alcoholic Beverages),72,7224
+Full-Service Restaurants,72,7221
+Limited-Service Eating Places,72,7222
+Rooming and Boarding Houses,72,7213
+RV (Recreational Vehicle) Parks and Recreational Camps,72,7212
+Special Food Services,72,7223
+Traveler Accommodation,72,7211
+Business Support Services,56,5614
+Employment Services,56,5613
+Facilities Support Services,56,5612
+Investigation and Security Services,56,5616
+Office Administrative Services,56,5611
+Other Support Services,56,5619
+Remediation and Other Waste Management Services,56,5629
+Services to Buildings and Dwellings,56,5617
+Travel Arrangement and Reservation Services,56,5615
+Waste Collection,56,5621
+Waste Treatment and Disposal,56,5622
+Animal Aquaculture,11,1125
+Cattle Ranching and Farming,11,1121
+Fishing,11,1141
+Forest Nurseries and Gathering of Forest Products,11,1132
+Fruit and Tree Nut Farming,11,1113
+"Greenhouse, Nursery, and Floriculture Production",11,1114
+Hog and Pig Farming,11,1122
+Hunting and Trapping,11,1142
+Logging,11,1133
+Oilseed and Grain Farming,11,1111
+Other Animal Production,11,1129
+Other Crop Farming,11,1119
+Poultry and Egg Production,11,1123
+Sheep and Goat Farming,11,1124
+Support Activities for Animal Production,11,1152
+Support Activities for Crop Production,11,1151
+Support Activities for Forestry,11,1153
+Timber Tract Operations,11,1131
+Vegetable and Melon Farming,11,1112
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",71,7114
+Amusement Parks and Arcades,71,7131
+Gambling Industries,71,7132
+"Independent Artists, Writers, and Performers",71,7115
+"Museums, Historical Sites, and Similar Institutions",71,7121
+Other Amusement and Recreation Industries,71,7139
+Performing Arts Companies,71,7111
+"Promoters of Performing Arts, Sports, and Similar Events",71,7113
+Spectator Sports,71,7112
+Carpentry and Floor Contractors,23,2355
+Concrete Contractors,23,2357
+Electrical Contractors,23,2353
+"Highway, Street, Bridge, and Tunnel",23,2341
+Land Subdivision and Land,23,2331
+"Masonry, Drywall, Insulation, and",23,2354
+Nonresidential Building,23,2333
+Other Heavy Construction,23,2349
+Other Special Trade Contractors,23,2359
+Painting and Wall Covering,23,2352
+"Plumbing, Heating, and",23,2351
+Residential Building Construction,23,2332
+"Roofing, Siding, and Sheet Metal",23,2356
+Water Well Drilling Contractors,23,2358
+Business Schools and Computer and Management Training,61,6114
+"Colleges, Universities, and Professional Schools",61,6113
+Educational Support Services,61,6117
+Elementary and Secondary Schools,61,6111
+Junior Colleges,61,6112
+Other Schools and Instruction,61,6116
+Technical and Trade Schools,61,6115
+Activities Related to Credit Intermediation,52,5223
+"Agencies, Brokerages, and Other Insurance Related Activities",52,5242
+Depository Credit Intermediation,52,5221
+Insurance and Employee Benefit Funds,52,5251
+Insurance Carriers,52,5241
+Monetary Authorities - Central Bank,52,5211
+Nondepository Credit Intermediation,52,5222
+Other Financial Investment Activities,52,5239
+Other Investment Pools and Funds,52,5259
+Securities and Commodity Contracts Intermediation and Brokerage,52,5231
+Securities and Commodity Exchanges,52,5232
+Child Day Care Services,62,6244
+Community Care Facilities for the Elderly,62,6233
+"Community Food and Housing, and Emergency and Other Relief Services",62,6242
+General Medical and Surgical Hospitals,62,6221
+Home Health Care Services,62,6216
+Individual and Family Services,62,6241
+Medical and Diagnostic Laboratories,62,6215
+Nursing Care Facilities,62,6231
+Offices of Dentists,62,6212
+Offices of Other Health Practitioners,62,6213
+Offices of Physicians,62,6211
+Other Ambulatory Health Care Services,62,6219
+Other Residential Care Facilities,62,6239
+Outpatient Care Centers,62,6214
+Psychiatric and Substance Abuse Hospitals,62,6222
+"Residential Mental Retardation, Mental Health and Substance Abuse Facilities",62,6232
+Specialty (except Psychiatric and Substance Abuse) Hospitals,62,6223
+Vocational Rehabilitation Services,62,6243
+Cable Networks and Program,51,5132
+Data Processing Services,51,5142
+Information Services,51,5141
+Motion Picture and Video Industries,51,5121
+"Newspaper, Periodical, Book, and Directory Publishers",51,5111
+Radio and Television Broadcasting,51,5131
+Software Publishers,51,5112
+Sound Recording Industries,51,5122
+Telecommunications,51,5133
+Management of Companies and Enterprises,55,5511
+Animal Food Manufacturing,31,3111
+Animal Slaughtering and Processing,31,3116
+Apparel Accessories and Other Apparel Manufacturing,31,3159
+Apparel Knitting Mills,31,3151
+Bakeries and Tortilla Manufacturing,31,3118
+Beverage Manufacturing,31,3121
+Cut and Sew Apparel Manufacturing,31,3152
+Dairy Product Manufacturing,31,3115
+Fabric Mills,31,3132
+"Fiber, Yarn, and Thread Mills",31,3131
+Footwear Manufacturing,31,3162
+Fruit and Vegetable Preserving and Specialty Food Manufacturing,31,3114
+Grain and Oilseed Milling,31,3112
+Leather and Hide Tanning and Finishing,31,3161
+Other Food Manufacturing,31,3119
+Other Leather and Allied Product Manufacturing,31,3169
+Other Textile Product Mills,31,3149
+Seafood Product Preparation and Packaging,31,3117
+Sugar and Confectionery Product Manufacturing,31,3113
+Textile and Fabric Finishing and Fabric Coating Mills,31,3133
+Textile Furnishings Mills,31,3141
+Tobacco Manufacturing,31,3122
+Aerospace Product and Parts Manufacturing,33,3364
+"Agriculture, Construction, and Mining Machinery Manufacturing",33,3331
+Alumina and Aluminum Production and Processing,33,3313
+Architectural and Structural Metals Manufacturing,33,3323
+Audio and Video Equipment Manufacturing,33,3343
+"Boiler, Tank, and Shipping Container Manufacturing",33,3324
+"Coating, Engraving, Heat Treating, and Allied Activities",33,3328
+Commercial and Service Industry Machinery Manufacturing,33,3333
+Communications Equipment Manufacturing,33,3342
+Computer and Peripheral Equipment Manufacturing,33,3341
+Cutlery and Handtool Manufacturing,33,3322
+Electric Lighting Equipment Manufacturing,33,3351
+Electrical Equipment Manufacturing,33,3353
+"Engine, Turbine, and Power Transmission Equipment Manufacturing",33,3336
+Forging and Stamping,33,3321
+Foundries,33,3315
+Hardware Manufacturing,33,3325
+Household and Institutional Furniture and Kitchen Cabinet Manufacturing,33,3371
+Household Appliance Manufacturing,33,3352
+Industrial Machinery Manufacturing,33,3332
+Iron and Steel Mills and Ferroalloy Manufacturing,33,3311
+"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",33,3327
+Manufacturing and Reproducing Magnetic and Optical Media,33,3346
+Medical Equipment and Supplies Manufacturing,33,3391
+Metalworking Machinery Manufacturing,33,3335
+Motor Vehicle Manufacturing,33,3361
+Motor Vehicle Parts Manufacturing,33,3363
+"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",33,3345
+Nonferrous Metal (except Aluminum) Production and Processing,33,3314
+Office Furniture (including Fixtures) Manufacturing,33,3372
+Other Electrical Equipment and Component Manufacturing,33,3359
+Other Fabricated Metal Product Manufacturing,33,3329
+Other Furniture Related Product Manufacturing,33,3379
+Other General Purpose Machinery Manufacturing,33,3339
+Other Miscellaneous Manufacturing,33,3399
+Other Transportation Equipment Manufacturing,33,3369
+Railroad Rolling Stock Manufacturing,33,3365
+Semiconductor and Other Electronic Component Manufacturing,33,3344
+Ship and Boat Building,33,3366
+Spring and Wire Product Manufacturing,33,3326
+Steel Product Manufacturing from Purchased Steel,33,3312
+"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",33,3334
+Basic Chemical Manufacturing,32,3251
+Cement and Concrete Product Manufacturing,32,3273
+Clay Product and Refractory Manufacturing,32,3271
+Converted Paper Product Manufacturing,32,3222
+Glass and Glass Product Manufacturing,32,3272
+Lime and Gypsum Product Manufacturing,32,3274
+Other Chemical Product and Preparation Manufacturing,32,3259
+Other Nonmetallic Mineral Product Manufacturing,32,3279
+Other Wood Product Manufacturing,32,3219
+"Paint, Coating, and Adhesive Manufacturing",32,3255
+"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",32,3253
+Petroleum and Coal Products Manufacturing,32,3241
+Pharmaceutical and Medicine Manufacturing,32,3254
+Plastics Product Manufacturing,32,3261
+Printing and Related Support Activities,32,3231
+"Pulp, Paper, and Paperboard Mills",32,3221
+"Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing",32,3252
+Rubber Product Manufacturing,32,3262
+Sawmills and Wood Preservation,32,3211
+"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",32,3256
+"Veneer, Plywood, and Engineered Wood Product Manufacturing",32,3212
+Coal Mining,21,2121
+Metal Ore Mining,21,2122
+Nonmetallic Mineral Mining and Quarrying,21,2123
+Oil and Gas Extraction,21,2111
+Support Activities for Mining,21,2131
+Automotive Repair and Maintenance,81,8111
+"Business, Professional, Labor, Political, and Similar Organizations",81,8139
+Civic and Social Organizations,81,8134
+Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,81,8113
+Death Care Services,81,8122
+Drycleaning and Laundry Services,81,8123
+Electronic and Precision Equipment Repair and Maintenance,81,8112
+Grantmaking and Giving Services,81,8132
+Other Personal Services,81,8129
+Personal and Household Goods Repair and Maintenance,81,8114
+Personal Care Services,81,8121
+Private Households,81,8141
+Religious Organizations,81,8131
+Social Advocacy Organizations,81,8133
+Couriers,49,4921
+Local Messengers and Local Delivery,49,4922
+Postal Service,49,4911
+Warehousing and Storage,49,4931
+"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",54,5412
+Advertising and Related Services,54,5418
+"Architectural, Engineering, and Related Services",54,5413
+Computer Systems Design and Related Services,54,5415
+Legal Services,54,5411
+"Management, Scientific, and Technical Consulting Services",54,5416
+"Other Professional, Scientific, and Technical Services",54,5419
+Scientific Research and Development Services,54,5417
+Specialized Design Services,54,5414
+Administration of Economic Programs,92,9261
+Administration of Environmental Quality Programs,92,9241
+"Administration of Housing Programs, Urban Planning, and Community Development",92,9251
+Administration of Human Resource Programs,92,9231
+"Executive, Legislative, and Other General Government Support",92,9211
+"Justice, Public Order, and Safety Activities",92,9221
+National Security and International Affairs,92,9281
+Space Research and Technology,92,9271
+Activities Related to Real Estate,53,5313
+Automotive Equipment Rental and Leasing,53,5321
+Commercial and Industrial Machinery and Equipment Rental and Leasing,53,5324
+Consumer Goods Rental,53,5322
+General Rental Centers,53,5323
+Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),53,5331
+Lessors of Real Estate,53,5311
+Offices of Real Estate Agents and Brokers,53,5312
+Automobile Dealers,44,4411
+"Automotive Parts, Accessories, and Tire Stores",44,4413
+"Beer, Wine, and Liquor Stores",44,4453
+"Book, Periodical, and Music Stores",44,4512
+Building Material and Supplies Dealers,44,4441
+Clothing Stores,44,4481
+Department Stores,44,4521
+Direct Selling Establishments,44,4543
+Electronic Shopping and Mail-Order Houses,44,4541
+Electronics and Appliance Stores,44,4431
+Florists,44,4531
+Furniture Stores,44,4421
+Gasoline Stations,44,4471
+Grocery Stores,44,4451
+Health and Personal Care Stores,44,4461
+Home Furnishings Stores,44,4422
+"Jewelry, Luggage, and Leather Goods Stores",44,4483
+Lawn and Garden Equipment and Supplies Stores,44,4442
+"Office Supplies, Stationery, and Gift Stores",44,4532
+Other General Merchandise Stores,44,4529
+Other Miscellaneous Store Retailers,44,4539
+Other Motor Vehicle Dealers,44,4412
+Shoe Stores,44,4482
+Specialty Food Stores,44,4452
+"Sporting Goods, Hobby, and Musical Instrument Stores",44,4511
+Used Merchandise Stores,44,4533
+Vending Machine Operators,44,4542
+Charter Bus Industry,48,4855
+"Deep Sea, Coastal, and Great Lakes Water Transportation",48,4831
+Freight Transportation Arrangement,48,4885
+General Freight Trucking,48,4841
+Inland Water Transportation,48,4832
+Interurban and Rural Bus Transportation,48,4852
+Nonscheduled Air Transportation,48,4812
+Other Pipeline Transportation,48,4869
+Other Support Activities for Transportation,48,4889
+Other Transit and Ground Passenger Transportation,48,4859
+Pipeline Transportation of Crude Oil,48,4861
+Pipeline Transportation of Natural Gas,48,4862
+Rail Transportation,48,4821
+"Scenic and Sightseeing Transportation, Land",48,4871
+"Scenic and Sightseeing Transportation, Other",48,4879
+"Scenic and Sightseeing Transportation, Water",48,4872
+Scheduled Air Transportation,48,4811
+School and Employee Bus Transportation,48,4854
+Specialized Freight Trucking,48,4842
+Support Activities for Air Transportation,48,4881
+Support Activities for Rail Transportation,48,4882
+Support Activities for Road Transportation,48,4884
+Support Activities for Water Transportation,48,4883
+Taxi and Limousine Service,48,4853
+Urban Transit Systems,48,4851
+"Electric Power Generation, Transmission and Distribution",22,2211
+Natural Gas Distribution,22,2212
+"Water, Sewage and Other Systems",22,2213
+"Apparel, Piece Goods, and Notions",42,4223
+"Beer, Wine, and Distilled Alcoholic",42,4228
+Chemical and Allied Products,42,4226
+Drugs and Druggists' Sundries,42,4222
+Electrical Goods Wholesalers,42,4216
+Farm Product Raw Material,42,4225
+Furniture and Home Furnishing,42,4212
+Grocery and Related Product,42,4224
+"Hardware, and Plumbing and Heating",42,4217
+Lumber and Other Construction,42,4213
+"Machinery, Equipment, and Supplies",42,4218
+Metal and Mineral (except,42,4215
+Miscellaneous Durable Goods,42,4219
+Miscellaneous Nondurable Goods,42,4229
+Motor Vehicle and Motor Vehicle,42,4211
+Paper and Paper Product Wholesalers,42,4221
+Petroleum and Petroleum Products,42,4227
+Professional and Commercial,42,4214

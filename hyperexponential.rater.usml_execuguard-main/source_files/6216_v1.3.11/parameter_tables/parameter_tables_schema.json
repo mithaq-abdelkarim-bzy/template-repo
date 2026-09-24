@@ -1,0 +1,1136 @@
+{
+  "table_input_underwriters": {
+    "Underwriters": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_retroactive_date": {
+    "retroactive_date": "str"
+  },
+  "table_basic_experience_rating": {
+    "Clean Years": "str",
+    "Adjustment": "float"
+  },
+  "table_claims_inflation": {
+    "year": "int",
+    "claims_inflation": "float"
+  },
+  "table_currency": {
+    "currency": "str",
+    "exchange_rate": "float"
+  },
+  "table_development_method": {
+    "development": "float",
+    "method": "str"
+  },
+  "table_development_patterns": {
+    "years": "int",
+    "development": "float"
+  },
+  "table_epl_schedule_rating_factors_ca": {
+    "Modifier": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_exposure_inflation": {
+    "year": "int",
+    "exposure_inflation": "float"
+  },
+  "table_premium_rate_change": {
+    "year": "int",
+    "rate_change": "float"
+  },
+  "insured_names": {
+    "insured_name": "str"
+  },
+  "table_naics_level_1": {
+    "Industry": "str",
+    "NAICS Code Filter": "float",
+    "lookup": "str"
+  },
+  "table_naics_level_2": {
+    "Industry": "str",
+    "NAICS Code Filter": "int",
+    "NAICS Code": "int"
+  },
+  "table_naics_level_3": {
+    "Industry": "str",
+    "NAICS Code Filter": "int",
+    "NAICS Code": "int"
+  },
+  "table_sic_code": {
+    "SIC": "int",
+    "Industry": "str",
+    "Factor Lower": "float",
+    "Factor Upper": "float",
+    "Factor No Range": "float"
+  },
+  "table_company_ownership": {
+    "Options": "str"
+  },
+  "table_non_dates": {
+    "NonDates": "str"
+  },
+  "table_response": {
+    "Response": "str"
+  },
+  "table_state": {
+    "State Name": "str",
+    "Abbreviation": "str"
+  },
+  "table_zipcode": {
+    "StateCode": "str",
+    "StateName": "str",
+    "ZIP": "int",
+    "County": "str"
+  },
+  "table_beaz_occ_map": {
+    "NAICS Code ": "int",
+    "NAICS Description": "str",
+    "Beazley Classification ": "str"
+  },
+  "table_epl_industry_factors": {
+    "BeazleyOcc": "str",
+    "NonCAFactor": "float",
+    "CAFactor": "float",
+    "LevelUp": "int",
+    "NonCAMinRet": "int",
+    "CAMinRet": "int",
+    "NonCAMinPrem": "int",
+    "CAMinPrem": "int",
+    "TPFactor": "float",
+    "Category": "str",
+    "Status": "str",
+    "Information": "str",
+    "WHStatus": "str",
+    "WHInformation": "str",
+    "CCVisible": "str",
+    "DoubleRetCat": "str"
+  },
+  "table_prior_knowledge": {
+    "Response": "str"
+  },
+  "table_industry": {
+    "Response": "str",
+    "Factor": "str",
+    "Description": "str"
+  },
+  "table_financial_conditions_cw": {
+    "Response": "str",
+    "Factor": "str",
+    "Description": "str",
+    "Global": "str"
+  },
+  "table_financial_conditions_excep": {
+    "Response": "str",
+    "Factor": "str",
+    "Description": "str"
+  },
+  "table_merger_acquisition": {
+    "Response": "str",
+    "Factor": "str",
+    "Description": "str",
+    "Global": "str"
+  },
+  "table_plan_type": {
+    "Response": "str",
+    "Value": "float"
+  },
+  "table_admitted_applicabilities": {
+    "State": "str",
+    "Minimum Limit?": "int",
+    "Foreign Territory Override?": "str",
+    "Foreign Territory Charge Override": "float",
+    "Allows Declining Financial Performance (Financial Condition)?": "str",
+    "Basic Limits Min Before": "int",
+    "Basic Limits Min After": "int",
+    "Schedule Rating Min": "float",
+    "Schedule Rating Max": "float",
+    "Schedule Rating Column": "int",
+    "Employee Exposure Def Required?": "str",
+    "Allows Plan Litigation Debit?": "str",
+    "Allows Expense Rating?": "str",
+    "Allows ADL?": "str",
+    "Approved?": "str"
+  },
+  "table_employee_exposure": {
+    "Response": "str",
+    "Value": "float",
+    "Global": "str"
+  },
+  "table_employee_exposure_def": {
+    "Response": "str",
+    "Value": "float",
+    "Global": "str"
+  },
+  "table_reference_state": {
+    "State Name": "str",
+    "Abbreviation": "str"
+  },
+  "table_layoffs_downsizing_cw": {
+    "Response": "str",
+    "Factor": "float"
+  },
+  "table_layoffs_downsizing_ak": {
+    "Response": "str",
+    "Factor": "float",
+    "Description": "str"
+  },
+  "table_type_of_union": {
+    "Response": "str",
+    "Factor": "float",
+    "Description": "str"
+  },
+  "table_outside_professionals": {
+    "Response": "str",
+    "Factor": "float",
+    "Description": "str"
+  },
+  "table_funding_level": {
+    "Response": "str",
+    "Factor": "float",
+    "Description": "str"
+  },
+  "table_investment_expenses": {
+    "Response": "str",
+    "Factor": "float",
+    "Description": "str"
+  },
+  "table_asset_performance": {
+    "Response": "str",
+    "Factor": "float",
+    "CW": "str",
+    "HI,NE": "str"
+  },
+  "table_benefits": {
+    "Response": "str",
+    "Factor": "float",
+    "Description": "str"
+  },
+  "table_litigation_cw": {
+    "Response": "str",
+    "Factor": "float"
+  },
+  "table_litigation_excep": {
+    "Response": "str",
+    "Factor": "float"
+  },
+  "table_client_coverage_selection": {
+    "selection": "str"
+  },
+  "table_fid_financial_conditions": {
+    "Response": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_fid_merger_acquisitions": {
+    "Response": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_fid_outside_professionals": {
+    "Response": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_fid_active_participants": {
+    "Min": "float",
+    "Max": "float",
+    "Factor": "str"
+  },
+  "table_fid_employee_exposure": {
+    "Response": "str",
+    "Value": "float",
+    "Global": "str"
+  },
+  "table_fid_employee_exposure_def": {
+    "Response": "str",
+    "Value": "float",
+    "Global": "str"
+  },
+  "table_fid_schedule_rating": {
+    "Characteristic": "str",
+    "CW": "float",
+    "CA": "float",
+    "GA": "float",
+    "NY": "float",
+    "N/A": "float"
+  },
+  "table_fid_schedule_rating_2": {
+    "Characteristic": "str",
+    "CA": "float",
+    "HI": "float",
+    "NE": "float",
+    "NY": "float",
+    "NYFTZ": "float",
+    "LA": "float",
+    "Other": "float",
+    "GA": "float"
+  },
+  "table_fid_admitted_applicabilities": {
+    "State": "str",
+    "Minimum Limit?": "int",
+    "Foreign Territory Override?": "str",
+    "Foreign Territory Charge Override": "float",
+    "Allows Declining Financial Performance (Financial Condition)?": "str",
+    "Basic Limits Min Before": "int",
+    "Basic Limits Min After": "int",
+    "Schedule Rating Min": "float",
+    "Schedule Rating Max": "float",
+    "Schedule Rating Column": "int",
+    "Employee Exposure Def Required?": "str",
+    "Allows Plan Litigation Debit?": "str",
+    "Allows Expense Rating?": "str",
+    "Allows ADL?": "str",
+    "Approved?": "str"
+  },
+  "table_fid_single_ilf": {
+    "Limit Low": "int",
+    "Limit High": "int",
+    "Factor": "float"
+  },
+  "table_fid_multi_ilf": {
+    "Limit Low": "int",
+    "Limit High": "int",
+    "Factor": "float"
+  },
+  "table_fid_deductible_modifier_fl": {
+    "Ratio Low": "float",
+    "Ratio High": "float",
+    "Factor": "float"
+  },
+  "table_fid_deductible_modifier_me": {
+    "Ratio Low": "float",
+    "Ratio High": "float",
+    "Factor": "float"
+  },
+  "table_fid_deductible_modifier_cw": {
+    "Ratio Low": "float",
+    "Ratio High": "float",
+    "Factor": "float"
+  },
+  "table_fid_adl": {
+    "% of Aggregate Min": "float",
+    "% of Aggregate Max": "float",
+    "Factor": "float"
+  },
+  "table_fid_vcfdc": {
+    "Min": "int",
+    "Max": "int",
+    "Charge": "float"
+  },
+  "table_fid_prior_acts": {
+    "Claims Made Year Min": "int",
+    "Claims Made Year Max": "int",
+    "Factor": "float"
+  },
+  "table_retro_mapping": {
+    "NonDates": "str",
+    "Value": "int",
+    "Factor": "float"
+  },
+  "table_fid_industry_factors": {
+    "Occupation": "str",
+    "Rate": "float"
+  },
+  "table_fid_plan_type": {
+    "Response": "str",
+    "Value": "float"
+  },
+  "table_fid_employee_exposure_ib": {
+    "Response": "str",
+    "Value": "float"
+  },
+  "table_fid_base_assets": {
+    "Min": "float",
+    "Max": "float",
+    "Rate in Band per 1000": "float",
+    "Rate Running": "float"
+  },
+  "table_fid_base_employee": {
+    "Min": "float",
+    "Max": "float",
+    "Rate in Band per Employee": "float",
+    "Rate Running": "float"
+  },
+  "table_fid_limit_lookup": {
+    "Lower": "int",
+    "Upper": "int"
+  },
+  "table_fid_ilfs": {
+    "Lookup": "int",
+    "EELimitFrom": "int",
+    "EELimitTo": "int",
+    "ReinstateMultiple": "int",
+    "AggLimitFrom": "int",
+    "AggLimitTo": "int",
+    "FIDEEAggMedILFs": "float",
+    "FIDEEAggHighILFs": "float"
+  },
+  "table_fid_ilfs_ee": {
+    "EELimitFrom": "int",
+    "EELimitTo": "int"
+  },
+  "table_fid_guideline_retention": {
+    "Lower": "float",
+    "Upper": "float",
+    "Factor": "float"
+  },
+  "table_retro_period": {
+    "RetroPeriod": "str",
+    "Credit": "float"
+  },
+  "table_fid_adl_modifier": {
+    "Lower": "float",
+    "Upper": "float",
+    "Factor": "float"
+  },
+  "table_fid_base_premium_assets": {
+    "Min": "int",
+    "Max": "int",
+    "Rate per Employee in Band": "float",
+    "Rate Running Total": "float"
+  },
+  "table_fid_base_premium_employees": {
+    "Min": "int",
+    "Max": "int",
+    "Rate per Employee in Band": "float",
+    "Rate Running Total": "float"
+  },
+  "table_financial_stability": {
+    "Response": "str",
+    "Factor Low": "float",
+    "Factor High": "float",
+    "No Range Value": "float",
+    "Default Value": "float"
+  },
+  "table_loss_prevention": {
+    "Response": "str",
+    "Factor Low": "float",
+    "Factor High": "float",
+    "No Range Value": "float",
+    "Default Value": "float"
+  },
+  "table_employment_policies": {
+    "Response": "str",
+    "Factor Low": "float",
+    "Factor High": "float",
+    "No Range Value": "float",
+    "Default Value": "float"
+  },
+  "table_unionized_employee": {
+    "Response": "str",
+    "Modifier": "float"
+  },
+  "table_stock_option_exp": {
+    "Response": "str",
+    "Modifier": "float"
+  },
+  "table_client_coverage": {
+    "Response": "str",
+    "Modifier": "float"
+  },
+  "table_ahern_ca": {
+    "Response": "str",
+    "Charge": "int"
+  },
+  "table_partnership_def_cost": {
+    "Response": "str",
+    "Modifier": "float"
+  },
+  "table_epl_risk_characteristics": {
+    "Description": "str",
+    "Min": "float",
+    "Max": "float",
+    "No Range Value": "float",
+    "Default Value": "float"
+  },
+  "table_class_of_business": {
+    "Table": "str",
+    "Modifier": "float"
+  },
+  "table_epl_cwthird_party": {
+    "ThirdParty": "str",
+    "Min": "float",
+    "Max": "float",
+    "Default Value": "float"
+  },
+  "table_epl_punitive_damages": {
+    "Response": "str",
+    "Min": "float",
+    "Max": "float",
+    "No Range Value": "float",
+    "Default Value": "float"
+  },
+  "table_epl_wage_hour_selection": {
+    "WageAndHour": "str",
+    "Modifier": "float",
+    "Minimum Premium": "int"
+  },
+  "table_epl_admmod_risk_characteristics_fl": {
+    "Description": "str",
+    "Min": "float",
+    "Max": "float",
+    "No Range Value": "float",
+    "Default Value": "float"
+  },
+  "table_epl_admmod_risk_characteristics": {
+    "Description": "str",
+    "Min": "float",
+    "Max": "float",
+    "No Range Value": "float",
+    "Default Value": "float"
+  },
+  "table_epl_allowrange_true": {
+    "Response": "str",
+    "Min": "float",
+    "Max": "float",
+    "Default Value": "float"
+  },
+  "table_epl_allowrange_false": {
+    "Response": "str",
+    "Min": "float",
+    "Max": "float",
+    "Default Value": "float"
+  },
+  "table_epl_admitted_applicabilities": {
+    "State": "str",
+    "Allows Ranges?": "str",
+    "Exception?": "str",
+    "Minimum Limit": "int",
+    "Allows Rounding?": "str",
+    "Min Before Schedule Rating": "int",
+    "Min After Schedule Rating": "int",
+    "Min Schedule Rating Modifier": "float",
+    "Max Schedule Rating Modifier": "float",
+    "Allows Punitive Damages Factor?": "str",
+    "Allows Program Factor?": "str",
+    "Allows Program Factor Range?": "str",
+    "Approved?": "str",
+    "Punitive Damages Min Not Purchased": "float",
+    "Punitive Damages Max Not Purchased": "float",
+    "State Risk Level": "float"
+  },
+  "table_epl_cob_map": {
+    "NAICS": "str",
+    "NAICS Level II": "int",
+    "NAICS Level III": "int",
+    "COB": "str"
+  },
+  "table_epl_cob": {
+    "Table": "str",
+    "Modifier": "float"
+  },
+  "table_epl_state_risk_level": {
+    "State": "str",
+    "Risk Group": "str"
+  },
+  "table_epl_state_groupings": {
+    "Risk Profile": "str",
+    "Risk Factor": "float"
+  },
+  "table_epl_empfact": {
+    "Emp Fact": "str",
+    "Part-Time": "float"
+  },
+  "table_epl_state_factor": {
+    "State": "str",
+    "Liberal": "float",
+    "NonLiberal": "float",
+    "Average": "float",
+    "StateGroupLiberal": "str",
+    "StateGroupNonLiberal": "str",
+    "Status": "str",
+    "USState": "str"
+  },
+  "table_epl_liberal_county": {
+    "Lookup": "str",
+    "State": "str",
+    "County": "str",
+    "Liberal": "str"
+  },
+  "table_epl_state_groups": {
+    "LowerState": "float",
+    "UpperState": "float",
+    "RetGroup": "str"
+  },
+  "table_min_ret_peo": {
+    "Lower": "int",
+    "Upper": "int"
+  },
+  "table_epl_min_ret_all_other": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_epl_state_group_lawfirm": {
+    "LowerState": "float",
+    "UpperState": "float",
+    "RetGroup": "str"
+  },
+  "table_min_ret_law": {
+    "Lower": "int",
+    "Upper": "int"
+  },
+  "table_min_ret_law_firm": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_min_ret_staffing": {
+    "Lower": "int",
+    "Upper": "int"
+  },
+  "table_min_ret_staffing_all": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_min_ret_all_other_band": {
+    "Lower": "int",
+    "Upper": "int"
+  },
+  "table_naics_master": {
+    "NAICS Code": "str",
+    "NAICS Title": "str",
+    "Valid From": "str",
+    "Valid To": "str",
+    "tblBeazOccMap": "str",
+    "tblPCL_NAICSMap": "str",
+    "tblEPL_COBMap": "str",
+    "NAICS_Key": "str",
+    "SIC_Code": "str"
+  },
+  "table_min_ret_all_other": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_min_ret_law_all": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_pcl_admitted_applicabilities": {
+    "State": "str",
+    "Allows Ranges?": "str",
+    "Minimum Aggregate Limit": "int",
+    "Minimum Premium": "int",
+    "Rounding": "str",
+    "Min Before Schedule Rating": "int",
+    "Schedule Rating Table": "str",
+    "Max Aggregate Schedule Rating Debit": "float",
+    "Max Aggregate Schedule Rating Credit": "float",
+    "Risk Characteristic Change": "str",
+    "Allows Removal of Punitive Damages?": "str"
+  },
+  "table_pcl_base_rate_ranges_cw": {
+    "Min": "int",
+    "Max": "int",
+    "Base Premium": "int",
+    "Asset Size Category": "int",
+    "Asset Size Category Description": "str"
+  },
+  "table_pcl_retention_factors_cw": {
+    "Retention - Low": "int",
+    "Retention - High": "int",
+    "Asset Size - 0": "float",
+    "Asset Size - 50000000": "float",
+    "Asset Size - 150000000": "float"
+  },
+  "table_pcl_retention_factors_fl": {
+    "Retention - Low": "int",
+    "Retention - High": "int",
+    "Asset Size - 0": "float",
+    "Asset Size - 50000000": "float",
+    "Asset Size - 150000000": "float"
+  },
+  "table_pcl_limit_factors_cw": {
+    "Limit - low": "int",
+    "Limit - High": "int",
+    "Factor": "float"
+  },
+  "table_pcl_risk_characteristics_cw": {
+    "Risk": "str",
+    "Low": "float",
+    "High": "float",
+    "No Range": "float",
+    "Description v1": "str",
+    "Description v2": "str"
+  },
+  "table_pcl_cob_code": {
+    "Description": "str",
+    "Modifier": "float"
+  },
+  "table_pcl_schedule_rating_cw": {
+    "Reason": "str",
+    "+/-": "float",
+    "Description": "str"
+  },
+  "table_pcl_schedule_rating_ca": {
+    "Reason": "str",
+    "+/-": "float",
+    "Description": "str"
+  },
+  "table_pcl_schedule_rating_la": {
+    "Reason": "str",
+    "+/-": "float",
+    "Description": "str"
+  },
+  "table_pcl_schedule_rating_mo": {
+    "Reason": "str",
+    "+/-": "float",
+    "Description": "str"
+  },
+  "table_pcl_rounding_limit_cw": {
+    "Premium ": "int",
+    "Max Round UP": "int",
+    "Max Round Down": "int"
+  },
+  "table_pcl_base_rates": {
+    "Lower": "int",
+    "Upper": "int",
+    "AssetsSize": "str",
+    "BasePremium Assets": "int",
+    "BasePremium Revenue": "int",
+    "MinimumRetention": "int",
+    "MaximumRetention": "int",
+    "RetentionGroup": "str"
+  },
+  "table_pcl_base_rates_revenue": {
+    "Lower": "int",
+    "Upper": "int",
+    "AssetsSize": "str",
+    "BasePremium Assets": "int",
+    "BasePremium Revenue": "int"
+  },
+  "table_pcl_combined_limit_retention_factor": {
+    "Limit": "int",
+    "Factor": "float"
+  },
+  "table_pcl_retention_assets": {
+    "Lower": "int",
+    "Upper": "int",
+    "DORetAssetsType": "str",
+    "RetentionLower": "int",
+    "RetentionUpper": "int",
+    "<$50 - Lower Rate": "float",
+    "<$50 - Upper Rate": "float",
+    "$50-$150 - Lower Rate": "float",
+    "$50-$150 - Upper Rate": "float",
+    "> $150 - Lower Rate": "float",
+    "> $150 - Upper Rate": "float"
+  },
+  "table_pcl_retention_revenue": {
+    "Lower": "int",
+    "Upper": "int",
+    "DORetAssetsType": "str",
+    "RetentionLower": "int",
+    "RetentionUpper": "int",
+    "<$50 - Lower Rate": "float",
+    "<$50 - Upper Rate": "float",
+    "$50-$150 - Lower Rate": "float",
+    "$50-$150 - Upper Rate": "float",
+    "> $150 - Lower Rate": "float",
+    "> $150 - Upper Rate": "float"
+  },
+  "table_pcl_guide_retentions": {
+    "Lower": "int",
+    "Upper": "int",
+    "Factor": "float",
+    "Amount": "float"
+  },
+  "table_pcl_ilfs_agg": {
+    "lookup": "int",
+    "EELimitFrom": "int",
+    "EELimitTo": "int",
+    "ReinstateMultiple": "int",
+    "Factor": "float"
+  },
+  "table_pcl_ma_activity_non_admitted": {
+    "Admitted": "str",
+    "Global": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_pcl_ownership_non_admitted": {
+    "Admitted": "str",
+    "Global": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_pcl_length_of_time_non_admitted": {
+    "Admitted": "str",
+    "Global": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_pcl_financial_conditions_non_admitted": {
+    "Admitted": "str",
+    "Global": "str",
+    "Min": "float",
+    "Max": "float"
+  },
+  "table_pcl_retro_period": {
+    "RetroPeriod": "str",
+    "Credit": "float"
+  },
+  "table_min_ret_peo_all": {
+    "Lower": "int",
+    "Upper": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_epl_base_premium": {
+    "Min": "int",
+    "Max": "int",
+    "Rate per Employee in Band": "float",
+    "Max Rate in Band": "int",
+    "Rate Running Total": "int"
+  },
+  "table_epl_ilf": {
+    "Limit Low": "int",
+    "Limit High": "int",
+    "Factor": "float"
+  },
+  "table_epl_wage_hour_ca": {
+    "Response": "str",
+    "Modifier": "float",
+    "Minimum Premium": "int"
+  },
+  "table_epl_wage_hour_fl": {
+    "Response": "str",
+    "Modifier": "float",
+    "Minimum Premium": "int"
+  },
+  "table_epl_ahern_ca": {
+    "Response": "str",
+    "Charge": "int"
+  },
+  "table_epl_guideline_deductible": {
+    "Employees Low": "int",
+    "Employees High": "int",
+    "Percentage": "float",
+    "Min": "int"
+  },
+  "table_epl_deductible_modifier": {
+    "Ratio Low": "float",
+    "Ratio High": "float",
+    "Modifier": "float"
+  },
+  "table_epl_adl": {
+    "Low": "float",
+    "High": "float",
+    "Debit": "float"
+  },
+  "table_epl_ilf_mega": {
+    "Lookup": "int",
+    "EELimitFrom": "int",
+    "EELimitTo": "int",
+    "ReinstateMultiple": "int",
+    "AggLimitFrom": "int",
+    "AggLimitTo": "int",
+    "EPLFactor": "float"
+  },
+  "table_epl_limit_lookup": {
+    "Lower": "int",
+    "Upper": "int"
+  },
+  "table_epl_wh_admitted_mapping_cafl": {
+    "Reponse": "str",
+    "Sublimit": "int",
+    "Coinsurance": "float"
+  },
+  "table_epl_wh_admitted_mapping": {
+    "Reponse": "str",
+    "Sublimit": "int",
+    "Coinsurance": "float"
+  },
+  "table_epl_wh_defense_sublimit": {
+    "WHDefenseSubLimit": "int",
+    "GuideCoins": "float",
+    "CAFactor": "float",
+    "NonCAFactor": "float",
+    "CAMinPrem": "int",
+    "NonCAMinPrem": "int"
+  },
+  "table_epl_min_prem_limit_ee": {
+    "EE Limit From": "int",
+    "EE Limit To": "int"
+  },
+  "table_epl_min_prem_limit_agg": {
+    "Agg Limit From": "int",
+    "Agg Limit To": "int"
+  },
+  "table_epl_min_prem_limit": {
+    "Lookup Value": "str",
+    "EE Limit From": "int",
+    "EE Limit To": "int",
+    "Agg Limit From": "int",
+    "Agg Limit To": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_epl_nr_third_party": {
+    "Response": "str",
+    "Min": "float",
+    "Max": "float",
+    "Default Value": "float"
+  },
+  "table_epl_ib_base_premium": {
+    "Lower": "int",
+    "Upper": "int",
+    "Increment": "int",
+    "Charge (25.6% load)": "float",
+    "Premium (25.6% load)": "float"
+  },
+  "table_epl_prior_knowledge_date": {
+    "Response": "str",
+    "Factor": "float"
+  },
+  "table_rounding_rules": {
+    "lower_bound": "int",
+    "upper_bound": "int",
+    "round_down": "int",
+    "round_up": "int"
+  },
+  "table_pkg_admitted_applicabilities": {
+    "state": "str",
+    "is_approved": "str",
+    "allows_rounding": "str",
+    "allows_program_factor_range": "str",
+    "allows_program_factor": "str",
+    "erp_a_rating": "str",
+    "program_min": "float",
+    "program_max": "float"
+  },
+  "table_capital_load_primary_excess": {
+    "primary_excess": "str",
+    "factor": "float"
+  },
+  "table_epl_deductible_table_to_use": {
+    "Lower Guideline": "int",
+    "Upper Guideline": "int",
+    "Lower Factor": "str",
+    "Upper Factor": "str"
+  },
+  "table_epl_deductible_factor_5m": {
+    "Lower": "int",
+    "Upper": "int",
+    "Guideline": "int",
+    "Factor Lower": "float",
+    "Factor Upper": "float"
+  },
+  "table_epl_deductible_factor_2m": {
+    "Lower": "int",
+    "Upper": "int",
+    "Guideline": "int",
+    "Factor Lower": "float",
+    "Factor Upper": "float"
+  },
+  "table_epl_deductible_factor_1m": {
+    "Lower": "int",
+    "Upper": "int",
+    "Guideline": "int",
+    "Factor Lower": "float",
+    "Factor Upper": "float"
+  },
+  "table_epl_deductible_factor_750k": {
+    "Lower": "int",
+    "Upper": "int",
+    "Guideline": "int",
+    "Factor Lower": "float",
+    "Factor Upper": "float"
+  },
+  "table_epl_deductible_factor_500k_upper": {
+    "Lower": "int",
+    "Upper": "int",
+    "5000": "float",
+    "7500": "float",
+    "10000": "float",
+    "15000": "float",
+    "20000": "float",
+    "25000": "float",
+    "30000": "float",
+    "35000": "float",
+    "40000": "float",
+    "50000": "float",
+    "60000": "float",
+    "70000": "float",
+    "75000": "float",
+    "80000": "float",
+    "100000": "float",
+    "150000": "float",
+    "200000": "float",
+    "250000": "float",
+    "350000": "float",
+    "400000": "float",
+    "500000": "float"
+  },
+  "table_epl_deductible_factor_500k_lower": {
+    "Lower": "int",
+    "Upper": "int",
+    "5000": "float",
+    "7500": "float",
+    "10000": "float",
+    "15000": "float",
+    "20000": "float",
+    "25000": "float",
+    "30000": "float",
+    "35000": "float",
+    "40000": "float",
+    "50000": "float",
+    "60000": "float",
+    "70000": "float",
+    "75000": "float",
+    "80000": "float",
+    "100000": "float",
+    "150000": "float",
+    "200000": "float",
+    "250000": "float",
+    "350000": "float",
+    "400000": "float",
+    "500000": "float"
+  },
+  "table_naics_hierarchy": {
+    "type": "str",
+    "sector_code": "int",
+    "sector_title": "str",
+    "subsector_code": "int",
+    "subsector_title": "str",
+    "industry_group_code": "int",
+    "industry_group_title": "str",
+    "naics_industry_code": "int",
+    "naics_industry_title": "str",
+    "national_industry_code": "int",
+    "national_industry_title": "str",
+    "valid_from": "str",
+    "valid_to": "str"
+  },
+  "table_pcl_min_premium_ee": {
+    "EE Limit From": "int",
+    "EE Limit To": "int"
+  },
+  "table_pcl_min_premium_agg": {
+    "Agg Limit From": "int",
+    "Agg Limit To": "int"
+  },
+  "table_pcl_min_premium_limits": {
+    "Lookup Value": "str",
+    "EE Limit From": "int",
+    "EE Limit To": "int",
+    "Agg Limit From": "int",
+    "Agg Limit To": "int",
+    "Group1": "int",
+    "Group2": "int",
+    "Group3": "int",
+    "Group4": "int",
+    "Group5": "int"
+  },
+  "table_limit_interpolate": {
+    "Attachment Point": "int",
+    "Next Attachment Point": "int"
+  },
+  "table_step_ilf": {
+    "Attachment Point": "int",
+    "Below Average": "float",
+    "Average": "float",
+    "Above Average": "float"
+  },
+  "table_step_single_limit": {
+    "Number of": "int",
+    "Single Limit Factor": "float"
+  },
+  "table_step_prem_rounding": {
+    "Rated Premium Lower": "int",
+    "Rated Premium Upper": "int",
+    "Round Up": "int",
+    "Round Down": "int"
+  },
+  "table_state_underscore": {
+    "State Name": "str",
+    "Abbreviation": "str",
+    "Underscore": "str"
+  },
+  "table_step_one_prem_adj": {
+    "Industry Modifier": "str",
+    "min": "float",
+    "max": "float"
+  },
+  "table_step_one_prem_adj_excl": {
+    "Industry Modifier": "str",
+    "min": "float",
+    "max": "float"
+  },
+  "table_step_three_sev_factor_lim": {
+    "Severity Component": "str",
+    "Low Risk - LB": "float",
+    "Low Risk - UB": "float",
+    "Normal Risk - LB": "float",
+    "Normal Risk - UB": "float",
+    "High Risk - LB": "float",
+    "High Risk - UB": "float"
+  },
+  "table_step_three_sev_factor_excl": {
+    "Severity Component": "str",
+    "Low Risk - LB": "float",
+    "Low Risk - UB": "float",
+    "Normal Risk - LB": "float",
+    "Normal Risk - UB": "float",
+    "High Risk - LB": "float",
+    "High Risk - UB": "float"
+  },
+  "table_step_three_sev_factor": {
+    "Severity Component": "str",
+    "Low Risk - LB": "float",
+    "Low Risk - UB": "float",
+    "Normal Risk - LB": "float",
+    "Normal Risk - UB": "float",
+    "High Risk - LB": "float",
+    "High Risk - UB": "float"
+  },
+  "table_step_three_schedule_rating": {
+    "State": "str",
+    "LB": "float",
+    "UB": "float"
+  },
+  "table_pcl_state": {
+    "State": "str",
+    "Liberal": "str",
+    "Factor": "float"
+  },
+  "table_pcl_occ": {
+    "BealeyOcc": "str",
+    "RatedOn": "str",
+    "Factor": "float",
+    "AcceptDecline": "str",
+    "DOInformation": "str"
+  }
+}
