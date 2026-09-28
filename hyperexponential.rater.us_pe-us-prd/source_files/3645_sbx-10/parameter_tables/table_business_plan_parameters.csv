@@ -1,0 +1,11 @@
+component,factor
+che,0.02
+variable_expense,0.136
+fixed_expense,107
+ri,0.04
+ri_rec,0.029
+ri_cost,0.012
+investment_income,0.132
+capital_requirement,0.995
+roc,0.15
+benchmark_lr,0.7

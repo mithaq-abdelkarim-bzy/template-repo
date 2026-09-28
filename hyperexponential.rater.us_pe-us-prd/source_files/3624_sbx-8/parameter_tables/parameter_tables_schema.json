@@ -1,0 +1,173 @@
+{
+  "table_input_underwriters": {
+    "name": "str",
+    "id": "str"
+  },
+  "table_input_currency": {
+    "ccy": "str"
+  },
+  "table_input_occupations": {
+    "occupation_name": "str",
+    "occupation_group": "int"
+  },
+  "table_input_sub_occupations": {
+    "sub_occupation_group": "int",
+    "sub_occupation_name": "str"
+  },
+  "table_input_states": {
+    "state_code": "str",
+    "factor": "float"
+  },
+  "table_input_revenue_bands": {
+    "product": "str",
+    "band": "int",
+    "factor": "float"
+  },
+  "table_input_retroactive_years": {
+    "product": "str",
+    "years": "str",
+    "factor": "float"
+  },
+  "table_input_brokers": {
+    "name": "str"
+  },
+  "table_input_reference_firms": {
+    "firm_id": "int",
+    "firm_name": "str",
+    "master_firm_id": "int"
+  },
+  "table_input_loss_experience": {
+    "product": "str",
+    "number_of_claims_in_years": "str",
+    "factor": "float"
+  },
+  "table_hazard_tiers": {
+    "product_type": "str",
+    "tier": "int",
+    "business_description": "str"
+  },
+  "table_hazard_tiers_factors": {
+    "product_type": "str",
+    "tier": "int",
+    "factor": "float",
+    "revenue_band": "int"
+  },
+  "table_revenue_types_factors": {
+    "product_type": "str",
+    "revenue_type": "str",
+    "factor": "float"
+  },
+  "table_allied_medical": {
+    "allied_medical": "str",
+    "exposure_type": "str",
+    "exposure_factor": "float"
+  },
+  "table_input_endorsements": {
+    "endorsement": "str",
+    "factor": "float"
+  },
+  "table_input_social_services": {
+    "social_services": "str",
+    "exposure_type": "str",
+    "exposure_factor": "float"
+  },
+  "table_input_professional_experience": {
+    "product_type": "str",
+    "years_of_experience": "str",
+    "factor": "float"
+  },
+  "table_input_longevity": {
+    "product_type": "str",
+    "years": "str",
+    "factor": "float"
+  },
+  "table_input_coverage_EEC_liability_limits": {
+    "product_type": "str",
+    "limit": "int",
+    "limit_factor": "float",
+    "min_premium_factor": "float"
+  },
+  "table_liability_EEC_factors": {
+    "product_type": "str",
+    "limit": "int",
+    "limit_factor": "float",
+    "min_premium_factor": "float",
+    "tier": "int"
+  },
+  "table_input_coverage_AGG_liability_limits": {
+    "product_type": "str",
+    "limit": "int"
+  },
+  "table_liability_agg_eec_ratio": {
+    "product_type": "str",
+    "agg_eec_ratio": "float",
+    "factor": "float"
+  },
+  "table_input_coverage_defence_outside_limits": {
+    "product_type": "str",
+    "limit": "int",
+    "factor": "float"
+  },
+  "table_input_coverage_deductible": {
+    "product_type": "str",
+    "deductible": "int",
+    "factor": "float"
+  },
+  "table_deductible_ratio": {
+    "product_type": "str",
+    "ratio": "float",
+    "factor": "float"
+  },
+  "table_input_products_product_liability_limits": {
+    "limit": "int"
+  },
+  "table_products_tier_9_min_premium_factors": {
+    "limit_eec": "int",
+    "limit_general_liability": "int",
+    "limits_agg": "int",
+    "limit_personal_advertising": "int",
+    "min_premium_factor": "float"
+  },
+  "table_products_min_premium_factor": {
+    "limit": "int",
+    "tier": "int",
+    "factor": "float"
+  },
+  "table_staffing_min_premium_factors": {
+    "eec_limit": "int",
+    "agg_limit": "int",
+    "permanent": "int",
+    "peo": "int",
+    "temp": "int",
+    "mixed": "int"
+  },
+  "table_input_cob_codes": {
+    "code": "str"
+  },
+  "table_minimum_premium": {
+    "product_type": "str",
+    "limit": "int",
+    "premium": "int"
+  },
+  "table_excess_factors": {
+    "excess": "int",
+    "factor": "float"
+  },
+  "table_business_plan_parameters": {
+    "component": "str",
+    "factor": "float"
+  },
+  "table_med_mal_opv_band": {
+    "lower_band": "int",
+    "factor": "float"
+  },
+  "table_mpl_written_contract_factors": {
+    "percentage": "float",
+    "tier": "int",
+    "factor": "float"
+  },
+  "table_input_mpl_client_revenue": {
+    "average_revenue": "str",
+    "factor": "float"
+  }
+}

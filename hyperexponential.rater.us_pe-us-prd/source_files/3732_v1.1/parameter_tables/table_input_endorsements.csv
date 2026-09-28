@@ -1,0 +1,15 @@
+endorsement,factor
+Endt,0
+Add General Liability Coverage to equal PL liability limits,0.15
+Add Occurrence GL to equal PL liability limits,0.25
+Defence outside Limits - Capped at half Limits (Max $500k),0.1
+Defence outside Limits - Capped at half Limits (Max $1M),0.15
+Sexual Abuse - $100k / $300k sublimit,0.05
+Sexual Abuse - $500k / $500k sublimit,0.075
+Sexual Abuse - $1m/$1m (Max),0.09
+Hired & Non owned Auto - $250k cap,0.06
+Hired & Non owned Auto - $500k cap,0.075
+Hired & Non owned Auto - $1M cap,0.1
+Fire Legal Liability ($100k),0.1
+Employee Benefits Liability - Sub limited to $1m,0.03
+Privacy liability,0.05

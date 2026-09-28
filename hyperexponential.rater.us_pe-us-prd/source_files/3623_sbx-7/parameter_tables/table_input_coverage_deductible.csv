@@ -1,0 +1,53 @@
+product_type,deductible,factor
+Manutech,7500,1
+Manutech,10000,0.95
+Manutech,15000,0.9
+Manutech,20000,0.88
+Manutech,25000,0.85
+Manutech,50000,0.7
+Manutech,100000,0.6
+Manutech,150000,0.55
+Manutech,250000,0.475
+Manutech,1000000,0.35
+MPL,2500,0
+MPL,5000,0
+MPL,10000,0
+MPL,25000,0
+MPL,50000,0
+MPL,100000,0
+MPL,250000,0
+MPL,500000,0
+MPL,1000000,0
+MPL,2500000,0
+Products,2500,1
+Products,5000,0.95
+Products,10000,0.85
+Products,25000,0.8
+Products,50000,0.75
+Products,100000,0.7
+Products,250000,0.65
+Products,500000,0.55
+Products,1000000,0.5
+Products,2500000,0.43
+Med Mal,1000,1.1
+Med Mal,2500,1
+Med Mal,5000,0.95
+Med Mal,7500,0.9
+Med Mal,10000,0.875
+Med Mal,25000,0.8
+Staffing,1500,0
+Staffing,2500,0
+Staffing,5000,0
+Staffing,10000,0
+Staffing,25000,0
+Staffing,50000,0
+Tech,1000,1.1
+Tech,2500,1
+Tech,5000,0.95
+Tech,7500,0.85
+Tech,10000,0.8
+Tech,25000,0.75
+Tech,50000,0.7
+Tech,75000,0.65
+Tech,100000,0.6
+Tech,1000000,0.4

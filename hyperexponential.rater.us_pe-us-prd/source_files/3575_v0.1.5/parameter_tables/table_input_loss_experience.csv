@@ -1,0 +1,49 @@
+product,number_of_claims_in_years,factor
+Manutech,No Claims in 10+ years,0.65
+Manutech,No Claims in 6-10 years,0.75
+Manutech,No Claims in 3-5 years,0.85
+Manutech,No Claims under 3 years,1
+Manutech,1 Claim under 3 years,1.25
+Manutech,2 or more Claims under 3 years,1.35
+Manutech,1 Claim 3-5 years,1.2
+Manutech,2 or more Claims 3-5 years,1.3
+MPL,No Claims in 10+ years,0.65
+MPL,No Claims in 6-10 years,0.75
+MPL,No Claims in 3-5 years,0.85
+MPL,No Claims under 3 years,1
+MPL,1 Claim under 3 years,1.25
+MPL,2 or more Claims under 3 years,1.35
+MPL,1 Claim 3-5 years,1.2
+MPL,2 or more Claims 3-5 years,1.3
+Products,No Claims in 10+ years,0.65
+Products,No Claims in 6-10 years,0.75
+Products,No Claims in 3-5 years,0.85
+Products,No Claims under 3 years,1
+Products,1 Claim under 3 years,1.25
+Products,2 or more Claims under 3 years,1.35
+Products,1 Claim 3-5 years,1.2
+Products,2 or more Claims 3-5 years,1.3
+Staffing,No Claims in 10+ years,0.65
+Staffing,No Claims in 6-10 years,0.75
+Staffing,No Claims in 3-5 years,0.85
+Staffing,No Claims under 3 years,1
+Staffing,1 Claim under 3 years,1.25
+Staffing,2 or more Claims under 3 years,1.35
+Staffing,1 Claim 3-5 years,1.2
+Staffing,2 or more Claims 3-5 years,1.3
+Tech,No Claims in 10+ years,0.65
+Tech,No Claims in 6-10 years,0.75
+Tech,No Claims in 3-5 years,0.85
+Tech,No Claims under 3 years,1
+Tech,1 Claim under 3 years,1.25
+Tech,2 or more Claims under 3 years,1.35
+Tech,1 Claim 3-5 years,1.2
+Tech,2 or more Claims 3-5 years,1.3
+Med Mal,No Claims in 10+ years,-0.35
+Med Mal,No Claims in 6-10 years,-0.25
+Med Mal,No Claims in 3-5 years,-0.15
+Med Mal,No Claims under 3 years,0
+Med Mal,1 Claim under 3 years,0.25
+Med Mal,2 or more Claims under 3 years,0.35
+Med Mal,1 Claim 3-5 years,0.2
+Med Mal,2 or more Claims 3-5 years,0.3

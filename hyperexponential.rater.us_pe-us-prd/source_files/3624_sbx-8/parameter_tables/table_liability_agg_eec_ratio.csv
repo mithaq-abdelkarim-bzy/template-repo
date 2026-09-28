@@ -1,0 +1,27 @@
+product_type,agg_eec_ratio,factor
+Manutech,1,1
+Manutech,2,1.15
+Manutech,3,1.2
+Med Mal,1,0.95
+Med Mal,2,0.98
+Med Mal,3,1
+Tech,0,1
+Tech,1,1
+Tech,2,1.0625
+Tech,3,1.095
+Tech,4,1.112
+Tech,5,1.126
+Staffing,1,1
+Staffing,2,1.05
+Staffing,3,1.1
+Staffing,4,1.15
+Staffing,8,1.25
+Products,1,1
+Products,1,1
+Products,2,3.5
+Products,3,4
+Products,4,4.5
+MPL,1,1
+MPL,1,1
+MPL,2,1.15
+MPL,3,1.2
