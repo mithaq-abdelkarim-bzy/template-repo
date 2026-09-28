@@ -1,7 +1,0 @@
-product_type,revenue_type,factor
-Manutech,Manufacturer,1
-Manutech,Designer,1.15
-Manutech,Both,1.075
-Products,Manufacturer,1
-Products,Distributor,0.8
-Products,Both,0.9
